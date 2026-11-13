@@ -1,26 +1,26 @@
 {
- "updated_at": "2026-11-13T15:13:44.411781+00:00",
+ "updated_at": "2026-11-13T15:27:43.701181+00:00",
  "last_successful_collection": {
   "started": "2026-11-13T15:13:44.362844+00:00",
   "source": "api_football_be"
  },
  "last_failure": {
-  "started": "2026-11-13T01:51:50.057633+00:00",
-  "source": "thesportsdb_free",
-  "error": "Retry-After 120 s"
+  "started": "2026-11-13T15:27:43.697145+00:00",
+  "source": "api_football_be",
+  "error": "too many values to unpack (expected 2)"
  },
  "enabled_sources": [
   "api_football_be",
   "thesportsdb_free"
  ],
  "last_cycle": {
-  "slot": "manual-2026-11-13T15:13:38.482374+00:00",
+  "slot": "manual-2026-11-13T15:27:37.762392+00:00",
   "sources": [
    {
     "source": "api_football_be",
-    "slot": "manual-2026-11-13T15:13:38.482374+00:00",
-    "status": "ok",
-    "changed": 1917
+    "slot": "manual-2026-11-13T15:27:37.762392+00:00",
+    "status": "failed",
+    "error": "too many values to unpack (expected 2)"
    }
   ]
  },
