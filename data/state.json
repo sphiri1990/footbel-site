@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-13T15:27:43.701181+00:00",
+ "updated_at": "2026-11-13T15:41:10.512292+00:00",
  "last_successful_collection": {
-  "started": "2026-11-13T15:13:44.362844+00:00",
+  "started": "2026-11-13T15:41:10.454294+00:00",
   "source": "api_football_be"
  },
  "last_failure": {
@@ -14,13 +14,13 @@
   "thesportsdb_free"
  ],
  "last_cycle": {
-  "slot": "manual-2026-11-13T15:27:37.762392+00:00",
+  "slot": "manual-2026-11-13T15:41:04.668595+00:00",
   "sources": [
    {
     "source": "api_football_be",
-    "slot": "manual-2026-11-13T15:27:37.762392+00:00",
-    "status": "failed",
-    "error": "too many values to unpack (expected 2)"
+    "slot": "manual-2026-11-13T15:41:04.668595+00:00",
+    "status": "ok",
+    "changed": 374
    }
   ]
  },
