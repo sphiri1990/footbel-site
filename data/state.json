@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-13T08:06:01.150453+00:00",
+ "updated_at": "2026-11-13T15:13:44.411781+00:00",
  "last_successful_collection": {
-  "started": "2026-11-13T00:10:40.074740+00:00",
+  "started": "2026-11-13T15:13:44.362844+00:00",
   "source": "api_football_be"
  },
  "last_failure": {
@@ -13,6 +13,16 @@
   "api_football_be",
   "thesportsdb_free"
  ],
- "last_cycle": null,
+ "last_cycle": {
+  "slot": "manual-2026-11-13T15:13:38.482374+00:00",
+  "sources": [
+   {
+    "source": "api_football_be",
+    "slot": "manual-2026-11-13T15:13:38.482374+00:00",
+    "status": "ok",
+    "changed": 1917
+   }
+  ]
+ },
  "next_slots": "provinces : mer 21:30 (saison complète) ; sam-dim 16:30, 19:00, 22:00 (résultats) · national : chaque jour 23:00 + créneaux du week-end (Europe/Brussels)"
 }
