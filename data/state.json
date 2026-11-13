@@ -1,25 +1,25 @@
 {
- "updated_at": "2026-11-13T18:08:53.209589+00:00",
+ "updated_at": "2026-11-13T22:06:31.561339+00:00",
  "last_successful_collection": {
   "started": "2026-11-13T18:08:53.007984+00:00",
   "source": "api_football_be"
  },
  "last_failure": {
-  "started": "2026-11-13T15:27:43.697145+00:00",
+  "started": "2026-11-13T22:06:31.557868+00:00",
   "source": "api_football_be",
-  "error": "too many values to unpack (expected 2)"
+  "error": "API-Football : token: Error/Missing application key. Go to https://www.api-football.com/documentation-v3 to learn how to get your API application key."
  },
  "enabled_sources": [
   "api_football_be"
  ],
  "last_cycle": {
-  "slot": "manual-2026-11-13T18:08:44.454185+00:00",
+  "slot": "2026-11-13T23:00-national-23h",
   "sources": [
    {
     "source": "api_football_be",
-    "slot": "manual-2026-11-13T18:08:44.454185+00:00",
-    "status": "ok",
-    "changed": 1
+    "slot": "2026-11-13T23:00-national-23h",
+    "status": "failed",
+    "error": "API-Football : token: Error/Missing application key. Go to https://www.api-football.com/documentation-v3 to learn how to get your API application key."
    }
   ]
  },
