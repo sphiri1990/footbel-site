@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-13T22:06:31.561339+00:00",
+ "updated_at": "2026-11-13T22:41:09.261926+00:00",
  "last_successful_collection": {
   "started": "2026-11-13T18:08:53.007984+00:00",
   "source": "api_football_be"
  },
  "last_failure": {
-  "started": "2026-11-13T22:06:31.557868+00:00",
+  "started": "2026-11-13T22:41:09.257181+00:00",
   "source": "api_football_be",
   "error": "API-Football : token: Error/Missing application key. Go to https://www.api-football.com/documentation-v3 to learn how to get your API application key."
  },
