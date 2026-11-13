@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-13T17:35:34.474136+00:00",
+ "updated_at": "2026-11-13T18:08:53.209589+00:00",
  "last_successful_collection": {
-  "started": "2026-11-13T17:35:34.315053+00:00",
+  "started": "2026-11-13T18:08:53.007984+00:00",
   "source": "api_football_be"
  },
  "last_failure": {
@@ -13,13 +13,13 @@
   "api_football_be"
  ],
  "last_cycle": {
-  "slot": "manual-2026-11-13T17:33:02.999097+00:00",
+  "slot": "manual-2026-11-13T18:08:44.454185+00:00",
   "sources": [
    {
     "source": "api_football_be",
-    "slot": "manual-2026-11-13T17:33:02.999097+00:00",
+    "slot": "manual-2026-11-13T18:08:44.454185+00:00",
     "status": "ok",
-    "changed": 921
+    "changed": 1
    }
   ]
  },
