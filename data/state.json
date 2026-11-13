@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T23:15:57.444255+00:00",
+ "updated_at": "2026-11-13T23:52:00.596158+00:00",
  "last_successful_collection": {
   "started": "2026-11-13T23:15:56.061554+00:00",
   "source": "api_football_be"
@@ -18,8 +18,7 @@
    {
     "source": "api_football_be",
     "slot": "2026-11-13T23:00-national-23h",
-    "status": "ok",
-    "changed": 1452
+    "status": "already_done"
    }
   ]
  },

@@ -212,11 +212,32 @@
     chips.forEach(c => c.addEventListener('click', () => apply(c.dataset.resf)));
   }
 
+  /* ---------------------------------------------------------------- fenêtre de forme 5 / 10 matchs (pages statistiques) */
+  $$('[data-win]').forEach(b => b.tagName === 'BUTTON' && b.addEventListener('click', () => {
+    const card = b.closest('.card') || document, w = b.dataset.win;
+    $$('button[data-win]', card).forEach(x => { const on = x.dataset.win === w; x.classList.toggle('on', on); x.setAttribute('aria-pressed', on); });
+    $$('[data-winv]', card).forEach(v => { v.hidden = v.dataset.winv !== w; });
+    $$('[data-chart="ppg"]', card).forEach(box => { box.dataset.win = w; if (window.Charts) draw(box).catch(() => {}); });
+  }));
+
+  /* ---------------------------------------------------------------- Belges à l'étranger : filtre de période (tout / week-end ven.–dim. / en semaine lun.–jeu.) */
+  const belChips = $$('[data-belf]');
+  if (belChips.length) {
+    const applyBel = k => {
+      belChips.forEach(c => c.setAttribute('aria-pressed', c.dataset.belf === k));
+      $$('.js-belw tbody tr').forEach(tr => {
+        const wd = +tr.dataset.wd;
+        tr.hidden = !(k === 'all' || (k === 'we' ? wd >= 4 : wd <= 3));
+      });
+    };
+    belChips.forEach(c => c.addEventListener('click', () => applyBel(c.dataset.belf)));
+  }
+
   /* ---------------------------------------------------------------- mesure d'audience sans cookie (GoatCounter, si activé)
      Événements anonymes : temps de chargement (tranche LCP), passage d'un type de page à l'autre, clics des blocs de l'accueil. */
   const KIND = (body && body.dataset.kind) || 'other';
   const SEG = {};
-  ['fr', 'nl', 'de'].forEach(l => { const d = D[l] || {}; ['series', 'team', 'club', 'results', 'tables', 'explore', 'myclub'].forEach(k => { if (d['seg_' + k]) SEG[d['seg_' + k]] = k; }); });
+  ['fr', 'nl', 'de'].forEach(l => { const d = D[l] || {}; ['series', 'team', 'club', 'results', 'tables', 'explore', 'myclub', 'belgians'].forEach(k => { if (d['seg_' + k]) SEG[d['seg_' + k]] = k; }); });
   function kindOf(path) {
     const p = path.replace(BASE, '').split('/').filter(Boolean);
     if (!p.length || !D[p[0]]) return 'other';
@@ -271,8 +292,9 @@
       labels = c.stats.rounds.map(String); opts = { label: t('progression') };
     } else if (box.dataset.chart === 'ppg') {
       const ids = box.dataset.ids.split(',').map(p => byPid[p]).concat(Fav.list('t').map(p => byPid[p]).filter(Boolean)).filter((v, i, a) => v && a.indexOf(v) === i);
-      series = ids.map((id, i) => ({ name: tn[id], values: F.teams[id].ppg.map(p => p[1]), strong: true, color: Charts.SERIES[i % Charts.SERIES.length] }));
-      labels = Array.from({ length: Math.max(...series.map(x => x.values.length)) }, (_, i) => String(i + 1)); opts = { max: 3, ticks: 3, fmt, label: t('ppg_roll') };
+      const w10 = box.dataset.win === '10';
+      series = ids.map((id, i) => ({ name: tn[id], values: F.teams[id].ppg.map(p => (w10 && p[2] != null) ? p[2] : p[1]), strong: true, color: Charts.SERIES[i % Charts.SERIES.length] }));
+      labels = Array.from({ length: Math.max(...series.map(x => x.values.length)) }, (_, i) => String(i + 1)); opts = { max: 3, ticks: 3, fmt, label: t(w10 ? 'ppg_roll10' : 'ppg_roll') };
     } else if (box.dataset.chart === 'teamppg') {
       const P = F.teams[byPid[box.dataset.team]].ppg;
       series = [{ name: t('ppg_season'), values: P.map(p => p[0]), strong: true, color: '#F4F7FA' }, { name: t('ppg_5'), values: P.map(p => p[1]), strong: true, color: '#FFD447' }];
