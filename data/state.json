@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-14T15:11:38.585660+00:00",
+ "updated_at": "2026-11-14T15:47:50.728283+00:00",
  "last_successful_collection": {
-  "started": "2026-11-14T10:59:32.128468+00:00",
-  "source": "footscrap"
+  "started": "2026-11-14T15:47:50.329349+00:00",
+  "source": "api_football_be"
  },
  "last_failure": {
   "started": "2026-11-13T22:41:09.257181+00:00",
@@ -20,6 +20,12 @@
     "source": "footscrap",
     "slot": "export-2026-11-14T10:29:56Z",
     "status": "already_done"
+   },
+   {
+    "source": "api_football_be",
+    "slot": "2026-11-14T16:30-we-16h30",
+    "status": "ok",
+    "changed": 2
    }
   ]
  },
