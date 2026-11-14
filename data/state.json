@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-14T02:33:37.341472+00:00",
+ "updated_at": "2026-11-14T10:59:32.833597+00:00",
  "last_successful_collection": {
-  "started": "2026-11-13T23:15:56.061554+00:00",
-  "source": "api_football_be"
+  "started": "2026-11-14T10:59:32.128468+00:00",
+  "source": "footscrap"
  },
  "last_failure": {
   "started": "2026-11-13T22:41:09.257181+00:00",
@@ -10,12 +10,19 @@
   "error": "API-Football : token: Error/Missing application key. Go to https://www.api-football.com/documentation-v3 to learn how to get your API application key."
  },
  "enabled_sources": [
+  "footscrap",
   "api_football_be"
  ],
  "last_cycle": {
-  "slot": null,
-  "sources": [],
-  "skipped": "aucun créneau dû"
+  "slot": "export-2026-11-14T10:29:56Z",
+  "sources": [
+   {
+    "source": "footscrap",
+    "slot": "export-2026-11-14T10:29:56Z",
+    "status": "ok",
+    "changed": 43857
+   }
+  ]
  },
  "next_slots": "provinces : mer 21:30 (saison complète) ; sam-dim 16:30, 19:00, 22:00 (résultats) · national : chaque jour 23:00 + créneaux du week-end (Europe/Brussels)"
 }
