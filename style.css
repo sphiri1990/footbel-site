@@ -470,3 +470,95 @@ a.small, .card__head small a { display: inline-block; min-height: 24px; line-hei
 .ad--banner { height: 122px; }            /* 728×90 (+ libellé) */
 .ad--rect { height: 282px; max-width: 336px; margin: 0 auto; }   /* 300×250 / 336×280 */
 @media (max-width: 760px) { .ad--banner { height: 132px; } }      /* 320×100 (+ libellé) */
+
+/* ---------------------------------------------------------------- projections, avant-match, joueurs (sprint 14/11) */
+.score--pm { color: var(--c-signal); border-color: rgba(255, 212, 71, .45); transition: background .15s; }
+.score--pm:hover { background: rgba(255, 212, 71, .1); }
+.tbl--proj .prob, .tbl--proj .prob-h { white-space: nowrap; }
+.prob-h { font-size: var(--fs-xs); text-transform: uppercase; letter-spacing: .04em; }
+.prob { font-weight: 700; text-align: center; min-width: 64px; background: rgba(255, 212, 71, calc(var(--p) * .55)); color: var(--c-text); }
+.prob--red { background: rgba(239, 86, 98, calc(var(--p) * .6)); }
+.tbl--heat th, .tbl--heat td { padding: 6px 4px; min-width: 30px; text-align: center; font-size: var(--fs-xs); }
+.tbl--heat .team { text-align: left; min-width: 120px; }
+.heat { background: rgba(255, 212, 71, calc(var(--p) * .7)); color: var(--c-text); font-weight: 600; }
+.diff { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: var(--fs-xs); font-weight: 700; white-space: nowrap; }
+.diff--hard { background: rgba(239, 86, 98, .16); color: #F59AA2; }
+.diff--mid { background: rgba(244, 247, 250, .08); color: var(--c-text-2); }
+.diff--easy { background: rgba(255, 212, 71, .14); color: var(--c-signal); }
+.opps { white-space: nowrap; }
+.opp { display: inline-grid; place-items: center; min-width: 38px; height: 22px; margin-right: 3px; padding: 0 4px; border-radius: 5px; font-size: 10px; font-weight: 800; letter-spacing: .02em; }
+.opp--hard { background: rgba(239, 86, 98, .28); }
+.opp--mid { background: var(--c-surface-3); color: var(--c-text-2); }
+.opp--easy { background: rgba(255, 212, 71, .22); color: var(--c-signal); }
+.upms { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }
+.upm { display: grid; grid-template-columns: 74px 1fr auto; gap: var(--s-3); align-items: center; padding: var(--s-3) var(--s-4); border-top: 1px solid var(--c-line); color: inherit; text-decoration: none; }
+.upm:hover { background: var(--c-surface-2); }
+.upm__when { font-size: var(--fs-xs); color: var(--c-text-3); font-weight: 600; }
+.upm__teams { font-weight: 650; line-height: 1.25; min-width: 0; }
+.upm__teams i { font-style: normal; color: var(--c-text-3); }
+.upm__p { display: inline-flex; gap: 4px; }
+.upm__p b { min-width: 28px; text-align: center; font-size: var(--fs-xs); padding: 2px 0; border-radius: 4px; background: var(--c-surface-3); }
+.pbar { display: flex; height: 64px; border-radius: var(--r-m); overflow: hidden; gap: 2px; }
+.pbar__s { display: flex; flex-direction: column; justify-content: center; padding: 0 var(--s-3); min-width: 0; }
+.pbar__s b { font-family: var(--f-title); font-size: 1.75rem; line-height: 1; }
+.pbar__s span { font-size: var(--fs-xs); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; opacity: .85; }
+.pbar__s--h { background: var(--c-signal); color: var(--c-signal-ink); }
+.pbar__s--d { background: var(--c-draw); color: var(--c-text); align-items: center; }
+.pbar__s--a { background: var(--c-surface-3); color: var(--c-text); align-items: flex-end; text-align: right; }
+.pm__sub { display: flex; flex-wrap: wrap; gap: var(--s-5); margin: var(--s-4) 0 0; color: var(--c-text-2); font-size: var(--fs-s); }
+.pm__sub b { color: var(--c-text); font-size: var(--fs-m); }
+.vs-dash { color: var(--c-signal); }
+.vs { width: 100%; border-collapse: collapse; }
+.vs th, .vs td { padding: 9px 4px; border-top: 1px solid var(--c-line); }
+.vs thead th { border-top: 0; font-size: var(--fs-s); }
+.vs__l { text-align: left; width: 34%; }
+.vs__r { text-align: right; width: 34%; }
+.vs__r .form { justify-content: flex-end; }
+.vs__m { text-align: center; color: var(--c-text-3); font-size: var(--fs-xs); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+.mbar { display: grid; grid-template-columns: repeat(6, 1fr); gap: var(--s-2); align-items: end; }
+.mbar__g { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.mbar__bs { display: flex; align-items: flex-end; gap: 3px; height: 120px; width: 100%; justify-content: center; }
+.mbar__b { position: relative; width: 40%; max-width: 22px; min-height: 2px; border-radius: 4px 4px 0 0; }
+.mbar__b i { position: absolute; top: -17px; left: 50%; transform: translateX(-50%); font-style: normal; font-size: 10px; font-weight: 700; color: var(--c-text-2); }
+.mbar__b--f { background: var(--c-signal); }
+.mbar__b--a { background: var(--c-red); opacity: .85; }
+.mbar__g small { font-size: 10px; color: var(--c-text-3); white-space: nowrap; }
+.mbar__lg { display: flex; gap: var(--s-4); margin-top: var(--s-3); font-size: var(--fs-xs); color: var(--c-text-2); }
+.lg::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.lg--f::before { background: var(--c-signal); }
+.lg--a::before { background: var(--c-red); }
+.xi { display: flex; flex-direction: column; gap: var(--s-4); padding: var(--s-5) var(--s-3); border-radius: var(--r-l); border: 1px solid var(--c-line);
+  background: linear-gradient(180deg, rgba(255, 255, 255, .03), rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .03)),
+              repeating-linear-gradient(180deg, #13261d 0 48px, #112219 48px 96px); position: relative; overflow: hidden; }
+.xi::before { content: ""; position: absolute; left: 50%; top: 50%; width: 120px; height: 120px; margin: -60px 0 0 -60px; border: 1px solid rgba(255, 255, 255, .08); border-radius: 50%; }
+.xi::after { content: ""; position: absolute; left: 0; right: 0; top: 50%; border-top: 1px solid rgba(255, 255, 255, .08); }
+.xi__line { display: flex; justify-content: center; gap: var(--s-3); flex-wrap: wrap; position: relative; z-index: 1; }
+.xi__p { display: flex; flex-direction: column; align-items: center; text-align: center; width: 118px; gap: 2px; }
+.xi__p b { font-size: var(--fs-s); line-height: 1.2; }
+.xi__p b a { color: var(--c-text); }
+.xi__p small { font-size: 10px; color: var(--c-text-3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 100%; }
+.xi__r { display: grid; place-items: center; width: 38px; height: 38px; border-radius: 50%; background: var(--c-signal); color: var(--c-signal-ink); font-weight: 800; font-size: var(--fs-s); box-shadow: 0 2px 10px rgba(0, 0, 0, .35); }
+@media (max-width: 560px) {
+  .xi__p { width: 84px; } .xi__r { width: 32px; height: 32px; font-size: var(--fs-xs); }
+  .pbar__s b { font-size: 1.375rem; } .pbar { height: 56px; }
+  .upm { grid-template-columns: 62px 1fr auto; }
+}
+.star { display: flex; gap: var(--s-4); align-items: center; }
+.star__r { flex: none; display: grid; place-items: center; width: 64px; height: 64px; border-radius: 50%; background: var(--c-signal); color: var(--c-signal-ink); font-family: var(--f-title); font-size: 1.75rem; font-weight: 700; }
+.star .big a { color: var(--c-text); }
+.belups { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--s-2); }
+.belup { display: grid; grid-template-columns: 96px 1fr; gap: var(--s-3); padding: var(--s-3) var(--s-4); background: var(--c-surface); border: 1px solid var(--c-line); border-radius: var(--r-m); }
+.belup__when { display: flex; flex-direction: column; gap: 2px; }
+.belup__when b { font-size: var(--fs-s); }
+.belup__when small, .belup__m small { color: var(--c-text-3); font-size: var(--fs-xs); }
+.belup__m { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.belup__m b i { font-style: normal; color: var(--c-text-3); }
+.belup__m small a { color: var(--c-text-2); }
+
+@media (max-width: 560px) {
+  .tbl--proj .team, .tbl--cal .team { white-space: normal; min-width: 104px; max-width: none; width: auto; }
+  .tbl--proj .team a, .tbl--cal .team a { white-space: normal; overflow: visible; text-overflow: clip; display: inline; }
+  .prob { min-width: 40px; font-size: var(--fs-xs); padding-left: 2px; padding-right: 2px; }
+  .tbl--proj thead th { white-space: normal; }
+  .prob-h { font-size: 10px; white-space: normal !important; }
+}
