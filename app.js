@@ -303,4 +303,26 @@
     box.innerHTML = '';
     Charts.lines(box, series, labels, opts);
   }
+
+  // Tableaux triables (stats joueurs) : clic sur un titre de colonne, valeurs dans data-v.
+  $$('table.sortable').forEach(tb => {
+    const ths = $$('th[data-s]', tb);
+    ths.forEach((th, idx) => {
+      th.style.cursor = 'pointer';
+      th.addEventListener('click', () => {
+        const desc = th.getAttribute('aria-sort') !== 'descending';
+        ths.forEach(x => x.removeAttribute('aria-sort'));
+        th.setAttribute('aria-sort', desc ? 'descending' : 'ascending');
+        const tbody = $('tbody', tb);
+        const rows = $$('tr', tbody);
+        rows.sort((a, b) => {
+          const va = a.children[idx].dataset.v, vb = b.children[idx].dataset.v;
+          const na = parseFloat(va), nb = parseFloat(vb);
+          const r = (isNaN(na) || isNaN(nb)) ? String(va).localeCompare(String(vb)) : na - nb;
+          return desc ? -r : r;
+        });
+        rows.forEach(r => tbody.appendChild(r));
+      });
+    });
+  });
 })();
