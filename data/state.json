@@ -1,0 +1,33 @@
+{
+ "updated_at": "2026-11-21T15:40:28.529229+00:00",
+ "last_successful_collection": {
+  "started": "2026-11-21T15:40:26.921739+00:00",
+  "source": "api_football_be"
+ },
+ "last_failure": {
+  "started": "2026-11-13T22:41:09.257181+00:00",
+  "source": "api_football_be",
+  "error": "API-Football : token: Error/Missing application key. Go to https://www.api-football.com/documentation-v3 to learn how to get your API application key."
+ },
+ "enabled_sources": [
+  "footscrap",
+  "api_football_be"
+ ],
+ "last_cycle": {
+  "slot": "export-2026-11-20T22:11:45Z+c0cf823a70d",
+  "sources": [
+   {
+    "source": "footscrap",
+    "slot": "export-2026-11-20T22:11:45Z+c0cf823a70d",
+    "status": "already_done"
+   },
+   {
+    "source": "api_football_be",
+    "slot": "2026-11-21T16:30-we-16h30",
+    "status": "ok",
+    "changed": 12
+   }
+  ]
+ },
+ "next_slots": "mer 21:30 ; sam-dim 16:30, 19:00, 22:00 ; chaque jour 23:00 (Europe/Brussels)"
+}

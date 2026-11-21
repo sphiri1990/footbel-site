@@ -1,0 +1,92 @@
+/* Relief (V4 : grain, ombres, espacement, 20/11/2026) : activé par config/site.json › relief ; coupe-circuit = false.
+   Le grain n'est plus appliqué par défaut : il faut en plus config/site.json › relief_grain = true (attribut data-grain sur <body>). */
+:root {
+  --v4-grain: .14;
+  --v4-espace: 20px;
+  --v4-ombre-proche: rgb(0 0 0 / .82);
+  --v4-ombre-moyenne: rgb(0 0 0 / .65);
+  --v4-ombre-lointaine: rgb(0 0 0 / .78);
+  --v4-lisere: rgb(224 245 236 / .38);
+  --v4-halo: rgb(208 243 225 / .10);
+  --v4-encre-nul: #09121c;
+  --v4-encre-difficile: #f59aa2;
+}
+:root[data-theme="light"] {
+  --v4-ombre-proche: rgb(28 48 72 / .32);
+  --v4-ombre-moyenne: rgb(28 48 72 / .26);
+  --v4-ombre-lointaine: rgb(28 48 72 / .30);
+  --v4-lisere: rgb(255 255 255 / 1);
+  --v4-halo: transparent;
+  --v4-encre-difficile: var(--c-red);
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --v4-ombre-proche: rgb(28 48 72 / .32);
+    --v4-ombre-moyenne: rgb(28 48 72 / .26);
+    --v4-ombre-lointaine: rgb(28 48 72 / .30);
+    --v4-lisere: rgb(255 255 255 / 1);
+    --v4-halo: transparent;
+    --v4-encre-difficile: var(--c-red);
+  }
+}
+body { isolation: isolate; }
+body::before {
+  content: "";
+  position: fixed;
+  pointer-events: none;
+  z-index: -1;
+}
+/* Le SVG a un signal noir/blanc : opacité réelle 14 %, sans animation. */
+body[data-grain]::before {
+  inset: 0;
+  background: url("grain.svg") repeat;
+  opacity: var(--v4-grain);
+}
+.page {
+  gap: calc(var(--s-7) + var(--v4-espace));
+  padding-top: calc(var(--s-6) + var(--v4-espace));
+}
+.sec { gap: calc(var(--s-4) + var(--v4-espace)); }
+.grid { row-gap: calc(var(--s-4) + var(--v4-espace)); }
+.cols { row-gap: calc(var(--s-5) + var(--v4-espace)); }
+/* Les ombres restent à l'extérieur des cartes. Les tables, KPI et nombres
+   conservent leurs surfaces plates et opaques, y compris dans une carte. */
+.card, .brief, #parcours .pc-panel {
+  background-color: var(--c-surface);
+  border-top-color: var(--v4-lisere);
+  box-shadow:
+    0 3px 4px var(--v4-ombre-proche),
+    0 12px 20px -5px var(--v4-ombre-moyenne),
+    0 30px 42px -12px var(--v4-ombre-lointaine);
+}
+/* Halo fixe, distinct des trois ombres, sans élément ajouté au HTML. */
+.card { outline: 1px solid var(--v4-halo); outline-offset: 2px; }
+:is(.tbl, .tablewrap, .kpi, .num, .pts, .pos, .rec2-score, .dyn__score) {
+  background-color: var(--c-surface);
+  background-image: none;
+  box-shadow: none;
+  text-shadow: none;
+}
+.score {
+  background-color: var(--c-night);
+  background-image: none;
+  box-shadow: none;
+  text-shadow: none;
+}
+.tablewrap :is(td, th) { box-shadow: none !important; }
+/* Corrections locales des petites étiquettes du thème clair. Les valeurs
+   et leurs fonds unis restent inchangés ; aucun effet sur les données. */
+.f--D { color: var(--v4-encre-nul); }
+.diff--hard { color: var(--v4-encre-difficile); }
+.score--pm time { color: var(--c-text); }
+.mbar__b i { background-color: var(--c-surface); }
+/* Aucun effet ajouté au survol, y compris pour une carte lien. */
+.card--link:hover { transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+  .card--link { transform: none !important; }
+}

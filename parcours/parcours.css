@@ -1,0 +1,51 @@
+/* Goalio — entièrement limité à #parcours, couleurs héritées du thème. */
+#parcours:empty, #parcours [hidden] { display: none !important; }
+#parcours { min-width: 0; color: var(--c-text); font-size: max(14px, var(--fs-s)); line-height: 1.5; }
+#parcours *, #parcours *::before, #parcours *::after { box-sizing: border-box; }
+#parcours .pc-panel { min-width: 0; padding: var(--s-4); border: 1px solid var(--c-line); border-radius: var(--r-l); background: var(--c-surface); }
+#parcours h2 { margin: 0 0 var(--s-4); font-family: var(--f-title); font-size: clamp(24px, 4vw, 32px); line-height: 1.15; text-transform: none; overflow-wrap: anywhere; }
+#parcours p { margin: 0; }
+#parcours a, #parcours button, #parcours summary { min-height: 44px; max-width: 100%; padding: var(--s-2) var(--s-3); border: 1px solid var(--c-line); border-radius: var(--r-l); background: var(--c-surface); color: var(--c-text); font: inherit; text-align: left; text-decoration: none; overflow-wrap: anywhere; cursor: pointer; }
+#parcours a, #parcours button { display: inline-flex; align-items: center; justify-content: center; gap: var(--s-2); white-space: normal; }
+#parcours a:hover, #parcours button:hover, #parcours summary:hover { border-color: var(--c-signal); color: var(--c-signal); }
+#parcours :focus-visible { outline: 2px solid var(--c-signal); outline-offset: 2px; }
+#parcours label { display: block; margin-bottom: var(--s-2); font-weight: 650; }
+#parcours .pc-searchrow { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: var(--s-2); }
+#parcours input { width: 100%; min-width: 0; min-height: 48px; padding: var(--s-3); border: 1px solid var(--c-text-3); border-radius: var(--r-l); background: var(--c-surface); color: var(--c-text); font: inherit; font-size: 16px; }
+#parcours input::placeholder { color: var(--c-text-2); opacity: 1; }
+#parcours .pc-searchrow button { min-height: 48px; border-color: var(--c-signal); color: var(--c-signal); }
+#parcours .pc-muted, #parcours .pc-eyebrow { color: var(--c-text-2); font-size: max(14px, var(--fs-s)); }
+#parcours #pc-help { margin-top: var(--s-2); }
+#parcours #pc-results { display: grid; gap: var(--s-2); list-style: none; margin: var(--s-3) 0 0; padding: 0; }
+#parcours #pc-results li { min-width: 0; }
+#parcours #pc-results a, #parcours #pc-results button { width: 100%; align-items: flex-start; flex-direction: column; gap: 0; }
+#parcours .pc-empty { padding: var(--s-3); }
+#parcours .pc-heading { display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: var(--s-2) var(--s-4); }
+#parcours .pc-heading > div { flex: 1 1 220px; min-width: 0; }
+#parcours .pc-heading h2 { margin: var(--s-2) 0; }
+#parcours .pc-change { color: var(--c-text-2); text-decoration: underline; }
+#parcours .pc-meta { font-weight: 650; }
+#parcours .pc-form { display: flex; flex-wrap: wrap; gap: var(--s-2); margin: var(--s-3) 0; }
+#parcours .pc-dot { display: inline-grid; place-items: center; width: 28px; height: 28px; border: 1px solid var(--c-text-3); border-radius: 50%; font-weight: 700; }
+#parcours .pc-dot[data-win] { color: var(--c-signal); border-color: var(--c-signal); }
+#parcours .pc-next { overflow-wrap: anywhere; }
+#parcours .pc-actions, #parcours .pc-others, #parcours .pc-remember, #parcours .pc-shortcuts, #parcours .pc-regions > div { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2); min-width: 0; }
+#parcours .pc-actions { margin-top: var(--s-4); }
+#parcours .pc-actions a { flex: 1 1 150px; }
+#parcours .pc-actions a:first-child { border-color: var(--c-signal); color: var(--c-signal); font-weight: 650; }
+#parcours .pc-remember, #parcours .pc-others:not(:empty) { margin-top: var(--s-3); }
+#parcours .pc-remember button[aria-disabled="true"] { color: var(--c-text-2); cursor: default; }
+#parcours #pc-saved, #parcours .pc-sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+#parcours .pc-shortcuts { margin-top: var(--s-4); padding-top: var(--s-4); border-top: 1px solid var(--c-line); }
+#parcours .pc-regions { min-width: 0; max-width: 100%; }
+#parcours summary { display: list-item; list-style-position: inside; }
+#parcours .pc-regions[open] { flex-basis: 100%; }
+#parcours .pc-regions > div { margin-top: var(--s-2); }
+@media (min-width: 768px) {
+  #parcours .pc-panel { padding: var(--s-5); }
+  #parcours .pc-actions a { flex: 0 1 auto; }
+  #parcours .pc-searchrow { max-width: 720px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #parcours *, #parcours *::before, #parcours *::after { animation: none; transition: none; scroll-behavior: auto; }
+}
