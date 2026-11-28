@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EC Jamoigne-Chiny · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-91275a74a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:EC Jamoigne-Chiny 0-0 RUS Marbehan
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/ec-jamoigne-chiny-rus-marbehan-2026-10-31/
+URL:https://goalio.be/fr/match/ec-jamoigne-chiny-rus-marbehan-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f6a8237e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Standard F.C. Bouillon 1-3 EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/r-standard-f-c-bouillon-ec-jamoigne-chiny-2026-11-08/
+URL:https://goalio.be/fr/match/r-standard-f-c-bouillon-ec-jamoigne-chiny-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1851b4f548@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:EC Jamoigne-Chiny 0-2 Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/ec-jamoigne-chiny-union-cecilienne-2026-11-14/
+URL:https://goalio.be/fr/match/ec-jamoigne-chiny-union-cecilienne-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd58fb34e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:FC Tintifontaine – EC Jamoigne-Chiny (remis)
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/fc-tintifontaine-ec-jamoigne-chiny-2026-11-21/
+URL:https://goalio.be/fr/match/fc-tintifontaine-ec-jamoigne-chiny-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc5f918889@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:EC Jamoigne-Chiny – RUS Les Bulles
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/ec-jamoigne-chiny-rus-les-bulles-2026-11-28/
+URL:https://goalio.be/fr/match/ec-jamoigne-chiny-rus-les-bulles-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-954f422437@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.R.C. Longlier – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da982ed396@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:EC Jamoigne-Chiny – SC Villers-Dt-Orval
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccce1ca369@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:CS Corbion – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-546478d019@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RSC Muno – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be6731f9a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:EC Jamoigne-Chiny – U.S. Assenois
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6df2d84d91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Ste Marie-Semois – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9211dddf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:EC Jamoigne-Chiny – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65f0ca02be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RUS Marbehan – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dca49bdc6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:EC Jamoigne-Chiny – R. Standard F.C. Bouillon
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d2516bb74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Cecilienne – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/ec-jamoigne-chiny/
+URL:https://goalio.be/fr/equipe/ec-jamoigne-chiny/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

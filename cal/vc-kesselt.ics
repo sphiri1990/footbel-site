@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Kesselt · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-kesselt/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-80745f63cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:VC Kesselt 1-4 SLW Maaseik A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/vc-kesselt-slw-maaseik-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vc-kesselt-slw-maaseik-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8488a6baeb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:AA Rekem A 1-2 VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/aa-rekem-a-vc-kesselt-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/aa-rekem-a-vc-kesselt-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-737ce70748@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:VC Kesselt 5-0 Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/vc-kesselt-opitter-fc-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/vc-kesselt-opitter-fc-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14b15ca2c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T144500Z
+DTEND:20261129T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-v-v-vlug-vrij-stokkem-a-vc-kesselt-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-vlug-vrij-stokkem-a-vc-kesselt-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48bd1bd330@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:VC Kesselt – Neeroeteren FC A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-969925bdba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Sp. Ellikom – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e747135f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:VC Kesselt – E. Mechelen a/d Maas B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15415d887b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Winterslag – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff675ead45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Opitter FC – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-522054f24d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:VC Kesselt – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e6065b414@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:VC Kesselt – Boorsem Sport B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-610a493910@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SLW Maaseik A – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e80b3ad4c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:VC Kesselt – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e899b880db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Waterloos-Voorshoven VV – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3270ca78df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:VC Kesselt – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca38148c9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Umitspor Maasmechelen A – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a90b326f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Neeroeteren FC A – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-940ff11e8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:VC Kesselt – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96507ed51a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:As-Niel Utd. A – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b39cec51b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Kesselt – FC Veldwezelt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/vc-kesselt/
+URL:https://goalio.be/nl/ploeg/vc-kesselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

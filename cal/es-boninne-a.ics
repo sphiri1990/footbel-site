@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ES Boninne A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/es-boninne-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4243832e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:CS Wépionnais B 1-1 ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /cs-wepionnais-b-es-boninne-a-2026-10-31/
+URL:https://goalio.be/fr/match/cs-wepionnais-b-es-boninne-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39e69c6d2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:ES Boninne A 1-0 FCO Namur
+DESCRIPTION:3e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /es-boninne-a-fco-namur-2026-11-08/
+URL:https://goalio.be/fr/match/es-boninne-a-fco-namur-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ffc8df73a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RJ Aischoise B 3-2 ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /rj-aischoise-b-es-boninne-a-2026-11-15/
+URL:https://goalio.be/fr/match/rj-aischoise-b-es-boninne-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f31ebce851@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:ES Boninne A – WA Sauvenière A (remis)
+DESCRIPTION:3e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /es-boninne-a-wa-sauveniere-a-2026-11-22/
+URL:https://goalio.be/fr/match/es-boninne-a-wa-sauveniere-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb44df59ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RUS Loyers B – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /rus-loyers-b-es-boninne-a-2026-11-29/
+URL:https://goalio.be/fr/match/rus-loyers-b-es-boninne-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fd29810c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Ligny B – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6514cf648b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:ES Boninne A – RFC Grand-Leez B
+DESCRIPTION:3e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a396082c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:FC Naninnois B – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a4fbeaea7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:ES Boninne A – RSC Petit-Waret A
+DESCRIPTION:3e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7e87bc8bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RFC Temploux-Suarlée – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14c735360f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:ES Boninne A – RFC Rhisnois B
+DESCRIPTION:3e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc1fd2b6dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC St-Germain – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fe65663cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:ES Boninne A – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d571217b6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RAC Leuze-Longchamps A – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1590fd9ca5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:ES Boninne A – SC Mazycien A
+DESCRIPTION:3e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33fc625bd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:ES Boninne A – CS Wépionnais B
+DESCRIPTION:3e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-422a4034e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FCO Namur – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbbc5cf105@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:ES Boninne A – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fb7f81fca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:WA Sauvenière A – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a106c9e8a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ES Boninne A – RUS Loyers B
+DESCRIPTION:3e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/es-boninne-a/
+URL:https://goalio.be/fr/equipe/es-boninne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

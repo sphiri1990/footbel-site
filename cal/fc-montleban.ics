@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Montleban · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-montleban/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-835f4c4d52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T173000Z
+DTEND:20261031T191500Z
+SUMMARY:RE Roy-Lignières-Grimbiemont B 1-2 FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 11\nhttps://goalio.be/fr/
+ match/re-roy-lignieres-grimbiemont-b-fc-montleban-2026-10-31/
+URL:https://goalio.be/fr/match/re-roy-lignieres-grimbiemont-b-fc-montleban-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1d24c9ab1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Montleban 3-3 FC Petit-Han A
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 12\nhttps://goalio.be/fr/
+ match/fc-montleban-fc-petit-han-a-2026-11-08/
+URL:https://goalio.be/fr/match/fc-montleban-fc-petit-han-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ed53a26e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:US Halthier B 0-1 FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 13\nhttps://goalio.be/fr/
+ match/us-halthier-b-fc-montleban-2026-11-15/
+URL:https://goalio.be/fr/match/us-halthier-b-fc-montleban-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70b1364215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Montleban – RFC Houmartois (remis)
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 14\nhttps://goalio.be/fr/
+ match/fc-montleban-rfc-houmartois-2026-11-22/
+URL:https://goalio.be/fr/match/fc-montleban-rfc-houmartois-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-400f5f1b28@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RJR Aye FC B – FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 15\nhttps://goalio.be/fr/
+ match/rjr-aye-fc-b-fc-montleban-2026-11-29/
+URL:https://goalio.be/fr/match/rjr-aye-fc-b-fc-montleban-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-406239bb00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RSC Rendeux – FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 16\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f37ba5b00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Montleban – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 17\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e028682aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Montleban – UF Waha-Marche
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 19\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-692023b3d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. De La Salm – FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 20\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c28447f9a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Montleban – ES Harre-Manhay B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 21\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a59fc230a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:RES Melreux-Hotton B – FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 22\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5bfdb643a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Montleban – CS Odeigne
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 23\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0571e159e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Montleban – RE Roy-Lignières-Grimbiemont B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 24\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35490fed52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Petit-Han A – FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 25\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80c048c4c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Montleban – US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 26\nhttps://goalio.be/fr/
+ equipe/fc-montleban/
+URL:https://goalio.be/fr/equipe/fc-montleban/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

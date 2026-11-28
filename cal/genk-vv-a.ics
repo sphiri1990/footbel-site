@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Genk VV A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/genk-vv-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e7d6d07a17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Boorsem Sport B 0-6 Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/boorsem-sport-b-genk-vv-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/boorsem-sport-b-genk-vv-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5eafa32d0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Genk VV A 3-0 Neeroeteren FC A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/genk-vv-a-neeroeteren-fc-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/genk-vv-a-neeroeteren-fc-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-082f79d8a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:E. Mechelen a/d Maas B 1-5 Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/e-mechelen-a-d-maas-b-genk-vv-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/e-mechelen-a-d-maas-b-genk-vv-a-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fd35db863@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:SLW Maaseik A 3-3 Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/slw-maaseik-a-genk-vv-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/slw-maaseik-a-genk-vv-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d14815fc87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Genk VV A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/genk-vv-a-fc-winterslag-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/genk-vv-a-fc-winterslag-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35babd3f8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:As-Niel Utd. A – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b697a14ac2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Genk VV A – Umitspor Maasmechelen A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d676cf30c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Genk VV A – Boorsem Sport B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-436c9ed750@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Neeroeteren FC A – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c2e2d9ecd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:AA Rekem A – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bb1a7bbe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Genk VV A – SLW Maaseik A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9f8662595@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T144500Z
+DTEND:20270214T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66ad653dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Genk VV A – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2fe2d4411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Winterslag – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c07352a98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Genk VV A – E. Mechelen a/d Maas B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3270ca78df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:VC Kesselt – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2923c22360@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Genk VV A – Sp. Ellikom
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-656031caef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:FC Veldwezelt – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ca2ebad90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Genk VV A – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e6acfe62a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Waterloos-Voorshoven VV – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-793f7693a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Genk VV A – As-Niel Utd. A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/genk-vv-a/
+URL:https://goalio.be/nl/ploeg/genk-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

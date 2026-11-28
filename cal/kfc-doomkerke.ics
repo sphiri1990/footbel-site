@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Doomkerke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-doomkerke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-daf19a7912@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:KFC Doomkerke 0-3 OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-doomkerke-og-stasegem-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-doomkerke-og-stasegem-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c7a262161@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. dNS Heule A 1-0 KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-dns-heule-a-kfc-doomkerke-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-dns-heule-a-kfc-doomkerke-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae4e7de502@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:KFC Doomkerke 1-1 WS Bellegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-doomkerke-ws-bellegem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-doomkerke-ws-bellegem-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c6b1110ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KFC Doomkerke 3-2 SC Oostrozebeke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-doomkerke-sc-oostrozebeke-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfc-doomkerke-sc-oostrozebeke-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6deabc9236@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:V.V. Tielt – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-tielt-kfc-doomkerke-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/v-v-tielt-kfc-doomkerke-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edfdc38a68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KFC Doomkerke – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3a65114fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:Dosko Kanegem – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e328dde26d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:Jong Anzegem – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a94de8fb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:KFC Doomkerke – Jong Helkijn
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-482bfbb263@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:KFC Doomkerke – K. VC Deerlijk Sport
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da66ec79c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:Hulste Sp. – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9eda413f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Doomkerke – V.V. Tielt
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f09cef8850@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:Bl. Otegem – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c71698aa7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Doomkerke – K. dNS Heule A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18cf748871@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:WS Bellegem – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a203dc823@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Doomkerke – KSV Kortrijk
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55da0bcbe9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:SC Oostrozebeke – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d5316ac0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Doomkerke – K. Z. Dentergem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17f87111d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:F.C.E. Kuurne A – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a06b8b302@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Doomkerke – K. SKV Zwevezele
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f5146b15e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:OG Stasegem – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfc-doomkerke/
+URL:https://goalio.be/nl/ploeg/kfc-doomkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

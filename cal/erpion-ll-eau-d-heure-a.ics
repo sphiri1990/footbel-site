@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Erpion-LL Eau d'Heure A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f4c2b02706@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A 2-0 F.C. Enghiennois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 11\nhttps://goalio.be/fr/matc
+ h/erpion-ll-eau-d-heure-a-f-c-enghiennois-a-2026-11-01/
+URL:https://goalio.be/fr/match/erpion-ll-eau-d-heure-a-f-c-enghiennois-a-20
+ 26-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7545c78809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.U.F.C. Ransartoise A 4-0 Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-u-f-c-ransartoise-a-erpion-ll-eau-d-heure-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-f-c-ransartoise-a-erpion-ll-eau-d-heure-
+ a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68bbd623a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A 0-1 F.C. Etoiles d'Ere A
+DESCRIPTION:1re provinciale Hainaut\nJournée 13\nhttps://goalio.be/fr/matc
+ h/erpion-ll-eau-d-heure-a-f-c-etoiles-d-ere-a-2026-11-15/
+URL:https://goalio.be/fr/match/erpion-ll-eau-d-heure-a-f-c-etoiles-d-ere-a-
+ 2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c78df1c5f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:A.C. Le Roeulx A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 14\nhttps://goalio.be/fr/matc
+ h/a-c-le-roeulx-a-erpion-ll-eau-d-heure-a-2026-11-22/
+URL:https://goalio.be/fr/match/a-c-le-roeulx-a-erpion-ll-eau-d-heure-a-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8cfbfc383d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 15\nhttps://goalio.be/fr/matc
+ h/erpion-ll-eau-d-heure-a-f-c-gerpinnes-a-2026-11-29/
+URL:https://goalio.be/fr/match/erpion-ll-eau-d-heure-a-f-c-gerpinnes-a-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45253a482b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – R.F.C. Houdinois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fd27ce93d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.F.C. Ellezelles A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2881d2605c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R. Gosselies Sports A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8d67287bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – Royal Tournai Football Club A
+DESCRIPTION:1re provinciale Hainaut\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6802c563da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.E.S. Frasnoise A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d83999234@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – R.F.C.R. Symphorinois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-336f99443f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.S.C. Naastois A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceab6f9642@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5064a2532@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.A.S. Pays Blanc Antoing A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8bfe23c27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – R.F.C. Luingnois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f72785831@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:F.C. Enghiennois A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67f2912410@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Erpion-LL Eau d'Heure A – R.U.F.C. Ransartoise A
+DESCRIPTION:1re provinciale Hainaut\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ad2422418@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Etoiles d'Ere A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8aaa491110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Erpion-LL Eau d'Heure A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44c22387ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Gerpinnes A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/erpion-ll-eau-d-heure-a/
+URL:https://goalio.be/fr/equipe/erpion-ll-eau-d-heure-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

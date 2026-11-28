@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R Exc FC Moustier B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6c79f8cfb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RFC Spy B 2-1 R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rfc-spy-b-r-exc-fc-moustier-b-2026-10-31/
+URL:https://goalio.be/fr/match/rfc-spy-b-r-exc-fc-moustier-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81feca1a1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R Exc FC Moustier B 2-3 U.S. Flavion-Morialmé B
+DESCRIPTION:3e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /r-exc-fc-moustier-b-u-s-flavion-morialme-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-exc-fc-moustier-b-u-s-flavion-morialme-b-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91ff29c6e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:U St-Gérard A 1-2 R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /u-st-gerard-a-r-exc-fc-moustier-b-2026-11-15/
+URL:https://goalio.be/fr/match/u-st-gerard-a-r-exc-fc-moustier-b-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a166ff72e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R Exc FC Moustier B – ES Petigny-Frasnes B (remis)
+DESCRIPTION:3e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /r-exc-fc-moustier-b-es-petigny-frasnes-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-exc-fc-moustier-b-es-petigny-frasnes-b-202
+ 6-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f54fbe57b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Espoir Sportif Fraire A – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /espoir-sportif-fraire-a-r-exc-fc-moustier-b-2026-11-28/
+URL:https://goalio.be/fr/match/espoir-sportif-fraire-a-r-exc-fc-moustier-b-
+ 2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9006b1a4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Et. Taminoise – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4bddfd5ade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R Exc FC Moustier B – US Thy-Chateau B
+DESCRIPTION:3e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-736f531fa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R Exc FC Moustier B – JS Bois-Villers
+DESCRIPTION:3e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de0b793fef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FC Malonne 2000 B – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b24b7ca6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R Exc FC Moustier B – RES Philippeville A
+DESCRIPTION:3e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a31d0c8a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.U.S Pesche A – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b06acb008@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R Exc FC Moustier B – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-410d0e34be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:ARS Ent Floreffe – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4a26a8a19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R Exc FC Moustier B – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4411fd2f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:JS Taminoise B – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4cbfc72c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R Exc FC Moustier B – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc86efcf00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U.S. Flavion-Morialmé B – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91bcf9a26f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R Exc FC Moustier B – U St-Gérard A
+DESCRIPTION:3e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87adc659e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:ES Petigny-Frasnes B – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1dc174d85c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R Exc FC Moustier B – Espoir Sportif Fraire A
+DESCRIPTION:3e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/r-exc-fc-moustier-b/
+URL:https://goalio.be/fr/equipe/r-exc-fc-moustier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

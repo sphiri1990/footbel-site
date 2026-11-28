@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. De La Salm · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c5afd6142e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RFC Houmartois 1-2 R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 11\nhttps://goalio.be/fr/
+ match/rfc-houmartois-r-c-s-de-la-salm-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-houmartois-r-c-s-de-la-salm-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87d8dfda4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.C.S. De La Salm 5-0 RSC Rendeux
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 12\nhttps://goalio.be/fr/
+ match/r-c-s-de-la-salm-rsc-rendeux-2026-11-08/
+URL:https://goalio.be/fr/match/r-c-s-de-la-salm-rsc-rendeux-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8eb87a61c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:ES Heydoise 2-2 R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 13\nhttps://goalio.be/fr/
+ match/es-heydoise-r-c-s-de-la-salm-2026-11-14/
+URL:https://goalio.be/fr/match/es-heydoise-r-c-s-de-la-salm-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e3164b68e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.C.S. De La Salm – UF Waha-Marche (remis)
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 14\nhttps://goalio.be/fr/
+ match/r-c-s-de-la-salm-uf-waha-marche-2026-11-22/
+URL:https://goalio.be/fr/match/r-c-s-de-la-salm-uf-waha-marche-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1e4347877@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.C.S. De La Salm – RE Roy-Lignières-Grimbiemont B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de47c8ad31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261211T193000Z
+DTEND:20261211T211500Z
+SUMMARY:ES Harre-Manhay B – R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea7810f929@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.C.S. De La Salm – RES Melreux-Hotton B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec18b4ba07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:CS Odeigne – R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-692023b3d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. De La Salm – FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c4834792f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:FC Petit-Han A – R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-733c89379a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. De La Salm – US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ee48a2cd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RJR Aye FC B – R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d0fff0651@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.C.S. De La Salm – RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a243a877cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RSC Rendeux – R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a94ab63b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. De La Salm – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-c-s-de-la-salm/
+URL:https://goalio.be/fr/equipe/r-c-s-de-la-salm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

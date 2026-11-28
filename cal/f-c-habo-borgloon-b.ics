@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Habo-Borgloon B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-19875fb8f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Landen B 3-2 F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/fc-landen-b-f-c-habo-borgloon-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-landen-b-f-c-habo-borgloon-b-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b51b77493@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Habo-Borgloon B 0-3 F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/f-c-habo-borgloon-b-f-c-alken-united-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/f-c-habo-borgloon-b-f-c-alken-united-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91bd565f8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:KVV Zepperen-Brustem B 3-1 F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/kvv-zepperen-brustem-b-f-c-habo-borgloon-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kvv-zepperen-brustem-b-f-c-habo-borgloon
+ -b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5b3e5c81b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Habo-Borgloon B 0-5 Sp. Aalst
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/f-c-habo-borgloon-b-sp-aalst-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/f-c-habo-borgloon-b-sp-aalst-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b2f6e62e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:HIH Hoepertingen B – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/hih-hoepertingen-b-f-c-habo-borgloon-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/hih-hoepertingen-b-f-c-habo-borgloon-b-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5491d591c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Habo-Borgloon B – Fl. Termolen
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6011ed850@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Daring Huvo Jeuk B – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26e602bb36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:F.C. Habo-Borgloon B – K. Velm VV B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da0518c56a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Juve Hasselt B – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4564dde767@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Herk Sport B – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62e1f9daea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:F.C. Habo-Borgloon B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac7cce7868@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Heers VV – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ba3e15342@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Habo-Borgloon B – FC Alken
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a223ad5b5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:F.C. Alken United – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebaeaf1621@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:F.C. Habo-Borgloon B – JB Eigenbilzen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-caa7c9449f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Fl. Termolen – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15735159e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Sp. Aalst – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-606b0e510e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Habo-Borgloon B – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cb682f6ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:FC Diepenbeek B – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7efdf4fa70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Habo-Borgloon B – KVV Zepperen-Brustem B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-b/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

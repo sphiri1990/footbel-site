@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFCHO Kalken B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3fbfc3e5fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:SKL Doorslaar B 4-3 KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/skl-doorslaar-b-kfcho-kalken-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/skl-doorslaar-b-kfcho-kalken-b-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4dff9e03f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFCHO Kalken B 1-0 FCDKG Beervelde
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kfcho-kalken-b-fcdkg-beervelde-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfcho-kalken-b-fcdkg-beervelde-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f256cded9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Edeboys 1-1 KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-edeboys-kfcho-kalken-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-edeboys-kfcho-kalken-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dc1926f59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:KVC Melle 4-0 KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kvc-melle-kfcho-kalken-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kvc-melle-kfcho-kalken-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b772b3441c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFCHO Kalken B – K.S.K. Oudegem A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfcho-kalken-b-k-s-k-oudegem-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfcho-kalken-b-k-s-k-oudegem-a-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9063b40ace@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:FCSKV Overmere – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6352a636f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFCHO Kalken B – KFCJ Schoonaarde B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5241485395@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFCHO Kalken B – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-343b493938@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FCDKG Beervelde – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc7e70b2e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVV Windeke – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98e61495d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFCHO Kalken B – KVC Melle
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfcf81adc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FCT Melle – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5821fe6f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFCHO Kalken B – VW Gijzel-Oosterzele
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c090889e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K.S.K. Oudegem A – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cf03abe89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFCHO Kalken B – KFC Edeboys
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9388d72aaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:SK Wichelen – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b76b418e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFCHO Kalken B – SK Lochristi
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa0da97d88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVVS Sersk-Schellebelle B – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d61972f53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFCHO Kalken B – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84d6860dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFV HEDES Heusden-Destelbergen A – KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8030eb9d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFCHO Kalken B – FCSKV Overmere
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfcho-kalken-b/
+URL:https://goalio.be/nl/ploeg/kfcho-kalken-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC. Walhain B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-walhain-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b86e2d14e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T170000Z
+DTEND:20261101T184500Z
+SUMMARY:R.F.C. Grez-Doiceau 2-3 FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 11\nhttps:/
+ /goalio.be/fr/match/r-f-c-grez-doiceau-fc-walhain-b-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-grez-doiceau-fc-walhain-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-877f794ac2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T184500Z
+DTEND:20261114T203000Z
+SUMMARY:RE Stéphanois B 0-3 FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 13\nhttps:/
+ /goalio.be/fr/match/re-stephanois-b-fc-walhain-b-2026-11-14/
+URL:https://goalio.be/fr/match/re-stephanois-b-fc-walhain-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b738703b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T131500Z
+DTEND:20261122T150000Z
+SUMMARY:FC. Walhain B 2-0 SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 14\nhttps:/
+ /goalio.be/fr/match/fc-walhain-b-sc-beauvechain-b-2026-11-22/
+URL:https://goalio.be/fr/match/fc-walhain-b-sc-beauvechain-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb78841283@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:A.S.E. De Chastre – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 15\nhttps:/
+ /goalio.be/fr/match/a-s-e-de-chastre-fc-walhain-b-2026-11-29/
+URL:https://goalio.be/fr/match/a-s-e-de-chastre-fc-walhain-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e3929cf85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RC Melin – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf902ceab6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T131500Z
+DTEND:20261213T150000Z
+SUMMARY:FC. Walhain B – SR. Incourt
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f2c7dcf7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:All. Huppaytoise – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3867623df4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T131500Z
+DTEND:20270117T150000Z
+SUMMARY:FC. Walhain B – FC. Ronvau Chaumont
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aac9c6b8ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T130000Z
+DTEND:20270124T144500Z
+SUMMARY:R. Wavre Limal B – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e32f8207d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T131500Z
+DTEND:20270131T150000Z
+SUMMARY:FC. Walhain B – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73b9884582@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SC Perwez – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49b4ee2881@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T131500Z
+DTEND:20270221T150000Z
+SUMMARY:FC. Walhain B – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a2663daba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:CS Biergeois B – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97c14aed26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T131500Z
+DTEND:20270314T150000Z
+SUMMARY:FC. Walhain B – RCS Nivellois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dca3a9627@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T131500Z
+DTEND:20270321T150000Z
+SUMMARY:FC. Walhain B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-923c8813b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T121500Z
+DTEND:20270411T140000Z
+SUMMARY:FC. Walhain B – RE Stéphanois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eea735ac6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SC Beauvechain B – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e2d059469@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC. Walhain B – A.S.E. De Chastre
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-b/
+URL:https://goalio.be/fr/equipe/fc-walhain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

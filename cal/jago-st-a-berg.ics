@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jago St.-A'berg · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/jago-st-a-berg/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e918a20439@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T184500Z
+DTEND:20261031T203000Z
+SUMMARY:Jago St.-A'berg – FC Anatolia Gent (afgelast)
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ee1f17f84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KVV Laarne-Kalken B 2-0 Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-laarne-kalken-b-jago-st-a-berg-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kvv-laarne-kalken-b-jago-st-a-berg-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b905dfe54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T184500Z
+DTEND:20261114T203000Z
+SUMMARY:Jago St.-A'berg 3-0 KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/jago-st-a-berg-ksc-dikkelvenne-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/jago-st-a-berg-ksc-dikkelvenne-b-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13c085750d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T184500Z
+DTEND:20261121T203000Z
+SUMMARY:Jago St.-A'berg 1-3 VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/jago-st-a-berg-vc-jong-lede-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/jago-st-a-berg-vc-jong-lede-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f170770bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KVVE Massemen B – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kvve-massemen-b-jago-st-a-berg-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvve-massemen-b-jago-st-a-berg-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef83cd3c96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Daknam – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b4ba0572a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:FC Smetlede B – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a53823643@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T184500Z
+DTEND:20270116T203000Z
+SUMMARY:Jago St.-A'berg – KFV HEDES Heusden-Destelbergen B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb5c5a91cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T184500Z
+DTEND:20270123T203000Z
+SUMMARY:Jago St.-A'berg – KFC Eendr Zele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bd1fc397d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:KESA Bottelare – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc850da8da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T184500Z
+DTEND:20270213T203000Z
+SUMMARY:Jago St.-A'berg – KVVE Massemen B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-766abcda1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Genclerbirligi Zele – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38cce9bf88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T184500Z
+DTEND:20270227T203000Z
+SUMMARY:Jago St.-A'berg – KVV Laarne-Kalken B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13b4914434@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T133000Z
+DTEND:20270307T151500Z
+SUMMARY:KSC Dikkelvenne B – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b6aebf716@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T184500Z
+DTEND:20270313T203000Z
+SUMMARY:Jago St.-A'berg – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19db63b4c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VC Jong Lede – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-312888e17f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T174500Z
+DTEND:20270403T193000Z
+SUMMARY:Jago St.-A'berg – Eendr Moortsele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d7ca1af1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T174500Z
+DTEND:20270417T193000Z
+SUMMARY:Jago St.-A'berg – VSV Gent B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e640e10c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Anatolia Gent – Jago St.-A'berg (afgelast)
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/jago-st-a-berg/
+URL:https://goalio.be/nl/ploeg/jago-st-a-berg/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

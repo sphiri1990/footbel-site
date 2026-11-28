@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.V.V. Thes Sport Tessenderlo · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2ee20f52d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:K.F.C. Houtvenne 1-2 K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-f-c-houtve
+ nne-k-v-v-thes-sport-tessenderlo-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-houtvenne-k-v-v-thes-sport-tessend
+ erlo-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c98b3654f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo 2-1 F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-v-v-thes-s
+ port-tessenderlo-f-c-mandel-united-izegem-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-thes-sport-tessenderlo-f-c-mandel-
+ united-izegem-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b25f219bc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261120T193000Z
+DTEND:20261120T211500Z
+SUMMARY:Hoogstraten V.V. 2-1 K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/hoogstraten-
+ v-v-k-v-v-thes-sport-tessenderlo-2026-11-20/
+URL:https://goalio.be/nl/wedstrijd/hoogstraten-v-v-k-v-v-thes-sport-tessend
+ erlo-2026-11-20/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ac23d9938@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-v-v-thes-s
+ port-tessenderlo-k-f-c-merelbeke-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-thes-sport-tessenderlo-k-f-c-merel
+ beke-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1d9f59b63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K.F.C. Dessel Sport – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fba4d9c9eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc8714f925@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:R. Knokke F.C. – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76082e7c0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:K.V.V. Zelzate – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-076059deba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – Racing Club Harelbeke
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dbbfa41d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4f0e99abe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Kvk Tienen – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0da55d52a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K.F.C. Houtvenne
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b14978809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K.F.C. Merelbeke – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d35ba128ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26fe876929@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea27f139da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:F.C. Mandel United Izegem – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ece02c3ea1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3103d5a6e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Oud-Heverlee Leuven – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce85744392@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b53834e4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Cercle Brugge K.S.V. – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-v-v-thes-sport
+ -tessenderlo/
+URL:https://goalio.be/nl/ploeg/k-v-v-thes-sport-tessenderlo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

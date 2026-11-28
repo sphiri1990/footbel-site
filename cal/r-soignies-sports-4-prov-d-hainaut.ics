@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Soignies Sports · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut
+ /
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f3134c063c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R. Soignies Sports 1-2 F.C. Peronnes
+DESCRIPTION:4e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-soignies-sports-4-prov-d-hainaut-f-c-peronnes-2026-10-31/
+URL:https://goalio.be/fr/match/r-soignies-sports-4-prov-d-hainaut-f-c-peron
+ nes-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52d26ae046@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.F.C. Ecaussinnois 0-4 R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-ecaussinnois-4-prov-d-hainaut-r-soignies-sports-4-prov-d-hainaut-
+ 2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-ecaussinnois-4-prov-d-hainaut-r-soigni
+ es-sports-4-prov-d-hainaut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff157a9e6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Soignies Sports 5-1 Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-soignies-sports-4-prov-d-hainaut-trazegnies-sports-2026-11-15/
+URL:https://goalio.be/fr/match/r-soignies-sports-4-prov-d-hainaut-trazegnie
+ s-sports-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5e35da1d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Olympique Club Ghlin – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/olympique-club-ghlin-4-prov-d-hainaut-r-soignies-sports-4-prov-d-hainau
+ t-2026-11-22/
+URL:https://goalio.be/fr/match/olympique-club-ghlin-4-prov-d-hainaut-r-soig
+ nies-sports-4-prov-d-hainaut-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b08cac73fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R. Soignies Sports – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-soignies-sports-4-prov-d-hainaut-fc-snef-2026-11-28/
+URL:https://goalio.be/fr/match/r-soignies-sports-4-prov-d-hainaut-fc-snef-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f626344fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R. Soignies Sports – Union Entité Estinnoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b832eefb61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.S.C. Naastois – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58d856fa3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R. Soignies Sports – R.F.C.E. Maurage
+DESCRIPTION:4e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a9c4e1851@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.A.S. Ghlinoise – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2566c7a00a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Soignies Sports – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17a034ea84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Lindbergh Club Givry – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77a2a91db8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R. Soignies Sports – Athl. Club Le Roeulx
+DESCRIPTION:4e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae7e5d6f58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Club Olympic Trivières – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65242fd7ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R. Soignies Sports – US Centre Haine-Saint-Pierre
+DESCRIPTION:4e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70d334ce6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Peronnes – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd562db8fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R. Soignies Sports – R.F.C. Ecaussinnois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7064335d76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Trazegnies Sports – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1efa784834@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Soignies Sports – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2aa73c0341@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Snef – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-soignies-sports-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-soignies-sports-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

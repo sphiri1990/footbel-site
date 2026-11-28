@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VK Borchtlombeek B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c409dc87db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VK Borchtlombeek B 3-2 KVC Asse-Terheide B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/vk-borchtlombeek-b-kvc-asse-terheide-b-2026-11-01/
+URL:https://goalio.be/fr/match/vk-borchtlombeek-b-kvc-asse-terheide-b-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4949986285@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:SK Steenhuffel B 4-2 VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-steenhuffel-b-vk-borchtlombeek-b-2026-11-07/
+URL:https://goalio.be/fr/match/sk-steenhuffel-b-vk-borchtlombeek-b-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1e2f2775d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VK Borchtlombeek B 0-1 Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/vk-borchtlombeek-b-sp-eizeringen-2026-11-15/
+URL:https://goalio.be/fr/match/vk-borchtlombeek-b-sp-eizeringen-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6033a6035@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KFC Meise B 5-0 VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/kfc-meise-b-vk-borchtlombeek-b-2026-11-22/
+URL:https://goalio.be/fr/match/kfc-meise-b-vk-borchtlombeek-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e643c327d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VK Borchtlombeek B – Anderlecht Sporting Club Brother
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/vk-borchtlombeek-b-anderlecht-sporting-club-brother-2026-11-29/
+URL:https://goalio.be/fr/match/vk-borchtlombeek-b-anderlecht-sporting-club-
+ brother-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3bec94ac8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Merchtem United B – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58507df263@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VK Borchtlombeek B – SK Steenhuffel B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c78298b8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VK Borchtlombeek B – FC Schepdaal B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f977f6c9d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:VK Liedekerke B – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31f45590f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:VK Borchtlombeek B – Jong FC Opwijk
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdbce00bc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VC Groot-Dilbeek B – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6c22bfd81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VK Borchtlombeek B – Emi. Essene B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a75a535e88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T153000Z
+DTEND:20270228T171500Z
+SUMMARY:VC Den Boskant Peizegem B – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7af3bcbb25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VK Borchtlombeek B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81eed225a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KVC Asse-Terheide B – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccfb3a4e1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VK Borchtlombeek B – KFC Meise B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09d6975886@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Anderlecht Sporting Club Brother – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56807f8766@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VK Borchtlombeek B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3d82a6126@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VK Borchtlombeek B – Ritterklub Jette B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f1a8385d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp. Eizeringen – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vk-borchtlombeek-b/
+URL:https://goalio.be/fr/equipe/vk-borchtlombeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

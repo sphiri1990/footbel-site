@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KOFC Rupelmonde · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2f4e19cf23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:KOFC Rupelmonde 1-2 Spartak Buggenhout
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kofc-rupelmonde-spartak-buggenhout-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kofc-rupelmonde-spartak-buggenhout-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d252b70f6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KOFC Rupelmonde 2-3 WS Meerdonk
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kofc-rupelmonde-ws-meerdonk-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kofc-rupelmonde-ws-meerdonk-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22d49fd6d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Vos Reinaert 7-1 KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vos-reinaert-kofc-rupelmonde-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vos-reinaert-kofc-rupelmonde-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ea1811ce6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KOFC Rupelmonde 2-0 F.C. Hamse Bouw
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kofc-rupelmonde-f-c-hamse-bouw-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kofc-rupelmonde-f-c-hamse-bouw-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7acccfeb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FCH St-Pauwels – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fch-st-pauwels-kofc-rupelmonde-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fch-st-pauwels-kofc-rupelmonde-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-423e3d4b62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KOFC Rupelmonde – SVH Waasmunster B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01202fc1be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:KOFC Rupelmonde – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2aa87d2f28@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Spartak Buggenhout – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1500c16792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:KOFC Rupelmonde – Excelsior Nieuwkerken
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-973a4f4d91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:WS Meerdonk – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fa74888f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KOFC Rupelmonde – Vos Reinaert
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c892583c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KVVWS Sombeke – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71598186fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KOFC Rupelmonde – SV Blauw Wit Temse B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3260acf153@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KAV Dendermonde – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b5ef5496a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KOFC Rupelmonde – Rangers Opdorp B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a1fe617fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:E Buggenhout A – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-856be8ccf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KOFC Rupelmonde – FCH St-Pauwels
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dca366f8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Hamse Bouw – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67323812d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SVH Waasmunster B – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f2b34b390@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KOFC Rupelmonde – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-962faa0ddc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Baasrode – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kofc-rupelmonde/
+URL:https://goalio.be/nl/ploeg/kofc-rupelmonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

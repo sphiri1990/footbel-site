@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trazegnies Sports · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut
+ /
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-19702652f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Trazegnies Sports 4-1 R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/trazegnies-sports-4-prov-e-hainaut-r-u-s-binche-4-prov-e-hainaut-2026-1
+ 0-31/
+URL:https://goalio.be/fr/match/trazegnies-sports-4-prov-e-hainaut-r-u-s-bin
+ che-4-prov-e-hainaut-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a430f6054@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:AS Montigny 1-2 Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/as-montigny-trazegnies-sports-4-prov-e-hainaut-2026-11-08/
+URL:https://goalio.be/fr/match/as-montigny-trazegnies-sports-4-prov-e-haina
+ ut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bf58c08c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Trazegnies Sports 3-3 R.C. Gouy
+DESCRIPTION:4e provinciale Hainaut E\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/trazegnies-sports-4-prov-e-hainaut-r-c-gouy-2026-11-14/
+URL:https://goalio.be/fr/match/trazegnies-sports-4-prov-e-hainaut-r-c-gouy-
+ 2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c6ccabd1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.F.C. Nalinnois – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-f-c-nalinnois-trazegnies-sports-4-prov-e-hainaut-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-nalinnois-trazegnies-sports-4-prov-e-h
+ ainaut-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22aa7a0bde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Trazegnies Sports – Sporting Club Farciennes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6fd85fab7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R. Goutroux Sports B – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d220391444@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Trazegnies Sports – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c50a28bd63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.U.S. Courcelloise – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9048bfa14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Renaissance FC Carnières – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89e3bff411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Trazegnies Sports – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e388d67b41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Mont-S-March-Collège B – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0e555c8f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Trazegnies Sports – Jeunesse Trazegnies
+DESCRIPTION:4e provinciale Hainaut E\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-badcafdb16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.U.S. Club Anderlues – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2a3679397@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Trazegnies Sports – Société Royale J.S. Thudinienne
+DESCRIPTION:4e provinciale Hainaut E\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21b57a5923@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.U.S. Binche – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-701c718b11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Trazegnies Sports – AS Montigny
+DESCRIPTION:4e provinciale Hainaut E\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7446a6c5d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R.C. Gouy – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea77653586@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Trazegnies Sports – R.F.C. Nalinnois
+DESCRIPTION:4e provinciale Hainaut E\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/trazegnies-sports-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/trazegnies-sports-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

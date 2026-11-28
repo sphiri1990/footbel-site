@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Heikant Zele A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d3c4a87e6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KSK Kieldrecht 1-6 KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-kieldrecht-kfc-heikant-zele-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ksk-kieldrecht-kfc-heikant-zele-a-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ff100ef26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Heikant Zele A 4-1 Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-heikant-zele-a-rangers-opdorp-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-heikant-zele-a-rangers-opdorp-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-233cbb23b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Sp St-Gillis Waas 0-2 KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-sp-st-gillis-waas-kfc-heikant-zele-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-sp-st-gillis-waas-kfc-heikant-zele-a
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6cc2fb352@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KFC Heikant Zele A 4-1 KFCJV Kruibeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-heikant-zele-a-kfcjv-kruibeke-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfc-heikant-zele-a-kfcjv-kruibeke-a-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cc30196c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:SV Blauw Wit Temse A – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/sv-blauw-wit-temse-a-kfc-heikant-zele-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/sv-blauw-wit-temse-a-kfc-heikant-zele-a-
+ 2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c95e0ef9c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFC Heikant Zele A – VK White Boys SN
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4bc2640b57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Vrasene – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53b05dda82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:SKL Doorslaar A – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c5ecebb42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Heikant Zele A – SV Zaffelare
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a0e61362f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:KFCJV Kruibeke A – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e2e42de8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Heikant Zele A – KFC Eksaarde
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-192a7be3d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Heikant Zele A – KFC Sp St-Gillis Waas
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d3ebafc6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KV Sint-Gillis – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9634bd0ec4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Heikant Zele A – SV Blauw Wit Temse A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e313cc8f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFCJ Schoonaarde A – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44af682ceb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Heikant Zele A – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37b76b6bdf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Rangers Opdorp A – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f6160bcdd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VK White Boys SN – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ff79082b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Heikant Zele A – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1781aec0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KVKS Melsele A – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d13d733b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Heikant Zele A – K Sp Waasmunster
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-a/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:S.K. Beersel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/s-k-beersel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-44e1200374@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:S.K. Beersel 1-0 KFC Lennik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/s-k-beersel-kfc-lennik-b-2026-11-01/
+URL:https://goalio.be/fr/match/s-k-beersel-kfc-lennik-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5085be74a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:S.K. Beersel 4-2 KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/s-k-beersel-kv-zuun-b-2026-11-22/
+URL:https://goalio.be/fr/match/s-k-beersel-kv-zuun-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a606f4fb6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:SK Oetingen VC B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/sk-oetingen-vc-b-s-k-beersel-2026-11-28/
+URL:https://goalio.be/fr/match/sk-oetingen-vc-b-s-k-beersel-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cc7553e68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:S.K. Beersel – FC Galmaarden B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f9f82ae33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Lennik B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbb3d6d0b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:S.K. Beersel – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef718e4aa4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:S.K. Beersel – KVC Linkebeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed433113ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:S.K. Beersel – KVV Kester-Gooik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1b6017fd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KFC MZ Tollembeek – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0c23f9e87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:SK Pepingen-Halle B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acd05da376@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:FC Herne B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-004efb4a1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:S.K. Beersel – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29154b4a45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KV Zuun B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67f0054ab3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:S.K. Beersel – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d8f83d58d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KHO Huizingen B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-732b99ce17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:S.K. Beersel – KFC Av. Lembeek B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a3811c59f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Galmaarden B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/s-k-beersel/
+URL:https://goalio.be/fr/equipe/s-k-beersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KAV Dendermonde · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kav-dendermonde/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0d17c7db09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:Rangers Opdorp B 3-2 KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/rangers-opdorp-b-kav-dendermonde-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/rangers-opdorp-b-kav-dendermonde-2026-10
+ -31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f0f6a76fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KAV Dendermonde 4-4 SVH Waasmunster B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kav-dendermonde-svh-waasmunster-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kav-dendermonde-svh-waasmunster-b-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2d018148e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:WS Meerdonk 0-4 KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/ws-meerdonk-kav-dendermonde-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/ws-meerdonk-kav-dendermonde-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-439efad8d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:E Buggenhout A 0-3 KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/e-buggenhout-a-kav-dendermonde-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/e-buggenhout-a-kav-dendermonde-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ab0baf008@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KAV Dendermonde – KVVWS Sombeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kav-dendermonde-kvvws-sombeke-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kav-dendermonde-kvvws-sombeke-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e280bbc11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KFC Baasrode – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6eeee1d89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KAV Dendermonde – Rangers Opdorp B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3742bb7048@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:SVH Waasmunster B – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8797d88102@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KAV Dendermonde – F.C. Hamse Bouw
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e092dc0f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:SV Blauw Wit Temse B – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be0962894b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KAV Dendermonde – FCH St-Pauwels
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-102af29713@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KAV Dendermonde – Spartak Buggenhout
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48997b92e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFCJV Kruibeke B – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3260acf153@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KAV Dendermonde – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69bb61dcfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Excelsior Nieuwkerken – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9dbe27a84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KAV Dendermonde – WS Meerdonk
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ec67638ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:Vos Reinaert – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bf92ef7e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KAV Dendermonde – KFC Baasrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c79b9f6ce4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KVVWS Sombeke – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac544c1f12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KAV Dendermonde – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e9796c8b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Tielrode – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kav-dendermonde/
+URL:https://goalio.be/nl/ploeg/kav-dendermonde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

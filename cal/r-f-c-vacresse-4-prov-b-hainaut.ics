@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Vacresse · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-54b71ee004@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.E.S.C. Horrues 3-1 R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-e-s-c-horrues-r-f-c-vacresse-4-prov-b-hainaut-2026-11-01/
+URL:https://goalio.be/fr/match/r-e-s-c-horrues-r-f-c-vacresse-4-prov-b-hain
+ aut-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-571a319dea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Vacresse 1-2 R.U.S. Beloeil
+DESCRIPTION:4e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-vacresse-4-prov-b-hainaut-r-u-s-beloeil-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-vacresse-4-prov-b-hainaut-r-u-s-beloei
+ l-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-918a115708@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.L.C. Hornu B 0-8 R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-l-c-hornu-b-r-f-c-vacresse-4-prov-b-hainaut-2026-11-15/
+URL:https://goalio.be/fr/match/r-l-c-hornu-b-r-f-c-vacresse-4-prov-b-hainau
+ t-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10255ec250@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Vacresse – J.S. Isièroise
+DESCRIPTION:4e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-f-c-vacresse-4-prov-b-hainaut-j-s-isieroise-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-vacresse-4-prov-b-hainaut-j-s-isierois
+ e-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e67b733da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.F.C. Ellezelles B – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-f-c-ellezelles-b-r-f-c-vacresse-4-prov-b-hainaut-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-ellezelles-b-r-f-c-vacresse-4-prov-b-h
+ ainaut-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-519500e1fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.F.C. Vacresse – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b522a12f64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.U.S. Flobecquoise – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c0c85b76a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.F.C. Vacresse – Baudour A.S.C.
+DESCRIPTION:4e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70c0f41972@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Houtaing – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99ec65a59c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C. Vacresse – A.C. Anvaing
+DESCRIPTION:4e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef85415a28@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:A.S. Vaudignies – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb4da47053@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Vacresse – FC Wodecq
+DESCRIPTION:4e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b18cf0aa21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:U.S. Thumaide – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3aa4b448fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Vacresse – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ff1017504@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.S.C. Wasmes – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4de8ce6317@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Vacresse – R.E.S.C. Horrues
+DESCRIPTION:4e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a06b41009@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.U.S. Beloeil – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a6a2c9739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Vacresse – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca07149779@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:J.S. Isièroise – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f13d9a8be7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Vacresse – R.F.C. Ellezelles B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-vacresse-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/r-f-c-vacresse-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

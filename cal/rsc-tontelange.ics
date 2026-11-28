@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSC Tontelange · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rsc-tontelange/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a398c92c7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Jeun. Freylangeoise 0-2 RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/r-jeun-freylangeoise-rsc-tontelange-2026-11-01/
+URL:https://goalio.be/fr/match/r-jeun-freylangeoise-rsc-tontelange-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01f1348cb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RSC Tontelange 5-0 UN R. St-Louis-St-Léger
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/rsc-tontelange-un-r-st-louis-st-leger-2026-11-08/
+URL:https://goalio.be/fr/match/rsc-tontelange-un-r-st-louis-st-leger-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60e9a10191@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:ES Châtillon 6-6 RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/es-chatillon-rsc-tontelange-2026-11-15/
+URL:https://goalio.be/fr/match/es-chatillon-rsc-tontelange-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c681d39e9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RSC Tontelange – Ethe-Belmont FC (remis)
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/rsc-tontelange-ethe-belmont-fc-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-tontelange-ethe-belmont-fc-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76ad3597dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:CS Toernich – RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/cs-toernich-rsc-tontelange-2026-11-29/
+URL:https://goalio.be/fr/match/cs-toernich-rsc-tontelange-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e96bceee2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.S.C. Athusien – RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5097d12f1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RSC Tontelange – US Waltzing-Bonnert
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15bfb6162d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSC Tontelange – RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6397105723@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RUS Etalle – RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b5bc81d88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RSC Tontelange – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34e6611e10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RSC Tontelange – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8aaa0ae0dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Ecl. Sp. Signeulx – RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02fd32d7dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RSC Tontelange – R. Jeun. Freylangeoise
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fac250f0b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:UN R. St-Louis-St-Léger – RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b878d9bef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSC Tontelange – ES Châtillon
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rsc-tontelange/
+URL:https://goalio.be/fr/equipe/rsc-tontelange/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

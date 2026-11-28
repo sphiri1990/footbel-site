@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.U.S. Givry · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-u-s-givry/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c077077d26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Royal Tenneville Sports 0-1 R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 11\nhttps://goalio.be/fr/
+ match/royal-tenneville-sports-r-u-s-givry-2026-10-31/
+URL:https://goalio.be/fr/match/royal-tenneville-sports-r-u-s-givry-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bed7a97a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Jeun. Sp. De Tavigny 1-1 R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 13\nhttps://goalio.be/fr/
+ match/jeun-sp-de-tavigny-r-u-s-givry-2026-11-14/
+URL:https://goalio.be/fr/match/jeun-sp-de-tavigny-r-u-s-givry-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4428a895b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.U.S. Givry – RAFC Cobreville (remis)
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 14\nhttps://goalio.be/fr/
+ match/r-u-s-givry-rafc-cobreville-2026-11-21/
+URL:https://goalio.be/fr/match/r-u-s-givry-rafc-cobreville-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c74c37d20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.E.S. Chaumont – R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 15\nhttps://goalio.be/fr/
+ match/r-e-s-chaumont-r-u-s-givry-2026-11-28/
+URL:https://goalio.be/fr/match/r-e-s-chaumont-r-u-s-givry-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c936ba3cf3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R.U.S. Givry – F.C. Petit-Han
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-596443d1e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.U.S. Givry – RLC Bastogne B
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac1db0dba4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R.U.S. Givry – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eef2c4b6f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.E.S. Vaux – R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3e4028130@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R.U.S. Givry – R.F.C. St-Hubert
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-787bbcfa22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.E.S. Witry-Menufontaine – R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e10111825@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R.U.S. Givry – R.U.S. Ste Ode
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26a96de31c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R. Wallonia Club Sibret – R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c028226a0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R.U.S. Givry – Royal Tenneville Sports
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e2157040f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.U.S. Givry – Jeun. Sp. De Tavigny
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-u-s-givry/
+URL:https://goalio.be/fr/equipe/r-u-s-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

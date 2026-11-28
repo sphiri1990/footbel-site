@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Beekhoek Sp. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2e487095f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:VV-NEXT Laakdal A 3-1 KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/vv-next-laakdal-a-kfc-beekhoek-sp-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vv-next-laakdal-a-kfc-beekhoek-sp-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be62ce1f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Beekhoek Sp. 7-0 KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-beekhoek-sp-kfc-verbr-alberta-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-beekhoek-sp-kfc-verbr-alberta-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7705269897@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC Flandria 1-3 KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-flandria-kfc-beekhoek-sp-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-flandria-kfc-beekhoek-sp-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5538d37a61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KFC Mol 0-5 KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kfc-mol-kfc-beekhoek-sp-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kfc-mol-kfc-beekhoek-sp-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b4cd751e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Beekhoek Sp. – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-beekhoek-sp-ksv-oud-turnhout-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-beekhoek-sp-ksv-oud-turnhout-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10b13f2e52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:VC Westerlo Kemphanen – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5569e6b8d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Beekhoek Sp. – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0ca665255@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFC Beekhoek Sp. – VV-NEXT Laakdal A
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f7b52b1ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Verbr. Alberta – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48bb1266a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K Witgoor Sp Dessel B – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45d15fb18c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Beekhoek Sp. – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17f59e49ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KVV Rauw Sp. – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-377273d58c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Beekhoek Sp. – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb0d168f6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KSV Oud Turnhout – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e9a98f156@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Beekhoek Sp. – KFC Flandria
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3486b6958c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC Beekhoek Sp. – KFC Tongerlo
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8cac40f3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Olen United – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-584174513c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Beekhoek Sp. – K. Blauwv. Oevel
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10be25fba1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KFC Heultje – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827b122f56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Beekhoek Sp. – VC Westerlo Kemphanen
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-beekhoek-sp/
+URL:https://goalio.be/nl/ploeg/kfc-beekhoek-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

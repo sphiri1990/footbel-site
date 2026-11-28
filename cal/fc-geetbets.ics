@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Geetbets · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-geetbets/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-13b99f9bac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Geetbets 1-4 KA Goetsenhoven
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-geetbets-ka-goetsenhoven-2026-11-01/
+URL:https://goalio.be/fr/match/fc-geetbets-ka-goetsenhoven-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4950c27ab0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T174500Z
+SUMMARY:K. St. Drieslinter B 0-0 FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 11\nhttps://goalio.b
+ e/fr/match/k-st-drieslinter-b-fc-geetbets-2026-11-07/
+URL:https://goalio.be/fr/match/k-st-drieslinter-b-fc-geetbets-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d63d7d7a81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Geetbets 1-2 T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-geetbets-t-bunsbeek-2026-11-15/
+URL:https://goalio.be/fr/match/fc-geetbets-t-bunsbeek-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65b0cc3194@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Geetbets – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-geetbets-sk-waanrode-2026-11-29/
+URL:https://goalio.be/fr/match/fc-geetbets-sk-waanrode-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36128f4510@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Neerwinden F.C. – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34ad9fe15e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Geetbets – Atlas Linter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9428043a99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Valahia Tienen – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c78238f5c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Geetbets – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b899952686@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Rummen – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d3d45112c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Geetbets – KVZ Glabbeek Zuurbemde
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a0a72598e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:T. Bunsbeek – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93f0a54315@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Geetbets – Sp. Budingen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2887f54358@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Halle VV. – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ae86f914b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Waanrode – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c59042559d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Geetbets – Neerwinden F.C.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-928f2998c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:VC Houtem-Oplinter – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bca4681be9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Geetbets – RD Zoutleeuw B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7beeec422@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KA Goetsenhoven – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fc-geetbets/
+URL:https://goalio.be/fr/equipe/fc-geetbets/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

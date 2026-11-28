@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Winterslag · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-winterslag/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-970714df97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Waterloos-Voorshoven VV 0-1 FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/k-waterloos-voorshoven-vv-fc-winterslag-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-waterloos-voorshoven-vv-fc-winterslag-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-890949ccf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Winterslag 3-1 Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-winterslag-opitter-fc-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-winterslag-opitter-fc-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fc3bba73a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:SLW Maaseik A 6-2 FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/slw-maaseik-a-fc-winterslag-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/slw-maaseik-a-fc-winterslag-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfb1bc60d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Winterslag 1-0 Neeroeteren FC A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-winterslag-neeroeteren-fc-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-winterslag-neeroeteren-fc-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d14815fc87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Genk VV A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/genk-vv-a-fc-winterslag-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/genk-vv-a-fc-winterslag-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-793f9c2f3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Winterslag – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3b5e8b632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:FC Veldwezelt – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6679cbe9a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:AA Rekem A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15415d887b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Winterslag – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfc8d2c057@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Neeroeteren FC A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-452b1e98e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Winterslag – Sp. Ellikom
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-770e7f958e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Winterslag – SLW Maaseik A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25ea624112@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T191500Z
+DTEND:20270220T210000Z
+SUMMARY:E. Louwel A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2fe2d4411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Winterslag – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10d0718982@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Umitspor Maasmechelen A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14989e4053@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Winterslag – K. Waterloos-Voorshoven VV
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ffec65792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Opitter FC – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af502a2711@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T134500Z
+DTEND:20270404T153000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aac8204d41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Winterslag – As-Niel Utd. A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e11eda0126@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:E. Mechelen a/d Maas B – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0e251a0a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Winterslag – Boorsem Sport B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/fc-winterslag/
+URL:https://goalio.be/nl/ploeg/fc-winterslag/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

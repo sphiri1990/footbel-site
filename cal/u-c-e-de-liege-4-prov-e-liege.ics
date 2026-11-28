@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U.C.E. de Liège · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c22a732a9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T160000Z
+DTEND:20261108T174500Z
+SUMMARY:R.S.C. Saive 2-2 U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-s-c-saive-4-prov-e-liege-u-c-e-de-liege-4-prov-e-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-saive-4-prov-e-liege-u-c-e-de-liege-4-
+ prov-e-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-069463c7b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:U.C.E. de Liège 6-4 R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/u-c-e-de-liege-4-prov-e-liege-r-f-c-soumagne-4-prov-e-liege-2026-11-15/
+URL:https://goalio.be/fr/match/u-c-e-de-liege-4-prov-e-liege-r-f-c-soumagne
+ -4-prov-e-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e11f03d32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T181500Z
+DTEND:20261121T200000Z
+SUMMARY:Union Aubeloise B – U.C.E. de Liège (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/union-aubeloise-b-u-c-e-de-liege-4-prov-e-liege-2026-11-21/
+URL:https://goalio.be/fr/match/union-aubeloise-b-u-c-e-de-liege-4-prov-e-li
+ ege-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee8a600c14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:U.C.E. de Liège – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège E\nJournée 15\nhttps://goalio.be/fr/matc
+ h/u-c-e-de-liege-4-prov-e-liege-f-c-trois-frontieres-2026-11-29/
+URL:https://goalio.be/fr/match/u-c-e-de-liege-4-prov-e-liege-f-c-trois-fron
+ tieres-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-603c5bcee2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:U.C.E. de Liège – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e663647537@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Entente Jeunesse Fleron – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5585fb3572@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:U.C.E. de Liège – R.F.C. Barchon
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0afa868d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T143000Z
+DTEND:20270117T161500Z
+SUMMARY:R.J.S. Olnoise – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b64e8c227@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:U.C.E. de Liège – F.C. Jupille
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-505e5a5c87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.A.C. Hombourg – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca62987855@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:U.C.E. de Liège – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84e9f85690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Jeunesse Houssoise – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6950423c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:U.C.E. de Liège – R.J. Magnétoise
+DESCRIPTION:4e provinciale Liège E\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26a751181d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U.C.E. de Liège – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a3c787a87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:R.F.C. Soumagne – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb8903e9bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U.C.E. de Liège – Union Aubeloise B
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fbdbfb27f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Trois-Frontières – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/u-c-e-de-liege-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/u-c-e-de-liege-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

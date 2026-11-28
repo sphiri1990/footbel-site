@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RC Melin · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rc-melin/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ce5f17714f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RC Melin 3-1 R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 11\nhttps:/
+ /goalio.be/fr/match/rc-melin-r-a-s-jodoigne-2026-11-01/
+URL:https://goalio.be/fr/match/rc-melin-r-a-s-jodoigne-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c34210b9bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:SC Perwez 2-0 RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 12\nhttps:/
+ /goalio.be/fr/match/sc-perwez-rc-melin-2026-11-08/
+URL:https://goalio.be/fr/match/sc-perwez-rc-melin-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a4323a2fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RC Melin 9-1 ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 13\nhttps:/
+ /goalio.be/fr/match/rc-melin-ros-ottignies-lln-b-2026-11-15/
+URL:https://goalio.be/fr/match/rc-melin-ros-ottignies-lln-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efaf4ed6e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:CS Biergeois B 1-2 RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 14\nhttps:/
+ /goalio.be/fr/match/cs-biergeois-b-rc-melin-2026-11-21/
+URL:https://goalio.be/fr/match/cs-biergeois-b-rc-melin-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3905b42d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RC Melin – RCS Nivellois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 15\nhttps:/
+ /goalio.be/fr/match/rc-melin-rcs-nivellois-b-2026-11-29/
+URL:https://goalio.be/fr/match/rc-melin-rcs-nivellois-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e3929cf85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RC Melin – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2635fb54f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RC Melin – RE Stéphanois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c078aae909@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SC Beauvechain B – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-234d17985f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:RC Melin – A.S.E. De Chastre
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-089e728ca3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T170000Z
+DTEND:20270131T184500Z
+SUMMARY:R.F.C. Grez-Doiceau – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65df064b1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SR. Incourt – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbce3cb1ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RC Melin – All. Huppaytoise
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c84333587@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:FC. Ronvau Chaumont – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c834e01cb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RC Melin – R. Wavre Limal B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02f881895b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.A.S. Jodoigne – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee044cbfa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RC Melin – SC Perwez
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca18b9bbb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:ROS Ottignies-LLN B – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d727abdf6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RC Melin – CS Biergeois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c603e897e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RCS Nivellois B – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/rc-melin/
+URL:https://goalio.be/fr/equipe/rc-melin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

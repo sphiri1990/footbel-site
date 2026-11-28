@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entente Jeunesse Fleron · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c6f4dc678c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Entente Jeunesse Fleron 7-1 Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/entente-jeunesse-fleron-football-club-de-trooz-2026-11-01/
+URL:https://goalio.be/fr/match/entente-jeunesse-fleron-football-club-de-tro
+ oz-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-124cf4cc41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C.R. Vise United 1-3 Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-r-vise-united-entente-jeunesse-fleron-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-r-vise-united-entente-jeunesse-fleron-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6f9637d4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Entente Jeunesse Fleron 2-0 R.S.C. Saive
+DESCRIPTION:2e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/entente-jeunesse-fleron-r-s-c-saive-2026-11-15/
+URL:https://goalio.be/fr/match/entente-jeunesse-fleron-r-s-c-saive-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e655b7bc94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.A.S. Houtain – Entente Jeunesse Fleron (remis)
+DESCRIPTION:2e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-a-s-houtain-entente-jeunesse-fleron-2026-11-22/
+URL:https://goalio.be/fr/match/r-a-s-houtain-entente-jeunesse-fleron-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99299bb5d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Entente Jeunesse Fleron – F.C. Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/entente-jeunesse-fleron-f-c-herstal-2026-11-29/
+URL:https://goalio.be/fr/match/entente-jeunesse-fleron-f-c-herstal-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ec8a143df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Entente Jeunesse Fleron – RFC Un. La Calamine
+DESCRIPTION:2e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ff4968603@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:U.C.E. de Liège – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f1d755f7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Entente Jeunesse Fleron – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-209c00ed22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Royal Sprimont Banneux – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c2d3a0dc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Entente Jeunesse Fleron – R. Cornesse F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d55b8a238@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Alliance Melen-Micheroux – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af8166b595@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Entente Jeunesse Fleron – R.A.C. Hombourg
+DESCRIPTION:2e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3efb8c6896@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Ent. Blegnytoise – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bbd914a27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Entente Jeunesse Fleron – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afa7372973@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Aubel F.C. – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99030e7605@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Football Club de Trooz – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6702a292d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Entente Jeunesse Fleron – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89384b921b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.S.C. Saive – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd24820aaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Jeunesse Fleron – R.A.S. Houtain
+DESCRIPTION:2e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d56c4de77b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Herstal – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

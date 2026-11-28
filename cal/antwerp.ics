@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Antwerp · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/antwerp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7a69eeaf1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T123000Z
+DTEND:20261101T141500Z
+SUMMARY:Cercle Brugge 2-1 Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/cer
+ cle-brugge-antwerp-2026-11-01/
+URL:https://goalio.be/fr/match/cercle-brugge-antwerp-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2294f781b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T194500Z
+DTEND:20261107T213000Z
+SUMMARY:Antwerp 2-2 Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/ant
+ werp-lommel-united-2026-11-07/
+URL:https://goalio.be/fr/match/antwerp-lommel-united-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a683c9405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T194500Z
+DTEND:20261121T213000Z
+SUMMARY:Zulte Waregem 2-2 Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/zul
+ te-waregem-antwerp-2026-11-21/
+URL:https://goalio.be/fr/match/zulte-waregem-antwerp-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ca5ae411c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T164500Z
+SUMMARY:Antwerp – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/ant
+ werp-anderlecht-2026-11-29/
+URL:https://goalio.be/fr/match/antwerp-anderlecht-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-970b225cb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T171500Z
+DTEND:20261212T190000Z
+SUMMARY:RAAL La Louvière – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-daca3352dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261218T194500Z
+DTEND:20261218T213000Z
+SUMMARY:Antwerp – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a696db241@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261227T173000Z
+DTEND:20261227T191500Z
+SUMMARY:Gent – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c18de49f35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T194500Z
+DTEND:20270116T213000Z
+SUMMARY:Antwerp – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-740d9d6a88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Charleroi – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3e537ee62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Antwerp – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f1bb1fb82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Genk – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-166505fbaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Antwerp – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d346293e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:OH Leuven – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6282ff1787@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Antwerp – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fef19b2f24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Sint-Truiden – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19c423c4f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Antwerp – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8566d380b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Lommel United – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df57cf2641@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:SK Beveren – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe6b854b21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Antwerp – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6a2853ca7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Union Saint-Gilloise – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a91ae2ec64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Antwerp – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-054076204d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:KV Mechelen – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08cc61b86d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Antwerp – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a42422077@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Anderlecht – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-756fa26c75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:Antwerp – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/an
+ twerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df505f504b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T173000Z
+DTEND:20261206T191500Z
+SUMMARY:Antwerp – OH Leuven
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/antwerp/
+URL:https://goalio.be/fr/equipe/antwerp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

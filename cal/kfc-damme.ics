@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Damme · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-damme/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-360cb66d98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:KFC Damme 2-0 V.V. Cercle Beernem B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-damme-v-v-cercle-beernem-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-damme-v-v-cercle-beernem-b-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f984297f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:K. SK Steenbrugge 1-3 KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-sk-steenbrugge-kfc-damme-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-sk-steenbrugge-kfc-damme-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fccb5da5da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:KFC Damme 3-1 E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-damme-e-brugge-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-damme-e-brugge-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3460b2d7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K. FC Lissewege 4-5 KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lissewege-kfc-damme-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lissewege-kfc-damme-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46987f0e7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:KFC Damme – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-damme-fc-zeebrugge-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-damme-fc-zeebrugge-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec0e27201f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T173000Z
+DTEND:20261205T191500Z
+SUMMARY:K. FC Aarsele – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a124f5e5c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:KFC Damme – VV Westkapelle B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e21937036@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:GL Ruiselede – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15677ed8ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:KFC Damme – K. SK Steenbrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c874ddf865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:KFC Damme – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52be13ee06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. FC Heist B – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c387a078fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Damme – K. FC Varsenare B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-842e39e9c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E. Brugge – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcf6af99cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. VC Wingene B – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f51267c463@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Damme – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44eaf9a166@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Zeebrugge – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbb318a9ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Damme – K. FC Aarsele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df9683a246@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:VK Dudzele – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c665138b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Damme – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6055a4130b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:V.V. Cercle Beernem B – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfc-damme/
+URL:https://goalio.be/nl/ploeg/kfc-damme/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

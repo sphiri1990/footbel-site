@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Sp. Club Blankenberge A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-61a7585cc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Olsa Brakel A 3-3 K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/olsa-brake
+ l-a-k-sp-club-blankenberge-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/olsa-brakel-a-k-sp-club-blankenberge-a-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e2410eef8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. SV Rumbeke 2-0 K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-sv-rumbe
+ ke-k-sp-club-blankenberge-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-sv-rumbeke-k-sp-club-blankenberge-a-20
+ 26-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46c2fe7324@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:K. Sp. Club Blankenberge A 2-1 Avanti Stekene
+DESCRIPTION:D3 VV A\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-sp-club-
+ blankenberge-a-avanti-stekene-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-sp-club-blankenberge-a-avanti-stekene-
+ 2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27afb807ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K.W.S. Club Lauwe A 4-0 K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-w-s-club
+ -lauwe-a-k-sp-club-blankenberge-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-w-s-club-lauwe-a-k-sp-club-blankenberg
+ e-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af037f772a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-sp-club-
+ blankenberge-a-zwevegem-sport-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-sp-club-blankenberge-a-zwevegem-sport-
+ 2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b33bfffad3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Eendr Elene-Grotenberge A – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30225171fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – KCVV Elewijt A
+DESCRIPTION:D3 VV A\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6a223a7f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Erpe-Mere United – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-526c941e1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:SC City Pirates Antwerpen A – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-262e30656f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – K.W.S. Club Lauwe A
+DESCRIPTION:D3 VV A\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-948c207e0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Zwevegem Sport – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbc149fefc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – KVV St-Denijs Sp A
+DESCRIPTION:D3 VV A\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68dd01091c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Wambeek Ternat A – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfa5585778@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – Olsa Brakel A
+DESCRIPTION:D3 VV A\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37e358ba74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – KVE Drongen A
+DESCRIPTION:D3 VV A\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77d97c5457@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Gullegem – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c36cfed7f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45a4c9e738@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Avanti Stekene – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2beb737023@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. Sp. Club Blankenberge A – Eendr Elene-Grotenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ccd2313a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.V.K. Ieper – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c522413d1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Sp. Club Blankenberge A – K. Berchem Sp. 2004 A
+DESCRIPTION:D3 VV A\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-sp-club-blan
+ kenberge-a/
+URL:https://goalio.be/nl/ploeg/k-sp-club-blankenberge-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

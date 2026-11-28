@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Gooreind VV B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2a81d69337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:Exc. FC Essen 1-1 K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/exc-fc-essen-k-gooreind-vv-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/exc-fc-essen-k-gooreind-vv-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac35fea525@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Excelsior Mariaburg B 1-2 K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/excelsior-mariaburg-b-k-gooreind-vv-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/excelsior-mariaburg-b-k-gooreind-vv-b-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54bf53e0d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T160000Z
+DTEND:20261114T174500Z
+SUMMARY:K. Gooreind VV B 1-1 KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-gooreind-vv-b-ksk-ekeren-donk-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-gooreind-vv-b-ksk-ekeren-donk-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2434632d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K. Kalmthout SK B 1-3 K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-kalmthout-sk-b-k-gooreind-vv-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-kalmthout-sk-b-k-gooreind-vv-b-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fd1cba85b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
+SUMMARY:K. Gooreind VV B – KSV Wildert
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-gooreind-vv-b-ksv-wildert-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-gooreind-vv-b-ksv-wildert-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6216937af8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:R. Cappellen FC B – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6829650a92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:K. Gooreind VV B – SV Noorse
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1456339d59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Putte SK – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c6e98544a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Zandvliet Sport B – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-823f41f649@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T163000Z
+DTEND:20270123T181500Z
+SUMMARY:K. Gooreind VV B – K. Kalmthout SK B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c403f33520@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KSV Wildert – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7a7684c4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T163000Z
+DTEND:20270213T181500Z
+SUMMARY:K. Gooreind VV B – K. Heibos SV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4023038e60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:Ekeren FC B – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-213adf7ac6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T163000Z
+DTEND:20270227T181500Z
+SUMMARY:K. Gooreind VV B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-901d9f0dde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T163000Z
+DTEND:20270306T181500Z
+SUMMARY:K. Gooreind VV B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8222fb23aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KSOC Maria Ter Heide – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad2fb9efee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:K. Gooreind VV B – Excelsior Mariaburg B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5da6c1cc15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KSK Ekeren Donk – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f9048dc27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T153000Z
+DTEND:20270410T171500Z
+SUMMARY:K. Gooreind VV B – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76abdf2195@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Gooreind VV B – K. Nieuwmoer FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-gooreind-vv-b/
+URL:https://goalio.be/nl/ploeg/k-gooreind-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

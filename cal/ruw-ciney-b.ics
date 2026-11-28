@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUW Ciney B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ruw-ciney-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a2d322c2db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:ES Jamboise A 1-2 RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /es-jamboise-a-ruw-ciney-b-2026-11-01/
+URL:https://goalio.be/fr/match/es-jamboise-a-ruw-ciney-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be497437c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:RUW Ciney B 1-1 RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /ruw-ciney-b-rs-fernelmont-hemptinne-a-2026-11-07/
+URL:https://goalio.be/fr/match/ruw-ciney-b-rs-fernelmont-hemptinne-a-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d19a60277@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RUS Assessoise A 0-1 RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /rus-assessoise-a-ruw-ciney-b-2026-11-14/
+URL:https://goalio.be/fr/match/rus-assessoise-a-ruw-ciney-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a55d3a901e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RUW Ciney B – S Flawinne FC A (remis)
+DESCRIPTION:2e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /ruw-ciney-b-s-flawinne-fc-a-2026-11-21/
+URL:https://goalio.be/fr/match/ruw-ciney-b-s-flawinne-fc-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a2abe4d4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:CS Wépionnais A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /cs-wepionnais-a-ruw-ciney-b-2026-11-29/
+URL:https://goalio.be/fr/match/cs-wepionnais-a-ruw-ciney-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba0cbea543@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RUW Ciney B – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b04e9443bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RES Gesvoise A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cca40f2d9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RUW Ciney B – R Arquet FC B
+DESCRIPTION:2e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14262e1e5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RRC Havelange A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6d6b4dc85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RUW Ciney B – JS Eghezée
+DESCRIPTION:2e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43c801fd32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RUS Méan A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa819f23ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RUW Ciney B – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a14c4ebab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RFC Rhisnois A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-322a56c09b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RUW Ciney B – RSC Oheytois A
+DESCRIPTION:2e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a1cce377f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:US Emines A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f653e57f03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUW Ciney B – ES Jamboise A
+DESCRIPTION:2e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4beff492ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RS Fernelmont-Hemptinne A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72485afc40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RUW Ciney B – RUS Assessoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8951325ef8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:S Flawinne FC A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af8ee4ee07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUW Ciney B – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/ruw-ciney-b/
+URL:https://goalio.be/fr/equipe/ruw-ciney-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

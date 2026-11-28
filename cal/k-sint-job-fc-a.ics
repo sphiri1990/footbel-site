@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Sint Job FC A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-824abdcd4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Sint Job FC A 4-2 VC Mortsel OG A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-sint-job-fc-a-vc-mortsel-og-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-sint-job-fc-a-vc-mortsel-og-a-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bc19a8cd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Meer 3-2 K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-meer-k-sint-job-fc-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-meer-k-sint-job-fc-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c626eb819@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. Sint Job FC A 3-1 VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-sint-job-fc-a-vna-wortel-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-sint-job-fc-a-vna-wortel-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ce2b6fdd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Horendonk FC 1-1 K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/horendonk-fc-k-sint-job-fc-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/horendonk-fc-k-sint-job-fc-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2277af9f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. Sint Job FC A – KFC Berendrecht Sp.
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-sint-job-fc-a-kfc-berendrecht-sp-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-sint-job-fc-a-kfc-berendrecht-sp-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae209254f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. Wijnegem VC A – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e56df2ca60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. Sint Job FC A – K. Brecht SK
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dec3fdc55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Verbr. Zwijndrecht A – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d769db019d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K. Sint Job FC A – KFC Meer
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6162c0d2e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Sint Job FC A – Horendonk FC
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6814b396bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Merksem A – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34a61fdfbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. Sint Job FC A – K. Achterbroek VV
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b31e015880@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VNA Wortel – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b2ef1137f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. Sint Job FC A – K. Heibos SV A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1792895d6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:FC Oxaco-Boechout – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4db99c34e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. Sint Job FC A – K. Gooreind VV A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8f0cb8dad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC Berendrecht Sp. – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f393d406bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Sint Job FC A – K. Wijnegem VC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7c710d554@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:FC Turk Sp. – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c348e3a2d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Sint Job FC A – Zandvliet Sport A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b10b292776@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Mortsel OG A – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-sint-job-fc-a/
+URL:https://goalio.be/nl/ploeg/k-sint-job-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

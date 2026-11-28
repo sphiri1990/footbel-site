@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Olympique Club Ghlin · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hain
+ aut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7e54541984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.F.C.E. Maurage 1-2 Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-f-c-e-maurage-4-prov-d-hainaut-olympique-club-ghlin-4-prov-d-hainaut-
+ 2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-e-maurage-4-prov-d-hainaut-olympique-c
+ lub-ghlin-4-prov-d-hainaut-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-331edc35b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Olympique Club Ghlin 4-2 R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/olympique-club-ghlin-4-prov-d-hainaut-r-a-s-ghlinoise-4-prov-d-hainaut-
+ 2026-11-08/
+URL:https://goalio.be/fr/match/olympique-club-ghlin-4-prov-d-hainaut-r-a-s-
+ ghlinoise-4-prov-d-hainaut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f29126449a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:A.S. Morlanwelz 1-1 Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/a-s-morlanwelz-4-prov-d-hainaut-olympique-club-ghlin-4-prov-d-hainaut-2
+ 026-11-15/
+URL:https://goalio.be/fr/match/a-s-morlanwelz-4-prov-d-hainaut-olympique-cl
+ ub-ghlin-4-prov-d-hainaut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5e35da1d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Olympique Club Ghlin – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/olympique-club-ghlin-4-prov-d-hainaut-r-soignies-sports-4-prov-d-hainau
+ t-2026-11-22/
+URL:https://goalio.be/fr/match/olympique-club-ghlin-4-prov-d-hainaut-r-soig
+ nies-sports-4-prov-d-hainaut-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1659f46a42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Lindbergh Club Givry – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-lindbergh-club-givry-4-prov-d-hainaut-olympique-club-ghlin-4-prov-d-h
+ ainaut-2026-11-29/
+URL:https://goalio.be/fr/match/r-lindbergh-club-givry-4-prov-d-hainaut-olym
+ pique-club-ghlin-4-prov-d-hainaut-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c987ef2c73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Athl. Club Le Roeulx – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76ea6481e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Olympique Club Ghlin – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46cf1a8958@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:US Centre Haine-Saint-Pierre – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28b8443b17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Olympique Club Ghlin – F.C. Peronnes
+DESCRIPTION:4e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99ca8012c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C. Ecaussinnois – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a87cfb296@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Olympique Club Ghlin – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37a973d865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Snef – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a64fe1cd6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Olympique Club Ghlin – Union Entité Estinnoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31713899f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.S.C. Naastois – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ce3f3927f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Olympique Club Ghlin – R.F.C.E. Maurage
+DESCRIPTION:4e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-824942bef1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.A.S. Ghlinoise – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10a7166b55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Olympique Club Ghlin – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1efa784834@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Soignies Sports – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-febbc2bade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Olympique Club Ghlin – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/olympique-club-ghlin-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/olympique-club-ghlin-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

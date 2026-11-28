@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Union Entité Chapelloise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/union-entite-chapelloise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b2bef0700c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Union Entité Chapelloise 2-1 R.F.C.E. Maurage
+DESCRIPTION:3e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/union-entite-chapelloise-r-f-c-e-maurage-2026-11-01/
+URL:https://goalio.be/fr/match/union-entite-chapelloise-r-f-c-e-maurage-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3df071a82a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Pont-A-Celles-Buzet 2-2 Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/pont-a-celles-buzet-3-prov-c-hainaut-union-entite-chapelloise-2026-11-0
+ 8/
+URL:https://goalio.be/fr/match/pont-a-celles-buzet-3-prov-c-hainaut-union-e
+ ntite-chapelloise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdfc23c8e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Union Entité Chapelloise 1-0 U.S. Neufvilles
+DESCRIPTION:3e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/union-entite-chapelloise-u-s-neufvilles-2026-11-15/
+URL:https://goalio.be/fr/match/union-entite-chapelloise-u-s-neufvilles-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f278ed234c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:A.S. Morlanwelz – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/a-s-morlanwelz-union-entite-chapelloise-2026-11-22/
+URL:https://goalio.be/fr/match/a-s-morlanwelz-union-entite-chapelloise-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d375a81ca7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Union Entité Chapelloise – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/union-entite-chapelloise-r-f-c-rapid-symphorinois-2026-11-29/
+URL:https://goalio.be/fr/match/union-entite-chapelloise-r-f-c-rapid-symphor
+ inois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b66b9e68a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Union Entité Chapelloise – R.S.A. Forchies
+DESCRIPTION:3e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1eb617f675@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Ronquieres-Hy 86 – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5750dc5da4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Union Entité Chapelloise – R.F.C. Houdinois B
+DESCRIPTION:3e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b33c48365@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Bracquegnies Sp B – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7493955ffd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Union Entité Chapelloise – R.F.C. Ecaussinnois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8589e8bbbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Havré – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7721ebf9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Lindbergh Club Givry – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ffaaf7c57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Union Entité Chapelloise – F.C. Flénu
+DESCRIPTION:3e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c40a48809f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Exc. Bievene – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5784be98c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Union Entité Chapelloise – R. Entente Mons Nord
+DESCRIPTION:3e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97da95b871@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T140000Z
+DTEND:20270320T154500Z
+SUMMARY:R.F.C.E. Maurage – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-812c0a6cfb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Union Entité Chapelloise – Pont-A-Celles-Buzet
+DESCRIPTION:3e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e3dadbdd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:U.S. Neufvilles – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b9e9ec81f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Union Entité Chapelloise – A.S. Morlanwelz
+DESCRIPTION:3e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf2f9f04b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Rapid Symphorinois – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/union-entite-chapelloise/
+URL:https://goalio.be/fr/equipe/union-entite-chapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

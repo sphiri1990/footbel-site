@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entente Sportive Tilleur · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-
+ liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d0e3e5f0af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Herstal 4-0 Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/f-c-herstal-4-prov-c-liege-entente-sportive-tilleur-4-prov-c-liege-2026-
+ 11-01/
+URL:https://goalio.be/fr/match/f-c-herstal-4-prov-c-liege-entente-sportive-
+ tilleur-4-prov-c-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41747e0960@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Entente Sportive Tilleur 1-3 FC Les Oranges de Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/entente-sportive-tilleur-4-prov-c-liege-fc-les-oranges-de-liege-2026-11-
+ 08/
+URL:https://goalio.be/fr/match/entente-sportive-tilleur-4-prov-c-liege-fc-l
+ es-oranges-de-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0be7d49b43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Daring Club de Cointe-Liège 7-1 Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-daring-club-de-cointe-liege-entente-sportive-tilleur-4-prov-c-liege-20
+ 26-11-15/
+URL:https://goalio.be/fr/match/r-daring-club-de-cointe-liege-entente-sporti
+ ve-tilleur-4-prov-c-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe50f59e92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Entente Sportive Tilleur – Cfc Pontisse Herstal (remis)
+DESCRIPTION:4e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/entente-sportive-tilleur-4-prov-c-liege-cfc-pontisse-herstal-4-prov-c-li
+ ege-2026-11-22/
+URL:https://goalio.be/fr/match/entente-sportive-tilleur-4-prov-c-liege-cfc-
+ pontisse-herstal-4-prov-c-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5ae9e7062@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Rapide Liège – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/fc-rapide-liege-entente-sportive-tilleur-4-prov-c-liege-2026-11-29/
+URL:https://goalio.be/fr/match/fc-rapide-liege-entente-sportive-tilleur-4-p
+ rov-c-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84c4fa441b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Entente Sportive Tilleur – R.U.S. Montagnarde
+DESCRIPTION:4e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d87d4bc68a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Entente Sportive Tilleur – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4027902432@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:F.C. Ans B – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a21beac71a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Entente Sportive Tilleur – Engis Football Club
+DESCRIPTION:4e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58fc19e79b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Jsn Alleur – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d773f5bb87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Entente Sportive Tilleur – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76ee4c8749@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. du Thier-à-Liège – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06591aec36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Entente Sportive Tilleur – Illyrian Blegny B
+DESCRIPTION:4e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-250ed7c27f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:MS Herstal Milmort B – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a586a5f8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Entente Sportive Tilleur – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b21df11a96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Les Oranges de Liège – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da764dd2e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Entente Sportive Tilleur – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a13006fa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Cfc Pontisse Herstal – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31be0a1bdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Entente Sportive Tilleur – FC Rapide Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

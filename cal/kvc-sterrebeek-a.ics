@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVC Sterrebeek A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6579e8420e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Football Club Kortenberg United A 4-3 KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/football-club-kortenberg-united-a-kvc-sterrebeek-a-2026-11-01/
+URL:https://goalio.be/fr/match/football-club-kortenberg-united-a-kvc-sterre
+ beek-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd7de5eeff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KVC Sterrebeek A 6-2 HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/kvc-sterrebeek-a-ho-veltem-a-2026-11-07/
+URL:https://goalio.be/fr/match/kvc-sterrebeek-a-ho-veltem-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c41569ac8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K. Eur. 90 Kraainem A 1-5 KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/k-eur-90-kraainem-a-kvc-sterrebeek-a-2026-11-14/
+URL:https://goalio.be/fr/match/k-eur-90-kraainem-a-kvc-sterrebeek-a-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc29349f95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KVC Sterrebeek A 1-2 SK Nossegem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/kvc-sterrebeek-a-sk-nossegem-a-2026-11-21/
+URL:https://goalio.be/fr/match/kvc-sterrebeek-a-sk-nossegem-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fefa9ddbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:HO Bierbeek B – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/ho-bierbeek-b-kvc-sterrebeek-a-2026-11-28/
+URL:https://goalio.be/fr/match/ho-bierbeek-b-kvc-sterrebeek-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e54cb8a20b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KVC Sterrebeek A – KV Woluwe-Zaventem A (annulé)
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44c5da4c2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KVC Sterrebeek A – FC Binkom A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f25147cf3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:St. Meerbeek – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d823ee160f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T191500Z
+DTEND:20270116T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e729412d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVC Sterrebeek A – K. St. Haasrode A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42acdea297@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T191500Z
+DTEND:20270130T210000Z
+SUMMARY:VC Bertem-Leefdaal A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bde6bfacda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KVC Sterrebeek A – HO Bierbeek B
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f56a8d37be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:KV Woluwe-Zaventem A – KVC Sterrebeek A (annulé)
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-081b08b8f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KVC Sterrebeek A – Koninklijke Haacht United A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86d89a1ef8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Moorsel A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1d8fc883a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVC Sterrebeek A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1ca9b055a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K. St. Drieslinter A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b980007af8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVC Sterrebeek A – K. Eur. 90 Kraainem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0da8722e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:HO Veltem A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de378a18c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Nossegem A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35b18a4bff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVC Sterrebeek A – Football Club Kortenberg United A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kvc-sterrebeek-a/
+URL:https://goalio.be/fr/equipe/kvc-sterrebeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

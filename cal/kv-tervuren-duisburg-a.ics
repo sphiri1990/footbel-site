@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KV Tervuren-Duisburg A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ed43704667@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:KV Tervuren-Duisburg A 0-3 KVV Kester-Gooik A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 10\nhttps://goalio.be
+ /fr/match/kv-tervuren-duisburg-a-kvv-kester-gooik-a-2026-11-01/
+URL:https://goalio.be/fr/match/kv-tervuren-duisburg-a-kvv-kester-gooik-a-20
+ 26-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6df539c4b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T144500Z
+SUMMARY:KV Tervuren-Duisburg A 0-3 KFC Herent A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 11\nhttps://goalio.be
+ /fr/match/kv-tervuren-duisburg-a-kfc-herent-a-2026-11-08/
+URL:https://goalio.be/fr/match/kv-tervuren-duisburg-a-kfc-herent-a-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38081e6616@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KHO Huizingen A 2-3 KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 12\nhttps://goalio.be
+ /fr/match/kho-huizingen-a-kv-tervuren-duisburg-a-2026-11-15/
+URL:https://goalio.be/fr/match/kho-huizingen-a-kv-tervuren-duisburg-a-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ab077db04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T130000Z
+DTEND:20261122T144500Z
+SUMMARY:KV Tervuren-Duisburg A 1-0 HO Wolvertem Merchtem
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 13\nhttps://goalio.be
+ /fr/match/kv-tervuren-duisburg-a-ho-wolvertem-merchtem-2026-11-22/
+URL:https://goalio.be/fr/match/kv-tervuren-duisburg-a-ho-wolvertem-merchtem
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34767b0252@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:BOKA United A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 14\nhttps://goalio.be
+ /fr/match/boka-united-a-kv-tervuren-duisburg-a-2026-11-29/
+URL:https://goalio.be/fr/match/boka-united-a-kv-tervuren-duisburg-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e4c974d57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:KV Tervuren-Duisburg A – SK Pepingen-Halle A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 15\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04b461ed1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:KV Tervuren-Duisburg A – Sporting Kampenhout A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 16\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2153a63309@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T193000Z
+DTEND:20270109T211500Z
+SUMMARY:KVV Kester-Gooik A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 17\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aff1830d6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T130000Z
+DTEND:20270117T144500Z
+SUMMARY:KV Tervuren-Duisburg A – Fenixx Beigem Humbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 18\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61283c4312@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:KFC Herent A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 19\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-434b8cb8d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T130000Z
+DTEND:20270131T144500Z
+SUMMARY:KV Tervuren-Duisburg A – KHO Huizingen A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 20\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7827a348f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T163000Z
+DTEND:20270213T181500Z
+SUMMARY:Eendr. Mazenzele Opwijk A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 21\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de3f12507e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:KV Tervuren-Duisburg A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 22\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3144f36161@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:SC Out-Hoegaarden A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 23\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8949717da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T130000Z
+DTEND:20270307T144500Z
+SUMMARY:KV Tervuren-Duisburg A – KSC Grimbergen A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 24\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51b1800fe3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:ERC Hoeilaart A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 25\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23545fb932@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:KV Tervuren-Duisburg A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 26\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da02f8f653@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:HO Wolvertem Merchtem – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 27\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a850c397f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SK Pepingen-Halle A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 28\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b877b14f67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:KV Tervuren-Duisburg A – VK Holsbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 29\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56b95d71df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HO Bierbeek A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 30\nhttps://goalio.be
+ /fr/equipe/kv-tervuren-duisburg-a/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

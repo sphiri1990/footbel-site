@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Honsfelder S.V. B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-cbed23bd8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:K. Honsfelder S.V. B 1-0 F.C. 1912 Raeren-Eynatten
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/k-honsfelder-s-v-b-f-c-1912-raeren-eynatten-2026-11-01/
+URL:https://goalio.be/fr/match/k-honsfelder-s-v-b-f-c-1912-raeren-eynatten-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-510340b237@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T124500Z
+DTEND:20261108T143000Z
+SUMMARY:Alliance Des Hautes Fagnes 3-1 K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 12\nhttps://goalio.be/fr/matc
+ h/alliance-des-hautes-fagnes-k-honsfelder-s-v-b-2026-11-08/
+URL:https://goalio.be/fr/match/alliance-des-hautes-fagnes-k-honsfelder-s-v-
+ b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96e178143f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:K. Honsfelder S.V. B 0-3 R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 13\nhttps://goalio.be/fr/matc
+ h/k-honsfelder-s-v-b-r-c-s-jalhaytois-4-prov-g-liege-2026-11-15/
+URL:https://goalio.be/fr/match/k-honsfelder-s-v-b-r-c-s-jalhaytois-4-prov-g
+ -liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71c6b237cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – K. Honsfelder S.V. B (remis)
+DESCRIPTION:4e provinciale Liège G\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-ent-lambermont-rechain-b-k-honsfelder-s-v-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-ent-lambermont-rechain-b-k-honsfelder-s-v-
+ b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf7f7cfda7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:K. Honsfelder S.V. B – R.F.C. De Goe
+DESCRIPTION:4e provinciale Liège G\nJournée 15\nhttps://goalio.be/fr/matc
+ h/k-honsfelder-s-v-b-r-f-c-de-goe-2026-11-29/
+URL:https://goalio.be/fr/match/k-honsfelder-s-v-b-r-f-c-de-goe-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06b8712f5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. Honsfelder S.V. B – R. Spa F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25ef892317@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:K. Honsfelder S.V. B – R. Baelen F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57f7eca821@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.C.S. Stavelotain B – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-056a9da3ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Honsfelder S.V. B – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-097aeb18fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:T.W. Waimes Faymonville – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-862e17e85d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:K. Honsfelder S.V. B – S.R. UN Verviers B
+DESCRIPTION:4e provinciale Liège G\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67beed555e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:FC Ster-Francorchamps – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc51aeb941@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:K. Honsfelder S.V. B – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9aff9e84d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b24bf39058@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:K. Honsfelder S.V. B – Alliance Des Hautes Fagnes
+DESCRIPTION:4e provinciale Liège G\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-243dde4e98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.C.S. Jalhaytois – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90c681a3e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Honsfelder S.V. B – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86502e857a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. De Goe – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/k-honsfelder-s-v-b/
+URL:https://goalio.be/fr/equipe/k-honsfelder-s-v-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

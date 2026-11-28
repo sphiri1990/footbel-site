@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Meux B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-meux-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2ef80c50e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:AC Lustin A 2-3 RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 11\nhttps://goalio.be/fr/match/
+ ac-lustin-a-rfc-meux-b-2026-11-01/
+URL:https://goalio.be/fr/match/ac-lustin-a-rfc-meux-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fcbffc00e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RFC Meux B 8-0 OC Nismes A
+DESCRIPTION:1re provinciale Namur\nJournée 12\nhttps://goalio.be/fr/match/
+ rfc-meux-b-oc-nismes-a-2026-11-08/
+URL:https://goalio.be/fr/match/rfc-meux-b-oc-nismes-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46a9db99d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R St Gedinnois A 1-5 RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 13\nhttps://goalio.be/fr/match/
+ r-st-gedinnois-a-rfc-meux-b-2026-11-14/
+URL:https://goalio.be/fr/match/r-st-gedinnois-a-rfc-meux-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a48d59424d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Chevetogne Foot A – RFC Meux B (remis)
+DESCRIPTION:1re provinciale Namur\nJournée 14\nhttps://goalio.be/fr/match/
+ chevetogne-foot-a-rfc-meux-b-2026-11-21/
+URL:https://goalio.be/fr/match/chevetogne-foot-a-rfc-meux-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59935bb70b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RFC Meux B – RJ Aischoise A
+DESCRIPTION:1re provinciale Namur\nJournée 15\nhttps://goalio.be/fr/match/
+ rfc-meux-b-rj-aischoise-a-2026-11-29/
+URL:https://goalio.be/fr/match/rfc-meux-b-rj-aischoise-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df1da01946@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RFC Meux B – RCS Condruzien A
+DESCRIPTION:1re provinciale Namur\nJournée 16\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ccbb80a25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RUS Loyers A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 17\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c824b20dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:RFC Meux B – FC Ligny A
+DESCRIPTION:1re provinciale Namur\nJournée 18\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26a3e74a59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RFC Grand-Leez A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 19\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d2e4c9063@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RFC Meux B – FC Naninnois A
+DESCRIPTION:1re provinciale Namur\nJournée 20\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82d83eb568@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Union Bossière Gembloux A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 21\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a373a8b31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Meux B – R.U.S. Dinantaise A
+DESCRIPTION:1re provinciale Namur\nJournée 22\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd97b55dc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:JS Taminoise A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 23\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0feea3ac0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Meux B – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 24\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f90d7f973c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:US Beauraing 61 A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 25\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5939412fdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RFC Meux B – AC Lustin A
+DESCRIPTION:1re provinciale Namur\nJournée 26\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54c7658f55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:OC Nismes A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 27\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c86739426@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RFC Meux B – R St Gedinnois A
+DESCRIPTION:1re provinciale Namur\nJournée 28\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0258e5fe9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Meux B – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 29\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad9e4a28f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RJ Aischoise A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 30\nhttps://goalio.be/fr/equipe
+ /rfc-meux-b/
+URL:https://goalio.be/fr/equipe/rfc-meux-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

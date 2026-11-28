@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:V. 's Herenelderen A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8d56bff63f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:V. 's Herenelderen A 2-2 E. Mech Bovelingen Opheers
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/v-s-herenelderen-a-e-mech-bovelingen-opheers-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/v-s-herenelderen-a-e-mech-bovelingen-oph
+ eers-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05573999f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261105T191500Z
+DTEND:20261105T210000Z
+SUMMARY:Lanaken VV A 2-2 V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/lanaken-vv-a-v-s-herenelderen-a-2026-11-05/
+URL:https://goalio.be/nl/wedstrijd/lanaken-vv-a-v-s-herenelderen-a-2026-11-
+ 05/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57c6e10fab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:V. 's Herenelderen A 1-1 Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/v-s-herenelderen-a-sp-kolmont-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/v-s-herenelderen-a-sp-kolmont-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9448aa67ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:HIH Hoepertingen A 2-3 V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/hih-hoepertingen-a-v-s-herenelderen-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/hih-hoepertingen-a-v-s-herenelderen-a-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-642228b125@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:V. 's Herenelderen A – VV Lummen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/v-s-herenelderen-a-vv-lummen-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/v-s-herenelderen-a-vv-lummen-a-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-308a5fc0bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:WS Linkhout A – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d296018b14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:V. 's Herenelderen A – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a38d96fc22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:SK Moelingen – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e3a06dd07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:V. 's Herenelderen A – UNICO Tongeren A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e632fdcc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:V. 's Herenelderen A – Lanaken VV A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e61ceb1b17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KMR Biesen A – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3438252507@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VV Lummen A – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d1afc0dbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:V. 's Herenelderen A – WS Linkhout A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08fc2a38e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:FC Diepenbeek A – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64cd6145e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:V. 's Herenelderen A – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ef3a17484@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Sp. Kolmont – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9f38e55c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:V. 's Herenelderen A – HIH Hoepertingen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b6285fc1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:V. 's Herenelderen A – K. Zw. FC Wiemismeer Zutend A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-325a724c7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:E. Mech Bovelingen Opheers – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c6aa98a5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:V. 's Herenelderen A – Juve Hasselt A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4dc749b0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RDK Gravelo – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/v-s-herenelderen-a/
+URL:https://goalio.be/nl/ploeg/v-s-herenelderen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

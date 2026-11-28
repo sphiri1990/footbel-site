@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Olympic Burst 2026 · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-10aea931f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VC Olympic Burst 2026 2-1 KSCDS Moorsel
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vc-olympic-burst-2026-kscds-moorsel-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vc-olympic-burst-2026-kscds-moorsel-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bad0d9a7ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:VC Olympic Burst 2026 5-1 FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vc-olympic-burst-2026-fcw-gijzegem-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vc-olympic-burst-2026-fcw-gijzegem-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18a2e04159@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K.S.K. Oudegem B 0-1 VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-oudegem-b-vc-olympic-burst-2026-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-oudegem-b-vc-olympic-burst-2026-20
+ 26-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-408a94943f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VC Olympic Burst 2026 2-0 KVE Winnik B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vc-olympic-burst-2026-kve-winnik-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vc-olympic-burst-2026-kve-winnik-b-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-814a68a344@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:VC Olympic Burst 2026 – VC Herzele-Ressegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1338d2f51a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VC Olympic Burst 2026 – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b3d715feb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KSCDS Moorsel – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce9ae9aa6d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VC Olympic Burst 2026 – SK Denderhoutem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac5072a2cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FCW Gijzegem – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d7d33354a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:VC Olympic Burst 2026 – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2a124271d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KVCE Nieuwerkerken – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-611fb44b05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VC Olympic Burst 2026 – SK Aaigem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5985f5cb2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VCO Meerbeke B – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5fe24b9af5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VC Olympic Burst 2026 – Jong SG Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf8762291a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SK Herdersem – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfaf88447c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVE Winnik B – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5254102e6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:VC Herzele-Ressegem B – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfa7061ab0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VC Olympic Burst 2026 – E Buggenhout B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e3c38120c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VKJ Neigem – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vc-olympic-burst-2026/
+URL:https://goalio.be/nl/ploeg/vc-olympic-burst-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

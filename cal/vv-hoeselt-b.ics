@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VV Hoeselt B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e76b1b6d1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T161500Z
+DTEND:20261031T180000Z
+SUMMARY:VV Hoeselt B 1-1 Riemst V.
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/vv-hoeselt-b-riemst-v-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vv-hoeselt-b-riemst-v-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bc3829824@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T174500Z
+SUMMARY:K. Zw. FC Wiemismeer Zutend B 4-5 VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-zw-fc-wiemismeer-zutend-b-vv-hoeselt-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-zw-fc-wiemismeer-zutend-b-vv-hoeselt-b
+ -2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f9db7f610@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T161500Z
+DTEND:20261114T180000Z
+SUMMARY:VV Hoeselt B 5-2 FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/vv-hoeselt-b-fc-herderen-millen-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/vv-hoeselt-b-fc-herderen-millen-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-613b427104@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:UNICO Tongeren B 3-4 VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/unico-tongeren-b-vv-hoeselt-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/unico-tongeren-b-vv-hoeselt-b-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14c192c375@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T161500Z
+DTEND:20261128T180000Z
+SUMMARY:VV Hoeselt B – Uikhoven VC
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/vv-hoeselt-b-uikhoven-vc-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/vv-hoeselt-b-uikhoven-vc-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80d6cfb345@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:V. 's Herenelderen B – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-496b7fae8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T161500Z
+DTEND:20261212T180000Z
+SUMMARY:VV Hoeselt B – Kortessemse VV B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be28b671b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T113000Z
+DTEND:20270110T131500Z
+SUMMARY:Zutendaal VV B – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-774fa52372@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T161500Z
+DTEND:20270116T180000Z
+SUMMARY:VV Hoeselt B – K. Zw. FC Wiemismeer Zutend B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d40d974c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T161500Z
+DTEND:20270123T180000Z
+SUMMARY:VV Hoeselt B – UNICO Tongeren B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e7606b125@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:JB Eigenbilzen A – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db84afc703@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T161500Z
+DTEND:20270213T180000Z
+SUMMARY:VV Hoeselt B – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c63ca10bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Herderen-Millen – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5066642f17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T161500Z
+DTEND:20270227T180000Z
+SUMMARY:VV Hoeselt B – Membruggen V&V
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3651f65254@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K.F. Smeermaas – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1d8c2a41f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T161500Z
+DTEND:20270313T180000Z
+SUMMARY:VV Hoeselt B – SK Vliermaalroot
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec749bbd9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Uikhoven VC – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-137595afe4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T151500Z
+DTEND:20270403T170000Z
+SUMMARY:VV Hoeselt B – V. 's Herenelderen B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc3d84c0d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T151500Z
+DTEND:20270417T170000Z
+SUMMARY:VV Hoeselt B – Lanaken VV B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34d8943e93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Riemst V. – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/vv-hoeselt-b/
+URL:https://goalio.be/nl/ploeg/vv-hoeselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

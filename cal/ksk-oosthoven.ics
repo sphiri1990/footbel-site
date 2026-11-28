@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK Oosthoven · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksk-oosthoven/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dccf15b3a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Olen United 4-3 KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/olen-united-ksk-oosthoven-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/olen-united-ksk-oosthoven-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a58a54106b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KSK Oosthoven 5-0 KFC Flandria
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksk-oosthoven-kfc-flandria-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/ksk-oosthoven-kfc-flandria-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0120781656@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC Heultje 2-0 KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-heultje-ksk-oosthoven-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-heultje-ksk-oosthoven-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e03b10079b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KSK Oosthoven 3-3 K. Blauwv. Oevel
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksk-oosthoven-k-blauwv-oevel-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksk-oosthoven-k-blauwv-oevel-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a38ba84d08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:RBW Molse SK 2-1 KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/rbw-molse-sk-ksk-oosthoven-2026-11-27/
+URL:https://goalio.be/nl/wedstrijd/rbw-molse-sk-ksk-oosthoven-2026-11-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-653324539f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KSK Oosthoven – K Witgoor Sp Dessel B
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5569e6b8d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Beekhoek Sp. – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f74ce4c042@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KSK Oosthoven – KFC Tongerlo
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f3acbd971@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:VC Westerlo Kemphanen – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e95789f04b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KFC Mol – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7497c4a0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KSK Oosthoven – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ddec55bb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Verbr. Alberta – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-471236105b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KSK Oosthoven – KVV Rauw Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92187a8cce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KFC Flandria – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-326aff2815@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KSK Oosthoven – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e88b66af36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K Witgoor Sp Dessel B – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-293803fcfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Blauwv. Oevel – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f9cfc3abb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KSK Oosthoven – Olen United
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-532d2f90dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:VV-NEXT Laakdal A – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55efedb65b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSK Oosthoven – KFC Heultje
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/ksk-oosthoven/
+URL:https://goalio.be/nl/ploeg/ksk-oosthoven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

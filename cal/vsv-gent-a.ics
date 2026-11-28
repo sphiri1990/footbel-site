@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VSV Gent A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vsv-gent-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bdbb5992eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VSV Gent A 2-0 SK Wichelen
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vsv-gent-a-sk-wichelen-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vsv-gent-a-sk-wichelen-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4626c61ab2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:FCSKV Overmere 2-0 VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/fcskv-overmere-vsv-gent-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fcskv-overmere-vsv-gent-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3c7e61f66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VSV Gent A 1-1 SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vsv-gent-a-skl-doorslaar-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vsv-gent-a-skl-doorslaar-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3781085b67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KFCJ Schoonaarde B 1-4 VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kfcj-schoonaarde-b-vsv-gent-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kfcj-schoonaarde-b-vsv-gent-a-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab46dc02f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VSV Gent A – SK Lochristi
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vsv-gent-a-sk-lochristi-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vsv-gent-a-sk-lochristi-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1762a25296@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:KVC Melle – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc97bfb639@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VSV Gent A – KFV HEDES Heusden-Destelbergen A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f573e63f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VSV Gent A – FCDKG Beervelde
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e26dcef6a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KVVS Sersk-Schellebelle B – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45703282c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VSV Gent A – FCSKV Overmere
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afae2b0343@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SKL Doorslaar B – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c67be9b6d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SK Lochristi – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd8336230a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VSV Gent A – K.S.K. Oudegem A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d4b606c11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:SK Wichelen – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4bdae17023@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VSV Gent A – KVV Windeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e7070ac7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Edeboys – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6dbceda408@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VSV Gent A – FCT Melle
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c5eb2e9d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VSV Gent A – KFCJ Schoonaarde B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d61972f53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFCHO Kalken B – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d310bc20bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VSV Gent A – KVC Melle
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64a7ab9f9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VW Gijzel-Oosterzele – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vsv-gent-a/
+URL:https://goalio.be/nl/ploeg/vsv-gent-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

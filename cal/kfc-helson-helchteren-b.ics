@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Helson Helchteren B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-920500a480@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:KFC Helson Helchteren B 2-4 KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/kfc-helson-helchteren-b-kfc-ham-united-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-helson-helchteren-b-kfc-ham-united-2
+ 026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b79cecf4d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Turkse FC B 2-5 KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/turkse-fc-b-kfc-helson-helchteren-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/turkse-fc-b-kfc-helson-helchteren-b-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-922b509549@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T163000Z
+DTEND:20261114T181500Z
+SUMMARY:KFC Helson Helchteren B 2-2 VV Lummen B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/kfc-helson-helchteren-b-vv-lummen-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-helson-helchteren-b-vv-lummen-b-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e40c0dd76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KFC Helson Helchteren B 1-4 WS Linkhout B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/kfc-helson-helchteren-b-ws-linkhout-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfc-helson-helchteren-b-ws-linkhout-b-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6aa9eccaa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Beringen F.C. – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/beringen-f-c-kfc-helson-helchteren-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/beringen-f-c-kfc-helson-helchteren-b-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46660ea40c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:KFC Helson Helchteren B – KVV Heusden-Zolder B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8610378ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:FC Paal-Tervant B – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cf065db80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
+SUMMARY:KFC Helson Helchteren B – K. ESK Leopoldsburg B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea51c92bb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T163000Z
+DTEND:20270123T181500Z
+SUMMARY:KFC Helson Helchteren B – K. FC Anadol B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83172359f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Verbroedering Loksbergen – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-503951e077@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T163000Z
+DTEND:20270213T181500Z
+SUMMARY:KFC Helson Helchteren B – Beringen F.C.
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aaa6a0e69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Bolderberg FC – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e546a56685@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T163000Z
+DTEND:20270227T181500Z
+SUMMARY:KFC Helson Helchteren B – Turkse FC B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97d84fb919@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:VV Lummen B – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3752566499@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T163000Z
+DTEND:20270313T181500Z
+SUMMARY:KFC Helson Helchteren B – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc9729c39d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:WS Linkhout B – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1877f4419a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T153000Z
+DTEND:20270403T171500Z
+SUMMARY:KFC Helson Helchteren B – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3631830c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:KVV Heusden-Zolder B – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb774b40ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:KFC Helson Helchteren B – HSC Beringen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2de130ca5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Ham United – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/kfc-helson-helchteren-b/
+URL:https://goalio.be/nl/ploeg/kfc-helson-helchteren-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

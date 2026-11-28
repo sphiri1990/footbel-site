@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VV Sp Ursel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vv-sp-ursel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-36fe5dcf6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VV Sp Ursel 2-4 KSCE Mariakerke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vv-sp-ursel-ksce-mariakerke-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vv-sp-ursel-ksce-mariakerke-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf2bd52a97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Kaprijke-Bentille 1-2 VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/fc-kaprijke-bentille-vv-sp-ursel-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-kaprijke-bentille-vv-sp-ursel-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c98065577@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VV Sp Ursel 0-0 KFCE Belzele Evergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vv-sp-ursel-kfce-belzele-evergem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vv-sp-ursel-kfce-belzele-evergem-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24b845c36e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:SK Wachtebeke 2-1 VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sk-wachtebeke-vv-sp-ursel-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/sk-wachtebeke-vv-sp-ursel-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f0556c682@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VV Sp Ursel – KVE Aalter B
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vv-sp-ursel-kve-aalter-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vv-sp-ursel-kve-aalter-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3442c94ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KVV Zomergem – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ee4ed7c27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VV Sp Ursel – SK Bellem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f6d8bb3df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VVE Hansbeke A – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb8c98cb9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VV Sp Ursel – St Muide Gent
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-294c46075c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VV Sp Ursel – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0432b80ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Daring Maria-Aalter – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e24e9a2812@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:KVE Aalter B – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3edc6c12ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VV Sp Ursel – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-279a471737@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Goalgetters Sint-Laureins A – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e44dde31a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VV Sp Ursel – E Vinkt
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cc725c0c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFCE Belzele Evergem – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e647015714@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VV Sp Ursel – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecfea83c60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VV Sp Ursel – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca4760081d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KSCE Mariakerke – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6e6e291eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VV Sp Ursel – KFC St-Kruis-W
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f03a97cace@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Knesselare – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vv-sp-ursel/
+URL:https://goalio.be/nl/ploeg/vv-sp-ursel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

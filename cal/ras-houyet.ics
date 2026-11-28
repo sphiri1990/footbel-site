@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAS Houyet · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ras-houyet/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a59b6827f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RAS Houyet 0-3 ES Petigny-Frasnes A
+DESCRIPTION:2e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /ras-houyet-es-petigny-frasnes-a-2026-11-01/
+URL:https://goalio.be/fr/match/ras-houyet-es-petigny-frasnes-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8223ee9c00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RUS Biesme B 6-2 RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /rus-biesme-b-ras-houyet-2026-11-08/
+URL:https://goalio.be/fr/match/rus-biesme-b-ras-houyet-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b7ec2095f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RAS Houyet 0-1 RFC Surice A
+DESCRIPTION:2e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /ras-houyet-rfc-surice-a-2026-11-15/
+URL:https://goalio.be/fr/match/ras-houyet-rfc-surice-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c48286359@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RAS Houyet – Sp Exc Jemeppe A (remis)
+DESCRIPTION:2e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /ras-houyet-sp-exc-jemeppe-a-2026-11-22/
+URL:https://goalio.be/fr/match/ras-houyet-sp-exc-jemeppe-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09ce4d6a9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:US Thy-Chateau A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /us-thy-chateau-a-ras-houyet-2026-11-29/
+URL:https://goalio.be/fr/match/us-thy-chateau-a-ras-houyet-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-386512b6df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R Dinant FC A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1f098900b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RAS Houyet – R Exc FC Moustier A
+DESCRIPTION:2e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b62906ff97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:RFC Bioul 81 A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbf248e0ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RAS Houyet – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-066b734930@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Malonne 2000 A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfa30101a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RAS Houyet – RCS Profondeville A
+DESCRIPTION:2e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f67106d613@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-041d3066ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RAS Houyet – RUS Pondrome A
+DESCRIPTION:2e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8126a00e1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Somzée A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12874700a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RAS Houyet – FCE Tarciennois A
+DESCRIPTION:2e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64e6607e12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:ES Petigny-Frasnes A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e660e05b4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RAS Houyet – RUS Biesme B
+DESCRIPTION:2e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7a874ca0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RFC Surice A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f57a263bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Sp Exc Jemeppe A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eef452667a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RAS Houyet – US Thy-Chateau A
+DESCRIPTION:2e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/ras-houyet/
+URL:https://goalio.be/fr/equipe/ras-houyet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

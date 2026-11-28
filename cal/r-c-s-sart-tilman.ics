@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. Sart Tilman · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c82884a57a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:C.S. Juprelle 0-1 R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/c-s-juprelle-3-prov-b-liege-r-c-s-sart-tilman-2026-11-01/
+URL:https://goalio.be/fr/match/c-s-juprelle-3-prov-b-liege-r-c-s-sart-tilma
+ n-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d0f549722@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T150000Z
+DTEND:20261108T164500Z
+SUMMARY:R.C.S. Sart Tilman 9-1 S.C. Oneutois
+DESCRIPTION:3e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-c-s-sart-tilman-s-c-oneutois-2026-11-08/
+URL:https://goalio.be/fr/match/r-c-s-sart-tilman-s-c-oneutois-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-666a3c6337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T150000Z
+DTEND:20261115T164500Z
+SUMMARY:R.C.S. Sart Tilman 2-2 J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-c-s-sart-tilman-j-s-pierreuse-2026-11-15/
+URL:https://goalio.be/fr/match/r-c-s-sart-tilman-j-s-pierreuse-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bc05d6b97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Harzé F.C. – R.C.S. Sart Tilman (remis)
+DESCRIPTION:3e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-harze-f-c-r-c-s-sart-tilman-2026-11-22/
+URL:https://goalio.be/fr/match/r-harze-f-c-r-c-s-sart-tilman-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6611a6a08f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T164500Z
+SUMMARY:R.C.S. Sart Tilman – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-c-s-sart-tilman-f-c-jupille-2026-11-29/
+URL:https://goalio.be/fr/match/r-c-s-sart-tilman-f-c-jupille-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-794898b804@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T150000Z
+DTEND:20261206T164500Z
+SUMMARY:R.C.S. Sart Tilman – R. Ougrée FC.
+DESCRIPTION:3e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bcc7256983@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:J.S. Hognouloise – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1be04d1a9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.C.S. Sart Tilman – R.S.C. Beaufays B
+DESCRIPTION:3e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69911f8d3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R.U.S. Gold Star Liège – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89c1ffbbd5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T150000Z
+DTEND:20270124T164500Z
+SUMMARY:R.C.S. Sart Tilman – All. Fexhe Et Slins - Fragnee
+DESCRIPTION:3e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f529878e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Illyrian Blegny – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8808156bd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T150000Z
+DTEND:20270214T164500Z
+SUMMARY:R.C.S. Sart Tilman – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0564e7fa78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Seraing Athletique R.F.C. – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e8919d643@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. Sart Tilman – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ddf6f9916@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T143000Z
+DTEND:20270314T161500Z
+SUMMARY:R. Union Flémalloise B – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d15ac8c990@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Sart Tilman – C.S. Juprelle
+DESCRIPTION:3e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80bc9a079a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:S.C. Oneutois – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a241cd8a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. Pierreuse – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dacc53948@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.C.S. Sart Tilman – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fded333e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Jupille – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-c-s-sart-tilman/
+URL:https://goalio.be/fr/equipe/r-c-s-sart-tilman/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

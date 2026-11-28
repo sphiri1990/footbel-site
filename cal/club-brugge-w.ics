@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club Brugge W · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/club-brugge-w/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7dbfe628eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T123000Z
+DTEND:20261107T141500Z
+SUMMARY:Club Brugge W 1-1 OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 8\nhttps://goalio.be/fr/match/
+ club-brugge-w-oh-leuven-w-2026-11-07/
+URL:https://goalio.be/fr/match/club-brugge-w-oh-leuven-w-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8392c4d8d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Standard Liège W 0-2 Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 10\nhttps://goalio.be/fr/match
+ /standard-liege-w-club-brugge-w-2026-11-21/
+URL:https://goalio.be/fr/match/standard-liege-w-club-brugge-w-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5043423540@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T150000Z
+DTEND:20261212T164500Z
+SUMMARY:Club Brugge W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 11\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-259d524210@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261215T190000Z
+DTEND:20261215T204500Z
+SUMMARY:Anderlecht W – Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 9\nhttps://goalio.be/fr/equipe
+ /club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01c5e060c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T123000Z
+DTEND:20261219T141500Z
+SUMMARY:Gent W – Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 12\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2cee9179d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T150000Z
+DTEND:20270109T164500Z
+SUMMARY:Club Brugge W – Zulte Waregem W
+DESCRIPTION:Super League féminine\nJournée 13\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a50d4e44f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T123000Z
+DTEND:20270116T141500Z
+SUMMARY:Genk W – Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 14\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3d5ef5ad2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T150000Z
+DTEND:20270123T164500Z
+SUMMARY:Club Brugge W – Anderlecht W
+DESCRIPTION:Super League féminine\nJournée 15\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-368a6b09e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T150000Z
+DTEND:20270130T164500Z
+SUMMARY:Club Brugge W – Gent W
+DESCRIPTION:Super League féminine\nJournée 16\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-224b758bd9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T183000Z
+DTEND:20270206T201500Z
+SUMMARY:Standard Liège W – Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 17\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7ea73b155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270212T190000Z
+DTEND:20270212T204500Z
+SUMMARY:Genk W – Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 18\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21fd1b5f25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T150000Z
+DTEND:20270220T164500Z
+SUMMARY:Club Brugge W – OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 19\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-801e5b19ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:RAAL La Louvière W – Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 20\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e399c2feb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T150000Z
+DTEND:20270320T164500Z
+SUMMARY:Club Brugge W – Zulte Waregem W
+DESCRIPTION:Super League féminine\nJournée 21\nhttps://goalio.be/fr/equip
+ e/club-brugge-w/
+URL:https://goalio.be/fr/equipe/club-brugge-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

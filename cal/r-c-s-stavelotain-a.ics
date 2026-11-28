@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. Stavelotain A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c5e23f0d8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:S.G. Rapid Oudler 0-0 R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/s-g-rapid-oudler-r-c-s-stavelotain-a-2026-11-01/
+URL:https://goalio.be/fr/match/s-g-rapid-oudler-r-c-s-stavelotain-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c421bbe126@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.C.S. Stavelotain A 1-3 Königlicher Honsfelder S.V.
+DESCRIPTION:2e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-c-s-stavelotain-a-koniglicher-honsfelder-s-v-2026-11-08/
+URL:https://goalio.be/fr/match/r-c-s-stavelotain-a-koniglicher-honsfelder-s
+ -v-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32d7f830be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Battice F.C. A 1-1 R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-battice-f-c-a-r-c-s-stavelotain-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-battice-f-c-a-r-c-s-stavelotain-a-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89736a244c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.C.S. Stavelotain A – R.F.C. Sart-Lez-Spa (remis)
+DESCRIPTION:2e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-c-s-stavelotain-a-r-f-c-sart-lez-spa-2026-11-22/
+URL:https://goalio.be/fr/match/r-c-s-stavelotain-a-r-f-c-sart-lez-spa-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85fe96dbeb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:ET. Elsautoise B – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/et-elsautoise-b-r-c-s-stavelotain-a-2026-11-29/
+URL:https://goalio.be/fr/match/et-elsautoise-b-r-c-s-stavelotain-a-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bee375c4bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.C.S. Stavelotain A – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2972b77748@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R. FC Rocherath – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7ed1d44f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.C.S. Stavelotain A – Royale Entente Lambermont-Rechain
+DESCRIPTION:2e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-128d4c7199@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.F.C. 1924 St-Vith – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c11a5544db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.C.S. Stavelotain A – R. St. F.C. Andrimont
+DESCRIPTION:2e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb287844a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Stade Vervietois – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3c524a426@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.C.S. Stavelotain A – R.F.C. Xhoffraix
+DESCRIPTION:2e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fcafe3b33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.R.C. Trois-Ponts – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63cda6ff9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. Stavelotain A – K.F.C. Grün-Weiss Amel
+DESCRIPTION:2e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13ab60c4c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.A.F. Franchimontois – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5080335376@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Stavelotain A – S.G. Rapid Oudler
+DESCRIPTION:2e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45880fd87b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Königlicher Honsfelder S.V. – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af04b7f691@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.C.S. Stavelotain A – R. Battice F.C. A
+DESCRIPTION:2e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edcb12b5dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Sart-Lez-Spa – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-855f2e5f70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Stavelotain A – ET. Elsautoise B
+DESCRIPTION:2e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-a/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

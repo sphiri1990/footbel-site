@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Heist A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-heist-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-00a36e07bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:K. SK Beveren-Leie A 1-1 K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 10\nhttps://goalio.be/
+ nl/wedstrijd/k-sk-beveren-leie-a-k-fc-heist-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-sk-beveren-leie-a-k-fc-heist-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e859e68f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. FC Heist A 0-1 K. RC Bissegem
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 11\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-heist-a-k-rc-bissegem-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-fc-heist-a-k-rc-bissegem-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60de6fd156@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:K. FC Marke A 3-1 K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 12\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-marke-a-k-fc-heist-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-fc-marke-a-k-fc-heist-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a23e94a6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:S.V. Wevelgem City A 1-0 K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 13\nhttps://goalio.be/
+ nl/wedstrijd/s-v-wevelgem-city-a-k-fc-heist-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/s-v-wevelgem-city-a-k-fc-heist-a-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4590a9c6d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:K. FC Heist A – Club Roeselare
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 14\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-heist-a-club-roeselare-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-fc-heist-a-club-roeselare-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62deab7f68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Sp. Heestert A – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 15\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-284a38aefd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. FC Heist A – K. SK Beveren-Leie A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 16\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27ebe454dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:K. RC Bissegem – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 17\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecc0bed88f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:K. FC Heist A – K. VC Ardooie A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 18\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cbc291ee3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:K. SV Veurne A – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 19\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b68a1b4c00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K. FC Heist A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 20\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fba4280af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. FC Heist A – SV Ingelmunster A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 21\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ddd94e572@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T173000Z
+DTEND:20270220T191500Z
+SUMMARY:KFC Aalbeke Sport A – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 22\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90a848793a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. FC Heist A – K.R.C. Waregem A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 23\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85865b90b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T173000Z
+DTEND:20270306T191500Z
+SUMMARY:K. Eendr. Wervik A – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 24\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8154ca4bab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. FC Heist A – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 25\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eb514927b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K.S.C. Wielsbeke – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 26\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-974b2b4f36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. FC Heist A – FC Sp. Heestert A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 27\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-208892f63c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Club Roeselare – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 28\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-503a10a700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. FC Heist A – S.V. Wevelgem City A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 29\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c6c0ab0d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Sassp. Boezinge A – K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 30\nhttps://goalio.be/
+ nl/ploeg/k-fc-heist-a/
+URL:https://goalio.be/nl/ploeg/k-fc-heist-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

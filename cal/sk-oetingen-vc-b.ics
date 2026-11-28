@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Oetingen VC B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d2d219b5b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:SK Oetingen VC B 2-4 KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-oetingen-vc-b-kho-huizingen-b-2026-10-31/
+URL:https://goalio.be/fr/match/sk-oetingen-vc-b-kho-huizingen-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99154b92b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Lennik B 2-2 SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kfc-lennik-b-sk-oetingen-vc-b-2026-11-07/
+URL:https://goalio.be/fr/match/kfc-lennik-b-sk-oetingen-vc-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f9ad1a6aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:SK Oetingen VC B 1-0 KVC Linkebeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/sk-oetingen-vc-b-kvc-linkebeek-2026-11-14/
+URL:https://goalio.be/fr/match/sk-oetingen-vc-b-kvc-linkebeek-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5ae7bebb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:KVV Kester-Gooik B 2-1 SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/kvv-kester-gooik-b-sk-oetingen-vc-b-2026-11-21/
+URL:https://goalio.be/fr/match/kvv-kester-gooik-b-sk-oetingen-vc-b-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a606f4fb6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:SK Oetingen VC B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/sk-oetingen-vc-b-s-k-beersel-2026-11-28/
+URL:https://goalio.be/fr/match/sk-oetingen-vc-b-s-k-beersel-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30758e6c9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:FC Herne B – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf0f09579c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:SK Oetingen VC B – KFC Lennik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f079e80429@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:SK Oetingen VC B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b271fc7ea7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:SK Pepingen-Halle B – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79e3a24bd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:SK Oetingen VC B – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29c4511369@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Negenmanneke – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-147d288c57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:SK Oetingen VC B – KFC MZ Tollembeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-821fe2c72b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:SK Oetingen VC B – KFC Av. Lembeek B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e204bd201@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KHO Huizingen B – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf20078510@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:SK Oetingen VC B – KVV Kester-Gooik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67f0054ab3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:S.K. Beersel – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cfc435347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:SK Oetingen VC B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46be466827@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:SK Oetingen VC B – FC Galmaarden B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c078429a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVC Linkebeek – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/sk-oetingen-vc-b/
+URL:https://goalio.be/fr/equipe/sk-oetingen-vc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

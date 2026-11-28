@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Heffen SK · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/heffen-sk/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-516172fdb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Heffen SK 2-2 K.S.K. Wavria B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/heffen-sk-k-s-k-wavria-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/heffen-sk-k-s-k-wavria-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dee0b02a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Zenn. Hombeek 3-4 Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/zenn-hombeek-heffen-sk-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/zenn-hombeek-heffen-sk-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-960c8f7dbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Heffen SK 4-2 K. VV Duffel
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/heffen-sk-k-vv-duffel-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/heffen-sk-k-vv-duffel-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e2189ec61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Heffen SK 3-2 Football Club Duffel B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/heffen-sk-football-club-duffel-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/heffen-sk-football-club-duffel-b-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e46506fe3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Lint – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-lint-heffen-sk-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-lint-heffen-sk-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5f500043b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Heffen SK – K.S.C. Mechelen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40278aa86e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. BO Beerzel FC – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4237c9a5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Heffen SK – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f61e7e381@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Atletico Adler FC Bonheiden – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b285c3955@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Heffen SK – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b54e1b555@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Football Club Duffel B – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcd66a6099@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. VV Duffel – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84faca4d80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Heffen SK – Zenn. Hombeek
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae34654ad3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T120000Z
+DTEND:20270228T134500Z
+SUMMARY:K.S.K. Wavria B – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b32439417a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Heffen SK – KV Bonheiden B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b25c12274@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Heffen SK – KFC Lint
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b00e54c17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:SV Grasheide – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0a99463b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Heffen SK – K.F.C. Putte B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffbfe65afe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K.S.C. Mechelen – Heffen SK
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f23f3fba6d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Heffen SK – KV Hooikt
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/heffen-sk/
+URL:https://goalio.be/nl/ploeg/heffen-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

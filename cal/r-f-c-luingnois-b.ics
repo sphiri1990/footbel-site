@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Luingnois B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a511def9bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:R.F.C. Luingnois B 1-2 R.U.S. Hensies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-f-c-luingnois-b-r-u-s-hensies-a-2026-10-31/
+URL:https://goalio.be/fr/match/r-f-c-luingnois-b-r-u-s-hensies-a-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e659fb61f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:A.C. Estaimbourg A 8-0 R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/a-c-estaimbourg-a-r-f-c-luingnois-b-2026-11-08/
+URL:https://goalio.be/fr/match/a-c-estaimbourg-a-r-f-c-luingnois-b-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f15778c6ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:R.F.C. Luingnois B 1-2 R.U.S. Beloeil A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-f-c-luingnois-b-r-u-s-beloeil-a-2026-11-14/
+URL:https://goalio.be/fr/match/r-f-c-luingnois-b-r-u-s-beloeil-a-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fb416bf36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/cs-pays-vert-ostiches-ath-b-r-f-c-luingnois-b-2026-11-22/
+URL:https://goalio.be/fr/match/cs-pays-vert-ostiches-ath-b-r-f-c-luingnois-
+ b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b76b9d8030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:R.F.C. Luingnois B – J.S. Isièroise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-f-c-luingnois-b-j-s-isieroise-a-2026-11-28/
+URL:https://goalio.be/fr/match/r-f-c-luingnois-b-j-s-isieroise-a-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b66220c6be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:R.F.C. Luingnois B – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b9ccaef26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Péruwelz FC A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5c8106b25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Enghiennois B – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ccc8f2c58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:R.F.C. Luingnois B – J.S. Meslin-Grand Marais A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71c40898b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:A.C. Anvaing A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8609307c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.F.C. Luingnois B – DR Rongy A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0113ef9e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:ASS. Montkainoise A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ea21561dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.F.C. Luingnois B – R.U.S. Herseautoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30a1f107d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:A.S. Obigies A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09e027a7da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:R.F.C. Luingnois B – R.F.C. Wiersien A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd11c377c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.U.S. Hensies A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cda36f9858@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:R.F.C. Luingnois B – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2355512b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.U.S. Beloeil A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bd392bdd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Luingnois B – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-160c81af69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Isièroise A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-luingnois-b/
+URL:https://goalio.be/fr/equipe/r-f-c-luingnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Athusien · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-athusien/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-56bb7bf3b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.S.C. Athusien 6-1 US Waltzing-Bonnert
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/r-s-c-athusien-us-waltzing-bonnert-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-c-athusien-us-waltzing-bonnert-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89215fbb5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.C. Athusien 4-0 RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/r-s-c-athusien-rac-saint-mard-b-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-c-athusien-rac-saint-mard-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18bed71fed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:ES Meix-Le-Tige – R.S.C. Athusien (remis)
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/es-meix-le-tige-r-s-c-athusien-2026-11-22/
+URL:https://goalio.be/fr/match/es-meix-le-tige-r-s-c-athusien-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82af7eb2d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.S.C. Athusien – RUS Etalle
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/r-s-c-athusien-rus-etalle-2026-11-29/
+URL:https://goalio.be/fr/match/r-s-c-athusien-rus-etalle-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88fa1f3200@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261202T190000Z
+DTEND:20261202T204500Z
+SUMMARY:RUS Etalle – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 1\nhttps://goalio.be/fr/m
+ atch/rus-etalle-r-s-c-athusien-2026-12-02/
+URL:https://goalio.be/fr/match/rus-etalle-r-s-c-athusien-2026-12-02/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e96bceee2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.S.C. Athusien – RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7db7742b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Ecl. Sp. Signeulx – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d279e464cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.S.C. Athusien – R. Jeun. Freylangeoise
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3a1426d75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:UN R. St-Louis-St-Léger – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50e8eca27b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S.C. Athusien – ES Châtillon
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cef918c0a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:CS Toernich – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe6b54c632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.S.C. Athusien – Ethe-Belmont FC
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eac45f5592@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.S.C. Rachecourt – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08da618354@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:US Waltzing-Bonnert – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99ce463c97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RAC Saint-Mard B – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-s-c-athusien/
+URL:https://goalio.be/fr/equipe/r-s-c-athusien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

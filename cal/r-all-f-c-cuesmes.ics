@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. All. F.C. Cuesmes · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-900d4d99cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. All. F.C. Cuesmes 1-14 R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-all-f-c-cuesmes-r-a-s-ghlinoise-2026-11-01/
+URL:https://goalio.be/fr/match/r-all-f-c-cuesmes-r-a-s-ghlinoise-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59db6aada3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S.C. Wasmes 4-0 R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-s-c-wasmes-4-prov-c-hainaut-r-all-f-c-cuesmes-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-wasmes-4-prov-c-hainaut-r-all-f-c-cues
+ mes-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed1334f486@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. All. F.C. Cuesmes 0-1 A.S. Quiévrain-Wasmuel
+DESCRIPTION:4e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-all-f-c-cuesmes-a-s-quievrain-wasmuel-4-prov-c-hainaut-2026-11-15/
+URL:https://goalio.be/fr/match/r-all-f-c-cuesmes-a-s-quievrain-wasmuel-4-pr
+ ov-c-hainaut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93681a76ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Entente Sportive Elouges Dour – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/entente-sportive-elouges-dour-r-all-f-c-cuesmes-2026-11-22/
+URL:https://goalio.be/fr/match/entente-sportive-elouges-dour-r-all-f-c-cues
+ mes-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecd3807940@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. All. F.C. Cuesmes – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-all-f-c-cuesmes-r-l-c-hornu-2026-11-29/
+URL:https://goalio.be/fr/match/r-all-f-c-cuesmes-r-l-c-hornu-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e0269d14a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. All. F.C. Cuesmes – FC Quévy Genly
+DESCRIPTION:4e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56ce6bfdd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.S.C. Paturageois – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52ad0e4bcd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. All. F.C. Cuesmes – R. Léopold Club Mesvinois
+DESCRIPTION:4e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7019bf810@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Union Sporting Club Jemappes – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b4719246c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Olympique Club Ghlin – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37d87ecdfe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. All. F.C. Cuesmes – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fdaf95f8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Sainte-Odile Elouges – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11808aa153@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. All. F.C. Cuesmes – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4015528d39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Entente Mons Nord – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e853f69f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. All. F.C. Cuesmes – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0152445e33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.A.S. Ghlinoise – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a02fbcbca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. All. F.C. Cuesmes – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-497497e95e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e228015bf4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. All. F.C. Cuesmes – Entente Sportive Elouges Dour
+DESCRIPTION:4e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dbe4ced3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.L.C. Hornu – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-all-f-c-cuesmes/
+URL:https://goalio.be/fr/equipe/r-all-f-c-cuesmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC St-Germain · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-st-germain/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-174dd4c4d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T173000Z
+DTEND:20261101T191500Z
+SUMMARY:RUS Loyers B 2-2 FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /rus-loyers-b-fc-st-germain-2026-11-01/
+URL:https://goalio.be/fr/match/rus-loyers-b-fc-st-germain-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcba61c0ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC St-Germain 4-1 FC Ligny B
+DESCRIPTION:3e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /fc-st-germain-fc-ligny-b-2026-11-08/
+URL:https://goalio.be/fr/match/fc-st-germain-fc-ligny-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0eadb32916@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RFC Grand-Leez B 2-2 FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /rfc-grand-leez-b-fc-st-germain-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-grand-leez-b-fc-st-germain-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e0e4ec3f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC St-Germain – FC Naninnois B (remis)
+DESCRIPTION:3e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /fc-st-germain-fc-naninnois-b-2026-11-22/
+URL:https://goalio.be/fr/match/fc-st-germain-fc-naninnois-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-166e075caa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RSC Petit-Waret A – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /rsc-petit-waret-a-fc-st-germain-2026-11-29/
+URL:https://goalio.be/fr/match/rsc-petit-waret-a-fc-st-germain-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da4ebf6a0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RFC Temploux-Suarlée – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21e5073d20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC St-Germain – RFC Rhisnois B
+DESCRIPTION:3e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ad2500ca9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC St-Germain – CS Wépionnais B
+DESCRIPTION:3e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04f665d5fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:US Emines B – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-397d8452a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC St-Germain – RAC Leuze-Longchamps A
+DESCRIPTION:3e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eebbe4c438@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SC Mazycien A – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc1fd2b6dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC St-Germain – ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f15f31868d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FCO Namur – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdea0b1437@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC St-Germain – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d2daf6619@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:WA Sauvenière A – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f2423f411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC St-Germain – RUS Loyers B
+DESCRIPTION:3e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1c09092b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Ligny B – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-268c029310@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC St-Germain – RFC Grand-Leez B
+DESCRIPTION:3e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f3e815eb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Naninnois B – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e38dc03a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC St-Germain – RSC Petit-Waret A
+DESCRIPTION:3e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/fc-st-germain/
+URL:https://goalio.be/fr/equipe/fc-st-germain/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

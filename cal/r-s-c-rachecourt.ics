@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Rachecourt · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b250cfb21a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.S.C. Rachecourt 4-1 R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/r-s-c-rachecourt-r-ecl-sp-signeulx-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-c-rachecourt-r-ecl-sp-signeulx-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f25d047df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.S.C. Rachecourt 4-2 US Waltzing-Bonnert
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/r-s-c-rachecourt-us-waltzing-bonnert-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-rachecourt-us-waltzing-bonnert-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a898a3d84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Jeun. Freylangeoise 6-1 R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/r-jeun-freylangeoise-r-s-c-rachecourt-2026-11-15/
+URL:https://goalio.be/fr/match/r-jeun-freylangeoise-r-s-c-rachecourt-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1ba258c96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.S.C. Rachecourt – UN R. St-Louis-St-Léger (remis)
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/r-s-c-rachecourt-un-r-st-louis-st-leger-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-rachecourt-un-r-st-louis-st-leger-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c12384d55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RAC Saint-Mard B – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ac3ccf66b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.S.C. Rachecourt – ES Châtillon
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3020489d59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RUS Etalle – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3aec97f7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.S.C. Rachecourt – CS Toernich
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ace87f443@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:ES Meix-Le-Tige – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8236163e0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.S.C. Rachecourt – Ethe-Belmont FC
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34e6611e10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RSC Tontelange – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eac45f5592@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.S.C. Rachecourt – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6b60c4295@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Ecl. Sp. Signeulx – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5a1ca4a9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:US Waltzing-Bonnert – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47849ca243@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Rachecourt – R. Jeun. Freylangeoise
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-s-c-rachecourt/
+URL:https://goalio.be/fr/equipe/r-s-c-rachecourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

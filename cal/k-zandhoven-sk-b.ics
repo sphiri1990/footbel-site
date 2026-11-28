@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Zandhoven SK B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-34b2dbd591@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:SK sGravenwezel-Schilde B 2-1 K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/sk-sgravenwezel-schilde-b-k-zandhoven-sk-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/sk-sgravenwezel-schilde-b-k-zandhoven-sk
+ -b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4054fb9407@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:K. Zandhoven SK B 3-2 FCM Hallaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-zandhoven-sk-b-fcm-hallaar-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-zandhoven-sk-b-fcm-hallaar-b-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b13ca4d5c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VC Herentals 5-0 K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/vc-herentals-k-zandhoven-sk-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vc-herentals-k-zandhoven-sk-b-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f861dc0d59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Wiekevorst Sp. – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/wiekevorst-sp-k-zandhoven-sk-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/wiekevorst-sp-k-zandhoven-sk-b-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f8eda124e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:K. Zandhoven SK B – KFC Berlaar-Heikant B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eb0d0d876@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:KVV OG Vorselaar B – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a8f655be3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:VC Immer Oost-Oosterwijk – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-075440d562@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:K. Zandhoven SK B – KFC Ranst B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e458d25aee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:K. Zandhoven SK B – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bed6b37e89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:K. Zandhoven SK B – VC Herentals
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2dbee8e12a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KFC Grobbendonk – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61bc6c8f3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:K. Zandhoven SK B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b5dad2801@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KFC Herenthout – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f244b2296@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:K. Zandhoven SK B – SK sGravenwezel-Schilde B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea0ce94424@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FCM Hallaar B – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d8e8cb667@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T183000Z
+DTEND:20270403T201500Z
+SUMMARY:KFC Berlaar-Heikant B – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0707ce7f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:K. Zandhoven SK B – KSK Heist B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e95785255d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:KFC Nijlen B – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84f37d2c94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Zandhoven SK B – VV-NEXT Laakdal B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-zandhoven-sk-b/
+URL:https://goalio.be/nl/ploeg/k-zandhoven-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

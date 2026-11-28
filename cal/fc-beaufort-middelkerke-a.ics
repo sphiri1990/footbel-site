@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Beaufort Middelkerke A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-36fc10639e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Beaufort Middelkerke A 4-1 K. Dar. Ruddervoorde B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-beaufort-middelkerke-a-k-dar-ruddervoorde-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/fc-beaufort-middelkerke-a-k-dar-ruddervo
+ orde-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89c3d47cf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:FC Beaufort Middelkerke A 5-1 S.V.D. Kortemark
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/fc-beaufort-middelkerke-a-s-v-d-kortemark-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-beaufort-middelkerke-a-s-v-d-kortemar
+ k-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-339fbbb6a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K. SV Bredene B 0-5 FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-bredene-b-fc-beaufort-middelkerke-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-sv-bredene-b-fc-beaufort-middelkerke-a
+ -2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-861aee74f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Fusion Oostende – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fusion-oostende-fc-beaufort-middelkerke-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fusion-oostende-fc-beaufort-middelkerke-
+ a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24f588f67c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Beaufort Middelkerke A – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f8c9c91c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:FC Beaufort Middelkerke A – S.K. Eernegem B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62f0ede598@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:K. Dar. Ruddervoorde B – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89bac26aa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FC Beaufort Middelkerke A – VV Koekelare B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de8bf70582@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:S.V.D. Kortemark – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e242929549@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:FC Beaufort Middelkerke A – K. SV Bredene B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9b82a0454@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:FC Beaufort Middelkerke A – VK Zerkegem B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ebbaff6ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:NSVD Handzame – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36a80f0daf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:FC Beaufort Middelkerke A – FA Nieuwpoort B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7659a3e69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72f23f85c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Beaufort Middelkerke A – Fusion Oostende
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4521aff07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:S.C. Middelkerke United – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af5b643b22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:FC Beaufort Middelkerke A – VC Vamos Zandvoorde
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4a472f8ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Exc. Zedelgem B – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/fc-beaufort-middelkerke-a/
+URL:https://goalio.be/nl/ploeg/fc-beaufort-middelkerke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

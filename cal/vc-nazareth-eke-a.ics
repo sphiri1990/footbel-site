@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Nazareth-Eke A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-42a6b145ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KSV Melsen 1-4 VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/ksv-melsen-vc-nazareth-eke-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/ksv-melsen-vc-nazareth-eke-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0221c3e79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:VC Nazareth-Eke A 2-2 KVVHT Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vc-nazareth-eke-a-kvvht-zwijnaarde-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vc-nazareth-eke-a-kvvht-zwijnaarde-a-202
+ 6-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7eb85e12b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFAC Waarschoot 2-1 VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfac-waarschoot-vc-nazareth-eke-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfac-waarschoot-vc-nazareth-eke-a-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61f79fd47d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T143000Z
+DTEND:20261122T161500Z
+SUMMARY:VC Nazareth-Eke A 4-3 KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vc-nazareth-eke-a-kvv-laarne-kalken-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vc-nazareth-eke-a-kvv-laarne-kalken-a-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1e5e8bde7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:KSKDJ Lovendegem – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kskdj-lovendegem-vc-nazareth-eke-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kskdj-lovendegem-vc-nazareth-eke-a-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a026a7b06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:VC Nazareth-Eke A – FCSJ Sleidinge
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd31dbb7a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Oostakker - Azalea – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec67c629fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Lembeke – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-187b15e64e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:VC Nazareth-Eke A – KVVE Massemen A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aeb74193d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:KVV Laarne-Kalken A – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfa3be97e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:VC Nazareth-Eke A – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc9239201f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:VC Nazareth-Eke A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c47eff58d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Kleit A – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b84f49980d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:VC Nazareth-Eke A – KSKDJ Lovendegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe9dcd28e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Assenede – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a93abfbdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:VC Nazareth-Eke A – KSV Melsen
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa14aec263@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KVVHT Zwijnaarde A – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7800f38cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FCSJ Sleidinge – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfd1db1960@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:VC Nazareth-Eke A – LS Merendree A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f237fe053c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Poesele A – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00504785d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Nazareth-Eke A – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vc-nazareth-eke-a/
+URL:https://goalio.be/nl/ploeg/vc-nazareth-eke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

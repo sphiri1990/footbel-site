@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.V. Diksmuide Oostende A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-af8379c4ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K.V. Diksmuide Oostende A 0-0 KFCVW Hamme
+DESCRIPTION:D2 VV A\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/k-v-diksmu
+ ide-oostende-a-kfcvw-hamme-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-v-diksmuide-oostende-a-kfcvw-hamme-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2efc6b716@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:KSV Oudenaarde 0-1 K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/ksv-oudena
+ arde-k-v-diksmuide-oostende-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ksv-oudenaarde-k-v-diksmuide-oostende-a-
+ 2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-655d7e3824@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K.V. Diksmuide Oostende A 5-3 VK Ninove A
+DESCRIPTION:D2 VV A\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-v-diksmu
+ ide-oostende-a-vk-ninove-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-v-diksmuide-oostende-a-vk-ninove-a-202
+ 6-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13383b9599@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:K.V. Diksmuide Oostende A 2-2 SV Zulte-Waregem B
+DESCRIPTION:D2 VV A\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-v-diksmu
+ ide-oostende-a-sv-zulte-waregem-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-v-diksmuide-oostende-a-sv-zulte-warege
+ m-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b72842978@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RFC Wetteren – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/rfc-wetter
+ en-k-v-diksmuide-oostende-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/rfc-wetteren-k-v-diksmuide-oostende-a-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1141664725@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:K.V. Diksmuide Oostende A – Sparta Petegem Deinze A
+DESCRIPTION:D2 VV A\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1746782f8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K.S.V. Oostkamp A – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a90fff134e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Koninklijke Eendracht Aalst Lede – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 9\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-o
+ ostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-483aa3bce7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:K.V. Diksmuide Oostende A – Racing Club Gent
+DESCRIPTION:D2 VV A\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34808ae0ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Voorde-Appelterre A – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e8073fc19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K.V. Diksmuide Oostende A – YRKV Mechelen B
+DESCRIPTION:D2 VV A\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e801e5d294@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T173000Z
+DTEND:20270130T191500Z
+SUMMARY:SV Zulte-Waregem B – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d52a2c215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:VK Ninove A – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfd2337442@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T133000Z
+DTEND:20270221T151500Z
+SUMMARY:K.V. Diksmuide Oostende A – KSV Oudenaarde
+DESCRIPTION:D2 VV A\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-698903cc7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFCVW Hamme – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2687895500@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K.V. Diksmuide Oostende A – Koninklijke Eendracht Aalst Lede
+DESCRIPTION:D2 VV A\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b870dc40f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:FC Lebbeke – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19980468c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K.V. Diksmuide Oostende A – RFC Wetteren
+DESCRIPTION:D2 VV A\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2879fc679@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFCHO Kalken A – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f5119b9a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K.V. Diksmuide Oostende A – KM Torhout A
+DESCRIPTION:D2 VV A\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e6e8e2ea5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Sparta Petegem Deinze A – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d75555823a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.V. Diksmuide Oostende A – KSK Londerzeel
+DESCRIPTION:D2 VV A\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-v-diksmuide-
+ oostende-a/
+URL:https://goalio.be/nl/ploeg/k-v-diksmuide-oostende-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

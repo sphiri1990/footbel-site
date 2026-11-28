@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chevetogne Foot A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/chevetogne-foot-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b568145ab4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Chevetogne Foot A 1-2 FC Naninnois A
+DESCRIPTION:1re provinciale Namur\nJournée 11\nhttps://goalio.be/fr/match/
+ chevetogne-foot-a-fc-naninnois-a-2026-10-31/
+URL:https://goalio.be/fr/match/chevetogne-foot-a-fc-naninnois-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1625df1447@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R St Gedinnois A 0-2 Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 12\nhttps://goalio.be/fr/match/
+ r-st-gedinnois-a-chevetogne-foot-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-st-gedinnois-a-chevetogne-foot-a-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cd0248581@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Chevetogne Foot A 0-0 Union Bossière Gembloux A
+DESCRIPTION:1re provinciale Namur\nJournée 13\nhttps://goalio.be/fr/match/
+ chevetogne-foot-a-union-bossiere-gembloux-a-2026-11-14/
+URL:https://goalio.be/fr/match/chevetogne-foot-a-union-bossiere-gembloux-a-
+ 2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a48d59424d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Chevetogne Foot A – RFC Meux B (remis)
+DESCRIPTION:1re provinciale Namur\nJournée 14\nhttps://goalio.be/fr/match/
+ chevetogne-foot-a-rfc-meux-b-2026-11-21/
+URL:https://goalio.be/fr/match/chevetogne-foot-a-rfc-meux-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2ffcd0bc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.U.S. Dinantaise A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 15\nhttps://goalio.be/fr/match/
+ r-u-s-dinantaise-a-chevetogne-foot-a-2026-11-28/
+URL:https://goalio.be/fr/match/r-u-s-dinantaise-a-chevetogne-foot-a-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd2b82b75a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RJ Aischoise A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 16\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a90999e1f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Chevetogne Foot A – JS Taminoise A
+DESCRIPTION:1re provinciale Namur\nJournée 17\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3757b387f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RCS Condruzien A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 18\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e7b138a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Chevetogne Foot A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 19\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c52450e9b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RUS Loyers A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 20\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c4c5b910d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Chevetogne Foot A – US Beauraing 61 A
+DESCRIPTION:1re provinciale Namur\nJournée 21\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06098eb13f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Ligny A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 22\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04fccdb357@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Chevetogne Foot A – AC Lustin A
+DESCRIPTION:1re provinciale Namur\nJournée 23\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f65f2090e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Grand-Leez A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 24\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98383d117a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Chevetogne Foot A – OC Nismes A
+DESCRIPTION:1re provinciale Namur\nJournée 25\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30c8e0816f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Naninnois A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 26\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6565df2d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Chevetogne Foot A – R St Gedinnois A
+DESCRIPTION:1re provinciale Namur\nJournée 27\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-490188b327@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Union Bossière Gembloux A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 28\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0258e5fe9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Meux B – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 29\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e91a5ade13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Chevetogne Foot A – R.U.S. Dinantaise A
+DESCRIPTION:1re provinciale Namur\nJournée 30\nhttps://goalio.be/fr/equipe
+ /chevetogne-foot-a/
+URL:https://goalio.be/fr/equipe/chevetogne-foot-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

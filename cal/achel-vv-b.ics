@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Achel VV B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/achel-vv-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-93e75cf373@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:E. Houthalen 2-2 Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/e-houthalen-achel-vv-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/e-houthalen-achel-vv-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-257de90435@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Stal Sport 3-4 Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/stal-sport-achel-vv-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/stal-sport-achel-vv-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca2b41b117@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Achel VV B 2-2 Kattenbos Sport
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/achel-vv-b-kattenbos-sport-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/achel-vv-b-kattenbos-sport-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-518c5f7fae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K. Sp. Wijchmaal 1-1 Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/k-sp-wijchmaal-achel-vv-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-sp-wijchmaal-achel-vv-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a5c9ddd5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:Achel VV B – SK Heusden 06
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/achel-vv-b-sk-heusden-06-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/achel-vv-b-sk-heusden-06-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47cc51421c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Sp. Grote Heide – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d130855af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Achel VV B – W. Koersel B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4167d37525@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KVV Heusden-Zolder A – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93d2e8e594@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:K. FC Hamont 99 B – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21f538a281@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Achel VV B – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6939b76f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Heusden 06 – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9b25530e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Achel VV B – K. ESK Leopoldsburg A
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c68d87d6f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Hechtel FC A – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bacc532d3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Achel VV B – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae9a9cbee6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Achel VV B – GT Lommel Kol.
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8120577d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:Bocholter V.V. B – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85636ac9a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Achel VV B – Stal Sport
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-874bf8451d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Kattenbos Sport – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab3e94e27d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Achel VV B – Sp. Grote Heide
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e640f391b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Verbr. Lommel – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e9ae54b81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Achel VV B – Kadijk SK B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/achel-vv-b/
+URL:https://goalio.be/nl/ploeg/achel-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

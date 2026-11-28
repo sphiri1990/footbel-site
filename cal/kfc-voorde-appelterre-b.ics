@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Voorde-Appelterre B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-389eef9092@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T184500Z
+DTEND:20261031T203000Z
+SUMMARY:KFC Voorde-Appelterre B 0-3 SK Opbrakel
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-voorde-appelterre-b-sk-opbrakel-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-voorde-appelterre-b-sk-opbrakel-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16bd3491dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Olsa Nederbrakel 6-1 KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/olsa-nederbrakel-kfc-voorde-appelterre-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/olsa-nederbrakel-kfc-voorde-appelterre-b
+ -2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02a63ad8dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T184500Z
+DTEND:20261114T203000Z
+SUMMARY:KFC Voorde-Appelterre B 0-4 FC Velzeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-voorde-appelterre-b-fc-velzeke-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-voorde-appelterre-b-fc-velzeke-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b4c04be43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T184500Z
+DTEND:20261128T203000Z
+SUMMARY:KFC Voorde-Appelterre B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-voorde-appelterre-b-wk-st-goriks-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-voorde-appelterre-b-wk-st-goriks-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1da2eb820e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:W Idegem – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c64d8339a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K.S.K. United Geraardsbergen – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cdfe43d04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T184500Z
+DTEND:20270109T203000Z
+SUMMARY:KFC Voorde-Appelterre B – Olsa Nederbrakel
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-797bff8edd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T184500Z
+DTEND:20270116T203000Z
+SUMMARY:KFC Voorde-Appelterre B – EC Oudenhove B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03a93aab4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:RR Breivelde-Zottegem B – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc57dc8218@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T184500Z
+DTEND:20270130T203000Z
+SUMMARY:KFC Voorde-Appelterre B – Racing Strijpen
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3f003c951@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:VCE Deftinge B – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-407ef03e52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T184500Z
+DTEND:20270220T203000Z
+SUMMARY:KFC Voorde-Appelterre B – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b28a99388@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Zegelsem – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e2e0edbf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T184500Z
+DTEND:20270306T203000Z
+SUMMARY:KFC Voorde-Appelterre B – St Michelbeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-425b337344@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SK Opbrakel – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-806423871c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:WK St-Goriks – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-642447a9c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T174500Z
+DTEND:20270410T193000Z
+SUMMARY:KFC Voorde-Appelterre B – W Idegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3619a8ed70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T174500Z
+DTEND:20270417T193000Z
+SUMMARY:KFC Voorde-Appelterre B – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36fe8b2df6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Velzeke – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfc-voorde-appelterre-b/
+URL:https://goalio.be/nl/ploeg/kfc-voorde-appelterre-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

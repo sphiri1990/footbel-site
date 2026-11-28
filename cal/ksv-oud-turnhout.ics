@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSV Oud Turnhout · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c401866d32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KFC Heultje 0-1 KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-heultje-ksv-oud-turnhout-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-heultje-ksv-oud-turnhout-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31e43ad341@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KSV Oud Turnhout 2-5 RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksv-oud-turnhout-rbw-molse-sk-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ksv-oud-turnhout-rbw-molse-sk-2026-11-07
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2253cdce2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC Mol 5-0 KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-mol-ksv-oud-turnhout-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-mol-ksv-oud-turnhout-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38832b553a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KSV Oud Turnhout 3-1 KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksv-oud-turnhout-kfc-verbr-alberta-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ksv-oud-turnhout-kfc-verbr-alberta-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b4cd751e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Beekhoek Sp. – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-beekhoek-sp-ksv-oud-turnhout-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-beekhoek-sp-ksv-oud-turnhout-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27bdc26919@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KSV Oud Turnhout – KVV Rauw Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee06ffea84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Olen United – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17454f7c28@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K Witgoor Sp Dessel B – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff6260ea52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Verbr. Alberta – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05eb8746cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KSV Oud Turnhout – KFC Tongerlo
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9886bc85ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KSV Oud Turnhout – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aab4b921d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. Blauwv. Oevel – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb0d168f6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KSV Oud Turnhout – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-326aff2815@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KSK Oosthoven – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5fb49ad700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KSV Oud Turnhout – KFC Heultje
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0db085408f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RBW Molse SK – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-918bc865b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVV Rauw Sp. – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd7d78530d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KSV Oud Turnhout – VC Westerlo Kemphanen
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a07ac06f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KFC Flandria – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e73c67be94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSV Oud Turnhout – VV-NEXT Laakdal A
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/ksv-oud-turnhout/
+URL:https://goalio.be/nl/ploeg/ksv-oud-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

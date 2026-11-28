@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Knokke F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/r-knokke-f-c/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-15070a6f29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R. Knokke F.C. 0-2 Racing Club Harelbeke
+DESCRIPTION:D1 VV\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/r-knokke-f-c
+ -racing-club-harelbeke-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/r-knokke-f-c-racing-club-harelbeke-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebe1f4300b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K.F.C. Dessel Sport 1-0 R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-f-c-dessel
+ -sport-r-knokke-f-c-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-dessel-sport-r-knokke-f-c-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-599705b110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Knokke F.C. 3-2 Kvk Tienen
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/r-knokke-f-c
+ -kvk-tienen-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/r-knokke-f-c-kvk-tienen-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9a32e0148@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:F.C. Mandel United Izegem 2-0 R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/f-c-mandel-u
+ nited-izegem-r-knokke-f-c-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/f-c-mandel-united-izegem-r-knokke-f-c-20
+ 26-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93e0f61809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Knokke F.C. – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/r-knokke-f-c
+ -hoogstraten-v-v-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/r-knokke-f-c-hoogstraten-v-v-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbac6dc87d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Knokke F.C. – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f7339b0f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. Sk. Heist – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc8714f925@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:R. Knokke F.C. – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f9c8b5753@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Oud-Heverlee Leuven – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b193fb264@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K.F.C. Merelbeke – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a3c2c3452@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Knokke F.C. – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87cb381f7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. Knokke F.C. – F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30412dcace@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Hoogstraten V.V. – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bc23d3f74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Knokke F.C. – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2c51402b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Belisia Bilzen SV – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42c06ac76e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Knokke F.C. – K.F.C. Houtvenne
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ecbef3c62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Kvk Tienen – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fd35a92bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T190000Z
+DTEND:20270327T204500Z
+SUMMARY:R. Knokke F.C. – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6573a15710@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. Lyra-Lierse – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d2025856c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Knokke F.C. – K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e70f72656b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Racing Club Harelbeke – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/r-knokke-f-c/
+URL:https://goalio.be/nl/ploeg/r-knokke-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

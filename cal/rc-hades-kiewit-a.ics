@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RC Hades Kiewit A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-95d36d4dd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:RC Hades Kiewit A 2-3 KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/rc-hades-k
+ iewit-a-kvc-wilrijk-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/rc-hades-kiewit-a-kvc-wilrijk-a-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e77ff4976f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:K. RC Mechelen 4-1 RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-rc-meche
+ len-rc-hades-kiewit-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-rc-mechelen-rc-hades-kiewit-a-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfe751c214@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:RC Hades Kiewit A 0-4 K. Diegem Sport
+DESCRIPTION:D2 VV B\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/rc-hades-k
+ iewit-a-k-diegem-sport-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/rc-hades-kiewit-a-k-diegem-sport-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbf5ae5163@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T191500Z
+DTEND:20261121T210000Z
+SUMMARY:R. Cappellen FC A 1-0 RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/r-cappelle
+ n-fc-a-rc-hades-kiewit-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/r-cappellen-fc-a-rc-hades-kiewit-a-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a45c7156ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:RC Hades Kiewit A – E. Termien
+DESCRIPTION:D2 VV B\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/rc-hades-k
+ iewit-a-e-termien-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/rc-hades-kiewit-a-e-termien-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3b049a39a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:Rupel-Boom A – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5beda35c69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T173000Z
+DTEND:20261212T191500Z
+SUMMARY:R. Antwerp FC B – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ad6aedad6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:RC Hades Kiewit A – K. RC Mechelen
+DESCRIPTION:D2 VV B\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dfafe694f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:RC Hades Kiewit A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edb1b9fd60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K. St.-Truidense V.V. B – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e67d7b405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:RC Hades Kiewit A – Tempo Overijse
+DESCRIPTION:D2 VV B\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-faa69b65e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T191500Z
+DTEND:20270213T210000Z
+SUMMARY:Sp. Rotselaar A – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b690ce4709@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:RC Hades Kiewit A – KVK Wellen
+DESCRIPTION:D2 VV B\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80dc1949eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Bocholter V.V. A – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a1bc259d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:RC Hades Kiewit A – KFC De Kempen TL A
+DESCRIPTION:D2 VV B\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74c2071682@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:KVC Wilrijk A – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2415d5e346@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:RC Hades Kiewit A – R. Cappellen FC A
+DESCRIPTION:D2 VV B\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d0f834b90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:E. Termien – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c0bbc9f99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:RC Hades Kiewit A – Rupel-Boom A
+DESCRIPTION:D2 VV B\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd02e78bcf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:RC Hades Kiewit A – KFC Nijlen A
+DESCRIPTION:D2 VV B\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06fbb9f9e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Diegem Sport – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/rc-hades-kiewi
+ t-a/
+URL:https://goalio.be/nl/ploeg/rc-hades-kiewit-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

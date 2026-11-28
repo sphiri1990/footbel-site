@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASS. Montkainoise A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ass-montkainoise-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c2d02bd78b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:DR Rongy A 0-1 ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/dr-rongy-a-ass-montkainoise-a-2026-10-31/
+URL:https://goalio.be/fr/match/dr-rongy-a-ass-montkainoise-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbae5f21ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:ASS. Montkainoise A 2-4 Péruwelz FC A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/ass-montkainoise-a-peruwelz-fc-a-2026-11-08/
+URL:https://goalio.be/fr/match/ass-montkainoise-a-peruwelz-fc-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28bcae38c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:ASS. Montkainoise A 4-0 R.U.S. Herseautoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/ass-montkainoise-a-r-u-s-herseautoise-a-2026-11-15/
+URL:https://goalio.be/fr/match/ass-montkainoise-a-r-u-s-herseautoise-a-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ee5346dcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:A.S. Obigies A – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/a-s-obigies-a-ass-montkainoise-a-2026-11-22/
+URL:https://goalio.be/fr/match/a-s-obigies-a-ass-montkainoise-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cce82bb37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:ASS. Montkainoise A – R.F.C. Wiersien A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/ass-montkainoise-a-r-f-c-wiersien-a-2026-11-29/
+URL:https://goalio.be/fr/match/ass-montkainoise-a-r-f-c-wiersien-a-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2369520a21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:ASS. Montkainoise A – R.U.S. Hensies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09ddbbb939@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:A.C. Estaimbourg A – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e065d097d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:ASS. Montkainoise A – R.U.S. Beloeil A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15a8478630@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0452020aab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:ASS. Montkainoise A – J.S. Isièroise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-076b54eba5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0113ef9e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:ASS. Montkainoise A – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce96d48ce2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Enghiennois B – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97df0e50d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:ASS. Montkainoise A – J.S. Meslin-Grand Marais A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8282c9055@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:A.C. Anvaing A – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba7cb61706@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:ASS. Montkainoise A – DR Rongy A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-989b300204@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Péruwelz FC A – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d06f3f31b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.U.S. Herseautoise A – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-322cedf9d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:ASS. Montkainoise A – A.S. Obigies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0eec5ade97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Wiersien A – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/ass-montkainoise-a/
+URL:https://goalio.be/fr/equipe/ass-montkainoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

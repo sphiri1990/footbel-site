@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Fraiture F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-fraiture-f-c/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0bdd845399@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Fraiture F.C. 5-0 R. Marchin Sport B
+DESCRIPTION:4e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-fraiture-f-c-r-marchin-sport-b-2026-11-01/
+URL:https://goalio.be/fr/match/r-fraiture-f-c-r-marchin-sport-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2af0cbba6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Sougne-Remouch. Sp. 4-2 R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-sougne-remouch-sp-r-fraiture-f-c-2026-11-08/
+URL:https://goalio.be/fr/match/r-sougne-remouch-sp-r-fraiture-f-c-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b8317cd34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Fraiture F.C. 5-0 Celtic Chaudfontaine FC
+DESCRIPTION:4e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-fraiture-f-c-celtic-chaudfontaine-fc-2026-11-15/
+URL:https://goalio.be/fr/match/r-fraiture-f-c-celtic-chaudfontaine-fc-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f7ecdfd82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.S.C. Tilffois – R. Fraiture F.C. (remis)
+DESCRIPTION:4e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-s-c-tilffois-4-prov-b-liege-r-fraiture-f-c-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-tilffois-4-prov-b-liege-r-fraiture-f-c
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b3160d3bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Fraiture F.C. – Jeunesse MSN Tilleur B
+DESCRIPTION:4e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-fraiture-f-c-jeunesse-msn-tilleur-b-2026-11-29/
+URL:https://goalio.be/fr/match/r-fraiture-f-c-jeunesse-msn-tilleur-b-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6540ccae1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RCS Xhorisien – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc4dc5e506@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Fraiture F.C. – R.S.C. Modave
+DESCRIPTION:4e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34747dea3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:U.S. Ferrières – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed469bcbe5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Fraiture F.C. – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f619808c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R. Fraiture SP B – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15eddfa15c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Fraiture F.C. – FC Apicoles Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e2d4875db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Groupe De Poulseur – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db2919e6ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Fraiture F.C. – R. Harzé F.C. B
+DESCRIPTION:4e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bebca87bf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. All. Clavinoise S.C. – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a109c2da58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:R. Marchin Sport B – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d7f7681f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Fraiture F.C. – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbc47b550e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Celtic Chaudfontaine FC – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd42923dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Fraiture F.C. – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76ba94cccc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Jeunesse MSN Tilleur B – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-f-c/
+URL:https://goalio.be/fr/equipe/r-fraiture-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

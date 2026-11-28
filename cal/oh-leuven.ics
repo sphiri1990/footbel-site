@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OH Leuven · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/oh-leuven/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5d7522eda6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T150000Z
+DTEND:20261101T164500Z
+SUMMARY:Sint-Truiden 1-2 OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/st-
+ truiden-oh-leuven-2026-11-01/
+URL:https://goalio.be/fr/match/st-truiden-oh-leuven-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d34acf39ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T171500Z
+DTEND:20261107T190000Z
+SUMMARY:OH Leuven 2-0 KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/oh-
+ leuven-kv-mechelen-2026-11-07/
+URL:https://goalio.be/fr/match/oh-leuven-kv-mechelen-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89e372d7ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:Anderlecht 1-0 OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/and
+ erlecht-oh-leuven-2026-11-22/
+URL:https://goalio.be/fr/match/anderlecht-oh-leuven-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9f61c4aa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T194500Z
+DTEND:20261127T213000Z
+SUMMARY:OH Leuven 2-2 Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/oh-
+ leuven-kortrijk-2026-11-27/
+URL:https://goalio.be/fr/match/oh-leuven-kortrijk-2026-11-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-085c226e78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261211T194500Z
+DTEND:20261211T213000Z
+SUMMARY:Genk – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-daca3352dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261218T194500Z
+DTEND:20261218T213000Z
+SUMMARY:Antwerp – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92277b0265@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261226T171500Z
+DTEND:20261226T190000Z
+SUMMARY:OH Leuven – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1e21d6e51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T181500Z
+DTEND:20270117T200000Z
+SUMMARY:Zulte Waregem – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cce2d542d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:OH Leuven – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2746a353d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Lommel United – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8b019a212@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:OH Leuven – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fbcc6d7b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:RAAL La Louvière – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d346293e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:OH Leuven – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-745419efb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Cercle Brugge – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91cb31ac7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:OH Leuven – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37af9cbf56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Kortrijk – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7567871e57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:OH Leuven – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-646373560c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:OH Leuven – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb3de36898@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Club Brugge KV – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21cd27a717@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Standard Liège – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fda469245@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:OH Leuven – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2af9cc1e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:KVC Westerlo – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2d70f9d53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:OH Leuven – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e7724a58a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:KV Mechelen – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b80e509ab4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:OH Leuven – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/oh
+ -leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df505f504b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T173000Z
+DTEND:20261206T191500Z
+SUMMARY:Antwerp – OH Leuven
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/oh-leuven/
+URL:https://goalio.be/fr/equipe/oh-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

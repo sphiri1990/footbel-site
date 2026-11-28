@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hoogstraten V.V. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-49a7d7560a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Hoogstraten V.V. 0-1 Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/hoogstraten-
+ v-v-belisia-bilzen-sv-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/hoogstraten-v-v-belisia-bilzen-sv-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-370423d36c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Kvk Tienen 3-1 Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/kvk-tienen-h
+ oogstraten-v-v-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kvk-tienen-hoogstraten-v-v-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bb3aa7e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K. Sk. Heist 1-2 Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-sk-heist-h
+ oogstraten-v-v-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-sk-heist-hoogstraten-v-v-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b25f219bc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261120T193000Z
+DTEND:20261120T211500Z
+SUMMARY:Hoogstraten V.V. 2-1 K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/hoogstraten-
+ v-v-k-v-v-thes-sport-tessenderlo-2026-11-20/
+URL:https://goalio.be/nl/wedstrijd/hoogstraten-v-v-k-v-v-thes-sport-tessend
+ erlo-2026-11-20/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93e0f61809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Knokke F.C. – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/r-knokke-f-c
+ -hoogstraten-v-v-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/r-knokke-f-c-hoogstraten-v-v-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f988ef786a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Hoogstraten V.V. – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fbbf621b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. Lyra-Lierse – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22659d5ae8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Hoogstraten V.V. – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b1b7e1fb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Hoogstraten V.V. – Kvk Tienen
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-869f64dd79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K.F.C. Houtvenne – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd3097beec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Hoogstraten V.V. – K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2598803d89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K.F.C. Merelbeke – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30412dcace@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Hoogstraten V.V. – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6695bcfb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Hoogstraten V.V. – Racing Club Harelbeke
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d35ba128ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eb0dcdc00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Hoogstraten V.V. – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13b32c0caf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Belisia Bilzen SV – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32309b5666@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Hoogstraten V.V. – F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59b57d8f27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Sportkring Roeselare – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c036ed301@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Hoogstraten V.V. – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae733bad1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Oud-Heverlee Leuven – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/hoogstraten-v-v/
+URL:https://goalio.be/nl/ploeg/hoogstraten-v-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Grobbendonk · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-664b6e8e63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KFC Grobbendonk 5-1 KFC Ranst B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-grobbendonk-kfc-ranst-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-grobbendonk-kfc-ranst-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ffa915ed6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KSK Heist B 1-5 KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksk-heist-b-kfc-grobbendonk-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/ksk-heist-b-kfc-grobbendonk-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1250909ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC Grobbendonk 0-0 VV-NEXT Laakdal B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-grobbendonk-vv-next-laakdal-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-grobbendonk-vv-next-laakdal-b-2026-1
+ 1-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b31390e775@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KFC Herenthout 1-1 KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kfc-herenthout-kfc-grobbendonk-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kfc-herenthout-kfc-grobbendonk-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23fc11dedd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KFC Grobbendonk – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-grobbendonk-ksk-oelegem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-grobbendonk-ksk-oelegem-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12ee3a75a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:VC Herentals – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb406ead52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Grobbendonk – SK sGravenwezel-Schilde B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70504a982b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:KVV OG Vorselaar B – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c374d3ee69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KFC Grobbendonk – KSK Heist B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb50406456@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:VV-NEXT Laakdal B – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e263987b1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KSK Oelegem – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2dbee8e12a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KFC Grobbendonk – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed14dac139@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:KFC Ranst B – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bbbdb20fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KFC Grobbendonk – VC Immer Oost-Oosterwijk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-036287e762@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:KFC Nijlen B – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21bb14e41a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KFC Grobbendonk – KFC Berlaar-Heikant B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11ab9c3101@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Grobbendonk – KFC Herenthout
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d0cc446ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Wiekevorst Sp. – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-291dbb95ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KFC Grobbendonk – VC Herentals
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db08349cc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FCM Hallaar B – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-grobbendonk/
+URL:https://goalio.be/nl/ploeg/kfc-grobbendonk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Aywaille F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-aywaille-f-c/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2ab8881a51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:R. Aywaille F.C. 2-2 F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-aywaille-f-c-f-c-r-vise-united-2026-11-01/
+URL:https://goalio.be/fr/match/r-aywaille-f-c-f-c-r-vise-united-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95cc103004@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S.C. Saive 3-2 R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-s-c-saive-r-aywaille-f-c-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-saive-r-aywaille-f-c-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c43d028888@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Aywaille F.C. 2-4 R.A.S. Houtain
+DESCRIPTION:2e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-aywaille-f-c-r-a-s-houtain-2026-11-15/
+URL:https://goalio.be/fr/match/r-aywaille-f-c-r-a-s-houtain-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fc3c77e2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Herstal – R. Aywaille F.C. (remis)
+DESCRIPTION:2e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-herstal-r-aywaille-f-c-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-herstal-r-aywaille-f-c-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c7ce0d01d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Aywaille F.C. – RFC Un. La Calamine
+DESCRIPTION:2e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-aywaille-f-c-rfc-un-la-calamine-2-prov-b-liege-2026-11-29/
+URL:https://goalio.be/fr/match/r-aywaille-f-c-rfc-un-la-calamine-2-prov-b-l
+ iege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89ef15d2bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Aywaille F.C. – U.C.E. de Liège
+DESCRIPTION:2e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-567024c657@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Cfc Pontisse Herstal – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ca4de6f93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Aywaille F.C. – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50584e4c3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Cornesse F.C. – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bedb0eaa19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Aywaille F.C. – R. Alliance Melen-Micheroux
+DESCRIPTION:2e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23ed45a088@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R.A.C. Hombourg – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-235073cddb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:R. Aywaille F.C. – R. Ent. Blegnytoise
+DESCRIPTION:2e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e83f68105@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Aubel F.C. – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bbd914a27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Entente Jeunesse Fleron – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-020e81d08e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:R. Aywaille F.C. – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ec82d91b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C.R. Vise United – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa797e3e2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:R. Aywaille F.C. – R.S.C. Saive
+DESCRIPTION:2e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d584569ac0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.A.S. Houtain – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f434521c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Aywaille F.C. – F.C. Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93d33a030f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RFC Un. La Calamine – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-aywaille-f-c/
+URL:https://goalio.be/fr/equipe/r-aywaille-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

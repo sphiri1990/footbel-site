@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bx Brussels · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/bx-brussels/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3ab041ad33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Un. Auderghem 2-2 Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 9\nhttps://
+ goalio.be/fr/match/r-un-auderghem-bx-brussels-2026-11-01/
+URL:https://goalio.be/fr/match/r-un-auderghem-bx-brussels-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48d83a1c34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Bx Brussels 6-2 R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 10\nhttps:/
+ /goalio.be/fr/match/bx-brussels-r-ol-f-c-stockel-2026-11-08/
+URL:https://goalio.be/fr/match/bx-brussels-r-ol-f-c-stockel-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-032bc04e20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.R.C. De Boitsfort 3-6 Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles-b
+ x-brussels-2026-11-15/
+URL:https://goalio.be/fr/match/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-b
+ ruxelles-bx-brussels-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99e66f7506@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Black Star F.C. 1-5 Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxelles-bx-br
+ ussels-2026-11-21/
+URL:https://goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxe
+ lles-bx-brussels-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-504f8ed1af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Bx Brussels – Racing Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/bx-brussels-racing-anderlecht-2026-11-29/
+URL:https://goalio.be/fr/match/bx-brussels-racing-anderlecht-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf7e65e109@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Bx Brussels – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0cfbd1956@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Racing Anderlecht – Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2749c3858e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Bx Brussels – Olympic Wolves Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-058a4d8b98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.E.F. Anderlecht – Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e4226b961@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Bx Brussels – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48c9aaf4ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Bx Brussels – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f0093f6c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Olympique Club Forestois – Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bf6c01704@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Bx Brussels – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef1935cae2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Polonia Bruxelles – Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69429554ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Bx Brussels – R. Un. Auderghem
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed12eec7a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Ol. F.C. Stockel – Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54943b9c11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Bx Brussels – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/bx-brussels/
+URL:https://goalio.be/fr/equipe/bx-brussels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

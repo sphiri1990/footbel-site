@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Rapid Symphorinois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a740aaefff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.F.C. Ronquieres-Hy 86 1-1 R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-f-c-ronquieres-hy-86-r-f-c-rapid-symphorinois-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-ronquieres-hy-86-r-f-c-rapid-symphorin
+ ois-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bddb5fff5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Rapid Symphorinois 2-2 R.F.C. Houdinois B
+DESCRIPTION:3e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-rapid-symphorinois-r-f-c-houdinois-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-rapid-symphorinois-r-f-c-houdinois-b-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93f2050283@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Bracquegnies Sp B 5-2 R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/bracquegnies-sp-b-r-f-c-rapid-symphorinois-2026-11-15/
+URL:https://goalio.be/fr/match/bracquegnies-sp-b-r-f-c-rapid-symphorinois-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4d631f4ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Rapid Symphorinois – R.F.C. Ecaussinnois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-f-c-rapid-symphorinois-r-f-c-ecaussinnois-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-rapid-symphorinois-r-f-c-ecaussinnois-
+ 2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d375a81ca7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Union Entité Chapelloise – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/union-entite-chapelloise-r-f-c-rapid-symphorinois-2026-11-29/
+URL:https://goalio.be/fr/match/union-entite-chapelloise-r-f-c-rapid-symphor
+ inois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63bfd19cb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Lindbergh Club Givry – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db6ea675d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Rapid Symphorinois – F.C. Flénu
+DESCRIPTION:3e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b08ac47b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Exc. Bievene – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62bcdadde2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C. Rapid Symphorinois – R. Entente Mons Nord
+DESCRIPTION:3e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b685923a08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C.E. Maurage – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a960b50a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. Rapid Symphorinois – Pont-A-Celles-Buzet
+DESCRIPTION:3e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a7c5b55b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:U.S. Neufvilles – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04830d2201@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. Rapid Symphorinois – A.S. Morlanwelz
+DESCRIPTION:3e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2bf840db1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Rapid Symphorinois – F.C. Havré
+DESCRIPTION:3e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccad5bcf1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.S.A. Forchies – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09c661734c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Rapid Symphorinois – R.F.C. Ronquieres-Hy 86
+DESCRIPTION:3e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-170a0a7aa4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:R.F.C. Houdinois B – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d347b419c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Rapid Symphorinois – Bracquegnies Sp B
+DESCRIPTION:3e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e41a1d61b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Ecaussinnois – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf2f9f04b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Rapid Symphorinois – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-rapid-symphorinois/
+URL:https://goalio.be/fr/equipe/r-f-c-rapid-symphorinois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

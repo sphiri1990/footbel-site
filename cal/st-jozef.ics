@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Jozef · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/st-jozef/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dad3ed0855@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:St. Jozef 1-2 KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/st-jozef-kvk-westmalle-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/st-jozef-kvk-westmalle-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3aaf640ccb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Zwarte Leeuw B 2-0 St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-zwarte-leeuw-b-st-jozef-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-zwarte-leeuw-b-st-jozef-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24fe9a9cee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:St. Jozef 4-1 KFC Antonia B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/st-jozef-kfc-antonia-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/st-jozef-kfc-antonia-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-876a9116aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K. Sint Job FC B 1-2 St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-sint-job-fc-b-st-jozef-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-sint-job-fc-b-st-jozef-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-324fa56b43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:St. Jozef – K. Meerle FC
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/st-jozef-k-meerle-fc-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/st-jozef-k-meerle-fc-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e03091524f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:St. Jozef – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-869b8bf8af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:St. Jozef – Loenhout SK B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29da66e710@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KFC Wechelderzande – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f877ef73fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:St. Jozef – KFC Zwarte Leeuw B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b738487bf3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Antonia B – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4ff82dec1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. Meerle FC – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-119b7cd8ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:St. Jozef – Minderhout VV B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55ffcd93ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KVK Westmalle – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20d3959ca8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:St. Jozef – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f220c6cbc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:K. Wuustwezel FC B – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-916f35afab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:St. Jozef – FC Bucovina Loenhout
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e3a30985c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:St. Jozef – K. Sint Job FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ff2dbbba4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:St. Lenaarts B – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6da7776d4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Eendr. Zoersel B – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/st-jozef/
+URL:https://goalio.be/nl/ploeg/st-jozef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

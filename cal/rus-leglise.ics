@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUS Léglise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rus-leglise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5d8fc0c04d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Les Cerfs Grandvoir 2-4 RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/fc-les-cerfs-grandvoir-rus-leglise-2026-11-01/
+URL:https://goalio.be/fr/match/fc-les-cerfs-grandvoir-rus-leglise-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3d8f2c85b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RUS Léglise 4-0 RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/rus-leglise-rus-tellinoise-2026-11-08/
+URL:https://goalio.be/fr/match/rus-leglise-rus-tellinoise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6dda9881bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RCS Libramontois B 5-5 RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/rcs-libramontois-b-rus-leglise-2026-11-14/
+URL:https://goalio.be/fr/match/rcs-libramontois-b-rus-leglise-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f61b7ec5c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RJS Mageretoise – RUS Léglise (remis)
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/rjs-mageretoise-rus-leglise-2026-11-22/
+URL:https://goalio.be/fr/match/rjs-mageretoise-rus-leglise-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38808a9e2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RUS Léglise – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/rus-leglise-un-st-andre-ochamps-b-2026-11-29/
+URL:https://goalio.be/fr/match/rus-leglise-un-st-andre-ochamps-b-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6694bdc3f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RUS Léglise – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1205bc6cec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RUS Ste Ode A – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-469b8ed722@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RUS Léglise – RAC Neuvillers A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb46d348b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RLC Warmifontaine – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8a50c8247@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RUS Léglise – Athl. Florenvillois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b991bc2c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RES Bourcy – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b01bd799f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RUS Léglise – ES Saint-Pierre A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5654244c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FC Bertrix A – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6eb00554d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RUS Léglise – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fcdd3ad03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RUS Tellinoise – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62d886f8a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUS Léglise – RCS Libramontois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rus-leglise/
+URL:https://goalio.be/fr/equipe/rus-leglise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

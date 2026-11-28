@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Rijmenam · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-rijmenam/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-94797e242d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VC Rijmenam 4-0 KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/vc-rijmenam-kfc-muizen-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vc-rijmenam-kfc-muizen-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7ddec54e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. BO Beerzel FC 1-0 VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-bo-beerzel-fc-vc-rijmenam-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-bo-beerzel-fc-vc-rijmenam-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90f463ae2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VC Rijmenam 0-0 KV Hooikt
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/vc-rijmenam-kv-hooikt-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vc-rijmenam-kv-hooikt-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64402ef324@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VC Rijmenam – SV Grasheide
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/vc-rijmenam-sv-grasheide-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vc-rijmenam-sv-grasheide-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49619ff80c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T113000Z
+DTEND:20261206T131500Z
+SUMMARY:KV Bonheiden B – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cb0d6d5c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VC Rijmenam – K. VV Duffel
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4237c9a5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Heffen SK – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-198618ec83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VC Rijmenam – K.S.C. Mechelen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfc23f737e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VC Rijmenam – K. BO Beerzel FC
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b87f912bad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Atletico Adler FC Bonheiden – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57ff2424ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:SV Grasheide – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a551d95f70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VC Rijmenam – KV Bonheiden B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1462b78d6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Lint – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3be0ae3032@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VC Rijmenam – K.F.C. Putte B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77828ded9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KV Hooikt – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22b861e55c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VC Rijmenam – Football Club Duffel B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f8f2842f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Muizen – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fdff1eea6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VC Rijmenam – K.S.K. Wavria B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbdb24d31a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Zenn. Hombeek – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/vc-rijmenam/
+URL:https://goalio.be/nl/ploeg/vc-rijmenam/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

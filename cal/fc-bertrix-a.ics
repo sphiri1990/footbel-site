@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Bertrix A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-bertrix-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0777a034aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Bertrix A 2-0 RJS Mageretoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/fc-bertrix-a-rjs-mageretoise-2026-10-31/
+URL:https://goalio.be/fr/match/fc-bertrix-a-rjs-mageretoise-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-976ca427c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R. St. FC Bouillon A 2-0 FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/r-st-fc-bouillon-a-fc-bertrix-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-st-fc-bouillon-a-fc-bertrix-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-045a858c4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Bertrix A 0-1 RUS Ste Ode A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/fc-bertrix-a-rus-ste-ode-a-2026-11-14/
+URL:https://goalio.be/fr/match/fc-bertrix-a-rus-ste-ode-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8d3d977ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RLC Warmifontaine – FC Bertrix A (remis)
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/rlc-warmifontaine-fc-bertrix-a-2026-11-22/
+URL:https://goalio.be/fr/match/rlc-warmifontaine-fc-bertrix-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51cc430be9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Bertrix A – RAC Neuvillers A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/fc-bertrix-a-rac-neuvillers-a-2026-11-28/
+URL:https://goalio.be/fr/match/fc-bertrix-a-rac-neuvillers-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5cf74e160@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Bertrix A – Athl. Florenvillois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-712fae242d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RES Bourcy – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-678eb9a507@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:FC Bertrix A – ES Saint-Pierre A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6fddd6dda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:UN St. André Ochamps B – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17257276d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Les Cerfs Grandvoir – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42f89f2e5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:FC Bertrix A – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5baa43347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RCS Libramontois B – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5654244c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FC Bertrix A – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee9bb6ff14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RJS Mageretoise – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92a6c3e68f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Bertrix A – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a247268647@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUS Ste Ode A – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/fc-bertrix-a/
+URL:https://goalio.be/fr/equipe/fc-bertrix-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

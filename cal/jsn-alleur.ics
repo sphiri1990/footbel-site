@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jsn Alleur · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/jsn-alleur/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4dd8af9e00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:J.S. du Thier-à-Liège 1-2 Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/j-s-du-thier-a-liege-jsn-alleur-2026-11-01/
+URL:https://goalio.be/fr/match/j-s-du-thier-a-liege-jsn-alleur-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef83c0a17f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Jsn Alleur 2-1 Illyrian Blegny B
+DESCRIPTION:4e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/jsn-alleur-illyrian-blegny-b-2026-11-08/
+URL:https://goalio.be/fr/match/jsn-alleur-illyrian-blegny-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e50d148dc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:MS Herstal Milmort B 0-5 Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/ms-herstal-milmort-b-jsn-alleur-2026-11-15/
+URL:https://goalio.be/fr/match/ms-herstal-milmort-b-jsn-alleur-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7394246222@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Jsn Alleur – F.C. Herstal (remis)
+DESCRIPTION:4e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/jsn-alleur-f-c-herstal-4-prov-c-liege-2026-11-22/
+URL:https://goalio.be/fr/match/jsn-alleur-f-c-herstal-4-prov-c-liege-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70f22d0d77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Les Oranges de Liège – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/fc-les-oranges-de-liege-jsn-alleur-2026-11-29/
+URL:https://goalio.be/fr/match/fc-les-oranges-de-liege-jsn-alleur-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2f1fcffc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Daring Club de Cointe-Liège – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c43a391ad0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Jsn Alleur – Cfc Pontisse Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76d63ad18a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Rapide Liège – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c5f7e0e94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.U.S. Montagnarde – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58fc19e79b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Jsn Alleur – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a37a62441d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Ans B – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ad8fc472b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jsn Alleur – Engis Football Club
+DESCRIPTION:4e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5e6c1c913@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Jsn Alleur – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b89f304b6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cdeaf2892@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Jsn Alleur – J.S. du Thier-à-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de8c7c9df5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Illyrian Blegny B – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5ffe181e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Jsn Alleur – MS Herstal Milmort B
+DESCRIPTION:4e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b991aeb26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Herstal – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bc1143944@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Jsn Alleur – FC Les Oranges de Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/jsn-alleur/
+URL:https://goalio.be/fr/equipe/jsn-alleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

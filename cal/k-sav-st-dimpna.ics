@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. SAV St. Dimpna · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6f67656c85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. Ramsel FC 1-2 K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-ramsel-fc-k-sav-st-dimpna-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-ramsel-fc-k-sav-st-dimpna-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3e574d5bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:K. SAV St. Dimpna 6-0 K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-sav-st-dimpna-k-zwal-olmen-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-sav-st-dimpna-k-zwal-olmen-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c7368c32c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC De Kempen TL B 3-1 K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-de-kempen-tl-b-k-sav-st-dimpna-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-de-kempen-tl-b-k-sav-st-dimpna-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b979cab19a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Waterheide Schorvoort Zevendonk 2-2 K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/waterheide-schorvoort-zevendonk-k-sav-st-dimpna-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/waterheide-schorvoort-zevendonk-k-sav-st
+ -dimpna-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53aa573ea2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. SAV St. Dimpna – K.F.C. Houtvenne B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-sav-st-dimpna-k-f-c-houtvenne-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-sav-st-dimpna-k-f-c-houtvenne-b-2026-1
+ 1-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-453d811285@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KFC Heidebl. Pulderbos – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-863c8bfd99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. SAV St. Dimpna – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1444efc371@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. Zwal. Olmen – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbfbaa0acf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. SAV St. Dimpna – KSK Kasterlee
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91b82a1c44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Verbr. Balen – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beffef05e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. SAV St. Dimpna – RFC Zwaneven
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bacbab7d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K. SAV St. Dimpna – K. Vlimmeren Sp.
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-496e4f9d19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.F.C. Zammel – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0248e7b728@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. SAV St. Dimpna – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77d65c48f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. FC Pulle – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a93b7b4645@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:K. SAV St. Dimpna – KFC De Kempen TL B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c890f33a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K. FC Poppel – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20c386dffd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K. SAV St. Dimpna – KFC Heidebl. Pulderbos
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3d044cf7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K.F.C. Houtvenne B – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f06779e51d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. SAV St. Dimpna – Waterheide Schorvoort Zevendonk
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-034894d5c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Exc. Bouwel – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-sav-st-dimpna/
+URL:https://goalio.be/nl/ploeg/k-sav-st-dimpna/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Léopold F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-leopold-f-c/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4ea3e98443@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Arquet Namur 2-2 R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/r-arquet-namu
+ r-r-leopold-f-c-2026-11-01/
+URL:https://goalio.be/fr/match/r-arquet-namur-r-leopold-f-c-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-901c78bf54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R. Léopold F.C. 1-2 F.C. Kosova Schaerbeek
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/r-leopold-f-c
+ -f-c-kosova-schaerbeek-2026-11-08/
+URL:https://goalio.be/fr/match/r-leopold-f-c-f-c-kosova-schaerbeek-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43404ee9e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.A.S. Monceau 2-3 R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/r-a-s-monceau
+ -r-leopold-f-c-2026-11-15/
+URL:https://goalio.be/fr/match/r-a-s-monceau-r-leopold-f-c-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7be67bd451@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R. Léopold F.C. 0-2 R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/r-leopold-f-c
+ -r-f-c-saint-michel-2026-11-22/
+URL:https://goalio.be/fr/match/r-leopold-f-c-r-f-c-saint-michel-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e71f99c42b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Union Sporting Club Jemappes – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/union-sportin
+ g-club-jemappes-r-leopold-f-c-2026-11-29/
+URL:https://goalio.be/fr/match/union-sporting-club-jemappes-r-leopold-f-c-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a01cb1ffdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:S.C. De Nechin – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0199145e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Léopold F.C. – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02352395a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Léopold F.C. – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d962f4fa3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sporting Bruxelles – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/r-leopold-f-c
+ /
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1b655bf94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Union Rochefortoise – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1df8f5fd68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Léopold F.C. – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b500e8513a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Andenne Evelette Sports Football – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f3ab2bfb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Léopold F.C. – Stade Everois Racing Club
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abe02ea9a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.U.S. Biesme – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74886e56ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Léopold F.C. – R.U. Wallonne Ciney
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-739f7f57ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Pont-A-Celles-Buzet – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a92b52887@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Léopold F.C. – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-add69b3e20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Kosova Schaerbeek – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d86a81246@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Léopold F.C. – R.A.S. Monceau
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4ce747c21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Saint-Michel – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bba143eb84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Léopold F.C. – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/r-leopold-f-
+ c/
+URL:https://goalio.be/fr/equipe/r-leopold-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

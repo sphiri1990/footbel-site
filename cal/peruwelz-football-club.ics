@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Péruwelz Football Club · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/peruwelz-football-club/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8df6357bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T154500Z
+SUMMARY:A.S. Pommeroeul-Ville 2-0 Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/a-s-pommeroeul-ville-peruwelz-football-club-2026-10-31/
+URL:https://goalio.be/fr/match/a-s-pommeroeul-ville-peruwelz-football-club-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-731009736b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Péruwelz Football Club 3-1 A.S. Vaudignies A
+DESCRIPTION:3e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/peruwelz-football-club-a-s-vaudignies-a-2026-11-08/
+URL:https://goalio.be/fr/match/peruwelz-football-club-a-s-vaudignies-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8cecafc8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Harchies-Bernissart 7-2 Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-harchies-bernissart-peruwelz-football-club-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-harchies-bernissart-peruwelz-football-cl
+ ub-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68ce871721@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RFC Thulin – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/rfc-thulin-peruwelz-football-club-2026-11-22/
+URL:https://goalio.be/fr/match/rfc-thulin-peruwelz-football-club-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa2907f9e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Péruwelz Football Club – U.S. Thumaide
+DESCRIPTION:3e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/peruwelz-football-club-u-s-thumaide-2026-11-29/
+URL:https://goalio.be/fr/match/peruwelz-football-club-u-s-thumaide-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13be464ada@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Péruwelz Football Club – C.D. Furia Espanola
+DESCRIPTION:3e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e3e765a53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Beclers – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9c6f5c002@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Péruwelz Football Club – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffd10dad58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:J.S. Meslin - Grand Marais – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e2e74fc22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Péruwelz Football Club – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fc495661d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.A.J.S. Honnelloise – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01a21c0d90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Péruwelz Football Club – R.F.C. Vacresse
+DESCRIPTION:3e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5875a33c3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. Wiersien – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-540308cb68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Péruwelz Football Club – R.U.S. Hensies B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6efbe21f33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-454ec829bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Péruwelz Football Club – A.S. Pommeroeul-Ville
+DESCRIPTION:3e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-852537fff0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:A.S. Vaudignies A – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-633878ae17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Péruwelz Football Club – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab143e1a77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Péruwelz Football Club – RFC Thulin
+DESCRIPTION:3e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e10cccbd3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:U.S. Thumaide – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/peruwelz-football-club/
+URL:https://goalio.be/fr/equipe/peruwelz-football-club/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

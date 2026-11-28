@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Peutie FC · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/peutie-fc/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f164994e5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Infinity FC Vilvoorde 0-5 Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/infinity-fc-vilvoorde-peutie-fc-2026-11-01/
+URL:https://goalio.be/fr/match/infinity-fc-vilvoorde-peutie-fc-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32872bd0a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Peutie FC 0-3 KFC Eppegem B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/peutie-fc-kfc-eppegem-b-2026-11-07/
+URL:https://goalio.be/fr/match/peutie-fc-kfc-eppegem-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32a2126993@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Zemst Sp. B 1-2 Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/zemst-sp-b-peutie-fc-2026-11-14/
+URL:https://goalio.be/fr/match/zemst-sp-b-peutie-fc-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82862faff5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:SK Laar 1-3 Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/sk-laar-peutie-fc-2026-11-22/
+URL:https://goalio.be/fr/match/sk-laar-peutie-fc-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ec21d0b29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Peutie FC – KCS Machelen B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/peutie-fc-kcs-machelen-b-2026-11-28/
+URL:https://goalio.be/fr/match/peutie-fc-kcs-machelen-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ef6b836ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Peutie FC – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a96df57eac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Peutie FC – Infinity FC Vilvoorde
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8315abec5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KFC Eppegem B – Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25622f4393@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:KCVV Elewijt B – Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b9a373741@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Peutie FC – SK Laar
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac7f703882@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K. Sp. Amicii Tange – Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3250e6503d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Peutie FC – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91fd33611f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T160000Z
+DTEND:20270228T174500Z
+SUMMARY:KCS Machelen B – Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bec589b399@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Peutie FC – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51756ef488@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KV Woluwe-Zaventem B – Peutie FC (annulé)
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b168e6db8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Peutie FC – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8dd822c66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Peutie FC – FC Inkad Diegem B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ef11d2be0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/peutie-fc/
+URL:https://goalio.be/fr/equipe/peutie-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

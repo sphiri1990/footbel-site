@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St Cl Feschaux · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/st-cl-feschaux/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5726aea9f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R.U.S Pesche B 3-1 St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /r-u-s-pesche-b-st-cl-feschaux-2026-11-14/
+URL:https://goalio.be/fr/match/r-u-s-pesche-b-st-cl-feschaux-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94bcf92c0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:St Cl Feschaux – Sporting Club Graide (remis)
+DESCRIPTION:4e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /st-cl-feschaux-sporting-club-graide-2026-11-22/
+URL:https://goalio.be/fr/match/st-cl-feschaux-sporting-club-graide-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-262d7120a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RFC Surice B – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9cc50408f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:St Cl Feschaux – US Viroin-Treignes
+DESCRIPTION:4e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de05fcdaf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:St Cl Feschaux – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d426915eb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:ES Des Frontières – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d51d7b5e00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:St Cl Feschaux – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c04ed0a870@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RUS Pondrome B – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be6562db11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Rienne Sp – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2daa4eb1f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:St Cl Feschaux – E Sp Viroin-Olloy
+DESCRIPTION:4e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccba1475a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Ent. Dionaise – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1864659d94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:St Cl Feschaux – ES Couvin-Mariemb Fraire B
+DESCRIPTION:4e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b097ad331@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Sporting Club Graide – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a027a8f5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:St Cl Feschaux – R.U.S Pesche B
+DESCRIPTION:4e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/st-cl-feschaux/
+URL:https://goalio.be/fr/equipe/st-cl-feschaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

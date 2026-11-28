@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VV Westkapelle A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2b52b299f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:VV Westkapelle A 1-0 K. SV Jabbeke B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vv-westkapelle-a-k-sv-jabbeke-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vv-westkapelle-a-k-sv-jabbeke-b-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2c3c9f822@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:Sp. Keiem 3-2 VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/sp-keiem-vv-westkapelle-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/sp-keiem-vv-westkapelle-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fe5c41bd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:VV Westkapelle A 1-0 K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vv-westkapelle-a-k-fc-lichtervelde-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vv-westkapelle-a-k-fc-lichtervelde-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7bc870561@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:VV Westkapelle A 4-2 V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vv-westkapelle-a-v-v-cercle-beernem-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vv-westkapelle-a-v-v-cercle-beernem-a-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8584f594b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:K. EG Gistel – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-eg-gistel-vv-westkapelle-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-eg-gistel-vv-westkapelle-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d64ba9b4cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:VV Westkapelle A – K. Sp. Club Blankenberge B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de04500719@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. SK Wenduine – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f34644813@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:K.S.K. Snaaskerke – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d51a9f1ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:VV Westkapelle A – FC Veldegem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afd2ba77f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:VV Westkapelle A – K. VV Aartrijke
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-246ba49f7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:FA Nieuwpoort A – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd15f868f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VV Westkapelle A – K. EG Gistel
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12b6f709fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:K.S.V. Oostkamp B – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6218b5c7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VV Westkapelle A – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-933550c53b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. FC Lichtervelde – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45c28a5755@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VV Westkapelle A – SV Loppem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14987ac83e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:V.V. Cercle Beernem A – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fd5afe16c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VV Westkapelle A – S.K. Eernegem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ccef10942@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:K. Sp. Club Blankenberge B – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e274f0add8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VV Westkapelle A – KV Koksijde Oostduinkerke A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5c652a3b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. SV Jabbeke B – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vv-westkapelle-a/
+URL:https://goalio.be/nl/ploeg/vv-westkapelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

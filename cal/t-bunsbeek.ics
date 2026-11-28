@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:T. Bunsbeek · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/t-bunsbeek/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-788367401b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:T. Bunsbeek 2-0 SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 10\nhttps://goalio.b
+ e/fr/match/t-bunsbeek-sk-rummen-2026-10-31/
+URL:https://goalio.be/fr/match/t-bunsbeek-sk-rummen-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70a65cc15a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:T. Bunsbeek 5-0 FC Valahia Tienen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 11\nhttps://goalio.b
+ e/fr/match/t-bunsbeek-fc-valahia-tienen-2026-11-07/
+URL:https://goalio.be/fr/match/t-bunsbeek-fc-valahia-tienen-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d63d7d7a81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Geetbets 1-2 T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-geetbets-t-bunsbeek-2026-11-15/
+URL:https://goalio.be/fr/match/fc-geetbets-t-bunsbeek-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da0291957a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:T. Bunsbeek 2-0 K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 13\nhttps://goalio.b
+ e/fr/match/t-bunsbeek-k-halle-vv-2026-11-21/
+URL:https://goalio.be/fr/match/t-bunsbeek-k-halle-vv-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e8a93cd80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Sp. Budingen – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 14\nhttps://goalio.b
+ e/fr/match/sp-budingen-t-bunsbeek-2026-11-29/
+URL:https://goalio.be/fr/match/sp-budingen-t-bunsbeek-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f2cb2c683@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:T. Bunsbeek – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75d7be5bb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:SK Rummen – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-816a55cd5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:T. Bunsbeek – KVZ Glabbeek Zuurbemde
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b78f896a57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Valahia Tienen – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27ad47e91e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:T. Bunsbeek – Atlas Linter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3c2d252ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:RD Zoutleeuw B – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a0a72598e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:T. Bunsbeek – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad4b4bf8ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KA Goetsenhoven – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4aec374c1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Waanrode – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80f3d72415@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:T. Bunsbeek – VC Houtem-Oplinter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed158addb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Halle VV. – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-853517c01d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:T. Bunsbeek – Sp. Budingen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa8392eb74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:T. Bunsbeek – Neerwinden F.C.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b59712edc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. St. Drieslinter B – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/t-bunsbeek/
+URL:https://goalio.be/fr/equipe/t-bunsbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

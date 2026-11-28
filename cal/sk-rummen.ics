@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Rummen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sk-rummen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-788367401b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:T. Bunsbeek 2-0 SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 10\nhttps://goalio.b
+ e/fr/match/t-bunsbeek-sk-rummen-2026-10-31/
+URL:https://goalio.be/fr/match/t-bunsbeek-sk-rummen-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffa2f054c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:SK Rummen 3-1 Sp. Budingen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-rummen-sp-budingen-2026-11-08/
+URL:https://goalio.be/fr/match/sk-rummen-sp-budingen-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3a37cac4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. Halle VV. 0-6 SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 12\nhttps://goalio.b
+ e/fr/match/k-halle-vv-sk-rummen-2026-11-15/
+URL:https://goalio.be/fr/match/k-halle-vv-sk-rummen-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-019ab80939@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KA Goetsenhoven 1-3 SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 13\nhttps://goalio.b
+ e/fr/match/ka-goetsenhoven-sk-rummen-2026-11-22/
+URL:https://goalio.be/fr/match/ka-goetsenhoven-sk-rummen-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac51bd6e64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:SK Rummen – Neerwinden F.C.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 14\nhttps://goalio.b
+ e/fr/match/sk-rummen-neerwinden-f-c-2026-11-29/
+URL:https://goalio.be/fr/match/sk-rummen-neerwinden-f-c-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75d7be5bb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:SK Rummen – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b86c3705d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sp. Budingen – SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beda005bd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:SK Rummen – RD Zoutleeuw B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c85310273@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Atlas Linter – SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b899952686@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Rummen – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80a10a96d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SK Rummen – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50ffb31933@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KVZ Glabbeek Zuurbemde – SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be29b8cfb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SK Rummen – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e4d42b8a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SK Rummen – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72e3685824@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Valahia Tienen – SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef2e7fd2ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Neerwinden F.C. – SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b87bd6ec0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Rummen – KA Goetsenhoven
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8db8aaacd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Houtem-Oplinter – SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/sk-rummen/
+URL:https://goalio.be/fr/equipe/sk-rummen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

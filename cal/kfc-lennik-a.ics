@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Lennik A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kfc-lennik-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dce9208362@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Leeuw Brucom A 4-0 KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/leeuw-brucom-a-kfc-lennik-a-2026-11-01/
+URL:https://goalio.be/fr/match/leeuw-brucom-a-kfc-lennik-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c9dabce78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Lennik A 1-0 VK Liedekerke A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kfc-lennik-a-vk-liedekerke-a-2026-11-08/
+URL:https://goalio.be/fr/match/kfc-lennik-a-vk-liedekerke-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51801cb217@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Eendr. Hekelgem A 0-1 KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/eendr-hekelgem-a-kfc-lennik-a-2026-11-14/
+URL:https://goalio.be/fr/match/eendr-hekelgem-a-kfc-lennik-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61ed0d074e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 A 1-1 KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/perk-steenokkerzeel-v-1820-a-kfc-lennik-a-2026-11-22/
+URL:https://goalio.be/fr/match/perk-steenokkerzeel-v-1820-a-kfc-lennik-a-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-869a31d8a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Lennik A – T. Relegem
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/kfc-lennik-a-t-relegem-2026-11-29/
+URL:https://goalio.be/fr/match/kfc-lennik-a-t-relegem-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d58fa99e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KCS Machelen A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0a7b1ba4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Lennik A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c3c324dda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VK Liedekerke A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cef4801ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Lennik A – FC Herne A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be677fa99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Meise A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c50777ca9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Lennik A – KFC Eppegem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-193fe71510@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Lennik A – FC Galmaarden A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3158ea56f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Rhodienne-De Hoek A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b579db030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Lennik A – NOVA Asse-Mollem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e77fbceddc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K. Del. Londerzeel A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d614597380@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Lennik A – Eendr. Hekelgem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4e9c41d43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:L. Teralfene A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3876568d8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Lennik A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e264063080@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:T. Relegem – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-624a92b08c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Lennik A – Perk Steenokkerzeel V. 1820 A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b17a738520@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Schepdaal A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kfc-lennik-a/
+URL:https://goalio.be/fr/equipe/kfc-lennik-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

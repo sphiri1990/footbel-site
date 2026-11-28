@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Soignies Sports · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-soignies-sports/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-14e8b4cb3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.U. Wallonne Ciney 2-1 R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/r-u-wallonne-
+ ciney-r-soignies-sports-2026-10-31/
+URL:https://goalio.be/fr/match/r-u-wallonne-ciney-r-soignies-sports-2026-10
+ -31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dedf9b1512@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R. Soignies Sports 1-1 Pont-A-Celles-Buzet
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/r-soignies-sp
+ orts-pont-a-celles-buzet-2026-11-08/
+URL:https://goalio.be/fr/match/r-soignies-sports-pont-a-celles-buzet-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72327b1312@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Arquet Namur 1-3 R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/r-arquet-namu
+ r-r-soignies-sports-2026-11-15/
+URL:https://goalio.be/fr/match/r-arquet-namur-r-soignies-sports-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb13e74576@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R. Soignies Sports 2-3 F.C. Kosova Schaerbeek
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/r-soignies-sp
+ orts-f-c-kosova-schaerbeek-2026-11-22/
+URL:https://goalio.be/fr/match/r-soignies-sports-f-c-kosova-schaerbeek-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fb4b88abd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.A.S. Monceau – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/r-a-s-monceau
+ -r-soignies-sports-2026-11-29/
+URL:https://goalio.be/fr/match/r-a-s-monceau-r-soignies-sports-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-645b98dd0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.F.C. Saint-Michel – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26d0f955b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Soignies Sports – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-122dbbef83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:S.C. De Nechin – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-781897071e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Union Sporting Club Jemappes – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/r-soignies-sp
+ orts/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02353aa591@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Soignies Sports – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1df8f5fd68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Léopold F.C. – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff257c8402@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Soignies Sports – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3f7c33b57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Soignies Sports – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21e5c451a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Andenne Evelette Sports Football – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c9c9e12cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Soignies Sports – Stade Everois Racing Club
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ff91e0ae3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.U.S. Biesme – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62b858e1c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Soignies Sports – R.U. Wallonne Ciney
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4df8ccffd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Pont-A-Celles-Buzet – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5031242103@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Soignies Sports – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5e4fedfa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Kosova Schaerbeek – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04f0fe2903@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Soignies Sports – R.A.S. Monceau
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/r-soignies-s
+ ports/
+URL:https://goalio.be/fr/equipe/r-soignies-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

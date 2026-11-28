@@ -1,0 +1,25 @@
+{
+ "@context": [
+  "http://www.w3.org/ns/odrl.jsonld",
+  "http://www.w3.org/ns/tdmrep.jsonld"
+ ],
+ "uid": "https://goalio.be/.well-known/tdm-policy.json",
+ "@type": "Offer",
+ "profile": "http://www.w3.org/ns/tdmrep",
+ "assigner": {
+  "uid": "https://goalio.be/",
+  "vcard:fn": "Goalio",
+  "vcard:hasEmail": "mailto:info.goalio@gmail.com",
+  "vcard:hasURL": "https://goalio.be/fr/utilisation-des-donnees/"
+ },
+ "permission": [
+  {
+   "action": "tdm:mine",
+   "duty": [
+    {
+     "action": "obtainConsent"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Racing Club Vaux-Chaudfontaine · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bfb6631b83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise 1-0 Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-etoile-sp-dalhemoise-3-prov-c-liege-racing-club-vaux-chaudfontaine-202
+ 6-11-01/
+URL:https://goalio.be/fr/match/r-etoile-sp-dalhemoise-3-prov-c-liege-racing
+ -club-vaux-chaudfontaine-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2690e7752f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine 0-0 R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/racing-club-vaux-chaudfontaine-r-jeunesse-haccourtoise-2026-11-08/
+URL:https://goalio.be/fr/match/racing-club-vaux-chaudfontaine-r-jeunesse-ha
+ ccourtoise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11e29e449b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Ent. Blegnytoise 0-2 Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-ent-blegnytoise-3-prov-c-liege-racing-club-vaux-chaudfontaine-2026-11-
+ 15/
+URL:https://goalio.be/fr/match/r-ent-blegnytoise-3-prov-c-liege-racing-club
+ -vaux-chaudfontaine-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0aebd30338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – A.S. Hermalienne (remis)
+DESCRIPTION:3e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/racing-club-vaux-chaudfontaine-a-s-hermalienne-2026-11-22/
+URL:https://goalio.be/fr/match/racing-club-vaux-chaudfontaine-a-s-hermalien
+ ne-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11874fcc5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Espoir Minerois – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-espoir-minerois-3-prov-c-liege-racing-club-vaux-chaudfontaine-2026-11-
+ 29/
+URL:https://goalio.be/fr/match/r-espoir-minerois-3-prov-c-liege-racing-club
+ -vaux-chaudfontaine-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbd7167194@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.F.C. Charneux – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-837974eb4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R.F.C. Warsage
+DESCRIPTION:3e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18e0be4a38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Bressoux – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66a4a1eaf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2320fb6872@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R.C.S. Bollandois
+DESCRIPTION:3e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-938a2a0771@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Oupeye FC – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f2ce83e5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – Union Roclenge-Wonck
+DESCRIPTION:3e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c50b36357@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.J.S. Cheneenne – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9b86d4ee0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – J.S. Vivegnis
+DESCRIPTION:3e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-394c13373f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.J.S. Olnoise – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bacc0fa949@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75b918df48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Jeunesse Haccourtoise – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-670051d4b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fffcee8e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.S. Hermalienne – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7730d6ca24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R. Espoir Minerois
+DESCRIPTION:3e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/racing-club-vaux-chaudfontaine/
+URL:https://goalio.be/fr/equipe/racing-club-vaux-chaudfontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

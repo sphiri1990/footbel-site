@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VK Tielrode · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vk-tielrode/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-11f4f51ba6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:VK Tielrode 7-0 Excelsior Nieuwkerken
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vk-tielrode-excelsior-nieuwkerken-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vk-tielrode-excelsior-nieuwkerken-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb9c9eaee7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KVVWS Sombeke 1-7 VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kvvws-sombeke-vk-tielrode-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kvvws-sombeke-vk-tielrode-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b4d43db1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VK Tielrode 9-1 KFC Baasrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vk-tielrode-kfc-baasrode-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vk-tielrode-kfc-baasrode-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-958d0ff3e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VK Tielrode 5-1 Spartak Buggenhout
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vk-tielrode-spartak-buggenhout-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vk-tielrode-spartak-buggenhout-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4338cf8f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Hamse Bouw – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/f-c-hamse-bouw-vk-tielrode-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/f-c-hamse-bouw-vk-tielrode-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5eaf8a8010@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:VK Tielrode – Vos Reinaert
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01202fc1be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:KOFC Rupelmonde – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-578f20aaf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VK Tielrode – WS Meerdonk
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3d756b4a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:SVH Waasmunster B – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0a2f9c9f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VK Tielrode – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00328c4110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Spartak Buggenhout – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da16361912@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KFC Baasrode – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7975e4034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VK Tielrode – KVVWS Sombeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cde5fcffcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Excelsior Nieuwkerken – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ec7c4905c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VK Tielrode – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6256a3f668@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Rangers Opdorp B – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c6c75e49b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VK Tielrode – F.C. Hamse Bouw
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30e74d9cfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:SV Blauw Wit Temse B – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf465ec9eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VK Tielrode – FCH St-Pauwels
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-304a30dc80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:Vos Reinaert – VK Tielrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e9796c8b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Tielrode – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vk-tielrode/
+URL:https://goalio.be/nl/ploeg/vk-tielrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

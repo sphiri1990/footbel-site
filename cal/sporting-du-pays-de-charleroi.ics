@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Du Pays De Charleroi · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-04ab2a44a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RFC Meux A 3-2 Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 11\nhttps://goalio.be/fr/match/rfc-meux-a-spor
+ ting-du-pays-de-charleroi-2026-10-31/
+URL:https://goalio.be/fr/match/rfc-meux-a-sporting-du-pays-de-charleroi-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-882d788d97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Sporting Du Pays De Charleroi 1-1 Union Rochefortoise
+DESCRIPTION:D1 FFA\nJournée 12\nhttps://goalio.be/fr/match/sporting-du-pay
+ s-de-charleroi-union-rochefortoise-2026-11-08/
+URL:https://goalio.be/fr/match/sporting-du-pays-de-charleroi-union-rochefor
+ toise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4745a39119@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Sporting Du Pays De Charleroi 0-0 C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 13\nhttps://goalio.be/fr/match/sporting-du-pay
+ s-de-charleroi-c-s-onhaye-2026-11-15/
+URL:https://goalio.be/fr/match/sporting-du-pays-de-charleroi-c-s-onhaye-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-371f281137@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.A.E.C. Mons A 1-1 Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 14\nhttps://goalio.be/fr/match/r-a-e-c-mons-a-
+ sporting-du-pays-de-charleroi-2026-11-21/
+URL:https://goalio.be/fr/match/r-a-e-c-mons-a-sporting-du-pays-de-charleroi
+ -2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db525790b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Sporting Du Pays De Charleroi – Ren. Un. Tubize-Braine-Le-Comte
+DESCRIPTION:D1 FFA\nJournée 15\nhttps://goalio.be/fr/match/sporting-du-pay
+ s-de-charleroi-ren-un-tubize-braine-le-comte-2026-11-29/
+URL:https://goalio.be/fr/match/sporting-du-pays-de-charleroi-ren-un-tubize-
+ braine-le-comte-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9418999a18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.S.C. Habay La Neuve – Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/sporting-du-pa
+ ys-de-charleroi/
+URL:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb4518a9d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Sporting Du Pays De Charleroi – R.W.D.M. Brussels
+DESCRIPTION:D1 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/sporting-du-pa
+ ys-de-charleroi/
+URL:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03cf52961b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:R. Olympic Club Charleroi – Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/sporting-du-pa
+ ys-de-charleroi/
+URL:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6f0fb538e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Sporting Du Pays De Charleroi – R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/sporting-du-pa
+ ys-de-charleroi/
+URL:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed5cd523ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Flénu – Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/sporting-du-pa
+ ys-de-charleroi/
+URL:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c5ff04f81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Sporting Du Pays De Charleroi – RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/sporting-du-pa
+ ys-de-charleroi/
+URL:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34d5706afe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Standard de Liège B – Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/sporting-du-pa
+ ys-de-charleroi/
+URL:https://goalio.be/fr/equipe/sporting-du-pays-de-charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

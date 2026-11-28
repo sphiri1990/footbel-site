@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Racing Club Forestois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/racing-club-forestois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e1b1c4ff4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Football Club Dawm Anderlecht 2-1 Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 10\nhttps:/
+ /goalio.be/fr/match/football-club-dawm-anderlecht-racing-club-forestois-20
+ 26-11-01/
+URL:https://goalio.be/fr/match/football-club-dawm-anderlecht-racing-club-fo
+ restois-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8734323cef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:FC Bosanci Jette 4-1 Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 9\nhttps://
+ goalio.be/fr/match/fc-bosanci-jette-racing-club-forestois-2026-11-07/
+URL:https://goalio.be/fr/match/fc-bosanci-jette-racing-club-forestois-2026-
+ 11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-769e765cb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261119T193000Z
+DTEND:20261119T211500Z
+SUMMARY:Racing Club Forestois 4-2 Aca. Jeun. Molenbeek B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 8\nhttps://
+ goalio.be/fr/match/racing-club-forestois-aca-jeun-molenbeek-b-2026-11-19/
+URL:https://goalio.be/fr/match/racing-club-forestois-aca-jeun-molenbeek-b-2
+ 026-11-19/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd37ae0540@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:NSeth Berchem – Racing Club Forestois (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 12\nhttps:/
+ /goalio.be/fr/match/nseth-berchem-racing-club-forestois-2026-11-22/
+URL:https://goalio.be/fr/match/nseth-berchem-racing-club-forestois-2026-11-
+ 22/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b68c2a82d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Racing Club Forestois – Anneessens 25 Brussels.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/racing-club-forestois-anneessens-25-brussels-2026-11-2
+ 9/
+URL:https://goalio.be/fr/match/racing-club-forestois-anneessens-25-brussels
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c385fdfe2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Racing Club Forestois – NSeth Berchem (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d31d919088@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Anneessens 25 Brussels. – Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3c9a45c23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Racing Club Forestois – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06de363eb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Suryoyés Bruxellois – Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d102157235@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Racing Club Forestois – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31a77b4bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Anderlecht Sport Milan – Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d205e12155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Racing Club Forestois – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-616ee5a0a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Black Star F.C. – Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22b310cb37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:A.S.A. Molenbeek – Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c451daf39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Racing Club Forestois – AS Brussels City B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8c3e292e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Aca. Jeun. Molenbeek B – Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68e3854c9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Racing Club Forestois – FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/racing-club-forestois/
+URL:https://goalio.be/fr/equipe/racing-club-forestois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

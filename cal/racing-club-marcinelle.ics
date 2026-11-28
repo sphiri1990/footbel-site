@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Racing Club Marcinelle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/racing-club-marcinelle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-02e060a842@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Racing Club Marcinelle 2-4 R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/racing-club-marcinelle-r-e-s-frasnoise-b-2026-11-01/
+URL:https://goalio.be/fr/match/racing-club-marcinelle-r-e-s-frasnoise-b-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d394b4de5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Aiseau-Presles 0-2 Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/j-s-aiseau-presles-racing-club-marcinelle-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-aiseau-presles-racing-club-marcinelle-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccba80b3f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Racing A.C.S. Couillet 1-4 Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/racing-a-c-s-couillet-racing-club-marcinelle-2026-11-15/
+URL:https://goalio.be/fr/match/racing-a-c-s-couillet-racing-club-marcinelle
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a80a03356@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Racing Club Marcinelle – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/racing-club-marcinelle-r-f-c-de-gilly-2026-11-22/
+URL:https://goalio.be/fr/match/racing-club-marcinelle-r-f-c-de-gilly-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a90eb61457@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RFC Baulet – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/rfc-baulet-racing-club-marcinelle-2026-11-28/
+URL:https://goalio.be/fr/match/rfc-baulet-racing-club-marcinelle-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c773ee437@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.E.S. Roux – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-803fb354c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Racing Club Marcinelle – F.C. Bouffioulx
+DESCRIPTION:4e provinciale Hainaut F\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c776191bf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:A.F. US St Amand-Brye – Racing Club Marcinelle (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e8a61b3f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Racing Club Marcinelle – Football Club Fleurus
+DESCRIPTION:4e provinciale Hainaut F\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4327232a59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Black Country Charleroi – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba92e7a622@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Racing Club Marcinelle – Carolo Football Charleroi
+DESCRIPTION:4e provinciale Hainaut F\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60cf3fd253@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:FC Châtelineau – Racing Club Marcinelle (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc8da233e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Racing Club Marcinelle – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03ea10b91d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. Jumet S.C. B – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8c013a80b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Racing Club Marcinelle – Mellet Sports
+DESCRIPTION:4e provinciale Hainaut F\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bfa309d78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.E.S. Frasnoise B – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15030a8f7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Racing Club Marcinelle – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d75804df3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Racing Club Marcinelle – Racing A.C.S. Couillet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c82316fa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. De Gilly – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5354b341d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Racing Club Marcinelle – RFC Baulet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/racing-club-marcinelle/
+URL:https://goalio.be/fr/equipe/racing-club-marcinelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

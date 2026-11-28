@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Vencimontois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-vencimontois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2de0913316@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Vencimontois 3-2 AC Lustin B
+DESCRIPTION:3e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /fc-vencimontois-ac-lustin-b-2026-11-01/
+URL:https://goalio.be/fr/match/fc-vencimontois-ac-lustin-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-216b9bb564@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:CS Onhaye B 2-1 FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /cs-onhaye-b-fc-vencimontois-2026-11-07/
+URL:https://goalio.be/fr/match/cs-onhaye-b-fc-vencimontois-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8caf172beb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RU ST-G Sinsin-Waillet 3-1 FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /ru-st-g-sinsin-waillet-fc-vencimontois-2026-11-14/
+URL:https://goalio.be/fr/match/ru-st-g-sinsin-waillet-fc-vencimontois-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d67c251c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Vencimontois – R Dinant FC B (remis)
+DESCRIPTION:3e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/match
+ /fc-vencimontois-r-dinant-fc-b-2026-11-22/
+URL:https://goalio.be/fr/match/fc-vencimontois-r-dinant-fc-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3c31e3a3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RCS Condruzien B – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/match
+ /rcs-condruzien-b-fc-vencimontois-2026-11-29/
+URL:https://goalio.be/fr/match/rcs-condruzien-b-fc-vencimontois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a2359aece@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RJS Leignon A – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e793d00cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Vencimontois – US St Hadelin-Haversin A
+DESCRIPTION:3e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b88170667@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:CSE Han-Sur-Lesse A – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f8da07110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC Vencimontois – RCS Hastière
+DESCRIPTION:3e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09e9526f34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RS FC Bièvre – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e921af5b3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Vencimontois – RFC Yvoir
+DESCRIPTION:3e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4c900d5ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.U.S. Dinantaise B – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6230e532b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Vencimontois – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-817bc18235@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:FC Achêne A – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84973e0194@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Vencimontois – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7098e016f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:AC Lustin B – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bf6f02809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Vencimontois – CS Onhaye B
+DESCRIPTION:3e provinciale Namur C\nJournée 27\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ba3ce8067@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Vencimontois – RU ST-G Sinsin-Waillet
+DESCRIPTION:3e provinciale Namur C\nJournée 28\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae7aa41c19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R Dinant FC B – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 29\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3cd16adcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Vencimontois – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 30\nhttps://goalio.be/fr/equip
+ e/fc-vencimontois/
+URL:https://goalio.be/fr/equipe/fc-vencimontois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

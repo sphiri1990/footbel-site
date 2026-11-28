@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sp Wortegem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/sp-wortegem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-589138722f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:St Michelbeke A 4-2 Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/st-michelbeke-a-sp-wortegem-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/st-michelbeke-a-sp-wortegem-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5793dfa97c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Sp Wortegem 0-0 SV Sottegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/sp-wortegem-sv-sottegem-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/sp-wortegem-sv-sottegem-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-349ef6bece@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T164500Z
+SUMMARY:RR Breivelde-Zottegem A 1-1 Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/rr-breivelde-zottegem-a-sp-wortegem-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/rr-breivelde-zottegem-a-sp-wortegem-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90749b5ea4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Sp Wortegem 3-0 VV Volkegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sp-wortegem-vv-volkegem-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/sp-wortegem-vv-volkegem-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e45da0eb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:SV Sint-Antelinks A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/sv-sint-antelinks-a-sp-wortegem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/sv-sint-antelinks-a-sp-wortegem-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-367e32b8a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Sp Wortegem – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ff489478c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KSSV Denderleeuw – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fabc93b9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sp Wortegem – VVSM Horebeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b6d3cb395@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Kluisbergen Sp A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f0c76b501@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VCO Meerbeke A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86341fcf0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Sp Wortegem – SV Sint-Antelinks A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d2c49ecad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VCE Houtem A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39aec928ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sp Wortegem – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a16b15febf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:SV Sottegem A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffa1159c56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Sp Wortegem – TK Meldert A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60526ccf21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VK Nederhasselt A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17457a7926@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sp Wortegem – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c9f0a02ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:VV Volkegem A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c37a9d9add@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sp Wortegem – St Michelbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9116c71833@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KVE Winnik A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d477d5404@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp Wortegem – RR Breivelde-Zottegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/sp-wortegem/
+URL:https://goalio.be/nl/ploeg/sp-wortegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

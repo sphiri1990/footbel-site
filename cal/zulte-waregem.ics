@@ -1,0 +1,310 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zulte Waregem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/zulte-waregem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c50b93c023@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T181500Z
+DTEND:20261108T200000Z
+SUMMARY:Sint-Truiden 4-1 Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/st-
+ truiden-zulte-waregem-2026-11-08/
+URL:https://goalio.be/fr/match/st-truiden-zulte-waregem-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a683c9405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T194500Z
+DTEND:20261121T213000Z
+SUMMARY:Zulte Waregem 2-2 Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/zul
+ te-waregem-antwerp-2026-11-21/
+URL:https://goalio.be/fr/match/zulte-waregem-antwerp-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f34f7bcf72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T194500Z
+DTEND:20261128T213000Z
+SUMMARY:Lommel United – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/lom
+ mel-united-zulte-waregem-2026-11-28/
+URL:https://goalio.be/fr/match/lommel-united-zulte-waregem-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5ebd52afc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T194500Z
+DTEND:20261212T213000Z
+SUMMARY:Zulte Waregem – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d8c274bf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T171500Z
+DTEND:20261219T190000Z
+SUMMARY:Cercle Brugge – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c6f30e756@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261227T181500Z
+DTEND:20261227T200000Z
+SUMMARY:KV Mechelen – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1e21d6e51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T181500Z
+DTEND:20270117T200000Z
+SUMMARY:Zulte Waregem – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02f88f7f5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Genk – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4fcce3892@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Zulte Waregem – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7d4961223@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Zulte Waregem – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82cefafe0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Standard Liège – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2194054c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Zulte Waregem – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6282ff1787@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Antwerp – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b7036d61f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Zulte Waregem – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fe40aab1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Gent – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cda278a735@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Zulte Waregem – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-646373560c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:OH Leuven – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81704cf847@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Zulte Waregem – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4dd2438cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:SK Beveren – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0ad6aace6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Zulte Waregem – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26d3b55de5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Charleroi – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11e2ea6c9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Zulte Waregem – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbe590c191@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Zulte Waregem – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da07d38350@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:Club Brugge KV – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/zu
+ lte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-798f33b9bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:Zulte Waregem – Cercle Brugge
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/zulte-waregem/
+URL:https://goalio.be/fr/equipe/zulte-waregem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Moorsel B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-moorsel-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-29010fa519@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Moorsel B 4-0 Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-moorsel-b-koninklijke-haacht-united-b-2026-10-31/
+URL:https://goalio.be/fr/match/fc-moorsel-b-koninklijke-haacht-united-b-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58540025dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Werchter A 3-1 FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/kfc-werchter-a-fc-moorsel-b-2026-11-08/
+URL:https://goalio.be/fr/match/kfc-werchter-a-fc-moorsel-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8d0fb8fa9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Moorsel B 1-2 DC Wezembeek-Oppem
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-moorsel-b-dc-wezembeek-oppem-2026-11-14/
+URL:https://goalio.be/fr/match/fc-moorsel-b-dc-wezembeek-oppem-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b02d52e5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KSC Keerbergen – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/ksc-keerbergen-fc-moorsel-b-2026-11-28/
+URL:https://goalio.be/fr/match/ksc-keerbergen-fc-moorsel-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a8f3e4d6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Moorsel B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e6327a752@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:HO Veltem B – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5a2e66ff1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:FC Moorsel B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ad1602e0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KVC Sterrebeek B – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-929591a83b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:FC Moorsel B – VK Holsbeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e75cfff236@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:DC Wezembeek-Oppem – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a3101742d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:FC Moorsel B – KFC Werchter A
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bc6abc5f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Koninklijke Haacht United B – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-053c1b70cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:FC Moorsel B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b5d533b56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K. Eur. 90 Kraainem B – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb39331c8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Moorsel B – KSC Keerbergen
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1adb0a81ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:FC Moorsel B – Football Club Kortenberg United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44883bfd96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Gr. Vossem B – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6547d385a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Moorsel B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fc-moorsel-b/
+URL:https://goalio.be/fr/equipe/fc-moorsel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

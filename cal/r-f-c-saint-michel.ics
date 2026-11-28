@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Saint-Michel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-99353af3ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.F.C. Saint-Michel 2-2 Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/r-f-c-saint-m
+ ichel-union-sporting-club-jemappes-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-saint-michel-union-sporting-club-jemap
+ pes-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb679f4dbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:S.C. De Nechin 1-0 R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/s-c-de-nechin
+ -r-f-c-saint-michel-2026-11-07/
+URL:https://goalio.be/fr/match/s-c-de-nechin-r-f-c-saint-michel-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3a47dc4ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.F.C. Saint-Michel 0-4 Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/r-f-c-saint-m
+ ichel-sporting-bruxelles-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-saint-michel-sporting-bruxelles-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7be67bd451@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R. Léopold F.C. 0-2 R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/r-leopold-f-c
+ -r-f-c-saint-michel-2026-11-22/
+URL:https://goalio.be/fr/match/r-leopold-f-c-r-f-c-saint-michel-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22cb9c2ff3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.F.C. Saint-Michel – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/r-f-c-saint-m
+ ichel-union-rochefortoise-d3-ffa-serie-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-saint-michel-union-rochefortoise-d3-ff
+ a-serie-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-645b98dd0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.F.C. Saint-Michel – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45992a42ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Andenne Evelette Sports Football – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eda37682e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.F.C. Saint-Michel – Stade Everois Racing Club
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b79106ef2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:R.F.C. Saint-Michel – Andenne Evelette Sports Football
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/r-f-c-saint-m
+ ichel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac4ee0dbca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.U.S. Biesme – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-787e227e8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C. Saint-Michel – R.U. Wallonne Ciney
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b74e6d492@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Pont-A-Celles-Buzet – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-202c7fd0ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Saint-Michel – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e53e92d78c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Kosova Schaerbeek – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c49e4423d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Saint-Michel – R.A.S. Monceau
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-866f49dd0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:R.F.C. Molenbaix – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4065e50bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Union Sporting Club Jemappes – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f7fe6e2d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Saint-Michel – S.C. De Nechin
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c6b034a48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sporting Bruxelles – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4ce747c21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Saint-Michel – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-172a2e9484@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Rochefortoise – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/r-f-c-saint-
+ michel/
+URL:https://goalio.be/fr/equipe/r-f-c-saint-michel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

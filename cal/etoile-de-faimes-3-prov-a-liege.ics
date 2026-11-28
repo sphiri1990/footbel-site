@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Etoile De Faimes · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e7b982ba90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Etoile De Faimes 1-0 R. Union Momalloise
+DESCRIPTION:3e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/etoile-de-faimes-3-prov-a-liege-r-union-momalloise-3-prov-a-liege-2026-1
+ 1-01/
+URL:https://goalio.be/fr/match/etoile-de-faimes-3-prov-a-liege-r-union-moma
+ lloise-3-prov-a-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c0772cbb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.U.S. Stree 0-0 Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-u-s-stree-etoile-de-faimes-3-prov-a-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-stree-etoile-de-faimes-3-prov-a-liege-
+ 2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ea626efd9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:J.S. Racour-Lincent 2-0 Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/j-s-racour-lincent-etoile-de-faimes-3-prov-a-liege-2026-11-15/
+URL:https://goalio.be/fr/match/j-s-racour-lincent-etoile-de-faimes-3-prov-a
+ -liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e73b8161a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Etoile De Faimes – Entente Amay A (remis)
+DESCRIPTION:3e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/etoile-de-faimes-3-prov-a-liege-entente-amay-a-2026-11-22/
+URL:https://goalio.be/fr/match/etoile-de-faimes-3-prov-a-liege-entente-amay
+ -a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff1768b39c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.F.C. Ouffet Warzée – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-f-c-ouffet-warzee-etoile-de-faimes-3-prov-a-liege-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-ouffet-warzee-etoile-de-faimes-3-prov-
+ a-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f477b8a8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Huccorgne Sports – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4277c41ff6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Etoile De Faimes – Royal Stockay Saint-Georges S/M
+DESCRIPTION:3e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1e3a09066@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:E.S.F.C. Du Geer – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c3a1bb9ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Etoile De Faimes – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9141bd2dd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Entente Sportive Donceel – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47b5a32c69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Etoile De Faimes – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42a7aba3c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.E.S. Templiers-Nandrin – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a086e7eb06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Etoile De Faimes – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-363c0692da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S.C. Anthisnois – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6482902bfe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Etoile De Faimes – R. Marchin Sport A
+DESCRIPTION:3e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4bf460567@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Union Momalloise – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-689620cf56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Etoile De Faimes – R.U.S. Stree
+DESCRIPTION:3e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4046ddbb57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Etoile De Faimes – J.S. Racour-Lincent
+DESCRIPTION:3e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78fe9b921d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Amay A – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e1bcc4e92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Etoile De Faimes – R.F.C. Ouffet Warzée
+DESCRIPTION:3e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/etoile-de-faimes-3-prov-a-liege/
+URL:https://goalio.be/fr/equipe/etoile-de-faimes-3-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

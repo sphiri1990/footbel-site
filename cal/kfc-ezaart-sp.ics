@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Ezaart Sp. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bd50666cc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFC Ezaart Sp. 0-1 K.F.C. Arendonk Sport
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-ezaart-sp-k-f-c-arendonk-sport-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-ezaart-sp-k-f-c-arendonk-sport-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0cab10895@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KVC Oostmalle 1-2 KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kvc-oostmalle-kfc-ezaart-sp-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kvc-oostmalle-kfc-ezaart-sp-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8331f86761@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Ezaart Sp. 3-2 KSK Weelde
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-ezaart-sp-ksk-weelde-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-ezaart-sp-ksk-weelde-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcfb0594ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KFC Ezaart Sp. 1-4 KSKS Herentals
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kfc-ezaart-sp-ksks-herentals-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfc-ezaart-sp-ksks-herentals-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b95cfc2a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K. Vrijh. Herselt – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-vrijh-herselt-kfc-ezaart-sp-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-vrijh-herselt-kfc-ezaart-sp-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d234bbf425@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFC Ezaart Sp. – Minderhout VV A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-818f1e896e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KVC Lille United B – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8cd8f049f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFC Ezaart Sp. – KVV OG Vorselaar A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24a33244ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KVC Booischot – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-960f89edaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Ezaart Sp. – K.F.C. Putte A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5f5ce2cc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KSKS Herentals – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3874e5011a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KSK Weelde – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95210e0feb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Ezaart Sp. – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a6abae05a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K.F.C. Arendonk Sport – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f2c756873@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Ezaart Sp. – KFC Lentezon Beerse
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b10773ea0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. Eendr. Zoersel A – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e479f1486@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC Ezaart Sp. – K. Vrijh. Herselt
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f496eaa02c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Noordstar VV – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86274e4c15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Ezaart Sp. – KFC Dessel Sp. B
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8dae7cf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Minderhout VV A – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb18937811@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Ezaart Sp. – Vosselaar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-ezaart-sp/
+URL:https://goalio.be/nl/ploeg/kfc-ezaart-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Wachtebeke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/sk-wachtebeke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b6c3ca518e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:SK Wachtebeke 2-1 KFCE Belzele Evergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/sk-wachtebeke-kfce-belzele-evergem-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/sk-wachtebeke-kfce-belzele-evergem-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1933953600@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:SK Wachtebeke 3-5 St Muide Gent
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/sk-wachtebeke-st-muide-gent-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/sk-wachtebeke-st-muide-gent-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e102783adb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:E Vinkt 4-2 SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/e-vinkt-sk-wachtebeke-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/e-vinkt-sk-wachtebeke-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24b845c36e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:SK Wachtebeke 2-1 VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sk-wachtebeke-vv-sp-ursel-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/sk-wachtebeke-vv-sp-ursel-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85ecf32b8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Daring Maria-Aalter – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/daring-maria-aalter-sk-wachtebeke-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/daring-maria-aalter-sk-wachtebeke-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da1867081a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:SK Wachtebeke – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1635a35c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:KFCE Belzele Evergem – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05d0dd40d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:SK Wachtebeke – KFC St-Kruis-W
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ca61781df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SK Wachtebeke – KSCE Mariakerke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0be868faf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:St Muide Gent – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3ea242955@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SK Wachtebeke – KVE Aalter B
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f30bfd0b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Goalgetters Sint-Laureins A – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fddda676eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Wachtebeke – E Vinkt
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-225fdca368@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KVV Zomergem – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01d49d9e18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Kaprijke-Bentille – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa5afddb6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SK Wachtebeke – VVE Hansbeke A
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e647015714@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VV Sp Ursel – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f88a8dabf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SK Wachtebeke – Daring Maria-Aalter
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e56a33c059@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SK Bellem – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-243b8cc382@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Wachtebeke – VK Knesselare
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4174211f2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Evergem Center – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/sk-wachtebeke/
+URL:https://goalio.be/nl/ploeg/sk-wachtebeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

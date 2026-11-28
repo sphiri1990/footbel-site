@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Soumagne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-soumagne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-aa70f11320@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Jeunesse Haccourtoise 2-3 R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-jeunesse-haccourtoise-r-f-c-soumagne-2026-11-01/
+URL:https://goalio.be/fr/match/r-jeunesse-haccourtoise-r-f-c-soumagne-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c38065da4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Soumagne 1-0 R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-f-c-soumagne-r-ent-blegnytoise-3-prov-c-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-soumagne-r-ent-blegnytoise-3-prov-c-li
+ ege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8996c9a004@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:A.S. Hermalienne 1-2 R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/a-s-hermalienne-r-f-c-soumagne-2026-11-15/
+URL:https://goalio.be/fr/match/a-s-hermalienne-r-f-c-soumagne-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9cbbab51d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Soumagne – R. Espoir Minerois (remis)
+DESCRIPTION:3e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-soumagne-r-espoir-minerois-3-prov-c-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-soumagne-r-espoir-minerois-3-prov-c-li
+ ege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5f4c5079b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.F.C. Charneux – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-f-c-charneux-r-f-c-soumagne-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-charneux-r-f-c-soumagne-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e9bb8ed7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.F.C. Warsage – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56c76d53cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Soumagne – F.C. Bressoux
+DESCRIPTION:3e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9e99cdb4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.F.C. Soumagne – R.C.S. Bollandois
+DESCRIPTION:3e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66a4a1eaf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1e33d327f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.F.C. Soumagne – R. Oupeye FC
+DESCRIPTION:3e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-355c4e7b22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Union Roclenge-Wonck – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-811be21da1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Soumagne – R.J.S. Cheneenne
+DESCRIPTION:3e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-451286f16f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. Vivegnis – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7313951849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Soumagne – R.J.S. Olnoise
+DESCRIPTION:3e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c45221d221@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f39487cb3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Soumagne – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ee6e4944d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Ent. Blegnytoise – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f23ba92a54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Soumagne – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-285b18e24d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Espoir Minerois – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9aae17009@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Soumagne – R.F.C. Charneux
+DESCRIPTION:3e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

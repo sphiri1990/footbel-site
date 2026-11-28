@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. SP B. Frameries B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ecead1fbe5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.F.C. Vacresse 3-3 R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-f-c-vacresse-r-sp-b-frameries-b-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-vacresse-r-sp-b-frameries-b-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad79254625@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:R. SP B. Frameries B 3-0 R.F.C. Wiersien
+DESCRIPTION:3e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-sp-b-frameries-b-r-f-c-wiersien-2026-11-07/
+URL:https://goalio.be/fr/match/r-sp-b-frameries-b-r-f-c-wiersien-2026-11-07
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b17a24a74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.U.S. Hensies B 2-1 R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-u-s-hensies-b-r-sp-b-frameries-b-2026-11-15/
+URL:https://goalio.be/fr/match/r-u-s-hensies-b-r-sp-b-frameries-b-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40e8e6a37c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:R. SP B. Frameries B – A.S. Quiévrain-Wasmuel
+DESCRIPTION:3e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-sp-b-frameries-b-a-s-quievrain-wasmuel-2026-11-21/
+URL:https://goalio.be/fr/match/r-sp-b-frameries-b-a-s-quievrain-wasmuel-202
+ 6-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9f5a84ef8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:A.S. Pommeroeul-Ville – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/a-s-pommeroeul-ville-r-sp-b-frameries-b-2026-11-29/
+URL:https://goalio.be/fr/match/a-s-pommeroeul-ville-r-sp-b-frameries-b-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9725780c02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:A.S. Vaudignies A – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac859a8f1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:R. SP B. Frameries B – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9c6f5c002@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Péruwelz Football Club – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-329af9114b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:R. SP B. Frameries B – U.S. Thumaide
+DESCRIPTION:3e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b969360098@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:C.D. Furia Espanola – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e7fc1ff80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:R. SP B. Frameries B – F.C. Beclers
+DESCRIPTION:3e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa7e0d21e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:R. SP B. Frameries B – RFC Thulin
+DESCRIPTION:3e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03804b0fee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. Meslin - Grand Marais – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dc68605c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. SP B. Frameries B – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2a46bfb17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.A.J.S. Honnelloise – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9335976054@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R. SP B. Frameries B – R.F.C. Vacresse
+DESCRIPTION:3e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d356ec8c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Wiersien – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61f7d6a84e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:R. SP B. Frameries B – R.U.S. Hensies B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35ebf0b53a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48a23c5c85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. SP B. Frameries B – A.S. Pommeroeul-Ville
+DESCRIPTION:3e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-sp-b-frameries-b/
+URL:https://goalio.be/fr/equipe/r-sp-b-frameries-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

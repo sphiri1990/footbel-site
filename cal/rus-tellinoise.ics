@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUS Tellinoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rus-tellinoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1cc0e27b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RUS Tellinoise 1-0 RCS Libramontois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/rus-tellinoise-rcs-libramontois-b-2026-10-31/
+URL:https://goalio.be/fr/match/rus-tellinoise-rcs-libramontois-b-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3d8f2c85b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RUS Léglise 4-0 RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/rus-leglise-rus-tellinoise-2026-11-08/
+URL:https://goalio.be/fr/match/rus-leglise-rus-tellinoise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40314b0e05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RUS Tellinoise 2-1 RJS Mageretoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/rus-tellinoise-rjs-mageretoise-2026-11-14/
+URL:https://goalio.be/fr/match/rus-tellinoise-rjs-mageretoise-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5834f42c44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RUS Ste Ode A – RUS Tellinoise (remis)
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/rus-ste-ode-a-rus-tellinoise-2026-11-21/
+URL:https://goalio.be/fr/match/rus-ste-ode-a-rus-tellinoise-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fc815bd3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RUS Tellinoise – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/rus-tellinoise-r-st-fc-bouillon-a-2026-11-28/
+URL:https://goalio.be/fr/match/rus-tellinoise-r-st-fc-bouillon-a-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54120e9432@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RUS Tellinoise – RAC Neuvillers A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b30b475485@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RLC Warmifontaine – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-323024a9d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RUS Tellinoise – Athl. Florenvillois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40b73ce59a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270219T193000Z
+DTEND:20270219T211500Z
+SUMMARY:RES Bourcy – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b42404b08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RUS Tellinoise – ES Saint-Pierre A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42f89f2e5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:FC Bertrix A – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09a2745ea1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Tellinoise – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b620bda14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:UN St. André Ochamps B – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c22acb0fff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RCS Libramontois B – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fcdd3ad03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RUS Tellinoise – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3a9447848@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RJS Mageretoise – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rus-tellinoise/
+URL:https://goalio.be/fr/equipe/rus-tellinoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

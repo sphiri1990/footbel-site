@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Queue du Bois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9a408e2675@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.F.C. Queue du Bois 0-1 R.C.S. Bollandois
+DESCRIPTION:4e provinciale Liège F\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-f-c-queue-du-bois-r-c-s-bollandois-4-prov-f-liege-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-queue-du-bois-r-c-s-bollandois-4-prov-
+ f-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f710e0a79a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Cornesse F.C. 0-3 R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-cornesse-f-c-4-prov-f-liege-r-f-c-queue-du-bois-2026-11-08/
+URL:https://goalio.be/fr/match/r-cornesse-f-c-4-prov-f-liege-r-f-c-queue-du
+ -bois-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4f3f16ec8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.F.C. Queue du Bois 8-2 F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-f-c-queue-du-bois-f-c-entente-pepine-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-queue-du-bois-f-c-entente-pepine-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58d42f05e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Union Aubeloise – R.F.C. Queue du Bois (remis)
+DESCRIPTION:4e provinciale Liège F\nJournée 14\nhttps://goalio.be/fr/matc
+ h/union-aubeloise-r-f-c-queue-du-bois-2026-11-22/
+URL:https://goalio.be/fr/match/union-aubeloise-r-f-c-queue-du-bois-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41b28b1341@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.F.C. Queue du Bois – Skill Racing Union Verviers
+DESCRIPTION:4e provinciale Liège F\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-f-c-queue-du-bois-skill-racing-union-verviers-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-queue-du-bois-skill-racing-union-vervi
+ ers-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86afd22eda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.F.C. Queue du Bois – R. ST F.C. Andrimont B
+DESCRIPTION:4e provinciale Liège F\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe922ff5d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Battice F.C. – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf7d3b9580@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Herve F.C. – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce8106e6fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C. Queue du Bois – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2af1e78367@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.A.F. Franchimontois – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e73891dec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Queue du Bois – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a3e6891f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:A.C. Soiron – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-231d8bd272@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. Queue du Bois – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b7008eb0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Bollandois – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-281ff20511@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Queue du Bois – R. Cornesse F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51a2e487e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Entente Pepine – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc580862e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Queue du Bois – Union Aubeloise
+DESCRIPTION:4e provinciale Liège F\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8817c0ac61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Skill Racing Union Verviers – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-f-c-queue-du-bois/
+URL:https://goalio.be/fr/equipe/r-f-c-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

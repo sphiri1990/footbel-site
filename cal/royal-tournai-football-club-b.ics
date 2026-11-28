@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royal Tournai Football Club B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-62f215bc03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:A.S. Obigies B 1-6 Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/a-s-obigies-b-royal-tournai-football-club-b-2026-10-31/
+URL:https://goalio.be/fr/match/a-s-obigies-b-royal-tournai-football-club-b-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c18412cf8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Royal Tournai Football Club B 4-5 F.C. Brunehaut A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/royal-tournai-football-club-b-f-c-brunehaut-a-2026-11-08/
+URL:https://goalio.be/fr/match/royal-tournai-football-club-b-f-c-brunehaut-
+ a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da948e9ec9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:R.F.C. Herinnes 2-0 Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-f-c-herinnes-royal-tournai-football-club-b-2026-11-14/
+URL:https://goalio.be/fr/match/r-f-c-herinnes-royal-tournai-football-club-b
+ -2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-888983c007@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Royal Tournai Football Club B – A.C. Estaimbourg
+DESCRIPTION:3e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/royal-tournai-football-club-b-a-c-estaimbourg-2026-11-22/
+URL:https://goalio.be/fr/match/royal-tournai-football-club-b-a-c-estaimbour
+ g-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38dfbe565b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.S.C. Templeuvois A – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-s-c-templeuvois-a-royal-tournai-football-club-b-2026-11-29/
+URL:https://goalio.be/fr/match/r-s-c-templeuvois-a-royal-tournai-football-c
+ lub-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a21abd041@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8bf645226@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Royal Tournai Football Club B – SB Stade Mouscronnois B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-798cb6faf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R.F.C. Molenbaix B – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cad0ad56e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Royal Tournai Football Club B – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97c219d277@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ent. Velaines Enclusienne A – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff67781f6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Royal Tournai Football Club B – F.C. Esplechin
+DESCRIPTION:3e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6208772bcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Royal Tournai Football Club B – R.A.S. Risquons-Tout Mouscron A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-288d966ccd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Bleharies – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2688a19bf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Royal Tournai Football Club B – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1407047756@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:S.C. De Nechin – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69ced369dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Royal Tournai Football Club B – A.S. Obigies B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f7223a0a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Brunehaut A – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10845048bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Royal Tournai Football Club B – R.F.C. Herinnes
+DESCRIPTION:3e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a24c6f9d9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.C. Estaimbourg – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b144e7d030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Royal Tournai Football Club B – R.S.C. Templeuvois A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/royal-tournai-football-club-b/
+URL:https://goalio.be/fr/equipe/royal-tournai-football-club-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WK St-Goriks · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/wk-st-goriks/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d774f0e556@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:WK St-Goriks 0-5 Olsa Nederbrakel
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/wk-st-goriks-olsa-nederbrakel-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/wk-st-goriks-olsa-nederbrakel-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f256eabc53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:WK St-Goriks 2-3 K.S.K. United Geraardsbergen
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/wk-st-goriks-k-s-k-united-geraardsbergen-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/wk-st-goriks-k-s-k-united-geraardsbergen
+ -2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4f41483d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T133000Z
+DTEND:20261111T151500Z
+SUMMARY:St Michelbeke B 0-0 WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 9\nhttps://goalio.be
+ /nl/wedstrijd/st-michelbeke-b-wk-st-goriks-2026-11-11/
+URL:https://goalio.be/nl/wedstrijd/st-michelbeke-b-wk-st-goriks-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36f0fd459b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Zegelsem 4-0 WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/fc-zegelsem-wk-st-goriks-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/fc-zegelsem-wk-st-goriks-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdca9b2f04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:WK St-Goriks 0-6 Racing Strijpen
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/wk-st-goriks-racing-strijpen-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/wk-st-goriks-racing-strijpen-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b4c04be43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T184500Z
+DTEND:20261128T203000Z
+SUMMARY:KFC Voorde-Appelterre B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-voorde-appelterre-b-wk-st-goriks-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-voorde-appelterre-b-wk-st-goriks-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-475c9b6a49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:WK St-Goriks – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99d4296bfa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Olsa Nederbrakel – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b39eafc08e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:WK St-Goriks – VCE Deftinge B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17dca9611b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:WK St-Goriks – FC Velzeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f534cb330a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K.S.K. United Geraardsbergen – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c285bd5e0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFCB Lierde-Everbeek B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4b7774b52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:WK St-Goriks – FC Zegelsem
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f9b92f3fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RR Breivelde-Zottegem B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab5ca6ccc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:W Idegem – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6dee8895c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:WK St-Goriks – EC Oudenhove B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47f08679ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Racing Strijpen – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-806423871c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:WK St-Goriks – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-706d2a520c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SK Opbrakel – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7181017897@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:WK St-Goriks – St Michelbeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f49bcae3ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SV Sottegem B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/wk-st-goriks/
+URL:https://goalio.be/nl/ploeg/wk-st-goriks/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

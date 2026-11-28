@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E.S. Wanze/Bas-Oha A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5bec9305a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:E.S. Wanze/Bas-Oha A 3-1 R.F.C. Croatia Wandre A
+DESCRIPTION:1re provinciale Liège\nJournée 11\nhttps://goalio.be/fr/match
+ /e-s-wanze-bas-oha-a-r-f-c-croatia-wandre-a-2026-11-01/
+URL:https://goalio.be/fr/match/e-s-wanze-bas-oha-a-r-f-c-croatia-wandre-a-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1ffef693d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise 1-2 E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 12\nhttps://goalio.be/fr/match
+ /r-etoile-sp-dalhemoise-e-s-wanze-bas-oha-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-etoile-sp-dalhemoise-e-s-wanze-bas-oha-a-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe246bb0de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:E.S. Wanze/Bas-Oha A 0-2 Royal Football Club Wallonia Hannut
+DESCRIPTION:1re provinciale Liège\nJournée 13\nhttps://goalio.be/fr/match
+ /e-s-wanze-bas-oha-a-royal-football-club-wallonia-hannut-2026-11-15/
+URL:https://goalio.be/fr/match/e-s-wanze-bas-oha-a-royal-football-club-wall
+ onia-hannut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c28028599@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Welkenraedt – E.S. Wanze/Bas-Oha A (remis)
+DESCRIPTION:1re provinciale Liège\nJournée 14\nhttps://goalio.be/fr/match
+ /f-c-welkenraedt-e-s-wanze-bas-oha-a-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-welkenraedt-e-s-wanze-bas-oha-a-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-480fb7d85a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – R.S.C. Beaufays A
+DESCRIPTION:1re provinciale Liège\nJournée 15\nhttps://goalio.be/fr/match
+ /e-s-wanze-bas-oha-a-r-s-c-beaufays-a-2026-11-29/
+URL:https://goalio.be/fr/match/e-s-wanze-bas-oha-a-r-s-c-beaufays-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28ed904496@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – FC. Ster Francorchamps A
+DESCRIPTION:1re provinciale Liège\nJournée 16\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f648995e89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Etoile De Faimes – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 17\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f651f77e17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – R. Herve F.C.
+DESCRIPTION:1re provinciale Liège\nJournée 18\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8be1b9f2bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:RCS Xhorisien – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 19\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9093b6d808@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 20\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-579cb82191@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:JS Fizoise – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 21\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10312d283d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Union Flémalloise A – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 22\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7dd6ab286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – R. Espoir Minerois
+DESCRIPTION:1re provinciale Liège\nJournée 23\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4645def79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K.F.C. Eupen 1963 – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 24\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bea5fdad43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – R.F.C. Warsage
+DESCRIPTION:1re provinciale Liège\nJournée 25\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f6a2c03f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Croatia Wandre A – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 26\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9ef47064a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 27\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48a6e20d6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Royal Football Club Wallonia Hannut – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 28\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41ba4fae26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – F.C. Welkenraedt
+DESCRIPTION:1re provinciale Liège\nJournée 29\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be2ade2802@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Beaufays A – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 30\nhttps://goalio.be/fr/equip
+ e/e-s-wanze-bas-oha-a/
+URL:https://goalio.be/fr/equipe/e-s-wanze-bas-oha-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

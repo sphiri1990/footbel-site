@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.S.V. Oostkamp A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-176238765e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K.S.V. Oostkamp A 3-6 SV Zulte-Waregem B
+DESCRIPTION:D2 VV A\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/k-s-v-oost
+ kamp-a-sv-zulte-waregem-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-s-v-oostkamp-a-sv-zulte-waregem-b-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17df0ef93b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K.S.V. Oostkamp A 1-0 Racing Club Gent
+DESCRIPTION:D2 VV A\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-s-v-oost
+ kamp-a-racing-club-gent-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-s-v-oostkamp-a-racing-club-gent-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbef22e214@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Sparta Petegem Deinze A 0-2 K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/sparta-pet
+ egem-deinze-a-k-s-v-oostkamp-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/sparta-petegem-deinze-a-k-s-v-oostkamp-a
+ -2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b858884a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K.S.V. Oostkamp A 0-1 RFC Wetteren
+DESCRIPTION:D2 VV A\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-s-v-oost
+ kamp-a-rfc-wetteren-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-s-v-oostkamp-a-rfc-wetteren-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8d3574d86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KM Torhout A – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/km-torhout
+ -a-k-s-v-oostkamp-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/km-torhout-a-k-s-v-oostkamp-a-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a80629ab0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K.S.V. Oostkamp A – KFC Voorde-Appelterre A
+DESCRIPTION:D2 VV A\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1746782f8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K.S.V. Oostkamp A – K.V. Diksmuide Oostende A
+DESCRIPTION:D2 VV A\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c18fa0fa2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T173000Z
+DTEND:20270109T191500Z
+SUMMARY:SV Zulte-Waregem B – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ea2a53ca1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K.S.V. Oostkamp A – KFCVW Hamme
+DESCRIPTION:D2 VV A\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83ff188935@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Racing Club Gent – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7de048cead@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K.S.V. Oostkamp A – Sparta Petegem Deinze A
+DESCRIPTION:D2 VV A\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bfe684110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KSV Oudenaarde – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a86dd8e79a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K.S.V. Oostkamp A – KFCHO Kalken A
+DESCRIPTION:D2 VV A\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a2f5b9b7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KSK Londerzeel – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0db3b5499e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K.S.V. Oostkamp A – FC Lebbeke
+DESCRIPTION:D2 VV A\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-794b2b2b07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Koninklijke Eendracht Aalst Lede – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2236e8daa8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K.S.V. Oostkamp A – KM Torhout A
+DESCRIPTION:D2 VV A\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50899bf60f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RFC Wetteren – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a6dfbfa5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Voorde-Appelterre A – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4089d7a23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K.S.V. Oostkamp A – YRKV Mechelen B
+DESCRIPTION:D2 VV A\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99f2a0791d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Ninove A – K.S.V. Oostkamp A
+DESCRIPTION:D2 VV A\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-s-v-oostkamp
+ -a/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Namoussart · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-namoussart/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e1ce3e79b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RSC Muno 5-0 FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/rsc-muno-fc-namoussart-2026-11-01/
+URL:https://goalio.be/fr/match/rsc-muno-fc-namoussart-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0f388207c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Namoussart 3-7 U.S. Assenois
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/fc-namoussart-u-s-assenois-2026-11-08/
+URL:https://goalio.be/fr/match/fc-namoussart-u-s-assenois-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0644aa7b4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RUS Ste Marie-Semois 6-1 FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/rus-ste-marie-semois-fc-namoussart-2026-11-14/
+URL:https://goalio.be/fr/match/rus-ste-marie-semois-fc-namoussart-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8196474bfb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RUS Marbehan – FC Namoussart (remis)
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/rus-marbehan-fc-namoussart-2026-11-21/
+URL:https://goalio.be/fr/match/rus-marbehan-fc-namoussart-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e57ee4970a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Namoussart – CS Corbion
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/fc-namoussart-cs-corbion-2026-11-29/
+URL:https://goalio.be/fr/match/fc-namoussart-cs-corbion-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9e4b812c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Namoussart – R. Standard F.C. Bouillon
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0275fdde69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Union Cecilienne – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9ece23638@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Namoussart – RUS Les Bulles
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0cd75d49ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T193000Z
+DTEND:20270220T211500Z
+SUMMARY:FC Tintifontaine – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79c386ecb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.R.C. Longlier – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-863a282627@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Namoussart – SC Villers-Dt-Orval
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9211dddf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:EC Jamoigne-Chiny – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a17b59b8be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Namoussart – RSC Muno
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d65bbdaafa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U.S. Assenois – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3669d2a73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Namoussart – RUS Ste Marie-Semois
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/fc-namoussart/
+URL:https://goalio.be/fr/equipe/fc-namoussart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

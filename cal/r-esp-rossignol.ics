@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Esp. Rossignol · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-esp-rossignol/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-63a40d86c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:ROC Meix-Dt-Virton B 2-2 R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/roc-meix-dt-virton-b-r-esp-rossignol-2026-11-01/
+URL:https://goalio.be/fr/match/roc-meix-dt-virton-b-r-esp-rossignol-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c6901e34e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Esp. Rossignol 4-1 AS Gérouville
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/r-esp-rossignol-as-gerouville-2026-11-08/
+URL:https://goalio.be/fr/match/r-esp-rossignol-as-gerouville-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-510c8a412b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Ass. Sp. Nothomb-Post B 2-0 R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/ass-sp-nothomb-post-b-r-esp-rossignol-2026-11-14/
+URL:https://goalio.be/fr/match/ass-sp-nothomb-post-b-r-esp-rossignol-2026-1
+ 1-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-333ecdaaa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Esp. Rossignol – RCS Halanzy (remis)
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/r-esp-rossignol-rcs-halanzy-2026-11-22/
+URL:https://goalio.be/fr/match/r-esp-rossignol-rcs-halanzy-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9ada48807@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RFC Messancy B – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/rfc-messancy-b-r-esp-rossignol-2026-11-29/
+URL:https://goalio.be/fr/match/rfc-messancy-b-r-esp-rossignol-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d546b48df1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Exc. Fouches – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a1b844d7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Esp. Rossignol – R. Jeunesse Autelbas
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b625db3b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Esp. Rossignol – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5fee00ec84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:US Martelangeoise – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0175f42fcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Esp. Rossignol – RJS Habaysienne
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ea69fd50a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RES Aubange – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16439c5a82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Esp. Rossignol – R. Excelsior Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e97e0f647@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RAC Saint-Mard A – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-098ef27ee3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Esp. Rossignol – ROC Meix-Dt-Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-183ad265aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:AS Gérouville – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-daf93a52e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Esp. Rossignol – Ass. Sp. Nothomb-Post B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-esp-rossignol/
+URL:https://goalio.be/fr/equipe/r-esp-rossignol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

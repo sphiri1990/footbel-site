@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.S. Aiseau-Presles · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f080fa5030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Racing A.C.S. Couillet 1-0 J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/racing-a-c-s-couillet-j-s-aiseau-presles-2026-11-01/
+URL:https://goalio.be/fr/match/racing-a-c-s-couillet-j-s-aiseau-presles-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d394b4de5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Aiseau-Presles 0-2 Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/j-s-aiseau-presles-racing-club-marcinelle-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-aiseau-presles-racing-club-marcinelle-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3405d1dd45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T133000Z
+DTEND:20261111T151500Z
+SUMMARY:J.S. Aiseau-Presles 2-10 Mellet Sports
+DESCRIPTION:4e provinciale Hainaut F\nJournée 9\nhttps://goalio.be/fr/matc
+ h/j-s-aiseau-presles-mellet-sports-2026-11-11/
+URL:https://goalio.be/fr/match/j-s-aiseau-presles-mellet-sports-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fa782261f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.F.C. De Gilly 12-0 J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-f-c-de-gilly-j-s-aiseau-presles-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-de-gilly-j-s-aiseau-presles-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cc2e21033@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:J.S. Aiseau-Presles – RFC Baulet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/j-s-aiseau-presles-rfc-baulet-2026-11-22/
+URL:https://goalio.be/fr/match/j-s-aiseau-presles-rfc-baulet-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-775b6d7520@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.E.S. Roux – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-e-s-roux-4-prov-f-hainaut-j-s-aiseau-presles-2026-11-29/
+URL:https://goalio.be/fr/match/r-e-s-roux-4-prov-f-hainaut-j-s-aiseau-presl
+ es-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39b0d471ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Bouffioulx – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e8dd92818@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:J.S. Aiseau-Presles – A.F. US St Amand-Brye (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57574a7347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Football Club Fleurus – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6093e5bcf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:J.S. Aiseau-Presles – Black Country Charleroi
+DESCRIPTION:4e provinciale Hainaut F\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-033030b024@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Carolo Football Charleroi – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cbbc63acc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:J.S. Aiseau-Presles – FC Châtelineau (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0509d79293@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Entente Chatelet – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b458c62c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. Aiseau-Presles – R. Jumet S.C. B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30e6b2278b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Mellet Sports – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb72cf1e29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:J.S. Aiseau-Presles – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe100a9583@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:J.S. Aiseau-Presles – Racing A.C.S. Couillet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15030a8f7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Racing Club Marcinelle – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac9f373f54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. Aiseau-Presles – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf4b7b8ac4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Baulet – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c77e8a1346@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Aiseau-Presles – R.E.S. Roux
+DESCRIPTION:4e provinciale Hainaut F\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/j-s-aiseau-presles/
+URL:https://goalio.be/fr/equipe/j-s-aiseau-presles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RE Stéphanois A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/re-stephanois-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-54be655f2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RE Stéphanois A 2-3 RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/re-stephanois-a-ru-tubize-braine-le-comte-b-2026-11-01
+ /
+URL:https://goalio.be/fr/match/re-stephanois-a-ru-tubize-braine-le-comte-b-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f171354f40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:ES. Brainoise A 4-0 RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/es-brainoise-a-re-stephanois-a-2026-11-08/
+URL:https://goalio.be/fr/match/es-brainoise-a-re-stephanois-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-941a3d4706@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RE Stéphanois A 1-2 FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/re-stephanois-a-fc-walhain-a-2026-11-15/
+URL:https://goalio.be/fr/match/re-stephanois-a-fc-walhain-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1206e4010a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:F.C. Genappe B 1-3 RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/match/f-c-genappe-b-re-stephanois-a-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-genappe-b-re-stephanois-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48c57c250b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RE Stéphanois A – RFC Grez-Doiceau A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/match/re-stephanois-a-rfc-grez-doiceau-a-2026-11-29/
+URL:https://goalio.be/fr/match/re-stephanois-a-rfc-grez-doiceau-a-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4022f24eca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Léopold FC. B – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e6eea489a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RE Stéphanois A – ROS Ottignies-LLN A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02756c5d46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:CS Biergeois A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6716027e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RE Stéphanois A – RFC Orp-Noduwez B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23acd8895c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ol. Clabecq A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b22729f5db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RE Stéphanois A – R.R.C. De Boitsfort
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d97a0ccb6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Union Rixensartoise A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24c5e7504c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RE Stéphanois A – RC Villers la Ville A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dff0bd2a96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SC Beauvechain A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-227e959fce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RE Stéphanois A – R. Union Lasne Ohain
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8ce1b3ece@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RU Tubize Braine-le-Comte B – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45a64e433f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RE Stéphanois A – ES. Brainoise A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cec2a717e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC. Walhain A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78367879af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RE Stéphanois A – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-496ecd1756@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RFC Grez-Doiceau A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/re-stephanois-a/
+URL:https://goalio.be/fr/equipe/re-stephanois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

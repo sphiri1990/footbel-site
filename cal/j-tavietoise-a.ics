@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J Tavietoise A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-tavietoise-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bf49d3463e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:J Tavietoise A 5-3 JS Eghezée
+DESCRIPTION:2e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /j-tavietoise-a-js-eghezee-2026-11-01/
+URL:https://goalio.be/fr/match/j-tavietoise-a-js-eghezee-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02b57dab81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RUS Méan A 2-3 J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /rus-mean-a-j-tavietoise-a-2026-11-08/
+URL:https://goalio.be/fr/match/rus-mean-a-j-tavietoise-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc93a3f7b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:La Jeunesse Sclaynoise 2-1 J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /la-jeunesse-sclaynoise-j-tavietoise-a-2026-11-15/
+URL:https://goalio.be/fr/match/la-jeunesse-sclaynoise-j-tavietoise-a-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96f31428e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:J Tavietoise A – RFC Rhisnois A (remis)
+DESCRIPTION:2e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /j-tavietoise-a-rfc-rhisnois-a-2026-11-22/
+URL:https://goalio.be/fr/match/j-tavietoise-a-rfc-rhisnois-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a64e7900ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RSC Oheytois A – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /rsc-oheytois-a-j-tavietoise-a-2026-11-28/
+URL:https://goalio.be/fr/match/rsc-oheytois-a-j-tavietoise-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b584af1dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:US Emines A – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9c4b179a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:J Tavietoise A – ES Jamboise A
+DESCRIPTION:2e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efe2d585d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e1ecdd2dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:J Tavietoise A – RUS Assessoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2113d0c2cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:S Flawinne FC A – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8a86eae3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:J Tavietoise A – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa819f23ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RUW Ciney B – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81f6cee70c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J Tavietoise A – RES Gesvoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-330a642f86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R Arquet FC B – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20b8913cfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:J Tavietoise A – RRC Havelange A
+DESCRIPTION:2e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d34ab983dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:JS Eghezée – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af699e9f51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:J Tavietoise A – RUS Méan A
+DESCRIPTION:2e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebc2e14f8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J Tavietoise A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9885f4e850@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Rhisnois A – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-729bcc8fc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J Tavietoise A – RSC Oheytois A
+DESCRIPTION:2e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-a/
+URL:https://goalio.be/fr/equipe/j-tavietoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC St. Mart. Halle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fd8a1316e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. Wuustwezel FC B 0-4 KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-wuustwezel-fc-b-kfc-st-mart-halle-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-wuustwezel-fc-b-kfc-st-mart-halle-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ba275ee98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:K. Meerle FC 2-1 KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-meerle-fc-kfc-st-mart-halle-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-meerle-fc-kfc-st-mart-halle-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c1020ac06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC St. Mart. Halle 3-1 KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-st-mart-halle-kvk-westmalle-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-st-mart-halle-kvk-westmalle-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a3c38931a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KFC Antonia B 2-1 KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kfc-antonia-b-kfc-st-mart-halle-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfc-antonia-b-kfc-st-mart-halle-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af781263f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K. Sint Job FC B – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1458debd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. Eendr. Zoersel B – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4016aebbd7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC St. Mart. Halle – Minderhout VV B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56c2275ba0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC Bucovina Loenhout – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-671fc65524@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KFC St. Mart. Halle – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0772675cd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KVK Westmalle – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca7d7c4bbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KFC St. Mart. Halle – KFC Zwarte Leeuw B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b986f68cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Alberta FC Schilde – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aabab14449@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KFC St. Mart. Halle – KFC Wechelderzande
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20d3959ca8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:St. Jozef – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6e844a04b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KFC St. Mart. Halle – K. Sint Job FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1416cd7c7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC St. Mart. Halle – KFC Antonia B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd3f00be74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC St. Mart. Halle – K. Meerle FC
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d545b67f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Loenhout SK B – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8465f913e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC St. Mart. Halle – K. Wuustwezel FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-st-mart-halle/
+URL:https://goalio.be/nl/ploeg/kfc-st-mart-halle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club Olympic Trivières · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/club-olympic-trivieres/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-abc4944869@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Athl. Club Le Roeulx 2-2 Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/athl-club-le-roeulx-club-olympic-trivieres-2026-11-01/
+URL:https://goalio.be/fr/match/athl-club-le-roeulx-club-olympic-trivieres-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a0e3fa86d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Club Olympic Trivières 4-1 US Centre Haine-Saint-Pierre
+DESCRIPTION:4e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/club-olympic-trivieres-us-centre-haine-saint-pierre-2026-11-15/
+URL:https://goalio.be/fr/match/club-olympic-trivieres-us-centre-haine-saint
+ -pierre-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3fd396edb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Peronnes – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/f-c-peronnes-club-olympic-trivieres-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-peronnes-club-olympic-trivieres-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5f4865c6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Club Olympic Trivières – R.F.C. Ecaussinnois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/club-olympic-trivieres-r-f-c-ecaussinnois-4-prov-d-hainaut-2026-11-29/
+URL:https://goalio.be/fr/match/club-olympic-trivieres-r-f-c-ecaussinnois-4-
+ prov-d-hainaut-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eed51f9454@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Club Olympic Trivières – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76ea6481e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Olympique Club Ghlin – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-623de13f3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Club Olympic Trivières – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3f9bcfb2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Union Entité Estinnoise – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bd070f4b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Club Olympic Trivières – R.S.C. Naastois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-265069c780@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C.E. Maurage – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1862e73df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Club Olympic Trivières – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7daa55cb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:A.S. Morlanwelz – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae7e5d6f58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Club Olympic Trivières – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1ec662a7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Lindbergh Club Givry – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f828a85c64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Club Olympic Trivières – Athl. Club Le Roeulx
+DESCRIPTION:4e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eae3bf40a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:US Centre Haine-Saint-Pierre – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f441a070f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Club Olympic Trivières – F.C. Peronnes
+DESCRIPTION:4e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5042cf95e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Ecaussinnois – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/club-olympic-trivieres/
+URL:https://goalio.be/fr/equipe/club-olympic-trivieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

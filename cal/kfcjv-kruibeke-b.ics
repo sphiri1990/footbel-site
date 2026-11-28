@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFCJV Kruibeke B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fa72e64ed5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:WS Meerdonk 1-4 KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/ws-meerdonk-kfcjv-kruibeke-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/ws-meerdonk-kfcjv-kruibeke-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e286a481d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KFCJV Kruibeke B 2-1 SV Blauw Wit Temse B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kfcjv-kruibeke-b-sv-blauw-wit-temse-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfcjv-kruibeke-b-sv-blauw-wit-temse-b-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6514abd76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:SVH Waasmunster B 3-4 KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/svh-waasmunster-b-kfcjv-kruibeke-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/svh-waasmunster-b-kfcjv-kruibeke-b-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc5b4f6c99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T150000Z
+DTEND:20261122T164500Z
+SUMMARY:KFCJV Kruibeke B 0-0 Vos Reinaert
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kfcjv-kruibeke-b-vos-reinaert-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfcjv-kruibeke-b-vos-reinaert-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ac378e746@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Excelsior Nieuwkerken – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/excelsior-nieuwkerken-kfcjv-kruibeke-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/excelsior-nieuwkerken-kfcjv-kruibeke-b-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b343acf4da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KFCJV Kruibeke B – F.C. Hamse Bouw
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2d7d749d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Spartak Buggenhout – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cba85203ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KFCJV Kruibeke B – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7406438307@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Rangers Opdorp B – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0a2f9c9f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VK Tielrode – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ea6d7c0f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KFCJV Kruibeke B – Excelsior Nieuwkerken
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68f8544b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:FCH St-Pauwels – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48997b92e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFCJV Kruibeke B – KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e3fd52c4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:SV Blauw Wit Temse B – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d70ef98a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFCJV Kruibeke B – KFC Baasrode
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9811eecc25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Hamse Bouw – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3b6ba13a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFCJV Kruibeke B – KVVWS Sombeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4806a521ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:Vos Reinaert – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c82fd97804@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFCJV Kruibeke B – WS Meerdonk
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f2b34b390@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KOFC Rupelmonde – KFCJV Kruibeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e65b18f109@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFCJV Kruibeke B – SVH Waasmunster B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfcjv-kruibeke-b/
+URL:https://goalio.be/nl/ploeg/kfcjv-kruibeke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

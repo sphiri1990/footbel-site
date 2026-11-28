@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Auvelais B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/us-auvelais-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-76e0851717@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SC Mazycien B 2-9 US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /sc-mazycien-b-us-auvelais-b-2026-11-01/
+URL:https://goalio.be/fr/match/sc-mazycien-b-us-auvelais-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac845d1483@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Union Bossière Gembloux B 6-0 US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /union-bossiere-gembloux-b-us-auvelais-b-2026-11-15/
+URL:https://goalio.be/fr/match/union-bossiere-gembloux-b-us-auvelais-b-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3aec11c472@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:US Auvelais B – Sp Exc Jemeppe B (remis)
+DESCRIPTION:4e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /us-auvelais-b-sp-exc-jemeppe-b-2026-11-21/
+URL:https://goalio.be/fr/match/us-auvelais-b-sp-exc-jemeppe-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fda2f8eeab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:US Auvelais B – S Flawinne FC B
+DESCRIPTION:4e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfd075fdce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:WA Sauvenière B – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa2f86561d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:US Auvelais B – JS Falisolle-Aisemont A
+DESCRIPTION:4e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c61baf0d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RCS Profondeville B – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87dd0c3653@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:US Auvelais B – New Entente Foot Moignele
+DESCRIPTION:4e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e92676373e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R Ham FC A – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40753e368d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:US Auvelais B – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4162381550@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Bonneville SP B – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab45343f14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:US Auvelais B – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-112762952b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:SP Salzinnes Namur – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e2468e2c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:US Auvelais B – SC Mazycien B
+DESCRIPTION:4e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7544caa535@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Sp Exc Jemeppe B – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14b75f5635@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US Auvelais B – Union Bossière Gembloux B
+DESCRIPTION:4e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/us-auvelais-b/
+URL:https://goalio.be/fr/equipe/us-auvelais-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

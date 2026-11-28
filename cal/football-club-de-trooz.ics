@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Football Club de Trooz · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/football-club-de-trooz/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c6f4dc678c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Entente Jeunesse Fleron 7-1 Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/entente-jeunesse-fleron-football-club-de-trooz-2026-11-01/
+URL:https://goalio.be/fr/match/entente-jeunesse-fleron-football-club-de-tro
+ oz-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51a1fffd89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Football Club de Trooz 0-3 R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/football-club-de-trooz-r-aubel-f-c-2-prov-b-liege-2026-11-08/
+URL:https://goalio.be/fr/match/football-club-de-trooz-r-aubel-f-c-2-prov-b-
+ liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7154e04c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club de Trooz 1-9 F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/football-club-de-trooz-f-c-r-vise-united-2026-11-15/
+URL:https://goalio.be/fr/match/football-club-de-trooz-f-c-r-vise-united-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92e1f1bad4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.S.C. Saive – Football Club de Trooz (remis)
+DESCRIPTION:2e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-s-c-saive-football-club-de-trooz-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-saive-football-club-de-trooz-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0d230d998@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Football Club de Trooz – R.A.S. Houtain
+DESCRIPTION:2e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/football-club-de-trooz-r-a-s-houtain-2026-11-29/
+URL:https://goalio.be/fr/match/football-club-de-trooz-r-a-s-houtain-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9409c9a5be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Football Club de Trooz – F.C. Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb30f88580@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RFC Un. La Calamine – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34c8cc6a9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Football Club de Trooz – U.C.E. de Liège
+DESCRIPTION:2e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2b8de6e71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Cfc Pontisse Herstal – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53a8b97428@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Football Club de Trooz – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dcbdfc822@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Cornesse F.C. – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a3046bc14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Football Club de Trooz – R. Alliance Melen-Micheroux
+DESCRIPTION:2e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83e206b447@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.A.C. Hombourg – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e962073de3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Football Club de Trooz – R. Ent. Blegnytoise
+DESCRIPTION:2e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-020e81d08e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:R. Aywaille F.C. – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99030e7605@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Football Club de Trooz – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7154bd5b71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Aubel F.C. – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84780903e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C.R. Vise United – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d19b560ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Football Club de Trooz – R.S.C. Saive
+DESCRIPTION:2e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b7c69f53a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.A.S. Houtain – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/football-club-de-trooz/
+URL:https://goalio.be/fr/equipe/football-club-de-trooz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

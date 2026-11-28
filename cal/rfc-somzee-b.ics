@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Somzée B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-somzee-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6ea298f0d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RFC Somzée B 2-0 R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rfc-somzee-b-r-c-s-florennois-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-somzee-b-r-c-s-florennois-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dcce429b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Somzée B 5-0 A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /rfc-somzee-b-a-s-clermont-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-somzee-b-a-s-clermont-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7af5a5d0b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Celtic Denée Foot – RFC Somzée B (remis)
+DESCRIPTION:4e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /celtic-denee-foot-rfc-somzee-b-2026-11-21/
+URL:https://goalio.be/fr/match/celtic-denee-foot-rfc-somzee-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18e6b7253a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RFC Somzée B – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd14a53197@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:U St-Gérard B – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e3b8c39c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RFC Somzée B – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-839ccf1bdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:US Auvelais A – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa78ab1577@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RFC Somzée B – RFC Bioul 81 B
+DESCRIPTION:4e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40280937ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:JS Falisolle-Aisemont B – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed4f3bf913@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Somzée B – FC Mesnilois
+DESCRIPTION:4e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa424062ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R Ham FC B – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b14cb9e0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Somzée B – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1f1733898@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Florennois – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ebbd2e139@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Somzée B – Celtic Denée Foot
+DESCRIPTION:4e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ed1e9857c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.S. Clermont – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-b/
+URL:https://goalio.be/fr/equipe/rfc-somzee-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

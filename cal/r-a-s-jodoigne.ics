@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.A.S. Jodoigne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ce5f17714f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RC Melin 3-1 R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 11\nhttps:/
+ /goalio.be/fr/match/rc-melin-r-a-s-jodoigne-2026-11-01/
+URL:https://goalio.be/fr/match/rc-melin-r-a-s-jodoigne-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d4fdc56c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.A.S. Jodoigne 2-2 SR. Incourt
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 12\nhttps:/
+ /goalio.be/fr/match/r-a-s-jodoigne-sr-incourt-2026-11-08/
+URL:https://goalio.be/fr/match/r-a-s-jodoigne-sr-incourt-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a438e78f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:All. Huppaytoise 0-7 R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 13\nhttps:/
+ /goalio.be/fr/match/all-huppaytoise-r-a-s-jodoigne-2026-11-14/
+URL:https://goalio.be/fr/match/all-huppaytoise-r-a-s-jodoigne-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f67e3bff1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.A.S. Jodoigne 2-2 FC. Ronvau Chaumont
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 14\nhttps:/
+ /goalio.be/fr/match/r-a-s-jodoigne-fc-ronvau-chaumont-2026-11-22/
+URL:https://goalio.be/fr/match/r-a-s-jodoigne-fc-ronvau-chaumont-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0d04a34a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:R. Wavre Limal B – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 15\nhttps:/
+ /goalio.be/fr/match/r-wavre-limal-b-r-a-s-jodoigne-2026-11-29/
+URL:https://goalio.be/fr/match/r-wavre-limal-b-r-a-s-jodoigne-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c9481eec2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.A.S. Jodoigne – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1457f2647a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:SC Perwez – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-670c9de288@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.A.S. Jodoigne – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24e493b2f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:CS Biergeois B – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a3498d934@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.A.S. Jodoigne – RCS Nivellois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e32f8207d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T131500Z
+DTEND:20270131T150000Z
+SUMMARY:FC. Walhain B – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de23c9a580@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T184500Z
+DTEND:20270220T203000Z
+SUMMARY:RE Stéphanois B – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd5262b2c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.A.S. Jodoigne – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-385a0e96bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:A.S.E. De Chastre – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02f881895b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.A.S. Jodoigne – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cca5f3502@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SR. Incourt – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84e8a31991@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.A.S. Jodoigne – All. Huppaytoise
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f53ea8b35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC. Ronvau Chaumont – R.A.S. Jodoigne
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2818e87712@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.A.S. Jodoigne – R. Wavre Limal B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/r-a-s-jodoigne/
+URL:https://goalio.be/fr/equipe/r-a-s-jodoigne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

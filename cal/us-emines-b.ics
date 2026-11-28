@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Emines B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/us-emines-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5fa77cdd6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:WA Sauvenière A 8-1 US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /wa-sauveniere-a-us-emines-b-2026-11-01/
+URL:https://goalio.be/fr/match/wa-sauveniere-a-us-emines-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71a4c98d72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:US Emines B 3-0 RUS Loyers B
+DESCRIPTION:3e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /us-emines-b-rus-loyers-b-2026-11-08/
+URL:https://goalio.be/fr/match/us-emines-b-rus-loyers-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8cc01866a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Ligny B 1-3 US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /fc-ligny-b-us-emines-b-2026-11-15/
+URL:https://goalio.be/fr/match/fc-ligny-b-us-emines-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10df11d558@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:US Emines B – RFC Grand-Leez B (remis)
+DESCRIPTION:3e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /us-emines-b-rfc-grand-leez-b-2026-11-22/
+URL:https://goalio.be/fr/match/us-emines-b-rfc-grand-leez-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfe308844d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Naninnois B – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /fc-naninnois-b-us-emines-b-2026-11-28/
+URL:https://goalio.be/fr/match/fc-naninnois-b-us-emines-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f2d0e1b07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RSC Petit-Waret A – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb92237f0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:US Emines B – RFC Temploux-Suarlée
+DESCRIPTION:3e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7350e779b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RFC Rhisnois B – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04f665d5fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:US Emines B – FC St-Germain
+DESCRIPTION:3e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-763ab419e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:US Emines B – CS Wépionnais B
+DESCRIPTION:3e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8901dfdc1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:RAC Leuze-Longchamps A – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9676a29885@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:US Emines B – SC Mazycien A
+DESCRIPTION:3e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fe65663cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:ES Boninne A – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-616e6f678a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:US Emines B – FCO Namur
+DESCRIPTION:3e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7733fcce97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RJ Aischoise B – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81564c6fcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:US Emines B – WA Sauvenière A
+DESCRIPTION:3e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8eb7f96e33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RUS Loyers B – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a2dc57dbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:US Emines B – FC Ligny B
+DESCRIPTION:3e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5fb7b9342@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Grand-Leez B – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4eac0c9dc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US Emines B – FC Naninnois B
+DESCRIPTION:3e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/us-emines-b/
+URL:https://goalio.be/fr/equipe/us-emines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

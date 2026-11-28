@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUS Bure · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rus-bure/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6ec186695a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:ES Wellinoise 1-1 RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/es-wellinoise-rus-bure-2026-10-31/
+URL:https://goalio.be/fr/match/es-wellinoise-rus-bure-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca7dca5f12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RUS Bure 0-1 RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/rus-bure-res-orgeotoise-2026-11-08/
+URL:https://goalio.be/fr/match/rus-bure-res-orgeotoise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2572b8877@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Haut-Fays Sport 3-1 RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/r-haut-fays-sport-rus-bure-2026-11-15/
+URL:https://goalio.be/fr/match/r-haut-fays-sport-rus-bure-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d8d58f5af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RUS Bure – FC Paliseulois (remis)
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/rus-bure-fc-paliseulois-2026-11-22/
+URL:https://goalio.be/fr/match/rus-bure-fc-paliseulois-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f9287b47f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RJS St-Marie Wideumont – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/rjs-st-marie-wideumont-rus-bure-2026-11-29/
+URL:https://goalio.be/fr/match/rjs-st-marie-wideumont-rus-bure-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7950b61ef4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RAC Neuvillers B – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-797b1db699@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RUS Bure – R. Union Club Bras
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01c8379b59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RES Petitvoir-Tournay – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73dc6adc57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RUS Bure – R. Wallonia Libin B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11422f36f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Fays-Les-Veneurs – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-849b7ac1c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RUS Bure – ES Saint-Pierre B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-adc4189787@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Bertrix B – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d48841f92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RUS Bure – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c757b22a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RUS Bure – ES Wellinoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09fe78c458@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RES Orgeotoise – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50d0f7faf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUS Bure – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rus-bure/
+URL:https://goalio.be/fr/equipe/rus-bure/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

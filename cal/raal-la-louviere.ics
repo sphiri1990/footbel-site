@@ -1,0 +1,323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAAL La Louvière · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/raal-la-louviere/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-15f3cae2e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T181500Z
+DTEND:20261101T200000Z
+SUMMARY:Charleroi 5-2 RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/cha
+ rleroi-raal-la-louviere-2026-11-01/
+URL:https://goalio.be/fr/match/charleroi-raal-la-louviere-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-222f1a1264@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T194500Z
+DTEND:20261107T213000Z
+SUMMARY:RAAL La Louvière 0-1 Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/raa
+ l-la-louviere-cercle-brugge-2026-11-07/
+URL:https://goalio.be/fr/match/raal-la-louviere-cercle-brugge-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da5131ab06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T171500Z
+DTEND:20261121T190000Z
+SUMMARY:Genk 3-0 RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/gen
+ k-raal-la-louviere-2026-11-21/
+URL:https://goalio.be/fr/match/genk-raal-la-louviere-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7edefc4ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T150000Z
+DTEND:20261128T164500Z
+SUMMARY:KVC Westerlo – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/kvc
+ -westerlo-raal-la-louviere-2026-11-28/
+URL:https://goalio.be/fr/match/kvc-westerlo-raal-la-louviere-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-970b225cb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T171500Z
+DTEND:20261212T190000Z
+SUMMARY:RAAL La Louvière – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dac984ebe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T194500Z
+DTEND:20261219T213000Z
+SUMMARY:Lommel United – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17b14761ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261226T194500Z
+DTEND:20261226T213000Z
+SUMMARY:RAAL La Louvière – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cddf8f5d65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T171500Z
+DTEND:20270116T190000Z
+SUMMARY:Union Saint-Gilloise – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08287ab93a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Club Brugge KV – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b2a86c722@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:RAAL La Louvière – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03326adbcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Kortrijk – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fbcc6d7b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:RAAL La Louvière – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16af768b8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Gent – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0197a79dae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:RAAL La Louvière – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-888414299d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:RAAL La Louvière – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19c423c4f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Antwerp – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cfb923042@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:RAAL La Louvière – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04cd9b68bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Cercle Brugge – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a27bf68237@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:RAAL La Louvière – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5380a1e98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:KV Mechelen – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-583cdebc1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:RAAL La Louvière – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-691f9f01d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:SK Beveren – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7465e008c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:RAAL La Louvière – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbe590c191@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Zulte Waregem – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-616a46f433@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:RAAL La Louvière – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere/
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-016e5024fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T194500Z
+DTEND:20261205T213000Z
+SUMMARY:RAAL La Louvière – Standard Liège
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/raal-la-louviere
+ /
+URL:https://goalio.be/fr/equipe/raal-la-louviere/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

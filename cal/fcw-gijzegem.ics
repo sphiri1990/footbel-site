@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FCW Gijzegem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fcw-gijzegem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9e66f6daa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:FCW Gijzegem 4-0 E Buggenhout B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fcw-gijzegem-e-buggenhout-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fcw-gijzegem-e-buggenhout-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bad0d9a7ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:VC Olympic Burst 2026 5-1 FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vc-olympic-burst-2026-fcw-gijzegem-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vc-olympic-burst-2026-fcw-gijzegem-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b7c36f362@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FCW Gijzegem 1-3 VCO Meerbeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/fcw-gijzegem-vco-meerbeke-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/fcw-gijzegem-vco-meerbeke-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e8f70e738@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Jong SG Dendermonde 5-0 FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/jong-sg-dendermonde-fcw-gijzegem-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/jong-sg-dendermonde-fcw-gijzegem-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-586efe8a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FCW Gijzegem – SK Aaigem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fcw-gijzegem-sk-aaigem-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fcw-gijzegem-sk-aaigem-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6352477442@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SK Herdersem – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-517e06e349@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FCW Gijzegem – VKJ Neigem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27a45eae7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KSCW Hofstade A – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a50b648f80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FCW Gijzegem – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac5072a2cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FCW Gijzegem – VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02cded4001@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:VC Herzele-Ressegem B – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38ad0d2c77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SK Aaigem – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2babc4a74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FCW Gijzegem – SK Herdersem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d37721b02c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KVE Winnik B – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c05ccaa7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VCO Meerbeke B – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d7ee09035@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FCW Gijzegem – Jong SG Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e8ec637fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FCW Gijzegem – KSCDS Moorsel
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-797f34b25d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:E Buggenhout B – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83bc8dac46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FCW Gijzegem – SK Denderhoutem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d2cebcf59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVCE Nieuwerkerken – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/fcw-gijzegem/
+URL:https://goalio.be/nl/ploeg/fcw-gijzegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

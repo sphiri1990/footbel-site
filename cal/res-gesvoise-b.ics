@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RES Gesvoise B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/res-gesvoise-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-cccf9d1edb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RJS Leignon A 4-0 RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /rjs-leignon-a-res-gesvoise-b-2026-10-31/
+URL:https://goalio.be/fr/match/rjs-leignon-a-res-gesvoise-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44404cee42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RES Gesvoise B 1-2 US St Hadelin-Haversin A
+DESCRIPTION:3e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /res-gesvoise-b-us-st-hadelin-haversin-a-2026-11-08/
+URL:https://goalio.be/fr/match/res-gesvoise-b-us-st-hadelin-haversin-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16032df37c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:CSE Han-Sur-Lesse A 4-3 RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /cse-han-sur-lesse-a-res-gesvoise-b-2026-11-14/
+URL:https://goalio.be/fr/match/cse-han-sur-lesse-a-res-gesvoise-b-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-820212652e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RES Gesvoise B – RCS Hastière (remis)
+DESCRIPTION:3e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/match
+ /res-gesvoise-b-rcs-hastiere-2026-11-22/
+URL:https://goalio.be/fr/match/res-gesvoise-b-rcs-hastiere-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49f02e6c7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RS FC Bièvre – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/match
+ /rs-fc-bievre-res-gesvoise-b-2026-11-28/
+URL:https://goalio.be/fr/match/rs-fc-bievre-res-gesvoise-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22b2d0f8ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RFC Yvoir – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a2b230f23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RES Gesvoise B – R.U.S. Dinantaise B
+DESCRIPTION:3e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88945c4981@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RES Gesvoise B – RU ST-G Sinsin-Waillet
+DESCRIPTION:3e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2bef10798@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FC Achêne A – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c7932e417@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RES Gesvoise B – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7dc88fe15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:AC Lustin B – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3028a13d73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RES Gesvoise B – CS Onhaye B
+DESCRIPTION:3e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6230e532b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Vencimontois – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f10411de94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RES Gesvoise B – R Dinant FC B
+DESCRIPTION:3e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c03e122e2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RCS Condruzien B – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ee2350f58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RES Gesvoise B – RJS Leignon A
+DESCRIPTION:3e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65b413c09a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:US St Hadelin-Haversin A – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 27\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d20d23a14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RES Gesvoise B – CSE Han-Sur-Lesse A
+DESCRIPTION:3e provinciale Namur C\nJournée 28\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acc18b0307@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Hastière – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 29\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4e0ed8e76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RES Gesvoise B – RS FC Bièvre
+DESCRIPTION:3e provinciale Namur C\nJournée 30\nhttps://goalio.be/fr/equip
+ e/res-gesvoise-b/
+URL:https://goalio.be/fr/equipe/res-gesvoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

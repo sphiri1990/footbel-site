@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSV Bornem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksv-bornem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-33ba0269ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261103T190000Z
+DTEND:20261103T204500Z
+SUMMARY:Nielse SV 1-1 KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/nielse-sv-ksv-bornem-a-2026-11-03/
+URL:https://goalio.be/nl/wedstrijd/nielse-sv-ksv-bornem-a-2026-11-03/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfa2f84b15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T174500Z
+SUMMARY:KSV Bornem A 5-1 K.S.K. Sint-Amands A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksv-bornem-a-k-s-k-sint-amands-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ksv-bornem-a-k-s-k-sint-amands-a-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f7a179c91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:SK Peulis 3-1 KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/sk-peulis-ksv-bornem-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sk-peulis-ksv-bornem-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c10f0bab7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T160000Z
+DTEND:20261121T174500Z
+SUMMARY:KSV Bornem A 3-1 K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksv-bornem-a-k-hove-sp-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ksv-bornem-a-k-hove-sp-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46c7e87523@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KSV Schriek – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/ksv-schriek-ksv-bornem-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ksv-schriek-ksv-bornem-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01ebbd9fba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T160000Z
+DTEND:20261205T174500Z
+SUMMARY:KSV Bornem A – VC Leest
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7234887fa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Volh. Wintam A – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7431012a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T160000Z
+DTEND:20270109T174500Z
+SUMMARY:KSV Bornem A – KV Bonheiden A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4b7a725b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FCM Hallaar A – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28bd6f0b8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Groen Rood Katelijne – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a389dc133@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:KSV Bornem A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70faf73893@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:SK Rita Berlaar – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96d986826c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:KSV Bornem A – Kessel United
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60aa1f7860@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K.S.K. Sint-Amands A – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd22cc7ff2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:KSV Bornem A – KFC Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-835114b3f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VC Leest – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2ee560655@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:KSV Bornem A – FCS Mariekerke-Branst A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3e9f49bce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K. Hove Sp. – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-572433821c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:KSV Bornem A – Nielse SV
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed03a1e7b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RB Elzestraat – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16bfef5882@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSV Bornem A – SK Peulis
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/ksv-bornem-a/
+URL:https://goalio.be/nl/ploeg/ksv-bornem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

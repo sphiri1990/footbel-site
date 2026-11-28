@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J Tavietoise B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-tavietoise-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c7f0d9d8f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:E.S. Boninne 3-2 J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 11\nhttps://goalio.be/fr/match
+ /e-s-boninne-j-tavietoise-b-2026-10-31/
+URL:https://goalio.be/fr/match/e-s-boninne-j-tavietoise-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51f771543d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:J Tavietoise B 5-0 FC St-Martin Pessoux
+DESCRIPTION:4e provinciale Namur D\nJournée 12\nhttps://goalio.be/fr/match
+ /j-tavietoise-b-fc-st-martin-pessoux-2026-11-15/
+URL:https://goalio.be/fr/match/j-tavietoise-b-fc-st-martin-pessoux-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f16bdfab4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSC Petit-Waret B – J Tavietoise B (remis)
+DESCRIPTION:4e provinciale Namur D\nJournée 13\nhttps://goalio.be/fr/match
+ /rsc-petit-waret-b-j-tavietoise-b-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-petit-waret-b-j-tavietoise-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a564dad608@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:J Tavietoise B – RSC Oheytois B
+DESCRIPTION:4e provinciale Namur D\nJournée 14\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9528c1856d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:J Tavietoise B – ES Jamboise B
+DESCRIPTION:4e provinciale Namur D\nJournée 16\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94167ae287@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 17\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae54230370@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:J Tavietoise B – RUS Assessoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 18\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4aeef2c5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R Ent Wartet FC – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 19\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9615af979e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:J Tavietoise B – RCS Faulx-les-Tombes A
+DESCRIPTION:4e provinciale Namur D\nJournée 20\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a64a6f819@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Andoy Wierde FC – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 21\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5659ed685@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:J Tavietoise B – RAC Leuze-Longchamps B
+DESCRIPTION:4e provinciale Namur D\nJournée 22\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b8b2cc9d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Andenne Evelette Sports Football B – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 23\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7fe2414dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:J Tavietoise B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 24\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e0b8023ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:J Tavietoise B – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 25\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47ae3a759f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC St-Martin Pessoux – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 26\nhttps://goalio.be/fr/equip
+ e/j-tavietoise-b/
+URL:https://goalio.be/fr/equipe/j-tavietoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

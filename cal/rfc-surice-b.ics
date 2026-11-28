@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Surice B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-surice-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-75db89c296@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.U.S Pesche B 2-4 RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /r-u-s-pesche-b-rfc-surice-b-2026-10-31/
+URL:https://goalio.be/fr/match/r-u-s-pesche-b-rfc-surice-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcc120b33d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Surice B 5-0 US Viroin-Treignes
+DESCRIPTION:4e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /rfc-surice-b-us-viroin-treignes-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-surice-b-us-viroin-treignes-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e5df2a9b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R St Gedinnois B – RFC Surice B (remis)
+DESCRIPTION:4e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /r-st-gedinnois-b-rfc-surice-b-2026-11-21/
+URL:https://goalio.be/fr/match/r-st-gedinnois-b-rfc-surice-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-262d7120a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RFC Surice B – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29935d26e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:ES Des Frontières – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-353e4e9c7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RFC Surice B – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d4a6e7986@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RUS Pondrome B – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de1a6f85cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Rienne Sp – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82474619f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Surice B – E Sp Viroin-Olloy
+DESCRIPTION:4e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a187994ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Ent. Dionaise – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08cd36e3ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Surice B – ES Couvin-Mariemb Fraire B
+DESCRIPTION:4e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4151ceddf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Sporting Club Graide – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8338c69615@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RFC Surice B – R.U.S Pesche B
+DESCRIPTION:4e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b74bc3df58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Surice B – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a228ca2d2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US Viroin-Treignes – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rfc-surice-b/
+URL:https://goalio.be/fr/equipe/rfc-surice-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

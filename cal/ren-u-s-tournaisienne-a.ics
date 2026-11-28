@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ren. U.S. Tournaisienne A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b5ef86b27a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:A.C. Estaimbourg 4-2 Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/a-c-estaimbourg-ren-u-s-tournaisienne-a-2026-10-31/
+URL:https://goalio.be/fr/match/a-c-estaimbourg-ren-u-s-tournaisienne-a-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2837e5ac5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Ren. U.S. Tournaisienne A 1-4 R.S.C. Templeuvois A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/ren-u-s-tournaisienne-a-r-s-c-templeuvois-a-2026-11-07/
+URL:https://goalio.be/fr/match/ren-u-s-tournaisienne-a-r-s-c-templeuvois-a-
+ 2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0a7e66995@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie 2-3 Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-rumes-la-glanerie-ren-u-s-tournaisienne-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-rumes-la-glanerie-ren-u-s-tournaisienne-
+ a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efe6b8e767@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Ren. U.S. Tournaisienne A – SB Stade Mouscronnois B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/ren-u-s-tournaisienne-a-sb-stade-mouscronnois-b-2026-11-21/
+URL:https://goalio.be/fr/match/ren-u-s-tournaisienne-a-sb-stade-mouscronnoi
+ s-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4c77a4af6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:R.F.C. Molenbaix B – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-f-c-molenbaix-b-ren-u-s-tournaisienne-a-2026-11-28/
+URL:https://goalio.be/fr/match/r-f-c-molenbaix-b-ren-u-s-tournaisienne-a-20
+ 26-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c54a44461@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Ren. U.S. Tournaisienne A – R.A.S. Risquons-Tout Mouscron A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-459f43d844@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:Ent. Velaines Enclusienne A – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02e9666eb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T194500Z
+SUMMARY:Ren. U.S. Tournaisienne A – F.C. Esplechin
+DESCRIPTION:3e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cad0ad56e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Royal Tournai Football Club B – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-892ad671f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ren. U.S. Tournaisienne A – F.C. Bleharies
+DESCRIPTION:3e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e5f6091d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Saint-Jean Tournai – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a77c48e587@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Ren. U.S. Tournaisienne A – S.C. De Nechin
+DESCRIPTION:3e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32981801a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:A.S. Obigies B – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-754ea77a8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Ren. U.S. Tournaisienne A – F.C. Brunehaut A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-563cf3f24c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.F.C. Herinnes – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04a9abeb03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Ren. U.S. Tournaisienne A – A.C. Estaimbourg
+DESCRIPTION:3e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bd5f7a012@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.S.C. Templeuvois A – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfb7b36ea2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Ren. U.S. Tournaisienne A – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f60dda85b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SB Stade Mouscronnois B – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9d6d9cfba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Ren. U.S. Tournaisienne A – R.F.C. Molenbaix B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/ren-u-s-tournaisienne-a/
+URL:https://goalio.be/fr/equipe/ren-u-s-tournaisienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

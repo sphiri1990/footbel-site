@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. St. Drieslinter B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e2f90eb541@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SK Waanrode 3-2 K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-waanrode-k-st-drieslinter-b-2026-11-01/
+URL:https://goalio.be/fr/match/sk-waanrode-k-st-drieslinter-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4950c27ab0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T174500Z
+SUMMARY:K. St. Drieslinter B 0-0 FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 11\nhttps://goalio.b
+ e/fr/match/k-st-drieslinter-b-fc-geetbets-2026-11-07/
+URL:https://goalio.be/fr/match/k-st-drieslinter-b-fc-geetbets-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd50c17817@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Atlas Linter 2-6 K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 12\nhttps://goalio.b
+ e/fr/match/atlas-linter-k-st-drieslinter-b-2026-11-14/
+URL:https://goalio.be/fr/match/atlas-linter-k-st-drieslinter-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c94291883@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:VC Houtem-Oplinter 0-4 K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 13\nhttps://goalio.b
+ e/fr/match/vc-houtem-oplinter-k-st-drieslinter-b-2026-11-21/
+URL:https://goalio.be/fr/match/vc-houtem-oplinter-k-st-drieslinter-b-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f2cb2c683@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:T. Bunsbeek – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26cbc68999@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T160000Z
+DTEND:20261212T174500Z
+SUMMARY:K. St. Drieslinter B – KVZ Glabbeek Zuurbemde
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-809c959dc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T160000Z
+DTEND:20270109T174500Z
+SUMMARY:K. St. Drieslinter B – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c78238f5c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Geetbets – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b285f0295b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:RD Zoutleeuw B – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6073b1a8f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:K. St. Drieslinter B – VC Houtem-Oplinter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80a10a96d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SK Rummen – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0abd1b7155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:K. St. Drieslinter B – Atlas Linter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16593a787a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Neerwinden F.C. – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39b789249f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:K. St. Drieslinter B – KA Goetsenhoven
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38c63bce45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Halle VV. – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa4bcc4f67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:K. St. Drieslinter B – FC Valahia Tienen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5706781879@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Sp. Budingen – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b59712edc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. St. Drieslinter B – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/k-st-drieslinter-b/
+URL:https://goalio.be/fr/equipe/k-st-drieslinter-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Union Momalloise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-union-momalloise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-db6686eb78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Union Momalloise 0-2 Et. Elsautoise
+DESCRIPTION:D3 FFA B\nJournée 11\nhttps://goalio.be/fr/match/r-union-momal
+ loise-et-elsautoise-2026-11-01/
+URL:https://goalio.be/fr/match/r-union-momalloise-et-elsautoise-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aaf2b64cea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.C.S. Verlaine 1-1 R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 12\nhttps://goalio.be/fr/match/r-c-s-verlain
+ e-r-union-momalloise-2026-11-08/
+URL:https://goalio.be/fr/match/r-c-s-verlaine-r-union-momalloise-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a933763d0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Union Momalloise 3-1 R.R.C. Longlier
+DESCRIPTION:D3 FFA B\nJournée 13\nhttps://goalio.be/fr/match/r-union-momal
+ loise-r-r-c-longlier-2026-11-15/
+URL:https://goalio.be/fr/match/r-union-momalloise-r-r-c-longlier-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ee8acfa2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.O.C. Meix Dt-Virton 3-2 R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 14\nhttps://goalio.be/fr/match/r-o-c-meix-dt
+ -virton-r-union-momalloise-2026-11-22/
+URL:https://goalio.be/fr/match/r-o-c-meix-dt-virton-r-union-momalloise-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98d7a06bcd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Union Momalloise – R.F.C. Malmundaria 1904
+DESCRIPTION:D3 FFA B\nJournée 15\nhttps://goalio.be/fr/match/r-union-momal
+ loise-r-f-c-malmundaria-1904-2026-11-29/
+URL:https://goalio.be/fr/match/r-union-momalloise-r-f-c-malmundaria-1904-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3a1243ab6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Union Momalloise – Royal Sprimont Banneux
+DESCRIPTION:D3 FFA B\nJournée 16\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e91d06b78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.F.C. Messancy – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 17\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ecfaf1fbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Union Momalloise – R.C.S. Libramontois
+DESCRIPTION:D3 FFA B\nJournée 18\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d76de202e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:R. Union Momalloise – R.F.C. Messancy
+DESCRIPTION:D3 FFA B\nJournée 2\nhttps://goalio.be/fr/equipe/r-union-momal
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d459cd90e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Stade Waremmien F.C. – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 19\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f5744616e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Union Momalloise – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 20\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b60d30143c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Ans – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 21\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a52df4961@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Union Momalloise – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 22\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0599e76022@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Aubel F.C. – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 23\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd407893da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.R.C. Mormont – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 24\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec48af4aec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Union Momalloise – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 25\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0c25fe167@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Et. Elsautoise – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 26\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-451eb6133a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Union Momalloise – R.C.S. Verlaine
+DESCRIPTION:D3 FFA B\nJournée 27\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-371fa2fdde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R.R.C. Longlier – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 28\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a75d74dfcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Union Momalloise – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 29\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02df630920@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Malmundaria 1904 – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 30\nhttps://goalio.be/fr/equipe/r-union-moma
+ lloise/
+URL:https://goalio.be/fr/equipe/r-union-momalloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S. Waremmien FC. B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6d02e6f7d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:E.S. Wanze/Bas-Oha 1-1 R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/e-s-wanze-bas-oha-r-s-waremmien-fc-b-2026-11-01/
+URL:https://goalio.be/fr/match/e-s-wanze-bas-oha-r-s-waremmien-fc-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-635da73701@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S. Waremmien FC. B 3-0 RFC. Jehaytois A
+DESCRIPTION:2e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-s-waremmien-fc-b-rfc-jehaytois-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-waremmien-fc-b-rfc-jehaytois-a-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6447e959d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:J.S. Kemexhe Crisnee 1-2 R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/j-s-kemexhe-crisnee-r-s-waremmien-fc-b-2026-11-15/
+URL:https://goalio.be/fr/match/j-s-kemexhe-crisnee-r-s-waremmien-fc-b-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e4d5d5b31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.S. Waremmien FC. B – R.R.C. Hamoir (remis)
+DESCRIPTION:2e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-s-waremmien-fc-b-r-r-c-hamoir-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-waremmien-fc-b-r-r-c-hamoir-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe0d74404f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:C.S. Burdinnois – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/c-s-burdinnois-r-s-waremmien-fc-b-2026-11-29/
+URL:https://goalio.be/fr/match/c-s-burdinnois-r-s-waremmien-fc-b-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9eadbe820@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.S. Waremmien FC. B – Royale Union Hutoise B
+DESCRIPTION:2e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8da2e416f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.C.S. Verlaine – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ff1a31828@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.S. Waremmien FC. B – Seraing Athl R. FC A
+DESCRIPTION:2e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-076e6a41df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54b7840e09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.S. Waremmien FC. B – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16065627b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:C.S. Juprelle – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57bd5192f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.S. Waremmien FC. B – R.F.C. Vyle-Tharoul
+DESCRIPTION:2e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3bddbc913@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a74b942811@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S. Waremmien FC. B – Patro Lensois A
+DESCRIPTION:2e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6612b3f035@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:E.H. Braives – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e1be807d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.S. Waremmien FC. B – E.S. Wanze/Bas-Oha
+DESCRIPTION:2e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5abbda3dd5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RFC. Jehaytois A – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35cc9ab4ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.S. Waremmien FC. B – J.S. Kemexhe Crisnee
+DESCRIPTION:2e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acec4fcc7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.R.C. Hamoir – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c6bb4df9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S. Waremmien FC. B – C.S. Burdinnois
+DESCRIPTION:2e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-s-waremmien-fc-b/
+URL:https://goalio.be/fr/equipe/r-s-waremmien-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

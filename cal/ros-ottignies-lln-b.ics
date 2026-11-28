@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ROS Ottignies-LLN B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-89f6d4cb09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:SC Beauvechain B 3-1 ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 11\nhttps:/
+ /goalio.be/fr/match/sc-beauvechain-b-ros-ottignies-lln-b-2026-11-01/
+URL:https://goalio.be/fr/match/sc-beauvechain-b-ros-ottignies-lln-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e35ea7351b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:ROS Ottignies-LLN B 0-8 A.S.E. De Chastre
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 12\nhttps:/
+ /goalio.be/fr/match/ros-ottignies-lln-b-a-s-e-de-chastre-2026-11-08/
+URL:https://goalio.be/fr/match/ros-ottignies-lln-b-a-s-e-de-chastre-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a4323a2fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RC Melin 9-1 ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 13\nhttps:/
+ /goalio.be/fr/match/rc-melin-ros-ottignies-lln-b-2026-11-15/
+URL:https://goalio.be/fr/match/rc-melin-ros-ottignies-lln-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f372b4bdd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:ROS Ottignies-LLN B 2-9 SR. Incourt
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 14\nhttps:/
+ /goalio.be/fr/match/ros-ottignies-lln-b-sr-incourt-2026-11-22/
+URL:https://goalio.be/fr/match/ros-ottignies-lln-b-sr-incourt-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-490b698c06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:All. Huppaytoise – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 15\nhttps:/
+ /goalio.be/fr/match/all-huppaytoise-ros-ottignies-lln-b-2026-11-28/
+URL:https://goalio.be/fr/match/all-huppaytoise-ros-ottignies-lln-b-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b90cb60a1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC. Ronvau Chaumont – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e66f5b75fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:ROS Ottignies-LLN B – R. Wavre Limal B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-670c9de288@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.A.S. Jodoigne – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-534b9c4f22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:ROS Ottignies-LLN B – SC Perwez
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70c38d6297@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:ROS Ottignies-LLN B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23187afd73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:CS Biergeois B – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-655ceb3328@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:ROS Ottignies-LLN B – RCS Nivellois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49b4ee2881@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T131500Z
+DTEND:20270221T150000Z
+SUMMARY:FC. Walhain B – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0edf129dbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T184500Z
+DTEND:20270313T203000Z
+SUMMARY:RE Stéphanois B – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bd3a0f6d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:ROS Ottignies-LLN B – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6ca4ff081@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:A.S.E. De Chastre – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca18b9bbb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:ROS Ottignies-LLN B – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0c624450a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SR. Incourt – ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e339413413@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ROS Ottignies-LLN B – All. Huppaytoise
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/ros-ottignies-lln-b/
+URL:https://goalio.be/fr/equipe/ros-ottignies-lln-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

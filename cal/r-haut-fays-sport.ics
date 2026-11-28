@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Haut-Fays Sport · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-haut-fays-sport/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-39718a2eb4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Haut-Fays Sport 4-0 FC Bertrix B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/r-haut-fays-sport-fc-bertrix-b-2026-11-01/
+URL:https://goalio.be/fr/match/r-haut-fays-sport-fc-bertrix-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbe7baa968@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RSC Nassogne 2-11 R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/rsc-nassogne-r-haut-fays-sport-2026-11-08/
+URL:https://goalio.be/fr/match/rsc-nassogne-r-haut-fays-sport-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2572b8877@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Haut-Fays Sport 3-1 RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/r-haut-fays-sport-rus-bure-2026-11-15/
+URL:https://goalio.be/fr/match/r-haut-fays-sport-rus-bure-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef5b6b7637@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:ES Wellinoise – R. Haut-Fays Sport (remis)
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/es-wellinoise-r-haut-fays-sport-2026-11-21/
+URL:https://goalio.be/fr/match/es-wellinoise-r-haut-fays-sport-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f732628b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Haut-Fays Sport – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/r-haut-fays-sport-res-orgeotoise-2026-11-29/
+URL:https://goalio.be/fr/match/r-haut-fays-sport-res-orgeotoise-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23043ca4e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RJS St-Marie Wideumont – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a37259bb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Haut-Fays Sport – FC Paliseulois
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-782bed6072@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RAC Neuvillers B – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ae5a47c59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Haut-Fays Sport – R. Union Club Bras
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae12b689af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RES Petitvoir-Tournay – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c42339d9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R. Haut-Fays Sport – R. Wallonia Libin B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8119a0b64a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Fays-Les-Veneurs – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-849367c057@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Haut-Fays Sport – ES Saint-Pierre B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4ae05d85a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Bertrix B – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d38048b8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Haut-Fays Sport – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50d0f7faf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUS Bure – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-haut-fays-sport/
+URL:https://goalio.be/fr/equipe/r-haut-fays-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Spy B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-spy-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6c79f8cfb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RFC Spy B 2-1 R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rfc-spy-b-r-exc-fc-moustier-b-2026-10-31/
+URL:https://goalio.be/fr/match/rfc-spy-b-r-exc-fc-moustier-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6278145792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:FC Malonne 2000 B 6-0 RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /fc-malonne-2000-b-rfc-spy-b-2026-11-07/
+URL:https://goalio.be/fr/match/fc-malonne-2000-b-rfc-spy-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd4ed31469@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RFC Spy B 3-2 RES Philippeville A
+DESCRIPTION:3e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /rfc-spy-b-res-philippeville-a-2026-11-14/
+URL:https://goalio.be/fr/match/rfc-spy-b-res-philippeville-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d9f27a542@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.U.S Pesche A – RFC Spy B (remis)
+DESCRIPTION:3e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /r-u-s-pesche-a-rfc-spy-b-2026-11-21/
+URL:https://goalio.be/fr/match/r-u-s-pesche-a-rfc-spy-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d00ca0f4f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RFC Spy B – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /rfc-spy-b-oc-nismes-b-2026-11-28/
+URL:https://goalio.be/fr/match/rfc-spy-b-oc-nismes-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7aa29dedb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RFC Spy B – ARS Ent Floreffe
+DESCRIPTION:3e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55d87cec65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RCS Florennois A – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80a3a588c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RFC Spy B – JS Taminoise B
+DESCRIPTION:3e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a47a4349a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:JS Bois-Villers – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26582f4a77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:U.S. Flavion-Morialmé B – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba687853d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:RFC Spy B – U St-Gérard A
+DESCRIPTION:3e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9ecd08cc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:ES Petigny-Frasnes B – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c13e94fa7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RFC Spy B – Espoir Sportif Fraire A
+DESCRIPTION:3e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75e9af0b9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Et. Taminoise – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63ac15f2f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RFC Spy B – US Thy-Chateau B
+DESCRIPTION:3e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4cbfc72c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R Exc FC Moustier B – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fa391b446@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RFC Spy B – FC Malonne 2000 B
+DESCRIPTION:3e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6df9d3a66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RES Philippeville A – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26605d7c09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Spy B – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78ba8eb5e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:OC Nismes B – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/rfc-spy-b/
+URL:https://goalio.be/fr/equipe/rfc-spy-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

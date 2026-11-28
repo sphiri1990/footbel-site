@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.L.C. Hornu B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8d2e5944c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.L.C. Hornu B 1-3 J.S. Isièroise
+DESCRIPTION:4e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-l-c-hornu-b-j-s-isieroise-2026-11-01/
+URL:https://goalio.be/fr/match/r-l-c-hornu-b-j-s-isieroise-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8e49858c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.F.C. Ellezelles B 6-0 R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-ellezelles-b-r-l-c-hornu-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-ellezelles-b-r-l-c-hornu-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-918a115708@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.L.C. Hornu B 0-8 R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-l-c-hornu-b-r-f-c-vacresse-4-prov-b-hainaut-2026-11-15/
+URL:https://goalio.be/fr/match/r-l-c-hornu-b-r-f-c-vacresse-4-prov-b-hainau
+ t-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae6c746154@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.U.S. Flobecquoise – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-u-s-flobecquoise-r-l-c-hornu-b-2026-11-21/
+URL:https://goalio.be/fr/match/r-u-s-flobecquoise-r-l-c-hornu-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cab9953a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.L.C. Hornu B – Baudour A.S.C.
+DESCRIPTION:4e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-l-c-hornu-b-baudour-a-s-c-2026-11-29/
+URL:https://goalio.be/fr/match/r-l-c-hornu-b-baudour-a-s-c-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-863da61153@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.L.C. Hornu B – F.C. Houtaing
+DESCRIPTION:4e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0205ff106@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:A.C. Anvaing – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2b9ea4abe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.L.C. Hornu B – A.S. Vaudignies
+DESCRIPTION:4e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9837ace0e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC Wodecq – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe30928524@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.L.C. Hornu B – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1286a0bbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Borina Quaregnon – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07f3ab9ce2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.L.C. Hornu B – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0aae28b78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.E.S.C. Horrues – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c45af5e2ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.L.C. Hornu B – R.U.S. Beloeil
+DESCRIPTION:4e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c32c68c564@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.C.S. Lensois – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29f66e5b16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:J.S. Isièroise – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83d242efc6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.L.C. Hornu B – R.F.C. Ellezelles B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a6a2c9739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Vacresse – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94133d104f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.L.C. Hornu B – R.U.S. Flobecquoise
+DESCRIPTION:4e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d9e407478@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Baudour A.S.C. – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu-b/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RLC Warmifontaine · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rlc-warmifontaine/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6d59349e7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:UN St. André Ochamps B 7-0 RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/un-st-andre-ochamps-b-rlc-warmifontaine-2026-10-31/
+URL:https://goalio.be/fr/match/un-st-andre-ochamps-b-rlc-warmifontaine-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22c353c127@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RLC Warmifontaine 3-2 Athl. Florenvillois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/rlc-warmifontaine-athl-florenvillois-b-2026-11-08/
+URL:https://goalio.be/fr/match/rlc-warmifontaine-athl-florenvillois-b-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30011cb6f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RES Bourcy 1-1 RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/res-bourcy-rlc-warmifontaine-2026-11-14/
+URL:https://goalio.be/fr/match/res-bourcy-rlc-warmifontaine-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8d3d977ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RLC Warmifontaine – FC Bertrix A (remis)
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/rlc-warmifontaine-fc-bertrix-a-2026-11-22/
+URL:https://goalio.be/fr/match/rlc-warmifontaine-fc-bertrix-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2eca73e275@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:ES Saint-Pierre A – RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/es-saint-pierre-a-rlc-warmifontaine-2026-11-29/
+URL:https://goalio.be/fr/match/es-saint-pierre-a-rlc-warmifontaine-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8018ad3d6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Les Cerfs Grandvoir – RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b30b475485@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RLC Warmifontaine – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b437fde59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RCS Libramontois B – RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb46d348b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RLC Warmifontaine – RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19a19c18ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RJS Mageretoise – RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37d975b4d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RLC Warmifontaine – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc8d6f6ead@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Ste Ode A – RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66795e378c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RLC Warmifontaine – RAC Neuvillers A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1de1b8bca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RLC Warmifontaine – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e96cc5a97a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Athl. Florenvillois B – RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7776e416ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RLC Warmifontaine – RES Bourcy
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rlc-warmifontaine/
+URL:https://goalio.be/fr/equipe/rlc-warmifontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

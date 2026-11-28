@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beerschot VA U21 · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-38c0a88d18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261106T193000Z
+DTEND:20261106T211500Z
+SUMMARY:Westerlo U21 3-0 Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 9\nhttps://goalio.be/fr/match/west
+ erlo-u21-k-beerschot-v-a-reserve-u21-2026-11-06/
+URL:https://goalio.be/fr/match/westerlo-u21-k-beerschot-v-a-reserve-u21-202
+ 6-11-06/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0b75fe33e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261120T190000Z
+DTEND:20261120T204500Z
+SUMMARY:Beerschot VA U21 1-3 Francs Borains U21
+DESCRIPTION:Reserve Pro League\nJournée 10\nhttps://goalio.be/fr/match/k-b
+ eerschot-v-a-reserve-u21-francs-borains-u21-2026-11-20/
+URL:https://goalio.be/fr/match/k-beerschot-v-a-reserve-u21-francs-borains-u
+ 21-2026-11-20/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7586b5346c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270115T190000Z
+DTEND:20270115T204500Z
+SUMMARY:RWDM U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 12\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3644915026@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270129T193000Z
+DTEND:20270129T211500Z
+SUMMARY:RAAL La Louvière U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-652ff3ac19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270212T190000Z
+DTEND:20270212T204500Z
+SUMMARY:Beerschot VA U21 – Kortrijk U21
+DESCRIPTION:Reserve Pro League\nJournée 13\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6612ec07f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270219T190000Z
+DTEND:20270219T204500Z
+SUMMARY:Beerschot VA U21 – RFC Seraing U21
+DESCRIPTION:Reserve Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70b0b8ad15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270226T193000Z
+DTEND:20270226T211500Z
+SUMMARY:Sporting Hasselt U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-354171bf6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270305T190000Z
+DTEND:20270305T204500Z
+SUMMARY:Lierse SK U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa69a413b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270312T190000Z
+DTEND:20270312T204500Z
+SUMMARY:Beerschot VA U21 – RFC Liège U21
+DESCRIPTION:Reserve Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-781711148b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270319T183000Z
+DTEND:20270319T201500Z
+SUMMARY:Waasland-Beveren U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31b6561d87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270409T180000Z
+DTEND:20270409T194500Z
+SUMMARY:Beerschot VA U21 – Westerlo U21
+DESCRIPTION:Reserve Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54281f140c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270423T183000Z
+DTEND:20270423T201500Z
+SUMMARY:Francs Borains U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/k-
+ beerschot-v-a-reserve-u21/
+URL:https://goalio.be/fr/equipe/k-beerschot-v-a-reserve-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

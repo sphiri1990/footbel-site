@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Jeunesse Haccourtoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-aa70f11320@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Jeunesse Haccourtoise 2-3 R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-jeunesse-haccourtoise-r-f-c-soumagne-2026-11-01/
+URL:https://goalio.be/fr/match/r-jeunesse-haccourtoise-r-f-c-soumagne-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2690e7752f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine 0-0 R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/racing-club-vaux-chaudfontaine-r-jeunesse-haccourtoise-2026-11-08/
+URL:https://goalio.be/fr/match/racing-club-vaux-chaudfontaine-r-jeunesse-ha
+ ccourtoise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da9592e4b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Jeunesse Haccourtoise 0-3 R. Oupeye FC
+DESCRIPTION:3e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-jeunesse-haccourtoise-r-oupeye-fc-2026-11-15/
+URL:https://goalio.be/fr/match/r-jeunesse-haccourtoise-r-oupeye-fc-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ff87ffea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Union Roclenge-Wonck – R. Jeunesse Haccourtoise (remis)
+DESCRIPTION:3e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/union-roclenge-wonck-r-jeunesse-haccourtoise-2026-11-22/
+URL:https://goalio.be/fr/match/union-roclenge-wonck-r-jeunesse-haccourtoise
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8cf1042713@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Jeunesse Haccourtoise – R.J.S. Cheneenne
+DESCRIPTION:3e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-jeunesse-haccourtoise-r-j-s-cheneenne-2026-11-29/
+URL:https://goalio.be/fr/match/r-jeunesse-haccourtoise-r-j-s-cheneenne-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c5196073f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Jeunesse Haccourtoise – J.S. Vivegnis
+DESCRIPTION:3e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0deb5317f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.J.S. Olnoise – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edddc536c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Jeunesse Haccourtoise – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0787d0618@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.C.S. Bollandois – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7799f61ad5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Ent. Blegnytoise – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67e2a2a284@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Jeunesse Haccourtoise – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d4abe8578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Espoir Minerois – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4de824612@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Jeunesse Haccourtoise – R.F.C. Charneux
+DESCRIPTION:3e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e766dc971@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R.F.C. Warsage – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a7273c849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Jeunesse Haccourtoise – F.C. Bressoux
+DESCRIPTION:3e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f39487cb3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Soumagne – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75b918df48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Jeunesse Haccourtoise – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89b35d5dcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Oupeye FC – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97a12666fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Jeunesse Haccourtoise – Union Roclenge-Wonck
+DESCRIPTION:3e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8f7faa100@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.J.S. Cheneenne – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-jeunesse-haccourtoise/
+URL:https://goalio.be/fr/equipe/r-jeunesse-haccourtoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

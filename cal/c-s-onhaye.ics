@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:C.S. Onhaye · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/c-s-onhaye/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-38610ba4d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Ren. Un. Tubize-Braine-Le-Comte 2-1 C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 11\nhttps://goalio.be/fr/match/ren-un-tubize-b
+ raine-le-comte-c-s-onhaye-2026-10-31/
+URL:https://goalio.be/fr/match/ren-un-tubize-braine-le-comte-c-s-onhaye-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a1cfc9d61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:C.S. Onhaye 1-0 F.C. Flénu
+DESCRIPTION:D1 FFA\nJournée 12\nhttps://goalio.be/fr/match/c-s-onhaye-f-c-
+ flenu-2026-11-08/
+URL:https://goalio.be/fr/match/c-s-onhaye-f-c-flenu-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd95c395bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T133000Z
+DTEND:20261111T151500Z
+SUMMARY:C.S. Onhaye 1-0 R.S.C. Habay La Neuve
+DESCRIPTION:D1 FFA\nJournée 9\nhttps://goalio.be/fr/match/c-s-onhaye-r-s-c
+ -habay-la-neuve-2026-11-11/
+URL:https://goalio.be/fr/match/c-s-onhaye-r-s-c-habay-la-neuve-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4745a39119@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Sporting Du Pays De Charleroi 0-0 C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 13\nhttps://goalio.be/fr/match/sporting-du-pay
+ s-de-charleroi-c-s-onhaye-2026-11-15/
+URL:https://goalio.be/fr/match/sporting-du-pays-de-charleroi-c-s-onhaye-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-882de7fbb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:C.S. Onhaye 2-1 R. Standard de Liège B
+DESCRIPTION:D1 FFA\nJournée 14\nhttps://goalio.be/fr/match/c-s-onhaye-r-st
+ andard-de-liege-b-2026-11-22/
+URL:https://goalio.be/fr/match/c-s-onhaye-r-standard-de-liege-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c71e3ae9a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.W.D.M. Brussels – C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 15\nhttps://goalio.be/fr/match/r-w-d-m-brussel
+ s-c-s-onhaye-2026-11-28/
+URL:https://goalio.be/fr/match/r-w-d-m-brussels-c-s-onhaye-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8c593fa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:C.S. Onhaye – RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/c-s-onhaye/
+URL:https://goalio.be/fr/equipe/c-s-onhaye/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba07d0aded@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.A.E.C. Mons A – C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/c-s-onhaye/
+URL:https://goalio.be/fr/equipe/c-s-onhaye/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-445f444550@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:R.S.C. Habay La Neuve – C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/c-s-onhaye/
+URL:https://goalio.be/fr/equipe/c-s-onhaye/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3470a33c21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:C.S. Onhaye – Ren. Un. Tubize-Braine-Le-Comte
+DESCRIPTION:D1 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/c-s-onhaye/
+URL:https://goalio.be/fr/equipe/c-s-onhaye/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e215807fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:R. Union St-Gilloise – C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/c-s-onhaye/
+URL:https://goalio.be/fr/equipe/c-s-onhaye/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb59a47fe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:C.S. Onhaye – Union Rochefortoise
+DESCRIPTION:D1 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/c-s-onhaye/
+URL:https://goalio.be/fr/equipe/c-s-onhaye/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53bae29500@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Olympic Club Charleroi – C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/c-s-onhaye/
+URL:https://goalio.be/fr/equipe/c-s-onhaye/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

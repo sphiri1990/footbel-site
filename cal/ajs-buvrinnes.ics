@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AJS Buvrinnes · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ajs-buvrinnes/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-12a1f02f40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:AJS Buvrinnes 2-5 AS Montigny
+DESCRIPTION:4e provinciale Hainaut E\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/ajs-buvrinnes-as-montigny-2026-11-01/
+URL:https://goalio.be/fr/match/ajs-buvrinnes-as-montigny-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a599d933f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.C. Gouy 2-1 AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-c-gouy-ajs-buvrinnes-2026-11-07/
+URL:https://goalio.be/fr/match/r-c-gouy-ajs-buvrinnes-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17f2bd0374@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:AJS Buvrinnes 2-4 R.F.C. Nalinnois
+DESCRIPTION:4e provinciale Hainaut E\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/ajs-buvrinnes-r-f-c-nalinnois-2026-11-15/
+URL:https://goalio.be/fr/match/ajs-buvrinnes-r-f-c-nalinnois-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d140ab878@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:AJS Buvrinnes – Sporting Club Farciennes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/ajs-buvrinnes-sporting-club-farciennes-2026-11-29/
+URL:https://goalio.be/fr/match/ajs-buvrinnes-sporting-club-farciennes-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e603dbdcb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:AJS Buvrinnes – R. Goutroux Sports B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-552fe7281a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.U.S. Courcelloise – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d220391444@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Trazegnies Sports – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70eddf7a50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:AJS Buvrinnes – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29175564b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:A.S. Fontainoise – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-728dc0c330@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:AJS Buvrinnes – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d275545b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Jeunesse Trazegnies – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23ad2644dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T140000Z
+DTEND:20270220T154500Z
+SUMMARY:AJS Buvrinnes – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8908cda753@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Société Royale J.S. Thudinienne – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a5e5af18b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:AJS Buvrinnes – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e49b7619d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:AS Montigny – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c571ab7ddc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:AJS Buvrinnes – R.C. Gouy
+DESCRIPTION:4e provinciale Hainaut E\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc2253ae48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Nalinnois – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ebba3d87a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sporting Club Farciennes – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/ajs-buvrinnes/
+URL:https://goalio.be/fr/equipe/ajs-buvrinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Les Cerfs Grandvoir · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5d8fc0c04d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Les Cerfs Grandvoir 2-4 RUS Léglise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/fc-les-cerfs-grandvoir-rus-leglise-2026-11-01/
+URL:https://goalio.be/fr/match/fc-les-cerfs-grandvoir-rus-leglise-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-599fbc939c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RJS Mageretoise 2-1 FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/rjs-mageretoise-fc-les-cerfs-grandvoir-2026-11-08/
+URL:https://goalio.be/fr/match/rjs-mageretoise-fc-les-cerfs-grandvoir-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77bb944e4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Les Cerfs Grandvoir 3-1 R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/fc-les-cerfs-grandvoir-r-st-fc-bouillon-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-les-cerfs-grandvoir-r-st-fc-bouillon-a-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94f7990af8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RAC Neuvillers A – FC Les Cerfs Grandvoir (remis)
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/rac-neuvillers-a-fc-les-cerfs-grandvoir-2026-11-22/
+URL:https://goalio.be/fr/match/rac-neuvillers-a-fc-les-cerfs-grandvoir-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5c5a98a1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Les Cerfs Grandvoir – RUS Ste Ode A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/fc-les-cerfs-grandvoir-rus-ste-ode-a-2026-11-29/
+URL:https://goalio.be/fr/match/fc-les-cerfs-grandvoir-rus-ste-ode-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8018ad3d6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Les Cerfs Grandvoir – RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cfbf313a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Athl. Florenvillois B – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1de80e249e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Les Cerfs Grandvoir – RES Bourcy
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3edbe11444@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:ES Saint-Pierre A – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17257276d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Les Cerfs Grandvoir – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b81775e288@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:UN St. André Ochamps B – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09a2745ea1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Tellinoise – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5192b321b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Les Cerfs Grandvoir – RCS Libramontois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6eb00554d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RUS Léglise – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-369241ae5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Les Cerfs Grandvoir – RJS Mageretoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f538e3db39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. St. FC Bouillon A – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/fc-les-cerfs-grandvoir/
+URL:https://goalio.be/fr/equipe/fc-les-cerfs-grandvoir/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

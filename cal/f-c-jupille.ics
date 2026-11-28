@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Jupille · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-jupille/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-17880b1c8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Seraing Athletique R.F.C. 2-7 F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/seraing-athletique-r-f-c-f-c-jupille-2026-11-01/
+URL:https://goalio.be/fr/match/seraing-athletique-r-f-c-f-c-jupille-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd9d3d8aaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Jupille 2-5 Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-jupille-jeunesse-sportive-grivegnee-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-jupille-jeunesse-sportive-grivegnee-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62f7ae61ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Union Flémalloise B 0-5 F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-union-flemalloise-b-f-c-jupille-2026-11-15/
+URL:https://goalio.be/fr/match/r-union-flemalloise-b-f-c-jupille-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-652227925e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Jupille – C.S. Juprelle (remis)
+DESCRIPTION:3e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-jupille-c-s-juprelle-3-prov-b-liege-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-jupille-c-s-juprelle-3-prov-b-liege-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6611a6a08f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T164500Z
+SUMMARY:R.C.S. Sart Tilman – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-c-s-sart-tilman-f-c-jupille-2026-11-29/
+URL:https://goalio.be/fr/match/r-c-s-sart-tilman-f-c-jupille-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8e81a3856@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:J.S. Pierreuse – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f551cf2054@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Jupille – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-816910925c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Jupille – S.C. Oneutois
+DESCRIPTION:3e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c596617668@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Ougrée FC. – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f0404d92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:F.C. Jupille – J.S. Hognouloise
+DESCRIPTION:3e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f293c8902@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:R.S.C. Beaufays B – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7889a8808c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Jupille – R.U.S. Gold Star Liège
+DESCRIPTION:3e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7da0270397@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:All. Fexhe Et Slins - Fragnee – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d85e05eb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Jupille – Illyrian Blegny
+DESCRIPTION:3e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e617340d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Entente Sportive Tilleur – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb83ad70a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Jupille – Seraing Athletique R.F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb4ae7eba1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Jeunesse Sportive Grivegnee – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82ca3534ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Jupille – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64086f0ca1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:C.S. Juprelle – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fded333e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Jupille – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-jupille/
+URL:https://goalio.be/fr/equipe/f-c-jupille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

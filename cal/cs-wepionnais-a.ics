@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CS Wépionnais A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/cs-wepionnais-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-eb04027a4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A 3-2 CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /rs-fernelmont-hemptinne-a-cs-wepionnais-a-2026-10-31/
+URL:https://goalio.be/fr/match/rs-fernelmont-hemptinne-a-cs-wepionnais-a-20
+ 26-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9836152a8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:CS Wépionnais A 2-4 RUS Assessoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /cs-wepionnais-a-rus-assessoise-a-2026-11-08/
+URL:https://goalio.be/fr/match/cs-wepionnais-a-rus-assessoise-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2ac195c73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:S Flawinne FC A 5-0 CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /s-flawinne-fc-a-cs-wepionnais-a-2026-11-15/
+URL:https://goalio.be/fr/match/s-flawinne-fc-a-cs-wepionnais-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6af1e4bbe7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:La Jeunesse Sclaynoise – CS Wépionnais A (remis)
+DESCRIPTION:2e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /la-jeunesse-sclaynoise-cs-wepionnais-a-2026-11-22/
+URL:https://goalio.be/fr/match/la-jeunesse-sclaynoise-cs-wepionnais-a-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a2abe4d4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:CS Wépionnais A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /cs-wepionnais-a-ruw-ciney-b-2026-11-29/
+URL:https://goalio.be/fr/match/cs-wepionnais-a-ruw-ciney-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2932129c4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:CS Wépionnais A – RES Gesvoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2baeda64d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R Arquet FC B – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-258578cc8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:CS Wépionnais A – RRC Havelange A
+DESCRIPTION:2e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-668ea45d5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:JS Eghezée – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b654beb11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:CS Wépionnais A – RUS Méan A
+DESCRIPTION:2e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8a86eae3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:J Tavietoise A – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc1eab48f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:CS Wépionnais A – RFC Rhisnois A
+DESCRIPTION:2e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa311c56df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RSC Oheytois A – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d527feefc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:CS Wépionnais A – US Emines A
+DESCRIPTION:2e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfa43555bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:ES Jamboise A – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa85ba9aff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:CS Wépionnais A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4d6ddfb27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RUS Assessoise A – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-527edad848@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:CS Wépionnais A – S Flawinne FC A
+DESCRIPTION:2e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35e9cb6869@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:CS Wépionnais A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af8ee4ee07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUW Ciney B – CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/cs-wepionnais-a/
+URL:https://goalio.be/fr/equipe/cs-wepionnais-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

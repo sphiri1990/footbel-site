@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Un. La Calamine · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-960edef531@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:RFC Un. La Calamine 4-1 Royale Union Hutoise
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/rfc-un-la-calam
+ ine-royale-union-hutoise-2026-10-31/
+URL:https://goalio.be/fr/match/rfc-un-la-calamine-royale-union-hutoise-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db2d289044@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Stade Vervietois 1-0 RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/stade-vervietoi
+ s-rfc-un-la-calamine-2026-11-07/
+URL:https://goalio.be/fr/match/stade-vervietois-rfc-un-la-calamine-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e19037ac55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:RFC Un. La Calamine 0-0 Royal Stockay Saint-Georges S/M
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/rfc-un-la-calam
+ ine-royal-stockay-saint-georges-s-m-2026-11-14/
+URL:https://goalio.be/fr/match/rfc-un-la-calamine-royal-stockay-saint-georg
+ es-s-m-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6bae4d30d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RCS Brainois A 0-0 RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/rcs-brainois-a-
+ rfc-un-la-calamine-2026-11-21/
+URL:https://goalio.be/fr/match/rcs-brainois-a-rfc-un-la-calamine-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e37cec0ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:RFC Un. La Calamine – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/rfc-un-la-calam
+ ine-union-namur-a-2026-11-28/
+URL:https://goalio.be/fr/match/rfc-un-la-calamine-union-namur-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b42e72413c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RSD Jette A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b511ed6c50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:RFC Un. La Calamine – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-024e90e35e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T183000Z
+DTEND:20261219T201500Z
+SUMMARY:RFC Un. La Calamine – Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-373796416a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4617533d0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:RFC Un. La Calamine – K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d95f74d7ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.U.S. Binche – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a28ee57ad5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:RFC Un. La Calamine – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1516392194@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Entente Acren Lessines – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-630e431f2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Aywaille F.C. A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-918dfb1b4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:RFC Un. La Calamine – C.S. Entité Manageoise
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-203718aa06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Ganshoren – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1524dca07c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:RFC Un. La Calamine – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb24cd0188@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Royale Union Hutoise – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6a5ff64f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:RFC Un. La Calamine – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4e5992132@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T144500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4af1e2477a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:RFC Un. La Calamine – RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2c75a85f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Union Namur A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0511133363@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Un. La Calamine – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89d296e235@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/rfc-un-la-cala
+ mine/
+URL:https://goalio.be/fr/equipe/rfc-un-la-calamine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

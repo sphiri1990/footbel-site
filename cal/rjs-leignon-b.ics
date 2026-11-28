@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RJS Leignon B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rjs-leignon-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-92c989dbf6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RJS Leignon B 0-0 R Anhée FC B
+DESCRIPTION:4e provinciale Namur E\nJournée 11\nhttps://goalio.be/fr/match
+ /rjs-leignon-b-r-anhee-fc-b-2026-11-01/
+URL:https://goalio.be/fr/match/rjs-leignon-b-r-anhee-fc-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f75f00700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RJS Leignon B 0-6 CSE Han-Sur-Lesse B
+DESCRIPTION:4e provinciale Namur E\nJournée 12\nhttps://goalio.be/fr/match
+ /rjs-leignon-b-cse-han-sur-lesse-b-2026-11-15/
+URL:https://goalio.be/fr/match/rjs-leignon-b-cse-han-sur-lesse-b-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37a4d8112f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:US St Hadelin-Haversin B – RJS Leignon B (remis)
+DESCRIPTION:4e provinciale Namur E\nJournée 13\nhttps://goalio.be/fr/match
+ /us-st-hadelin-haversin-b-rjs-leignon-b-2026-11-21/
+URL:https://goalio.be/fr/match/us-st-hadelin-haversin-b-rjs-leignon-b-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8ec4e1632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RJS Leignon B – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2885011b2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RFC Natoye – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95deb4874e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RJS Leignon B – Bonneville SP A
+DESCRIPTION:4e provinciale Namur E\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bae3eaff3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Chevetogne Football – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5ffd9a869@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RRC Havelange B – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63f2353bfe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RJS Leignon B – FC Achêne B
+DESCRIPTION:4e provinciale Namur E\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e21816f1ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Miécret – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33169d4e2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RJS Leignon B – RCS Schaltin
+DESCRIPTION:4e provinciale Namur E\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f40a775388@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Entente Sommenoise – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04a398b3b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RJS Leignon B – RCS Faulx-les-Tombes B
+DESCRIPTION:4e provinciale Namur E\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a56caa44f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R Anhée FC B – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62bcdd6d91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RJS Leignon B – US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44cb559ea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:CSE Han-Sur-Lesse B – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rjs-leignon-b/
+URL:https://goalio.be/fr/equipe/rjs-leignon-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

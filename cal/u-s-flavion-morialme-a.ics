@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U.S. Flavion-Morialmé A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7a90b81dcd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:US Thy-Chateau A 1-0 U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /us-thy-chateau-a-u-s-flavion-morialme-a-2026-11-01/
+URL:https://goalio.be/fr/match/us-thy-chateau-a-u-s-flavion-morialme-a-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0211c17a1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:U.S. Flavion-Morialmé A 1-2 R Exc FC Moustier A
+DESCRIPTION:2e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /u-s-flavion-morialme-a-r-exc-fc-moustier-a-2026-11-08/
+URL:https://goalio.be/fr/match/u-s-flavion-morialme-a-r-exc-fc-moustier-a-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63ca7146a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R Anhée FC A 3-0 U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /r-anhee-fc-a-u-s-flavion-morialme-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-anhee-fc-a-u-s-flavion-morialme-a-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-368a057866@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – RCS Profondeville A (remis)
+DESCRIPTION:2e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /u-s-flavion-morialme-a-rcs-profondeville-a-2026-11-22/
+URL:https://goalio.be/fr/match/u-s-flavion-morialme-a-rcs-profondeville-a-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-822482a7dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RUS Pondrome A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /rus-pondrome-a-u-s-flavion-morialme-a-2026-11-28/
+URL:https://goalio.be/fr/match/rus-pondrome-a-u-s-flavion-morialme-a-2026-1
+ 1-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea295b4ad4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FCE Tarciennois A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-114795a413@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – RUS Biesme B
+DESCRIPTION:2e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-532e1460e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Sp Exc Jemeppe A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-583eebe275@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6044bf69fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RFC Bioul 81 A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be9c37fb28@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – FC Malonne 2000 A
+DESCRIPTION:2e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f67106d613@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6d5098b7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RFC Somzée A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec5a2ba41a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – ES Petigny-Frasnes A
+DESCRIPTION:2e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a2e22899d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Surice A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc08e36e0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – US Thy-Chateau A
+DESCRIPTION:2e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d70c0f072@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R Exc FC Moustier A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cb0ad0350@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:U.S. Flavion-Morialmé A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72b60fec54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Profondeville A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b467194065@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:U.S. Flavion-Morialmé A – RUS Pondrome A
+DESCRIPTION:2e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/u-s-flavion-morialme-a/
+URL:https://goalio.be/fr/equipe/u-s-flavion-morialme-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

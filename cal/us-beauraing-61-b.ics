@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Beauraing 61 B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/us-beauraing-61-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-920425cff0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R Dinant FC B 0-0 US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /r-dinant-fc-b-us-beauraing-61-b-2026-11-01/
+URL:https://goalio.be/fr/match/r-dinant-fc-b-us-beauraing-61-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a03dd47d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:US Beauraing 61 B 3-4 RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /us-beauraing-61-b-rcs-condruzien-b-2026-11-07/
+URL:https://goalio.be/fr/match/us-beauraing-61-b-rcs-condruzien-b-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96119c3d8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RJS Leignon A 4-0 US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /rjs-leignon-a-us-beauraing-61-b-2026-11-14/
+URL:https://goalio.be/fr/match/rjs-leignon-a-us-beauraing-61-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf3fb520bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:US Beauraing 61 B – US St Hadelin-Haversin A (remis)
+DESCRIPTION:3e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/match
+ /us-beauraing-61-b-us-st-hadelin-haversin-a-2026-11-21/
+URL:https://goalio.be/fr/match/us-beauraing-61-b-us-st-hadelin-haversin-a-2
+ 026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4b2c85dbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:CSE Han-Sur-Lesse A – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/match
+ /cse-han-sur-lesse-a-us-beauraing-61-b-2026-11-28/
+URL:https://goalio.be/fr/match/cse-han-sur-lesse-a-us-beauraing-61-b-2026-1
+ 1-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65093a9a3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RCS Hastière – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67548f9951@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:US Beauraing 61 B – RS FC Bièvre
+DESCRIPTION:3e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0af9eb1c5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RFC Yvoir – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb657cce4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:US Beauraing 61 B – R.U.S. Dinantaise B
+DESCRIPTION:3e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c7932e417@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RES Gesvoise B – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cc072f463@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:US Beauraing 61 B – FC Achêne A
+DESCRIPTION:3e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a0764e34a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:US Beauraing 61 B – RU ST-G Sinsin-Waillet
+DESCRIPTION:3e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6436212415@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:AC Lustin B – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37ffecf0d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:US Beauraing 61 B – CS Onhaye B
+DESCRIPTION:3e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84973e0194@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Vencimontois – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5ee50d9fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:US Beauraing 61 B – R Dinant FC B
+DESCRIPTION:3e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-504babe169@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RCS Condruzien B – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 27\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d351c7e59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:US Beauraing 61 B – RJS Leignon A
+DESCRIPTION:3e provinciale Namur C\nJournée 28\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ca5d94f88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:US St Hadelin-Haversin A – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 29\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3828c7ac38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US Beauraing 61 B – CSE Han-Sur-Lesse A
+DESCRIPTION:3e provinciale Namur C\nJournée 30\nhttps://goalio.be/fr/equip
+ e/us-beauraing-61-b/
+URL:https://goalio.be/fr/equipe/us-beauraing-61-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

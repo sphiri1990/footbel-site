@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUS Sartoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rus-sartoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-310b4014f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RUS Sartoise 4-0 RC Erezée-Amonines
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/rus-sartoise-rc-erezee-amonines-2026-10-31/
+URL:https://goalio.be/fr/match/rus-sartoise-rc-erezee-amonines-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7c09a628f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:RESC Houffaloise B 1-2 RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/resc-houffaloise-b-rus-sartoise-2026-11-07/
+URL:https://goalio.be/fr/match/resc-houffaloise-b-rus-sartoise-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91831db854@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RUS Sartoise 3-4 RES Champlonaise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/rus-sartoise-res-champlonaise-2026-11-14/
+URL:https://goalio.be/fr/match/rus-sartoise-res-champlonaise-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-364bff469f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:US Vecmont – RUS Sartoise (remis)
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/us-vecmont-rus-sartoise-2026-11-21/
+URL:https://goalio.be/fr/match/us-vecmont-rus-sartoise-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f638c860a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RUS Sartoise – RES Melreux-Hotton A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/rus-sartoise-res-melreux-hotton-a-2026-11-28/
+URL:https://goalio.be/fr/match/rus-sartoise-res-melreux-hotton-a-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d06c208f4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RUS Sartoise – RRC Mormont B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b6b9de8ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Marloie Sport B – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0ddc26db9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RUS Sartoise – ROC Rochois
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd487f28f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Bomal – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc183c5fa8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RUS Sartoise – RES Vaux A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a9e4c77c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:US Halthier A – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-368a296724@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Lierneux FC – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c3debf604@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RUS Sartoise – RES Izier
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b98a87c5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RC Erezée-Amonines – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a44de5b9e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RUS Sartoise – RESC Houffaloise B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76fcc4cdb4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RES Champlonaise – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rus-sartoise/
+URL:https://goalio.be/fr/equipe/rus-sartoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

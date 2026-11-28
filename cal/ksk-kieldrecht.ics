@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK Kieldrecht · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d3c4a87e6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KSK Kieldrecht 1-6 KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-kieldrecht-kfc-heikant-zele-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ksk-kieldrecht-kfc-heikant-zele-a-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f07a9d6dc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:VK White Boys SN 0-4 KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vk-white-boys-sn-ksk-kieldrecht-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vk-white-boys-sn-ksk-kieldrecht-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b2213df09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KSK Kieldrecht 4-2 KFCJ Schoonaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-kieldrecht-kfcj-schoonaarde-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/ksk-kieldrecht-kfcj-schoonaarde-a-2026-1
+ 1-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4cd65ae5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KVKS Melsele A 4-2 KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kvks-melsele-a-ksk-kieldrecht-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kvks-melsele-a-ksk-kieldrecht-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ed28645b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KSK Kieldrecht – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-kieldrecht-kvk-robur-hamme-moerzeke-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/ksk-kieldrecht-kvk-robur-hamme-moerzeke-
+ 2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4c5f4f6a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K Sp Waasmunster – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02c8044320@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KV Sint-Gillis – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49bd88bd64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KSK Kieldrecht – VK White Boys SN
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37dd927773@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KSK Kieldrecht – KFC Sp St-Gillis Waas
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3bfe2b02e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Eksaarde – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2371a85bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KSK Kieldrecht – KFC Vrasene
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e1b788906@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Rangers Opdorp A – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f904ecbe13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KSK Kieldrecht – SKL Doorslaar A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-464f7693f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFCJV Kruibeke A – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b10d893966@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KSK Kieldrecht – SV Zaffelare
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44af682ceb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Heikant Zele A – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eaf53c2206@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KSK Kieldrecht – KVKS Melsele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04a90d1ea9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15fc510d61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KSK Kieldrecht – K Sp Waasmunster
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39b7369da9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KSK Kieldrecht – SV Blauw Wit Temse A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0619f286b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFCJ Schoonaarde A – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/ksk-kieldrecht/
+URL:https://goalio.be/nl/ploeg/ksk-kieldrecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

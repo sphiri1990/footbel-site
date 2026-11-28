@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.A.C. Hombourg · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8db1e4fd0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.A.C. Hombourg 6-0 R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-a-c-hombourg-4-prov-e-liege-r-f-c-soumagne-4-prov-e-liege-2026-11-01/
+URL:https://goalio.be/fr/match/r-a-c-hombourg-4-prov-e-liege-r-f-c-soumagne
+ -4-prov-e-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd447b86a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Union Aubeloise B 2-0 R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/union-aubeloise-b-r-a-c-hombourg-4-prov-e-liege-2026-11-07/
+URL:https://goalio.be/fr/match/union-aubeloise-b-r-a-c-hombourg-4-prov-e-li
+ ege-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f46b9c1ae9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.A.C. Hombourg 6-0 F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-a-c-hombourg-4-prov-e-liege-f-c-trois-frontieres-2026-11-15/
+URL:https://goalio.be/fr/match/r-a-c-hombourg-4-prov-e-liege-f-c-trois-fron
+ tieres-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dc3593d98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – R.A.C. Hombourg (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-queue-du-bois-r-a-c-hombourg-4-prov-e-liege-2026-11-22
+ /
+URL:https://goalio.be/fr/match/jeunesse-sportive-queue-du-bois-r-a-c-hombou
+ rg-4-prov-e-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4619c32d70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.A.C. Hombourg – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-a-c-hombourg-4-prov-e-liege-entente-jeunesse-fleron-4-prov-e-liege-202
+ 6-11-29/
+URL:https://goalio.be/fr/match/r-a-c-hombourg-4-prov-e-liege-entente-jeunes
+ se-fleron-4-prov-e-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72a24b57da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.A.C. Hombourg – R.F.C. Barchon
+DESCRIPTION:4e provinciale Liège E\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f3b46e280@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T143000Z
+DTEND:20261213T161500Z
+SUMMARY:R.J.S. Olnoise – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36f0ea972a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.A.C. Hombourg – F.C. Jupille
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ee605d192@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-505e5a5c87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.A.C. Hombourg – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4393433137@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Jeunesse Houssoise – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00a284dd86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.A.C. Hombourg – R.J. Magnétoise
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb18891dc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.A.C. Hombourg – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd9630715a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:R.F.C. Soumagne – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3ac0a503a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.A.C. Hombourg – Union Aubeloise B
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67dc6e8cde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Trois-Frontières – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f647a5e86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.A.C. Hombourg – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a99841872@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Entente Jeunesse Fleron – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-a-c-hombourg-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-a-c-hombourg-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C.R. Vise United · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-r-vise-united/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2ab8881a51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:R. Aywaille F.C. 2-2 F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-aywaille-f-c-f-c-r-vise-united-2026-11-01/
+URL:https://goalio.be/fr/match/r-aywaille-f-c-f-c-r-vise-united-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-124cf4cc41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C.R. Vise United 1-3 Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-r-vise-united-entente-jeunesse-fleron-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-r-vise-united-entente-jeunesse-fleron-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7154e04c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club de Trooz 1-9 F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/football-club-de-trooz-f-c-r-vise-united-2026-11-15/
+URL:https://goalio.be/fr/match/football-club-de-trooz-f-c-r-vise-united-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-945aa40333@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Aubel F.C. – F.C.R. Vise United (remis)
+DESCRIPTION:2e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-aubel-f-c-2-prov-b-liege-f-c-r-vise-united-2026-11-22/
+URL:https://goalio.be/fr/match/r-aubel-f-c-2-prov-b-liege-f-c-r-vise-united
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cec2dcb28@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C.R. Vise United – R.S.C. Saive
+DESCRIPTION:2e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-r-vise-united-r-s-c-saive-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-r-vise-united-r-s-c-saive-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82d9b16b24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C.R. Vise United – R.A.S. Houtain
+DESCRIPTION:2e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43ce8aa490@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Herstal – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e83fa34316@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C.R. Vise United – RFC Un. La Calamine
+DESCRIPTION:2e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e041c6e382@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:U.C.E. de Liège – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8756687b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:F.C.R. Vise United – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6235e1e8c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Royal Sprimont Banneux – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f44da2dd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C.R. Vise United – R. Cornesse F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65b3c35aa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Alliance Melen-Micheroux – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-254462721c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C.R. Vise United – R.A.C. Hombourg
+DESCRIPTION:2e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0817d8cef0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Ent. Blegnytoise – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ec82d91b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C.R. Vise United – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6702a292d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Entente Jeunesse Fleron – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84780903e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C.R. Vise United – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5299ace87b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C.R. Vise United – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecd4bd5d87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Saive – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-r-vise-united/
+URL:https://goalio.be/fr/equipe/f-c-r-vise-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

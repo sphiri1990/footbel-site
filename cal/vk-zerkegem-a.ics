@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VK Zerkegem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7af6177d52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T191500Z
+DTEND:20261031T210000Z
+SUMMARY:VK Zerkegem A 3-2 K. SV Jabbeke A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vk-zerkegem-a-k-sv-jabbeke-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vk-zerkegem-a-k-sv-jabbeke-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45ce14f7aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KM Torhout B 4-2 VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/km-torhout-b-vk-zerkegem-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/km-torhout-b-vk-zerkegem-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-267b9ce184@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T191500Z
+DTEND:20261114T210000Z
+SUMMARY:VK Zerkegem A 0-0 K. Dar. Ruddervoorde A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vk-zerkegem-a-k-dar-ruddervoorde-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/vk-zerkegem-a-k-dar-ruddervoorde-a-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e92722f92e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T191500Z
+DTEND:20261121T210000Z
+SUMMARY:VK Zerkegem A 0-3 K. Dosko Sint-Kruis
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vk-zerkegem-a-k-dosko-sint-kruis-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/vk-zerkegem-a-k-dosko-sint-kruis-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-770ea351fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K.F.C. Eendracht Hooglede – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-f-c-eendracht-hooglede-vk-zerkegem-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-eendracht-hooglede-vk-zerkegem-a-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-239678b7be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T191500Z
+DTEND:20261205T210000Z
+SUMMARY:VK Zerkegem A – VV Koekelare A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a37351445b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. WS Oudenburg – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecfc50dddb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. VC Wingene A – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-525495bfd9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T191500Z
+DTEND:20270116T210000Z
+SUMMARY:VK Zerkegem A – Dar. Brugge
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-613fb85b79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T191500Z
+DTEND:20270123T210000Z
+SUMMARY:VK Zerkegem A – K.V. Diksmuide Oostende B
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52ec59aafc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K. E. De Haan – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-155f804ca7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T191500Z
+DTEND:20270213T210000Z
+SUMMARY:VK Zerkegem A – K.F.C. Eendracht Hooglede
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d9f3328de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jong Male K.V.V. – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8abeda7f5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T191500Z
+DTEND:20270227T210000Z
+SUMMARY:VK Zerkegem A – KM Torhout B
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4739c2e464@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. Dar. Ruddervoorde A – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c417a33244@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T191500Z
+DTEND:20270313T210000Z
+SUMMARY:VK Zerkegem A – K. Exc. Zedelgem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea5c8705c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Dosko Sint-Kruis – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5778ed881@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T181500Z
+DTEND:20270403T200000Z
+SUMMARY:VK Zerkegem A – K. WS Houthulst A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e506a5930d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:VV Koekelare A – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ee63c5a42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T181500Z
+DTEND:20270417T200000Z
+SUMMARY:VK Zerkegem A – K. SV Bredene A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74b7018008@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. SV Jabbeke A – VK Zerkegem A
+DESCRIPTION:2e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vk-zerkegem-a/
+URL:https://goalio.be/nl/ploeg/vk-zerkegem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

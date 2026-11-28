@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Union Flémalloise B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-719a28ed2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Union Flémalloise B 2-4 J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-union-flemalloise-b-j-s-pierreuse-2026-11-01/
+URL:https://goalio.be/fr/match/r-union-flemalloise-b-j-s-pierreuse-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a43084f15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Harzé F.C. 3-0 R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-harze-f-c-r-union-flemalloise-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-harze-f-c-r-union-flemalloise-b-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62f7ae61ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Union Flémalloise B 0-5 F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-union-flemalloise-b-f-c-jupille-2026-11-15/
+URL:https://goalio.be/fr/match/r-union-flemalloise-b-f-c-jupille-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-061ef7455d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Ougrée FC. – R. Union Flémalloise B (remis)
+DESCRIPTION:3e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-ougree-fc-r-union-flemalloise-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-ougree-fc-r-union-flemalloise-b-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4e8835245@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Union Flémalloise B – J.S. Hognouloise
+DESCRIPTION:3e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-union-flemalloise-b-j-s-hognouloise-2026-11-29/
+URL:https://goalio.be/fr/match/r-union-flemalloise-b-j-s-hognouloise-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04a6cc10d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T143000Z
+DTEND:20261206T161500Z
+SUMMARY:R. Union Flémalloise B – R.S.C. Beaufays B
+DESCRIPTION:3e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc238b4d34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.U.S. Gold Star Liège – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac9f0b326e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T143000Z
+DTEND:20261220T161500Z
+SUMMARY:R. Union Flémalloise B – All. Fexhe Et Slins - Fragnee
+DESCRIPTION:3e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec6e1aed02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Illyrian Blegny – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7a417ad74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T143000Z
+DTEND:20270124T161500Z
+SUMMARY:R. Union Flémalloise B – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4828261623@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Seraing Athletique R.F.C. – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-038ba9e690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T143000Z
+DTEND:20270214T161500Z
+SUMMARY:R. Union Flémalloise B – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2c957204f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:S.C. Oneutois – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-297d51fe0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:C.S. Juprelle – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ddf6f9916@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T143000Z
+DTEND:20270314T161500Z
+SUMMARY:R. Union Flémalloise B – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df41714c06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:J.S. Pierreuse – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9638476b6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T133000Z
+DTEND:20270404T151500Z
+SUMMARY:R. Union Flémalloise B – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82ca3534ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Jupille – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c2fb89979@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T133000Z
+DTEND:20270418T151500Z
+SUMMARY:R. Union Flémalloise B – R. Ougrée FC.
+DESCRIPTION:3e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f30753be69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Hognouloise – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-union-flemalloise-b/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

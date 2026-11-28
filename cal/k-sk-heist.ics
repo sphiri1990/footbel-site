@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Sk. Heist · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sk-heist/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0a191995d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K. Sk. Heist 4-0 K.F.C. Houtvenne
+DESCRIPTION:D1 VV\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/k-sk-heist-k
+ -f-c-houtvenne-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-sk-heist-k-f-c-houtvenne-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9251843c29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261106T190000Z
+DTEND:20261106T204500Z
+SUMMARY:K.F.C. Merelbeke 2-1 K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-f-c-merelb
+ eke-k-sk-heist-2026-11-06/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-merelbeke-k-sk-heist-2026-11-06/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bb3aa7e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K. Sk. Heist 1-2 Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-sk-heist-h
+ oogstraten-v-v-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-sk-heist-hoogstraten-v-v-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc2eefe427@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K.F.C. Dessel Sport 1-1 K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-f-c-dessel
+ -sport-k-sk-heist-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-dessel-sport-k-sk-heist-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da22d600a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K. Sk. Heist – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-sk-heist-s
+ portkring-roeselare-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-sk-heist-sportkring-roeselare-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c1f424183@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:F.C. Mandel United Izegem – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f7339b0f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. Sk. Heist – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d27af7f8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:K.F.C. Houtvenne – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ea50119c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Racing Club Harelbeke – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-008f142c1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K. Sk. Heist – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dbbfa41d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8ecf0fcf0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:K. Sk. Heist – Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4c31d0bdf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sportkring Roeselare – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b0e155f4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:K. Sk. Heist – F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f8d113929@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K. Sk. Heist – K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eb0dcdc00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Hoogstraten V.V. – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa1927fdb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. Sk. Heist – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5ce873eb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Cercle Brugge K.S.V. – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13906c9fbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. Sk. Heist – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-077b298a2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Kvk Tienen – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0001eee8af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Sk. Heist – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-sk-heist/
+URL:https://goalio.be/nl/ploeg/k-sk-heist/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Ans B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-ans-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1977e9a9a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:MS Herstal Milmort B 1-5 F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/ms-herstal-milmort-b-f-c-ans-b-2026-11-01/
+URL:https://goalio.be/fr/match/ms-herstal-milmort-b-f-c-ans-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa901b495f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:F.C. Ans B 2-3 F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-ans-b-f-c-herstal-4-prov-c-liege-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-ans-b-f-c-herstal-4-prov-c-liege-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d63b213ed0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Les Oranges de Liège 3-2 F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/fc-les-oranges-de-liege-f-c-ans-b-2026-11-15/
+URL:https://goalio.be/fr/match/fc-les-oranges-de-liege-f-c-ans-b-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-684aa0e015@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:F.C. Ans B – R. Daring Club de Cointe-Liège (remis)
+DESCRIPTION:4e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-ans-b-r-daring-club-de-cointe-liege-2026-11-21/
+URL:https://goalio.be/fr/match/f-c-ans-b-r-daring-club-de-cointe-liege-2026
+ -11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3b066ff70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Cfc Pontisse Herstal – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/cfc-pontisse-herstal-4-prov-c-liege-f-c-ans-b-2026-11-29/
+URL:https://goalio.be/fr/match/cfc-pontisse-herstal-4-prov-c-liege-f-c-ans-
+ b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a82ea339f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Rapide Liège – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5876aa134b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.U.S. Montagnarde – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4027902432@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:F.C. Ans B – Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23b15b59a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Ans B – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b2faa055d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T150000Z
+DTEND:20270131T164500Z
+SUMMARY:Engis Football Club – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a37a62441d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Ans B – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bb3a89534@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dae44c9971@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:F.C. Ans B – J.S. du Thier-à-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28899233c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Illyrian Blegny B – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cf9abd9a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:F.C. Ans B – MS Herstal Milmort B
+DESCRIPTION:4e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec2c7e30fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Herstal – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7cbd3f300@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:F.C. Ans B – FC Les Oranges de Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16dc771589@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Daring Club de Cointe-Liège – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb7b5a6ac9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Ans B – Cfc Pontisse Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-ans-b/
+URL:https://goalio.be/fr/equipe/f-c-ans-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

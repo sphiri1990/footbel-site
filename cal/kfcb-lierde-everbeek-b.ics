@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFCB Lierde-Everbeek B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-68f7c6a52b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RR Breivelde-Zottegem B 4-2 KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/rr-breivelde-zottegem-b-kfcb-lierde-everbeek-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/rr-breivelde-zottegem-b-kfcb-lierde-ever
+ beek-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb5f9537d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFCB Lierde-Everbeek B 4-1 St Michelbeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfcb-lierde-everbeek-b-st-michelbeke-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfcb-lierde-everbeek-b-st-michelbeke-b-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ae3f703fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:W Idegem 5-1 KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/w-idegem-kfcb-lierde-everbeek-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/w-idegem-kfcb-lierde-everbeek-b-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64e6289278@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFCB Lierde-Everbeek B – EC Oudenhove B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfcb-lierde-everbeek-b-ec-oudenhove-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfcb-lierde-everbeek-b-ec-oudenhove-b-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93319c5e1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Velzeke – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3dd3ccd2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:VCE Deftinge B – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f645b7a485@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFCB Lierde-Everbeek B – SK Opbrakel
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c8a586423@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Olsa Nederbrakel – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93625e7aa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFCB Lierde-Everbeek B – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50232aab2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:St Michelbeke B – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c285bd5e0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFCB Lierde-Everbeek B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-407ef03e52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T184500Z
+DTEND:20270220T203000Z
+SUMMARY:KFC Voorde-Appelterre B – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b647b9c240@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFCB Lierde-Everbeek B – Racing Strijpen
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89808f71fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K.S.K. United Geraardsbergen – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51c12bb3f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFCB Lierde-Everbeek B – FC Velzeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-245442bf2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:EC Oudenhove B – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64cd03ea2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFCB Lierde-Everbeek B – W Idegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb02f21547@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFCB Lierde-Everbeek B – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-725b7f42b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Zegelsem – KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfcb-lierde-everbeek-b/
+URL:https://goalio.be/nl/ploeg/kfcb-lierde-everbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

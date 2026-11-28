@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VK Berg-Op · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vk-berg-op/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a8c9c339f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VK Berg-Op 3-3 SK Plenke Werchter
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/vk-berg-op-sk-plenke-werchter-2026-11-01/
+URL:https://goalio.be/fr/match/vk-berg-op-sk-plenke-werchter-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9ac534676@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Sp. Erps-Kwerps 1-1 VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/sp-erps-kwerps-vk-berg-op-2026-11-08/
+URL:https://goalio.be/fr/match/sp-erps-kwerps-vk-berg-op-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49c0954b0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VK Berg-Op 5-0 KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/vk-berg-op-knv-keerbergen-2026-11-15/
+URL:https://goalio.be/fr/match/vk-berg-op-knv-keerbergen-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3df4fd9d1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:VC Bertem-Leefdaal B 3-2 VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/vc-bertem-leefdaal-b-vk-berg-op-2026-11-21/
+URL:https://goalio.be/fr/match/vc-bertem-leefdaal-b-vk-berg-op-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b46f358739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VK Berg-Op – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/vk-berg-op-kv-tervuren-duisburg-b-2026-11-29/
+URL:https://goalio.be/fr/match/vk-berg-op-kv-tervuren-duisburg-b-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ecbf00c03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:KFC Herent B – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29e8ebc073@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VK Berg-Op – Eendr. Eizer
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5b5756eb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Gr. Vossem A – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce4cf6bba2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VK Berg-Op – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-708b91359a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VK Berg-Op – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58b326f84a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:OHR Huldenberg B – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68315a3be1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VK Berg-Op – KFC Rap. Wezemaal
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41545c4562@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KNV Keerbergen – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92c228f08c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VK Berg-Op – KV Tremelo
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-728db3c2f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Baal A – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-872da0b2ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VK Berg-Op – Sp. Rotselaar B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc19179a78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T154500Z
+DTEND:20270321T173000Z
+SUMMARY:KV Tervuren-Duisburg B – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d123c4113@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VK Berg-Op – KFC Herent B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8b80c320a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:Sporting Kampenhout B – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dadb417b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VK Berg-Op – K. Ol. Wijgmaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d0468f2ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Plenke Werchter – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vk-berg-op/
+URL:https://goalio.be/fr/equipe/vk-berg-op/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

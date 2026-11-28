@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stade Vervietois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/stade-vervietois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-07806776e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:SB Stade Mouscronnois A 2-1 Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/sb-stade-mouscr
+ onnois-a-stade-vervietois-2026-10-31/
+URL:https://goalio.be/fr/match/sb-stade-mouscronnois-a-stade-vervietois-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db2d289044@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Stade Vervietois 1-0 RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/stade-vervietoi
+ s-rfc-un-la-calamine-2026-11-07/
+URL:https://goalio.be/fr/match/stade-vervietois-rfc-un-la-calamine-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0d87252e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Aywaille F.C. A 1-3 Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/r-aywaille-f-c-
+ a-stade-vervietois-2026-11-15/
+URL:https://goalio.be/fr/match/r-aywaille-f-c-a-stade-vervietois-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fadd545363@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Stade Vervietois 2-0 C.S. Entité Manageoise
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/stade-vervietoi
+ s-c-s-entite-manageoise-2026-11-21/
+URL:https://goalio.be/fr/match/stade-vervietois-c-s-entite-manageoise-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d88b938dd5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FC Ganshoren – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/fc-ganshoren-st
+ ade-vervietois-2026-11-29/
+URL:https://goalio.be/fr/match/fc-ganshoren-stade-vervietois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ef96f9364@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Stade Vervietois – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43b0e47a9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Royale Union Hutoise – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b50af47b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T183000Z
+DTEND:20261219T201500Z
+SUMMARY:Stade Vervietois – Entente Acren Lessines
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-375b6b0732@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acad75d03f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Stade Vervietois – RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-437c804ea5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Union Namur A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a968bb2cc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Stade Vervietois – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a411d2875@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T183000Z
+DTEND:20270206T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b5b1057c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Stade Vervietois – Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b5559b54b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aed5e181e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Stade Vervietois – K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d9c2262dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:R.U.S. Binche – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9df4e6098a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Stade Vervietois – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6a5ff64f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:RFC Un. La Calamine – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5e5002589@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T183000Z
+DTEND:20270327T201500Z
+SUMMARY:Stade Vervietois – R. Aywaille F.C. A
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1dee75fd2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:C.S. Entité Manageoise – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95f2f0b9c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Stade Vervietois – FC Ganshoren
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c6344e76e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. UN Richelle A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be90e5a8b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Stade Vervietois – Royale Union Hutoise
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/stade-vervieto
+ is/
+URL:https://goalio.be/fr/equipe/stade-vervietois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

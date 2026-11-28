@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. St. FC Bouillon A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-02b40c5d4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:ES Saint-Pierre A 0-1 R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/es-saint-pierre-a-r-st-fc-bouillon-a-2026-11-01/
+URL:https://goalio.be/fr/match/es-saint-pierre-a-r-st-fc-bouillon-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-976ca427c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R. St. FC Bouillon A 2-0 FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/r-st-fc-bouillon-a-fc-bertrix-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-st-fc-bouillon-a-fc-bertrix-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77bb944e4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Les Cerfs Grandvoir 3-1 R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/fc-les-cerfs-grandvoir-r-st-fc-bouillon-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-les-cerfs-grandvoir-r-st-fc-bouillon-a-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ad8686a49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R. St. FC Bouillon A – RCS Libramontois B (remis)
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/r-st-fc-bouillon-a-rcs-libramontois-b-2026-11-21/
+URL:https://goalio.be/fr/match/r-st-fc-bouillon-a-rcs-libramontois-b-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fc815bd3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RUS Tellinoise – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/rus-tellinoise-r-st-fc-bouillon-a-2026-11-28/
+URL:https://goalio.be/fr/match/rus-tellinoise-r-st-fc-bouillon-a-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6694bdc3f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RUS Léglise – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b78f57bfa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R. St. FC Bouillon A – RJS Mageretoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dd643aa63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. St. FC Bouillon A – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c1f969927@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RUS Ste Ode A – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aade36a789@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. St. FC Bouillon A – RAC Neuvillers A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37d975b4d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RLC Warmifontaine – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad0e364944@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R. St. FC Bouillon A – Athl. Florenvillois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a48e0cccd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RES Bourcy – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-673203f091@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R. St. FC Bouillon A – ES Saint-Pierre A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92a6c3e68f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Bertrix A – R. St. FC Bouillon A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f538e3db39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. St. FC Bouillon A – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-st-fc-bouillon-a/
+URL:https://goalio.be/fr/equipe/r-st-fc-bouillon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

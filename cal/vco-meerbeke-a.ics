@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VCO Meerbeke A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2d977aa7ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VCO Meerbeke A 3-1 SV Sint-Antelinks A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vco-meerbeke-a-sv-sint-antelinks-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vco-meerbeke-a-sv-sint-antelinks-a-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc69692337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:KSK Zingem A 2-0 VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-zingem-a-vco-meerbeke-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ksk-zingem-a-vco-meerbeke-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d229b044c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VCO Meerbeke A 2-1 TK Meldert A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vco-meerbeke-a-tk-meldert-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vco-meerbeke-a-tk-meldert-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d52b4bd7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VCO Meerbeke A 4-0 KSSV Denderleeuw
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vco-meerbeke-a-kssv-denderleeuw-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vco-meerbeke-a-kssv-denderleeuw-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10e04b9a92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VK Nederhasselt A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vk-nederhasselt-a-vco-meerbeke-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vk-nederhasselt-a-vco-meerbeke-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b41043fe68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:VCO Meerbeke A – VV Volkegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e146b0658d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KVE Winnik A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bf8a65ef2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VCO Meerbeke A – St Michelbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31aecf6318@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T153000Z
+DTEND:20270116T171500Z
+SUMMARY:RR Breivelde-Zottegem A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f0c76b501@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VCO Meerbeke A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f570681f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KSSV Denderleeuw – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2fe2d8281@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:TK Meldert A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a975721793@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VCO Meerbeke A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fc781954f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:SV Sint-Antelinks A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-641a0be3b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VCO Meerbeke A – VVSM Horebeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b4c4112e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:Kluisbergen Sp A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-752844c377@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VCO Meerbeke A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f37f31486c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:SV Sottegem A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88521fb5a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VCO Meerbeke A – VCE Houtem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f23158fb93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:VV Volkegem A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-891c611c1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VCO Meerbeke A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vco-meerbeke-a/
+URL:https://goalio.be/nl/ploeg/vco-meerbeke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

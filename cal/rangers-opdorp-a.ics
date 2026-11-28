@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rangers Opdorp A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-32c6cc4706@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFC Sp St-Gillis Waas 1-1 Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-sp-st-gillis-waas-rangers-opdorp-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-sp-st-gillis-waas-rangers-opdorp-a-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ff100ef26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Heikant Zele A 4-1 Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-heikant-zele-a-rangers-opdorp-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-heikant-zele-a-rangers-opdorp-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6098e11992@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Rangers Opdorp A 1-1 KFC Eksaarde
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/rangers-opdorp-a-kfc-eksaarde-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/rangers-opdorp-a-kfc-eksaarde-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-602f9499dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:SV Zaffelare 1-0 Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sv-zaffelare-rangers-opdorp-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/sv-zaffelare-rangers-opdorp-a-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4411666193@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Rangers Opdorp A – KFCJ Schoonaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/rangers-opdorp-a-kfcj-schoonaarde-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/rangers-opdorp-a-kfcj-schoonaarde-a-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0da58a2530@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KVKS Melsele A – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b92aba5792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Rangers Opdorp A – SKL Doorslaar A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0030326f64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-645ad15295@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K Sp Waasmunster – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90f174dceb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Rangers Opdorp A – SV Zaffelare
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34319b68fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KFCJ Schoonaarde A – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e1b788906@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Rangers Opdorp A – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98e6d0277a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SV Blauw Wit Temse A – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15a724224e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Rangers Opdorp A – KFC Sp St-Gillis Waas
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c01785daf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Rangers Opdorp A – VK White Boys SN
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17a3743ffe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFCJV Kruibeke A – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37b76b6bdf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Rangers Opdorp A – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9b01f6a39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Eksaarde – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f34beb9ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Rangers Opdorp A – KVKS Melsele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b588b1f1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KFC Vrasene – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf05002241@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Rangers Opdorp A – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/rangers-opdorp-a/
+URL:https://goalio.be/nl/ploeg/rangers-opdorp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

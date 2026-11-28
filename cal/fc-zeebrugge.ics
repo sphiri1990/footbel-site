@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Zeebrugge · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-zeebrugge/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-05e70923e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Zeebrugge 2-5 K. SK Steenbrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-zeebrugge-k-sk-steenbrugge-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-zeebrugge-k-sk-steenbrugge-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9236e94f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Zeebrugge 1-3 K. VC Wingene B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/fc-zeebrugge-k-vc-wingene-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-zeebrugge-k-vc-wingene-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63fa51cd32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:GL Ruiselede 3-2 FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/gl-ruiselede-fc-zeebrugge-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/gl-ruiselede-fc-zeebrugge-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-754b0e8c6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Zeebrugge 0-2 K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/fc-zeebrugge-k-fc-sint-joris-sp-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-zeebrugge-k-fc-sint-joris-sp-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46987f0e7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:KFC Damme – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-damme-fc-zeebrugge-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-damme-fc-zeebrugge-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-877011435a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Zeebrugge – VK Dudzele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9bffe3c178@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. SK Steenbrugge – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdfeb74494@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Zeebrugge – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a724dfb132@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. VC Wingene B – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b88718394@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Zeebrugge – GL Ruiselede
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dde1d0de9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T173000Z
+DTEND:20270213T191500Z
+SUMMARY:K. FC Aarsele – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-271c0b43e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Zeebrugge – VV Westkapelle B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-391dcf935c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. FC Heist B – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-932a242688@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Zeebrugge – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-336388e55f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:V.V. Cercle Beernem B – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44eaf9a166@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Zeebrugge – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39dabeba2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. FC Sint-Joris Sp. – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49ff387656@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Zeebrugge – K. FC Varsenare B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-493ec7be41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Lissewege – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/fc-zeebrugge/
+URL:https://goalio.be/nl/ploeg/fc-zeebrugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

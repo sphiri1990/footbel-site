@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.S. Pierreuse · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-s-pierreuse/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-719a28ed2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Union Flémalloise B 2-4 J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-union-flemalloise-b-j-s-pierreuse-2026-11-01/
+URL:https://goalio.be/fr/match/r-union-flemalloise-b-j-s-pierreuse-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10aba18c9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Pierreuse 1-4 C.S. Juprelle
+DESCRIPTION:3e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/j-s-pierreuse-c-s-juprelle-3-prov-b-liege-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-pierreuse-c-s-juprelle-3-prov-b-liege-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-666a3c6337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T150000Z
+DTEND:20261115T164500Z
+SUMMARY:R.C.S. Sart Tilman 2-2 J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-c-s-sart-tilman-j-s-pierreuse-2026-11-15/
+URL:https://goalio.be/fr/match/r-c-s-sart-tilman-j-s-pierreuse-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e612baa502@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:S.C. Oneutois – J.S. Pierreuse (remis)
+DESCRIPTION:3e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/s-c-oneutois-j-s-pierreuse-2026-11-22/
+URL:https://goalio.be/fr/match/s-c-oneutois-j-s-pierreuse-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8816eb81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:J.S. Pierreuse – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/j-s-pierreuse-r-harze-f-c-2026-11-29/
+URL:https://goalio.be/fr/match/j-s-pierreuse-r-harze-f-c-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8e81a3856@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:J.S. Pierreuse – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c1ea8992e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Ougrée FC. – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d7d333093@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:J.S. Pierreuse – J.S. Hognouloise
+DESCRIPTION:3e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74ff551b53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:R.S.C. Beaufays B – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdaeae7424@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:J.S. Pierreuse – R.U.S. Gold Star Liège
+DESCRIPTION:3e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-140fb14300@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:All. Fexhe Et Slins - Fragnee – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83c4f6198f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:J.S. Pierreuse – Illyrian Blegny
+DESCRIPTION:3e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47382a3227@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Entente Sportive Tilleur – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ee778a964@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:J.S. Pierreuse – Seraing Athletique R.F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98bfdd1c90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df41714c06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:J.S. Pierreuse – R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd5ece6427@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:C.S. Juprelle – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a241cd8a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. Pierreuse – R.C.S. Sart Tilman
+DESCRIPTION:3e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a146dccf7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:J.S. Pierreuse – S.C. Oneutois
+DESCRIPTION:3e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9177877f96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Harzé F.C. – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

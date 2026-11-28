@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FCSM Latem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fcsm-latem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-034380d73b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:KVE Aalter A 2-3 FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 10\nhttps://goalio.be/
+ nl/wedstrijd/kve-aalter-a-fcsm-latem-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kve-aalter-a-fcsm-latem-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f381a152e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:VC Nokere-Kruishoutem A 0-1 FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 11\nhttps://goalio.be/
+ nl/wedstrijd/vc-nokere-kruishoutem-a-fcsm-latem-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vc-nokere-kruishoutem-a-fcsm-latem-a-202
+ 6-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad0b4a1525@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:FCSM Latem A 2-0 KSK Grembergen A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 12\nhttps://goalio.be/
+ nl/wedstrijd/fcsm-latem-a-ksk-grembergen-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/fcsm-latem-a-ksk-grembergen-a-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58df4caaf3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:SK Vlaamse Ardennen A 1-3 FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 13\nhttps://goalio.be/
+ nl/wedstrijd/sk-vlaamse-ardennen-a-fcsm-latem-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/sk-vlaamse-ardennen-a-fcsm-latem-a-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38907d0f30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:FCSM Latem A – SK Berlare
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 14\nhttps://goalio.be/
+ nl/wedstrijd/fcsm-latem-a-sk-berlare-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/fcsm-latem-a-sk-berlare-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6b332974f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:HRS Haasdonk A – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 15\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83bd8c5fc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:SK Denderhoutem A – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 16\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9aa108ab7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:FCSM Latem A – KSVK Maldegem
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 17\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d179c3abad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Evergem 2020 – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 18\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b78dddf256@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:FCSM Latem A – KVCDT Borsbeke
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 19\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef9f0c65dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KSK Grembergen A – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 20\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f64b0256be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:FCSM Latem A – K.F.C. Eeklo
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 21\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c423a418d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Munkzwalm A – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 22\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ec40bbab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:FCSM Latem A – KVVS Sersk-Schellebelle A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 23\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccc3a30cb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:VK Ninove B – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 24\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-379e6ed23d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:FCSM Latem A – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 25\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41472a54e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:SK Berlare – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 26\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e87683b466@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:FCSM Latem A – SK Vlaamse Ardennen A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 27\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e3c500705@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:FCSM Latem A – VC Nokere-Kruishoutem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 28\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3c02c4a6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:K.S.K. Beveren – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 29\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cf726d2d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FCSM Latem A – KVE Aalter A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 30\nhttps://goalio.be/
+ nl/ploeg/fcsm-latem-a/
+URL:https://goalio.be/nl/ploeg/fcsm-latem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

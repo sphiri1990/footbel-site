@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.S.K. Beveren · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-s-k-beveren/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c341fb5fd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:K.S.K. Beveren 4-2 VC Nokere-Kruishoutem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 10\nhttps://goalio.be/
+ nl/wedstrijd/k-s-k-beveren-vc-nokere-kruishoutem-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-beveren-vc-nokere-kruishoutem-a-20
+ 26-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32a32d94d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KVCDT Borsbeke 3-0 K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 11\nhttps://goalio.be/
+ nl/wedstrijd/kvcdt-borsbeke-k-s-k-beveren-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kvcdt-borsbeke-k-s-k-beveren-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b420f6f566@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K.S.K. Beveren 1-4 K.F.C. Eeklo
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 12\nhttps://goalio.be/
+ nl/wedstrijd/k-s-k-beveren-k-f-c-eeklo-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-beveren-k-f-c-eeklo-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56357e476e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KSVK Maldegem 5-2 K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 13\nhttps://goalio.be/
+ nl/wedstrijd/ksvk-maldegem-k-s-k-beveren-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ksvk-maldegem-k-s-k-beveren-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f193dbd32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K.S.K. Beveren – SK Vlaamse Ardennen A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 14\nhttps://goalio.be/
+ nl/wedstrijd/k-s-k-beveren-sk-vlaamse-ardennen-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-beveren-sk-vlaamse-ardennen-a-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb6924c5a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KSK Grembergen A – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 15\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2dfb92868@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K.S.K. Beveren – KVE Aalter A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 16\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9b7fe9abf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:VK Ninove B – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 17\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bed7d667c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:K.S.K. Beveren – KVCDT Borsbeke
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 18\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25fe6d8693@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K.S.K. Beveren – KSVK Maldegem
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 19\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f39ab307d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Evergem 2020 – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 20\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed52355516@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:K.S.K. Beveren – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 21\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01311d522c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.F.C. Eeklo – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 22\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b581e86a49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:K.S.K. Beveren – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 23\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14f924c5ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KVVS Sersk-Schellebelle A – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 24\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6d4c711c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K.S.K. Beveren – SK Denderhoutem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 25\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8c82eee8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:SK Vlaamse Ardennen A – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 26\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74d7b1ed16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K.S.K. Beveren – KSK Grembergen A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 27\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41e04bf4d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:SK Berlare – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 28\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3c02c4a6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:K.S.K. Beveren – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 29\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22887ccd0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Nokere-Kruishoutem A – K.S.K. Beveren
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 30\nhttps://goalio.be/
+ nl/ploeg/k-s-k-beveren/
+URL:https://goalio.be/nl/ploeg/k-s-k-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

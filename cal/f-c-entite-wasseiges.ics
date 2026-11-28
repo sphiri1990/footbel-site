@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Entité Wasseiges · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6c814b7411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:E.S.F.C. Du Geer 1-3 F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/e-s-f-c-du-geer-3-prov-a-liege-f-c-entite-wasseiges-2026-11-01/
+URL:https://goalio.be/fr/match/e-s-f-c-du-geer-3-prov-a-liege-f-c-entite-wa
+ sseiges-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee6ad043c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:F.C. Entité Wasseiges 3-1 R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-entite-wasseiges-r-fraiture-sp-a-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-entite-wasseiges-r-fraiture-sp-a-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61c1d79798@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Entente Sportive Donceel 0-0 F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/entente-sportive-donceel-f-c-entite-wasseiges-2026-11-15/
+URL:https://goalio.be/fr/match/entente-sportive-donceel-f-c-entite-wasseige
+ s-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bf509823f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:J.S. Racour-Lincent – F.C. Entité Wasseiges (remis)
+DESCRIPTION:3e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/j-s-racour-lincent-f-c-entite-wasseiges-2026-11-22/
+URL:https://goalio.be/fr/match/j-s-racour-lincent-f-c-entite-wasseiges-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1864469c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:F.C. Entité Wasseiges – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-entite-wasseiges-r-e-s-templiers-nandrin-2026-11-28/
+URL:https://goalio.be/fr/match/f-c-entite-wasseiges-r-e-s-templiers-nandrin
+ -2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-131d24ff08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:F.C. Entité Wasseiges – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-774ee13ed5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.S.C. Anthisnois – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80d9e623fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:F.C. Entité Wasseiges – R. Marchin Sport A
+DESCRIPTION:3e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-351573f354@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Union Momalloise – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-840066a285@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Entité Wasseiges – R.U.S. Stree
+DESCRIPTION:3e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47b5a32c69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Etoile De Faimes – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ecd6cf080@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Entité Wasseiges – Entente Amay A
+DESCRIPTION:3e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82c0b62cc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. Ouffet Warzée – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cffa82eb9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Entité Wasseiges – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63d907f707@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3501a0e83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:F.C. Entité Wasseiges – E.S.F.C. Du Geer
+DESCRIPTION:3e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a42aa496de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Fraiture SP A – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35f90bc1f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:F.C. Entité Wasseiges – Entente Sportive Donceel
+DESCRIPTION:3e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-826e98f2c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Entité Wasseiges – J.S. Racour-Lincent
+DESCRIPTION:3e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69c992b4af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.E.S. Templiers-Nandrin – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

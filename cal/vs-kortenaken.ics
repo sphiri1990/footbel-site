@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VS Kortenaken · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vs-kortenaken/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7f1ecf8d42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:SMS Lubbeek A 3-3 VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/sms-lubbeek-a-vs-kortenaken-2026-10-31/
+URL:https://goalio.be/fr/match/sms-lubbeek-a-vs-kortenaken-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f577a7f71a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:VS Kortenaken 9-0 RD Zoutleeuw A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/vs-kortenaken-rd-zoutleeuw-a-2026-11-08/
+URL:https://goalio.be/fr/match/vs-kortenaken-rd-zoutleeuw-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58b3e54b1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Meensel-Kiezegem 1-1 VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/meensel-kiezegem-vs-kortenaken-2026-11-15/
+URL:https://goalio.be/fr/match/meensel-kiezegem-vs-kortenaken-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8d8eb375@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VS Kortenaken 3-1 SC Out-Hoegaarden B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/vs-kortenaken-sc-out-hoegaarden-b-2026-11-22/
+URL:https://goalio.be/fr/match/vs-kortenaken-sc-out-hoegaarden-b-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-952a15a269@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-averbode-testelt-okselaar-b-vs-kortenaken-2026-11-29/
+URL:https://goalio.be/fr/match/fc-averbode-testelt-okselaar-b-vs-kortenaken
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b99e6b1ba2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:VS Kortenaken – Cr. Vissenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be7cd29fd9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VS Kortenaken – SNA Keiberg
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac28d3819b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:SC Aarschot A – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b9ec8ea93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:KVC Kessel-Lo 2000 B – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4c49f0718@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VS Kortenaken – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22ff98db36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RWL Sport A – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83e224d4dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VS Kortenaken – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e23cc0ada@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Cr. Vissenaken – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fec035639e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VS Kortenaken – Boutersem United A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-761a1cfcb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:Korbeek Sp. – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5144d767aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VS Kortenaken – VC Bekkevoort
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ecf8879f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:RC Meldert – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1e395ac63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VS Kortenaken – Meensel-Kiezegem
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3bc19e6d68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RD Zoutleeuw A – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d82cd5a4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T150000Z
+DTEND:20270418T164500Z
+SUMMARY:SC Out-Hoegaarden B – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95e1187bf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VS Kortenaken – SMS Lubbeek A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vs-kortenaken/
+URL:https://goalio.be/fr/equipe/vs-kortenaken/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

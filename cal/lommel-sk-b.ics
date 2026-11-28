@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lommel SK B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/lommel-sk-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1b71fa235c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:OHR Huldenberg A 4-1 Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/ohr-hulden
+ berg-a-lommel-sk-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ohr-huldenberg-a-lommel-sk-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3fdee13b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Lommel SK B 1-3 FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/lommel-sk-
+ b-fc-averbode-testelt-okselaar-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/lommel-sk-b-fc-averbode-testelt-okselaar
+ -a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc93d03a9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Esperanza Pelt A 0-0 Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 15\nhttps://goalio.be/nl/wedstrijd/esperanza-
+ pelt-a-lommel-sk-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/esperanza-pelt-a-lommel-sk-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea11cde03e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:WS Schoonbeek-Bilzen A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 16\nhttps://goalio.be/nl/wedstrijd/ws-schoonb
+ eek-bilzen-a-lommel-sk-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ws-schoonbeek-bilzen-a-lommel-sk-b-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1b6f7f710@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Lommel SK B – K. Nieuwmoer FC A
+DESCRIPTION:D3 VV B\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77f8178f65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Lommel SK B – Achel VV A
+DESCRIPTION:D3 VV B\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8863a3012d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:K. Berg en Dal VV – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a72590eb5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Lommel SK B – St. Lenaarts A
+DESCRIPTION:D3 VV B\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddad351750@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Lommel SK B – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d9543e2b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:VK Linden A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-206db6d3af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Lommel SK B – Esperanza Pelt A
+DESCRIPTION:D3 VV B\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ba410a6fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KVV Zepperen-Brustem A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6e6e65844@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Lommel SK B – KVC Lille United A
+DESCRIPTION:D3 VV B\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3b1388009@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:ASV Geel – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f16dcb6f44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:KAC Betekom A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8780852fd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Lommel SK B – GS Bree-Beek A
+DESCRIPTION:D3 VV B\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbf2daadcd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. Nieuwmoer FC A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85fe07c0a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Lommel SK B – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 31\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-879a8b3ea0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:FC Wezel Sport A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 32\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b299467e9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Lommel SK B – WS Schoonbeek-Bilzen A
+DESCRIPTION:D3 VV B\nSpeeldag 33\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b64189a8b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Averbode Testelt Okselaar A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 34\nhttps://goalio.be/nl/ploeg/lommel-sk-b/
+URL:https://goalio.be/nl/ploeg/lommel-sk-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

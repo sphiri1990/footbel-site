@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVC Wilrijk A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-95d36d4dd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:RC Hades Kiewit A 2-3 KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/rc-hades-k
+ iewit-a-kvc-wilrijk-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/rc-hades-kiewit-a-kvc-wilrijk-a-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3f4afe93e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:KVC Wilrijk A 3-1 Sp. Rotselaar A
+DESCRIPTION:D2 VV B\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/kvc-wilrij
+ k-a-sp-rotselaar-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kvc-wilrijk-a-sp-rotselaar-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1d20578f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KSK Tongeren 1-2 KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/ksk-tonger
+ en-kvc-wilrijk-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/ksk-tongeren-kvc-wilrijk-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-600b0b61bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:KVC Wilrijk A 1-3 Bocholter V.V. A
+DESCRIPTION:D2 VV B\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/kvc-wilrij
+ k-a-bocholter-v-v-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kvc-wilrijk-a-bocholter-v-v-a-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7e06ea10b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:KFC Nijlen A – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/kfc-nijlen
+ -a-kvc-wilrijk-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-nijlen-a-kvc-wilrijk-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b86cc6c854@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:KVC Wilrijk A – K. RC Mechelen
+DESCRIPTION:D2 VV B\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d2a0e0748@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Tempo Overijse – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5adb66e983@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:KVK Wellen – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffda5e4b27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:KVC Wilrijk A – KFC De Kempen TL A
+DESCRIPTION:D2 VV B\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c59770427f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Bocholter V.V. A – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e4adc51c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:KVC Wilrijk A – K. St.-Truidense V.V. B
+DESCRIPTION:D2 VV B\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceed6673ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:KVC Wilrijk A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be7ff85567@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T173000Z
+DTEND:20270220T191500Z
+SUMMARY:R. Antwerp FC B – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ace18f3e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:KVC Wilrijk A – KFC Nijlen A
+DESCRIPTION:D2 VV B\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef02976462@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Diegem Sport – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74c2071682@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:KVC Wilrijk A – RC Hades Kiewit A
+DESCRIPTION:D2 VV B\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-addc1f9356@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T191500Z
+DTEND:20270320T210000Z
+SUMMARY:Sp. Rotselaar A – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-143b48dac0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K. RC Mechelen – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e13952e899@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:KVC Wilrijk A – E. Termien
+DESCRIPTION:D2 VV B\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ac55c2337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T181500Z
+DTEND:20270417T200000Z
+SUMMARY:R. Cappellen FC A – KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98e142d330@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVC Wilrijk A – Rupel-Boom A
+DESCRIPTION:D2 VV B\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/kvc-wilrijk-a/
+URL:https://goalio.be/nl/ploeg/kvc-wilrijk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

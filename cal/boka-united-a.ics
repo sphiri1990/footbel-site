@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BOKA United A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/boka-united-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-76b024d0c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:BOKA United A 1-1 ERC Hoeilaart A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 10\nhttps://goalio.be
+ /fr/match/boka-united-a-erc-hoeilaart-a-2026-11-01/
+URL:https://goalio.be/fr/match/boka-united-a-erc-hoeilaart-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be5dda13cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T193000Z
+DTEND:20261107T211500Z
+SUMMARY:KVV Kester-Gooik A 0-2 BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 11\nhttps://goalio.be
+ /fr/match/kvv-kester-gooik-a-boka-united-a-2026-11-07/
+URL:https://goalio.be/fr/match/kvv-kester-gooik-a-boka-united-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f84ece837@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:BOKA United A 2-2 KSC Grimbergen A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 12\nhttps://goalio.be
+ /fr/match/boka-united-a-ksc-grimbergen-a-2026-11-15/
+URL:https://goalio.be/fr/match/boka-united-a-ksc-grimbergen-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21e1e079e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:HO Bierbeek A 6-0 BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 13\nhttps://goalio.be
+ /fr/match/ho-bierbeek-a-boka-united-a-2026-11-21/
+URL:https://goalio.be/fr/match/ho-bierbeek-a-boka-united-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34767b0252@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:BOKA United A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 14\nhttps://goalio.be
+ /fr/match/boka-united-a-kv-tervuren-duisburg-a-2026-11-29/
+URL:https://goalio.be/fr/match/boka-united-a-kv-tervuren-duisburg-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-001c8bb428@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:Eendr. Mazenzele Opwijk A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 15\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74cf8fe069@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:BOKA United A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 16\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fcda83d9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KHO Huizingen A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 17\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-070615437b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:BOKA United A – KVV Kester-Gooik A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 18\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-279d916fb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:BOKA United A – HO Bierbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 19\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c3083d60f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SC Out-Hoegaarden A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 20\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a58d997ef0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:BOKA United A – VK Holsbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 21\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f71f011ef1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KSC Grimbergen A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 22\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c6efeb139@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:BOKA United A – SK Pepingen-Halle A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 23\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d373f65e9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:KFC Herent A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 24\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ee18d9f20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:BOKA United A – Fenixx Beigem Humbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 25\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23545fb932@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T144500Z
+SUMMARY:KV Tervuren-Duisburg A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 26\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b41e3b64f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:BOKA United A – Eendr. Mazenzele Opwijk A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 27\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1308942dc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sporting Kampenhout A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 28\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f42bd738a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:BOKA United A – HO Wolvertem Merchtem
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 29\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-745c9b2fab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ERC Hoeilaart A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 30\nhttps://goalio.be
+ /fr/equipe/boka-united-a/
+URL:https://goalio.be/fr/equipe/boka-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

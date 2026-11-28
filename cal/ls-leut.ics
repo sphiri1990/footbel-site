@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LS Leut · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ls-leut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b5431ddecb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Umitspor Maasmechelen B 0-10 LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/umitspor-maasmechelen-b-ls-leut-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/umitspor-maasmechelen-b-ls-leut-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-844429a1cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:LS Leut 4-2 SSD Opoeteren
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/ls-leut-ssd-opoeteren-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/ls-leut-ssd-opoeteren-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e879e0a98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:K. St. Elen B 2-2 LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/k-st-elen-b-ls-leut-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-st-elen-b-ls-leut-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-091f680a20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:LS Leut – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/ls-leut-k-v-v-vlug-vrij-stokkem-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ls-leut-k-v-v-vlug-vrij-stokkem-b-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a868e4e9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:E. Louwel B – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/e-louwel-b-ls-leut-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/e-louwel-b-ls-leut-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7abbfed145@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:LS Leut – Sporting Calcio Genk
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db7334b146@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:LS Leut – Lanklaar VV
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-814213c4e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:Neeroeteren FC B – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b117dc242f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Future Football Stars Genk – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0f6354362@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:LS Leut – Bokrijk Sport
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7638b7a2e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:Park Houthalen B – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28cbad11a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:LS Leut – E. Louwel B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-514a61316f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sporting Calcio Genk – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf8275886b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:LS Leut – As-Niel Utd. B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57a7321173@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T120000Z
+DTEND:20270307T134500Z
+SUMMARY:SLW Maaseik B – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fc29e08b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:Genk VV B – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fb1e344df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:LS Leut – K. St. Elen B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc93914672@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SSD Opoeteren – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19a9d8c58d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T110000Z
+DTEND:20270418T124500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8100de555b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:LS Leut – Umitspor Maasmechelen B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/ls-leut/
+URL:https://goalio.be/nl/ploeg/ls-leut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

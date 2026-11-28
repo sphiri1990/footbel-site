@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Olympic Anderlecht · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/olympic-anderlecht/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5ecdfd67cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Olympic Anderlecht 2-2 F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 9\nhttps://
+ goalio.be/fr/match/olympic-anderlecht-f-c-moreda-uccle-2026-10-31/
+URL:https://goalio.be/fr/match/olympic-anderlecht-f-c-moreda-uccle-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-533a114853@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Olympic Anderlecht 6-5 Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/olympic-anderlecht-black-star-f-c-3-prov-b-brabant-wal
+ lon-bruxelles-2026-11-14/
+URL:https://goalio.be/fr/match/olympic-anderlecht-black-star-f-c-3-prov-b-b
+ rabant-wallon-bruxelles-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e93ac2590f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Olympic Anderlecht 1-2 Olympique Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/olympic-anderlecht-olympique-club-forestois-2026-11-21
+ /
+URL:https://goalio.be/fr/match/olympic-anderlecht-olympique-club-forestois-
+ 2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d87e726811@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:F.C. Anderlecht Sport Milan – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/f-c-anderlecht-sport-milan-3-prov-b-brabant-wallon-bru
+ xelles-olympic-anderlecht-2026-11-28/
+URL:https://goalio.be/fr/match/f-c-anderlecht-sport-milan-3-prov-b-brabant-
+ wallon-bruxelles-olympic-anderlecht-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a734af00fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Olympique Club Forestois – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-480c48d533@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Olympic Anderlecht – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6a1e170c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:FC Polonia Bruxelles – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2ead8abae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Olympic Anderlecht – R. Un. Auderghem
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6554def01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:R. Ol. F.C. Stockel – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2a7d4273b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Olympic Anderlecht – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48c9aaf4ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Bx Brussels – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a631f7f558@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Olympic Anderlecht – Racing Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e95daa7e06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Olympic Wolves Brussels – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef4b93651f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Olympic Anderlecht – F.E.F. Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a4435caa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T173000Z
+DTEND:20270320T191500Z
+SUMMARY:F.C. Moreda Uccle – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cefb9029dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Black Star F.C. – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/olympic-anderlecht/
+URL:https://goalio.be/fr/equipe/olympic-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

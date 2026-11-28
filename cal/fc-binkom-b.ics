@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Binkom B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-binkom-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8db869e8e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Binkom B 0-1 SC Aarschot B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-binkom-b-sc-aarschot-b-2026-10-31/
+URL:https://goalio.be/fr/match/fc-binkom-b-sc-aarschot-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a259611b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:SK Deurne 2-1 FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-deurne-fc-binkom-b-2026-11-08/
+URL:https://goalio.be/fr/match/sk-deurne-fc-binkom-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e562536b4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Binkom B 0-0 Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-binkom-b-sparta-schaffen-2026-11-14/
+URL:https://goalio.be/fr/match/fc-binkom-b-sparta-schaffen-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5ea7b2152@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Tielt-Winge 3000 0-2 FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 13\nhttps://goalio.b
+ e/fr/match/tielt-winge-3000-fc-binkom-b-2026-11-21/
+URL:https://goalio.be/fr/match/tielt-winge-3000-fc-binkom-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1831d801d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Binkom B – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-binkom-b-kfc-ko-begijnendijk-2026-11-28/
+URL:https://goalio.be/fr/match/fc-binkom-b-kfc-ko-begijnendijk-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9af2467f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:FC Binkom B – RWL Sport B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d8468dfcd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FC Binkom B – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a1d77fd5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:FC Binkom B – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c1ca00cf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RC Butsel – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e87c58464f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T184500Z
+DTEND:20270213T203000Z
+SUMMARY:KFC KO Begijnendijk – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f374fe5eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Sp. Molenbeek – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc0addd647@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:FC Binkom B – SMS Lubbeek B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d9a4dc976@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Sparta Schaffen – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e85dee7db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Binkom B – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e4ba3926e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FC Binkom B – KAC Betekom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98d42e116d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T110000Z
+DTEND:20270411T124500Z
+SUMMARY:SC Aarschot B – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8bd1fb532@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:FC Binkom B – Boutersem United B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16f214f1c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Werchter B – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fc-binkom-b/
+URL:https://goalio.be/fr/equipe/fc-binkom-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

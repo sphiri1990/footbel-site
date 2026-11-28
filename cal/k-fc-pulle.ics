@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Pulle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-pulle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ef9a0b87fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFC Exc. Bouwel 2-3 K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-exc-bouwel-k-fc-pulle-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-exc-bouwel-k-fc-pulle-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52ce8e04df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Heidebl. Pulderbos 1-3 K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-heidebl-pulderbos-k-fc-pulle-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-heidebl-pulderbos-k-fc-pulle-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-933b7a2d69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. FC Pulle 2-3 Waterheide Schorvoort Zevendonk
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-fc-pulle-waterheide-schorvoort-zevendonk-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-fc-pulle-waterheide-schorvoort-zevendo
+ nk-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac9256aa90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K.F.C. Houtvenne B 0-1 K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-f-c-houtvenne-b-k-fc-pulle-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-houtvenne-b-k-fc-pulle-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5c2be9df1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. FC Pulle – K.F.C. Zammel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-fc-pulle-k-f-c-zammel-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-fc-pulle-k-f-c-zammel-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c4ac285ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Verbr. Balen – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40e85da11f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. FC Pulle – KSK Kasterlee
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c848886b39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. Ramsel FC – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46855f98f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K. Merksplas SK – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4473725d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. FC Pulle – K.F.C. Houtvenne B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-652836d792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:K.F.C. Zammel – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9906225f13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. FC Pulle – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9afe09974e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. Vlimmeren Sp. – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb6bd8f9e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. FC Pulle – KFC Exc. Bouwel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77d65c48f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. FC Pulle – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a268810a69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Zwaneven – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3a58d1437@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. FC Pulle – KFC Heidebl. Pulderbos
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e820c5ba5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Waterheide Schorvoort Zevendonk – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8801185efd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. FC Pulle – Verbr. Balen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f38558603@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC De Kempen TL B – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfc9e8fd04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Pulle – K. FC Poppel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-fc-pulle/
+URL:https://goalio.be/nl/ploeg/k-fc-pulle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

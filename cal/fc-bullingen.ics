@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Büllingen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-bullingen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-46a964212a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. FC Bütgenbach 3-0 FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-fc-butgenbach-fc-bullingen-2026-11-01/
+URL:https://goalio.be/fr/match/r-fc-butgenbach-fc-bullingen-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9717f69874@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Büllingen 0-3 F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/fc-bullingen-f-c-1912-raeren-eynatten-a-2026-11-08/
+URL:https://goalio.be/fr/match/fc-bullingen-f-c-1912-raeren-eynatten-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-718bf3294b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:R. FC Sart-Lez-Spa B 1-2 FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-fc-sart-lez-spa-b-fc-bullingen-2026-11-14/
+URL:https://goalio.be/fr/match/r-fc-sart-lez-spa-b-fc-bullingen-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fa50f0443@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:UN. Walhorn – FC Büllingen (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/un-walhorn-fc-bullingen-2026-11-21/
+URL:https://goalio.be/fr/match/un-walhorn-fc-bullingen-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38580d7c5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Büllingen – All. Hautes Fagnes A
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/fc-bullingen-all-hautes-fagnes-a-2026-11-29/
+URL:https://goalio.be/fr/match/fc-bullingen-all-hautes-fagnes-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fc85328f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Büllingen – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42fb20d640@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.U.S. 1947 Emmels – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b604ec4545@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Büllingen – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69111f0248@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:R.F.C. Malmundaria 1904 B – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f6a1d9177@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Büllingen – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1e23dfa4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:K. FC Eupen 1963 B – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aebf788a31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Büllingen – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9360a5fdd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.C.S. Jalhaytois – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e968a131ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Büllingen – R.U. Limbourg
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4f72090d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.C.S. Bellevaux-Ligneuville – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8af7bb95fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Büllingen – R. FC Bütgenbach
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-516d3fca1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5977badd69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Büllingen – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce781bd27e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Büllingen – UN. Walhorn
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2df76c447b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:All. Hautes Fagnes A – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/fc-bullingen/
+URL:https://goalio.be/fr/equipe/fc-bullingen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

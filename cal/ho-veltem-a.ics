@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HO Veltem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ho-veltem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d682e247a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T191500Z
+DTEND:20261031T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A 2-5 HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/kvc-kessel-lo-2000-a-ho-veltem-a-2026-10-31/
+URL:https://goalio.be/fr/match/kvc-kessel-lo-2000-a-ho-veltem-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd7de5eeff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KVC Sterrebeek A 6-2 HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/kvc-sterrebeek-a-ho-veltem-a-2026-11-07/
+URL:https://goalio.be/fr/match/kvc-sterrebeek-a-ho-veltem-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-476a7dbfb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:HO Veltem A 2-2 FC Binkom A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/ho-veltem-a-fc-binkom-a-2026-11-15/
+URL:https://goalio.be/fr/match/ho-veltem-a-fc-binkom-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df425747e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K. Ol. Wijgmaal A 3-1 HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/k-ol-wijgmaal-a-ho-veltem-a-2026-11-22/
+URL:https://goalio.be/fr/match/k-ol-wijgmaal-a-ho-veltem-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4867d5a692@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:HO Veltem A – FC Moorsel A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/ho-veltem-a-fc-moorsel-a-2026-11-29/
+URL:https://goalio.be/fr/match/ho-veltem-a-fc-moorsel-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ee842a90e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:St. Meerbeek – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b1e39c774@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. Eur. 90 Kraainem A – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84d3f3abec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:HO Veltem A – VC Bertem-Leefdaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da1fa2ce4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:SK Nossegem A – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83f6e36685@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:HO Veltem A – K. St. Drieslinter A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-390fe0f78d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Binkom A – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cb1e5d779@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:HO Veltem A – Koninklijke Haacht United A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a709bed34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:K. St. Haasrode A – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e36b7a255b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:HO Veltem A – KV Woluwe-Zaventem A (annulé)
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e943460b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T150000Z
+DTEND:20270307T164500Z
+SUMMARY:HO Bierbeek B – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a087f0773@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:HO Veltem A – St. Meerbeek
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf1568c793@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Moorsel A – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceb2f969e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:HO Veltem A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0da8722e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:HO Veltem A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d899a880d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Football Club Kortenberg United A – HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8cbd8b9dc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HO Veltem A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/ho-veltem-a/
+URL:https://goalio.be/fr/equipe/ho-veltem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

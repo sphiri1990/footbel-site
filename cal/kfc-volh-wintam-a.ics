@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Volh. Wintam A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-172fa20f2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RB Elzestraat 1-1 KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/rb-elzestraat-kfc-volh-wintam-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/rb-elzestraat-kfc-volh-wintam-a-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f74c5494a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Volh. Wintam A 2-2 SK Rita Berlaar
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-volh-wintam-a-sk-rita-berlaar-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-volh-wintam-a-sk-rita-berlaar-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29d8db4572@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K.S.K. Sint-Amands A 0-1 KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-s-k-sint-amands-a-kfc-volh-wintam-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-sint-amands-a-kfc-volh-wintam-a-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f06ca29edc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K. Groen Rood Katelijne 3-1 KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-groen-rood-katelijne-kfc-volh-wintam-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-groen-rood-katelijne-kfc-volh-wintam-a
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfad3bdea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Volh. Wintam A – KFC Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-volh-wintam-a-kfc-katelijne-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-volh-wintam-a-kfc-katelijne-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cde1eb297a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FCM Hallaar A – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7234887fa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Volh. Wintam A – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61cabae6e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFC Volh. Wintam A – RB Elzestraat
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bad8aac15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:SK Rita Berlaar – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54fbc14c0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:VC Leest – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de5d29422b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Volh. Wintam A – K. Groen Rood Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cf18ca3cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Kessel United – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa691f739c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Volh. Wintam A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8492594b8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Katelijne – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6652d1311a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Volh. Wintam A – K.S.K. Sint-Amands A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21448aced4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FCS Mariekerke-Branst A – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-696b49fb5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC Volh. Wintam A – KV Bonheiden A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f75fb3b30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Nielse SV – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da6bb3733@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Volh. Wintam A – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68963b1693@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Peulis – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7bf764924@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Volh. Wintam A – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-volh-wintam-a/
+URL:https://goalio.be/nl/ploeg/kfc-volh-wintam-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

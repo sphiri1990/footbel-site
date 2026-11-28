@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeunesse Sportive Team Roselies · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7fb83d65ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Jeunesse Sportive Team Roselies 0-4 R.E.S. Roux
+DESCRIPTION:3e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/jeunesse-sportive-team-roselies-r-e-s-roux-2026-11-01/
+URL:https://goalio.be/fr/match/jeunesse-sportive-team-roselies-r-e-s-roux-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-100ba2461a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:E.S. Mominoise B 18-0 Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/e-s-mominoise-b-jeunesse-sportive-team-roselies-2026-11-08/
+URL:https://goalio.be/fr/match/e-s-mominoise-b-jeunesse-sportive-team-rosel
+ ies-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b384775144@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Jeunesse Sportive Team Roselies 0-3 R.A.S. Monceau
+DESCRIPTION:3e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/jeunesse-sportive-team-roselies-r-a-s-monceau-3-prov-d-hainaut-2026-11-
+ 15/
+URL:https://goalio.be/fr/match/jeunesse-sportive-team-roselies-r-a-s-moncea
+ u-3-prov-d-hainaut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1205d6454@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Mont-S-Marchienne-Collège – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/f-c-mont-s-marchienne-college-jeunesse-sportive-team-roselies-2026-11-2
+ 2/
+URL:https://goalio.be/fr/match/f-c-mont-s-marchienne-college-jeunesse-sport
+ ive-team-roselies-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5119e77e12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Jeunesse Sportive Team Roselies – J.S. Jamioulx
+DESCRIPTION:3e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/jeunesse-sportive-team-roselies-j-s-jamioulx-2026-11-29/
+URL:https://goalio.be/fr/match/jeunesse-sportive-team-roselies-j-s-jamioulx
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfa11d460e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Jeunesse Sportive Team Roselies – R.R.F.C. Gozee A
+DESCRIPTION:3e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceeb575fdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Carolo Football Charleroi – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9af4cca2ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:J.S. Froidchapelloise – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-609c109706@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Jeunesse Sportive Team Roselies – R.U.F.C. Ransartoise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3d95e1c0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:U.S. Solrezienne – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-314e18e93c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Jeunesse Sportive Team Roselies – C.S. Forges A
+DESCRIPTION:3e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a65bab34a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Gerpinnes – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9dd50b98e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jeunesse Sportive Team Roselies – J.S. Solrezienne
+DESCRIPTION:3e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff3cb20a7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. Goutroux Sports – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3393b46cab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Jeunesse Sportive Team Roselies – Jeunesse Sportive Erpion A
+DESCRIPTION:3e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-442a843c94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.E.S. Roux – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d42ecafa46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Jeunesse Sportive Team Roselies – E.S. Mominoise B
+DESCRIPTION:3e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47ba68ba24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.A.S. Monceau – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2ac3e45de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Jeunesse Sportive Team Roselies – F.C. Mont-S-Marchienne-Collège
+DESCRIPTION:3e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-649c3c9d27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Jamioulx – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-team-roselies/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-team-roselies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

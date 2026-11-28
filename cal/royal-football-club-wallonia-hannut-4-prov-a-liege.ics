@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royal Football Club Wallonia Hannut · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannu
+ t-4-prov-a-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5124e3b4be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut 1-1 R. Couthuin Sports
+DESCRIPTION:4e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/royal-football-club-wallonia-hannut-4-prov-a-liege-r-couthuin-sports-202
+ 6-11-01/
+URL:https://goalio.be/fr/match/royal-football-club-wallonia-hannut-4-prov-a
+ -liege-r-couthuin-sports-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7022be4080@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:E.H. Braives B 1-3 Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/e-h-braives-b-royal-football-club-wallonia-hannut-4-prov-a-liege-2026-11
+ -07/
+URL:https://goalio.be/fr/match/e-h-braives-b-royal-football-club-wallonia-h
+ annut-4-prov-a-liege-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eac4a1db4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut 3-2 R. Oreye Union
+DESCRIPTION:4e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/royal-football-club-wallonia-hannut-4-prov-a-liege-r-oreye-union-2026-11
+ -15/
+URL:https://goalio.be/fr/match/royal-football-club-wallonia-hannut-4-prov-a
+ -liege-r-oreye-union-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0d5027049@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Warnant – Royal Football Club Wallonia Hannut (remis)
+DESCRIPTION:4e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-warnant-royal-football-club-wallonia-hannut-4-prov-a-liege-2026-11
+ -22/
+URL:https://goalio.be/fr/match/r-f-c-warnant-royal-football-club-wallonia-h
+ annut-4-prov-a-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de7bf966f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/royal-football-club-wallonia-hannut-4-prov-a-liege-j-s-kemexhe-crisnee-4
+ -prov-a-liege-2026-11-29/
+URL:https://goalio.be/fr/match/royal-football-club-wallonia-hannut-4-prov-a
+ -liege-j-s-kemexhe-crisnee-4-prov-a-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d19367605@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6501d67568@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Entente Amay B – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c3dc91b7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – Patro Lensois B
+DESCRIPTION:4e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be781ac764@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bbee46775@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – R.F.C. Jehaytois
+DESCRIPTION:4e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-243f4d226f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – Royal Football Club Wallonia Hannu
+ t
+DESCRIPTION:4e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c50991d52e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T133000Z
+DTEND:20270221T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – Entente Sportive Donceel B
+DESCRIPTION:4e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ade10e39a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Entité Wasseiges – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a0c24b280@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3c7137c79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Couthuin Sports – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-505273b1a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:Royal Football Club Wallonia Hannut – E.H. Braives B
+DESCRIPTION:4e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18f2cabec0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Oreye Union – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7f18e63e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Royal Football Club Wallonia Hannut – R.F.C. Warnant
+DESCRIPTION:4e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-928acb0d90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Kemexhe Crisnee – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/royal-football-club-wallonia-hannut-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/royal-football-club-wallonia-hannut-4-prov-
+ a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

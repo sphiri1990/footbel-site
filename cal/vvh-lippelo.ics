@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VVH Lippelo · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vvh-lippelo/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-98e779c713@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T160000Z
+DTEND:20261031T174500Z
+SUMMARY:KFC Volh. Wintam B 1-3 VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-volh-wintam-b-vvh-lippelo-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-volh-wintam-b-vvh-lippelo-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d7d16ec70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T174500Z
+SUMMARY:FC Oppuurs B 2-4 VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/fc-oppuurs-b-vvh-lippelo-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-oppuurs-b-vvh-lippelo-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d1379cc4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K. Reet SK 5-0 VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-reet-sk-vvh-lippelo-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-reet-sk-vvh-lippelo-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb867fabae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VVH Lippelo – K. Rumst SK
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/vvh-lippelo-k-rumst-sk-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vvh-lippelo-k-rumst-sk-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e9516e30c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Blaasveld – VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13fae57185@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KVK Hingene – VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f18242d7c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VVH Lippelo – FC Oxford Hemiksem
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e251504594@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T143000Z
+DTEND:20270117T161500Z
+SUMMARY:K. Schelle Sp. B – VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f656edf7f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VVH Lippelo – K.S.K. Sint-Amands B
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9626efb6a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VVH Lippelo – Voetbal Puurs B
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47b4c4240a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:VK Heindonk – VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82c4016fa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VVH Lippelo – FCS Mariekerke-Branst B
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c7cb4a510@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:K. Sp. Tisselt B – VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a64d46263@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VVH Lippelo – FC Blaasveld
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-759e41da94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Rumst SK – VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0c74671ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VVH Lippelo – K. Reet SK
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03b1c6ff34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VVH Lippelo – FC Oppuurs B
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a79560a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:KSV Bornem B – VVH Lippelo
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f23713fde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VVH Lippelo – KFC Volh. Wintam B
+DESCRIPTION:4e provinciale Antwerpen A\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/vvh-lippelo/
+URL:https://goalio.be/nl/ploeg/vvh-lippelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

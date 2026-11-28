@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oud-Heverlee Leuven · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3690f1c84e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Oud-Heverlee Leuven 3-3 Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/oud-heverlee
+ -leuven-cercle-brugge-k-s-v-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/oud-heverlee-leuven-cercle-brugge-k-s-v-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7634d53cdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Sportkring Roeselare 0-0 Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/sportkring-r
+ oeselare-oud-heverlee-leuven-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/sportkring-roeselare-oud-heverlee-leuven
+ -2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c6626d64e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Oud-Heverlee Leuven 1-0 K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/oud-heverlee
+ -leuven-k-f-c-merelbeke-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/oud-heverlee-leuven-k-f-c-merelbeke-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b10ee16cbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Belisia Bilzen SV 0-3 Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/belisia-bilz
+ en-sv-oud-heverlee-leuven-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/belisia-bilzen-sv-oud-heverlee-leuven-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f22e091bed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Oud-Heverlee Leuven – F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/oud-heverlee
+ -leuven-f-c-mandel-united-izegem-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/oud-heverlee-leuven-f-c-mandel-united-iz
+ egem-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f988ef786a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Hoogstraten V.V. – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f23cfabaf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Oud-Heverlee Leuven – K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52f3577ec2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Cercle Brugge K.S.V. – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f9c8b5753@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Oud-Heverlee Leuven – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a63e73e99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Kvk Tienen – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28b7955343@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Oud-Heverlee Leuven – K.F.C. Houtvenne
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b37dc948fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:K. Lyra-Lierse – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d693b7310a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:F.C. Mandel United Izegem – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd31fe24cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Oud-Heverlee Leuven – Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-378ecc12a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K.V.V. Zelzate – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d7718234f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Oud-Heverlee Leuven – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa1927fdb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. Sk. Heist – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65075b4de9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270402T173000Z
+DTEND:20270402T191500Z
+SUMMARY:Racing Club Harelbeke – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3103d5a6e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Oud-Heverlee Leuven – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecef081f8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.F.C. Merelbeke – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae733bad1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Oud-Heverlee Leuven – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/oud-heverlee-leu
+ ven/
+URL:https://goalio.be/nl/ploeg/oud-heverlee-leuven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

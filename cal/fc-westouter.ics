@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Westouter · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-westouter/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-cffbaa36e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RW Hollebeke 3-1 FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/rw-hollebeke-fc-westouter-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/rw-hollebeke-fc-westouter-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e414df493f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:F.C. Passendale 3-1 FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/f-c-passendale-fc-westouter-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/f-c-passendale-fc-westouter-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-297007ed67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Westouter 5-1 US Ploegsteert
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/fc-westouter-us-ploegsteert-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/fc-westouter-us-ploegsteert-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7064769849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:FC Dadizele Sport B 1-1 FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/fc-dadizele-sport-b-fc-westouter-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-dadizele-sport-b-fc-westouter-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a80dc48277@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Westouter – GS Voormezele
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fc-westouter-gs-voormezele-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fc-westouter-gs-voormezele-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a780af877@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.J.H. Comines B – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea7fe55b3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:SK Reningelst – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e6889cbac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Westouter – SK Zillebeke (afgelast)
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fd284d144@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Westouter – K.S.K Vlamertinge B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5971050984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:US Ploegsteert – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbc6bf549a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Westouter – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-551a22dd16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:S.V. Wevelgem City B – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50469a3c3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Westouter – SC Zonnebeke B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3240f027cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. SV De Ruiter Roes. B – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e5f84991d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Westouter – R.J.H. Comines B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5049d6f434@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:GS Voormezele – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de82c80410@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Westouter – FC Dadizele Sport B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b99e02014c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Westouter – F.C. Passendale
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a107a508ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:K. SV Moorsele B – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83ee1df815@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Westouter – RW Hollebeke
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/fc-westouter/
+URL:https://goalio.be/nl/ploeg/fc-westouter/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E Buggenhout A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/e-buggenhout-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4162e2879d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FCH St-Pauwels 2-3 E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fch-st-pauwels-e-buggenhout-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fch-st-pauwels-e-buggenhout-a-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfc5b46b0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:E Buggenhout A 4-0 F.C. Hamse Bouw
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/e-buggenhout-a-f-c-hamse-bouw-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/e-buggenhout-a-f-c-hamse-bouw-2026-11-07
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-346f1619fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Excelsior Nieuwkerken 2-1 E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/excelsior-nieuwkerken-e-buggenhout-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/excelsior-nieuwkerken-e-buggenhout-a-202
+ 6-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-439efad8d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:E Buggenhout A 0-3 KAV Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/e-buggenhout-a-kav-dendermonde-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/e-buggenhout-a-kav-dendermonde-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9093a459a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Vos Reinaert – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vos-reinaert-e-buggenhout-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vos-reinaert-e-buggenhout-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e436dcc740@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:E Buggenhout A – WS Meerdonk
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa7e7eec0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:E Buggenhout A – KVVWS Sombeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cba85203ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KFCJV Kruibeke B – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7205b3b3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:SV Blauw Wit Temse B – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de0d358d1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:E Buggenhout A – SVH Waasmunster B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d364dfa29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KFC Baasrode – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e6d4ee302@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:E Buggenhout A – Vos Reinaert
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da4aae571c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:WS Meerdonk – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc4e74a806@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:E Buggenhout A – Rangers Opdorp B
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ec7c4905c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VK Tielrode – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a1fe617fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:E Buggenhout A – KOFC Rupelmonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-213a1548b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Spartak Buggenhout – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32c175a75a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:E Buggenhout A – Excelsior Nieuwkerken
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5924498da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Hamse Bouw – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac544c1f12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KAV Dendermonde – E Buggenhout A
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-954c7fc26f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:E Buggenhout A – FCH St-Pauwels
+DESCRIPTION:4e provinciale Oost-Vlaanderen F\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/e-buggenhout-a/
+URL:https://goalio.be/nl/ploeg/e-buggenhout-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

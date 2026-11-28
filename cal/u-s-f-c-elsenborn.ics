@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U.S.F.C. Elsenborn · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c43d249f42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:U.S.F.C. Elsenborn 1-1 F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/u-s-f-c-elsenborn-f-c-welkenraedt-b-2026-11-01/
+URL:https://goalio.be/fr/match/u-s-f-c-elsenborn-f-c-welkenraedt-b-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b318e6e02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:R.F.C. Malmundaria 1904 B 2-1 U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-f-c-malmundaria-1904-b-u-s-f-c-elsenborn-2026-11-07/
+URL:https://goalio.be/fr/match/r-f-c-malmundaria-1904-b-u-s-f-c-elsenborn-2
+ 026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a71746a55a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:U.S.F.C. Elsenborn 1-0 R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/u-s-f-c-elsenborn-r-sporting-club-lontzen-2026-11-15/
+URL:https://goalio.be/fr/match/u-s-f-c-elsenborn-r-sporting-club-lontzen-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edc3ec574a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:K. FC Eupen 1963 B – U.S.F.C. Elsenborn (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/k-fc-eupen-1963-b-u-s-f-c-elsenborn-2026-11-21/
+URL:https://goalio.be/fr/match/k-fc-eupen-1963-b-u-s-f-c-elsenborn-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a36e179bf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:U.S.F.C. Elsenborn – UN. Walhorn
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/u-s-f-c-elsenborn-un-walhorn-2026-11-29/
+URL:https://goalio.be/fr/match/u-s-f-c-elsenborn-un-walhorn-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ebb1ca43d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.C.S. Jalhaytois – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4967b6bfd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:U.S.F.C. Elsenborn – R.U. Limbourg
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfba811996@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R.C.S. Bellevaux-Ligneuville – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8678ca98b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:U.S.F.C. Elsenborn – R. FC Bütgenbach
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c672990de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a113c92e83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:U.S.F.C. Elsenborn – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aebf788a31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Büllingen – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e84d61ba1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:U.S.F.C. Elsenborn – All. Hautes Fagnes A
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-394ab10247@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Entente Pepine A – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e614b15527@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:U.S.F.C. Elsenborn – R.U.S. 1947 Emmels
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a30b8fb0bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:F.C. Welkenraedt B – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9e81e2274@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U.S.F.C. Elsenborn – R.F.C. Malmundaria 1904 B
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f9cf84b32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Sporting Club Lontzen – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2960561b0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U.S.F.C. Elsenborn – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e7efd85a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:UN. Walhorn – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/u-s-f-c-elsenborn/
+URL:https://goalio.be/fr/equipe/u-s-f-c-elsenborn/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Lissewege · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-lissewege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-36920df415@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. FC Lissewege 5-2 SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lissewege-skd-hertsberge-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lissewege-skd-hertsberge-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cde53935c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:VK Dudzele 0-3 K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vk-dudzele-k-fc-lissewege-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/vk-dudzele-k-fc-lissewege-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3460b2d7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K. FC Lissewege 4-5 KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lissewege-kfc-damme-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lissewege-kfc-damme-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8372bd3829@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. SK Steenbrugge – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sk-steenbrugge-k-fc-lissewege-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-sk-steenbrugge-k-fc-lissewege-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-715bdf57da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:K. FC Lissewege – K. FC Heist B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a1ba0ed5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. VC Wingene B – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b3af811ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. FC Sint-Joris Sp. – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58fbfe23cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:K. FC Lissewege – K. FC Aarsele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c874ddf865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:KFC Damme – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-094ee0eb9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K. FC Lissewege – V.V. Cercle Beernem B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd91cba6b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. FC Lissewege – VK Dudzele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d3d901b41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:GL Ruiselede – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29c2bc52fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. FC Lissewege – K. SK Steenbrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7986e19c11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T184500Z
+DTEND:20270306T203000Z
+SUMMARY:K. FC Varsenare B – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cea9127fce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:SKD Hertsberge – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73c00df4db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K. FC Heist B – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f229f147c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. FC Lissewege – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a77b4d9f13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:VV Westkapelle B – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-493ec7be41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Lissewege – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lissewege/
+URL:https://goalio.be/nl/ploeg/k-fc-lissewege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

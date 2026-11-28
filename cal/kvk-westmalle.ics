@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVK Westmalle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvk-westmalle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dad3ed0855@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:St. Jozef 1-2 KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/st-jozef-kvk-westmalle-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/st-jozef-kvk-westmalle-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c1020ac06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC St. Mart. Halle 3-1 KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-st-mart-halle-kvk-westmalle-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-st-mart-halle-kvk-westmalle-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7a2a7f174@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KVK Westmalle 2-3 K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kvk-westmalle-k-eendr-zoersel-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kvk-westmalle-k-eendr-zoersel-b-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-066330ac75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FC Bucovina Loenhout – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/fc-bucovina-loenhout-kvk-westmalle-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fc-bucovina-loenhout-kvk-westmalle-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-992a0b246b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KVK Westmalle – Loenhout SK B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd3930956f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. Meerle FC – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7efad9d6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KVK Westmalle – K. Wuustwezel FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26407fbc2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Minderhout VV B – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9f46bf9e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. Eendr. Zoersel B – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0772675cd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KVK Westmalle – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de820ce6ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KVK Westmalle – KFC Antonia B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55ffcd93ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KVK Westmalle – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54ae027ba4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Alberta FC Schilde – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d32887c88a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KVK Westmalle – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79b621827f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K. Sint Job FC B – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e952dcdf27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:Loenhout SK B – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39c43e8174@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KVK Westmalle – FC Bucovina Loenhout
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fe1329c5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KFC Zwarte Leeuw B – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b295923c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVK Westmalle – KFC Wechelderzande
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kvk-westmalle/
+URL:https://goalio.be/nl/ploeg/kvk-westmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

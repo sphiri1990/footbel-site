@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Oxaco-Boechout · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bdf7991bf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Oxaco-Boechout 2-1 K. Achterbroek VV
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/fc-oxaco-boechout-k-achterbroek-vv-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/fc-oxaco-boechout-k-achterbroek-vv-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e87b619817@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Berendrecht Sp. 0-4 FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-berendrecht-sp-fc-oxaco-boechout-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-berendrecht-sp-fc-oxaco-boechout-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b59a3a6da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Oxaco-Boechout 2-3 FC Merksem A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/fc-oxaco-boechout-fc-merksem-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/fc-oxaco-boechout-fc-merksem-a-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3456d4d03b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VNA Wortel 0-1 FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/vna-wortel-fc-oxaco-boechout-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vna-wortel-fc-oxaco-boechout-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-871122d167@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Oxaco-Boechout – K. Brecht SK
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/fc-oxaco-boechout-k-brecht-sk-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/fc-oxaco-boechout-k-brecht-sk-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec5abc4135@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:VC Mortsel OG A – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3418ffdd38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:FC Oxaco-Boechout – Horendonk FC
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d972057e11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T130000Z
+DTEND:20270110T144500Z
+SUMMARY:FC Turk Sp. – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c5714ed6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FC Oxaco-Boechout – Verbr. Zwijndrecht A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e2ce560a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:FC Oxaco-Boechout – KFC Berendrecht Sp.
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e45fc019ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T193000Z
+DTEND:20270130T211500Z
+SUMMARY:K. Heibos SV A – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43f6ad63f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K. Brecht SK – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e23cd65f69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:FC Oxaco-Boechout – VC Mortsel OG A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19d960daa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Zandvliet Sport A – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1792895d6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:FC Oxaco-Boechout – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e33e48dc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Merksem A – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c37cc5259@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Oxaco-Boechout – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cf2fee9ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FC Oxaco-Boechout – KFC Meer
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9be53c8fcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K. Achterbroek VV – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2862c31f2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:FC Oxaco-Boechout – K. Gooreind VV A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd96039458@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Wijnegem VC A – FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/fc-oxaco-boechout/
+URL:https://goalio.be/nl/ploeg/fc-oxaco-boechout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Berchem Brussels FC · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/berchem-brussels-fc/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-765588cfe2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:Berchem Brussels FC 2-3 FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 8\nhttps://
+ goalio.be/fr/match/berchem-brussels-fc-fc-bosanci-jette-2026-11-01/
+URL:https://goalio.be/fr/match/berchem-brussels-fc-fc-bosanci-jette-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94532505d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Berchem Brussels FC – NSeth Berchem (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/berchem-brussels-fc-nseth-berchem-2026-11-14/
+URL:https://goalio.be/fr/match/berchem-brussels-fc-nseth-berchem-2026-11-14
+ /
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c0909e919@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Anneessens 25 Brussels. – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 12\nhttps:/
+ /goalio.be/fr/match/anneessens-25-brussels-berchem-brussels-fc-2026-11-21/
+URL:https://goalio.be/fr/match/anneessens-25-brussels-berchem-brussels-fc-2
+ 026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f7ed4a5fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Berchem Brussels FC – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/berchem-brussels-fc-u-africa-f-c-bruxelles-2026-11-28/
+URL:https://goalio.be/fr/match/berchem-brussels-fc-u-africa-f-c-bruxelles-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a139bd131@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Berchem Brussels FC – Anneessens 25 Brussels.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94ad49fe24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a65c3e5a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T183000Z
+DTEND:20261219T201500Z
+SUMMARY:Berchem Brussels FC – F.C. Suryoyés Bruxellois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46e2c0679b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:F.C. Anderlecht Sport Milan – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 10\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c037aebe51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Football Club Dawm Anderlecht – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38581a85d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Berchem Brussels FC – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b16915ac41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Black Star F.C. – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d205e12155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Racing Club Forestois – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7169ba409@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Berchem Brussels FC – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a88e91d240@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T170000Z
+DTEND:20270228T184500Z
+SUMMARY:AS Brussels City B – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76a2c21805@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Berchem Brussels FC – Aca. Jeun. Molenbeek B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9de463f1fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FC Bosanci Jette – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04e430014c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:NSeth Berchem – Berchem Brussels FC (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/berchem-brussels-fc/
+URL:https://goalio.be/fr/equipe/berchem-brussels-fc/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

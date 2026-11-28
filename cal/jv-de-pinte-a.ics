@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JV De Pinte A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c6e729635c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:JV De Pinte A 4-1 SK Munkzwalm B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/jv-de-pinte-a-sk-munkzwalm-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/jv-de-pinte-a-sk-munkzwalm-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca5e00fa44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:VC Sp Bevere 1-1 JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vc-sp-bevere-jv-de-pinte-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vc-sp-bevere-jv-de-pinte-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e83d2e877e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:JV De Pinte A 0-2 K. WIK Eine A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/jv-de-pinte-a-k-wik-eine-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/jv-de-pinte-a-k-wik-eine-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b364b5d443@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Sparta Petegem Deinze B 2-2 JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sparta-petegem-deinze-b-jv-de-pinte-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/sparta-petegem-deinze-b-jv-de-pinte-a-20
+ 26-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bdb927578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:JV De Pinte A – FCSM Latem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/jv-de-pinte-a-fcsm-latem-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/jv-de-pinte-a-fcsm-latem-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e11998966@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:WIK Boekel – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da51abd43a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:JV De Pinte A – KSV Maarkedal A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-115ecfe9b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KE Machelen a Leie – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f33902efd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:JV De Pinte A – VC Sp Bevere
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94f75c1b83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:JV De Pinte A – Sparta Petegem Deinze B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85af192b7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:VC Zevergem Sp – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfc375f776@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:JV De Pinte A – SK Ooidonck Leerne
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45e0b152ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. WIK Eine A – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a829f91e65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:JV De Pinte A – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99fb968054@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K Olsene Sp – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0ab3ac30c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:JV De Pinte A – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61a7cb1de2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FCSM Latem B – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb1029b1e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:JV De Pinte A – WIK Boekel
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d871d050b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Gavere-Asper A – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1b2258a7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:JV De Pinte A – Jong Zulte
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3c9eb672f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Munkzwalm B – JV De Pinte A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/jv-de-pinte-a/
+URL:https://goalio.be/nl/ploeg/jv-de-pinte-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

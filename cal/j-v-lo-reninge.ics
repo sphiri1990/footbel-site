@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.V. Lo-Reninge · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a82525fe48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:Merkem Sp. 1-3 J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/merkem-sp-j-v-lo-reninge-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/merkem-sp-j-v-lo-reninge-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b647bf7b4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:K.S.K. Oostnieuwkerke 2-3 J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-oostnieuwkerke-j-v-lo-reninge-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-oostnieuwkerke-j-v-lo-reninge-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a98781c6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:J.V. Lo-Reninge 2-2 K. WS Houthulst B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/j-v-lo-reninge-k-ws-houthulst-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/j-v-lo-reninge-k-ws-houthulst-b-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc8a7d0e17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:WS Bulskamp – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/ws-bulskamp-j-v-lo-reninge-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ws-bulskamp-j-v-lo-reninge-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1eaa745d8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:J.V. Lo-Reninge – SK Elverdinge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98027aa154@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:E. Jonkershove – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57d57b3a01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:SK Westrozebeke – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ebb0232ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:J.V. Lo-Reninge – SK Nieuwkapelle
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0fd3f4921@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KV Koksijde Oostduinkerke B – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef1e4dd35e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:J.V. Lo-Reninge – WS Bulskamp
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75e8aad6f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Elverdinge – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2252a1ce3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:J.V. Lo-Reninge – K. Brielen Sport
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cd7bf1af5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. RC De Panne – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46e184f2e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:J.V. Lo-Reninge – FC Beaufort Middelkerke B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3325f8db9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:K. SV Veurne B – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1fb9f3700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:J.V. Lo-Reninge – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-353cea0ef2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. WS Houthulst B – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca41d739c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.V. Lo-Reninge – Merkem Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/j-v-lo-reninge/
+URL:https://goalio.be/nl/ploeg/j-v-lo-reninge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

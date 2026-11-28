@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RCS Xhorisien · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rcs-xhorisien/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-50b1fac55a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RCS Xhorisien 3-1 Royal Football Club Wallonia Hannut
+DESCRIPTION:1re provinciale Liège\nJournée 11\nhttps://goalio.be/fr/match
+ /rcs-xhorisien-royal-football-club-wallonia-hannut-2026-11-01/
+URL:https://goalio.be/fr/match/rcs-xhorisien-royal-football-club-wallonia-h
+ annut-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64e790737a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Welkenraedt 0-2 RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 12\nhttps://goalio.be/fr/match
+ /f-c-welkenraedt-rcs-xhorisien-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-welkenraedt-rcs-xhorisien-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c806f7b2ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RCS Xhorisien 0-1 R.S.C. Beaufays A
+DESCRIPTION:1re provinciale Liège\nJournée 13\nhttps://goalio.be/fr/match
+ /rcs-xhorisien-r-s-c-beaufays-a-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-xhorisien-r-s-c-beaufays-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f41af11a06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:FC. Ster Francorchamps A – RCS Xhorisien (remis)
+DESCRIPTION:1re provinciale Liège\nJournée 14\nhttps://goalio.be/fr/match
+ /fc-ster-francorchamps-a-rcs-xhorisien-2026-11-21/
+URL:https://goalio.be/fr/match/fc-ster-francorchamps-a-rcs-xhorisien-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63928e7d98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RCS Xhorisien – Etoile De Faimes
+DESCRIPTION:1re provinciale Liège\nJournée 15\nhttps://goalio.be/fr/match
+ /rcs-xhorisien-etoile-de-faimes-2026-11-29/
+URL:https://goalio.be/fr/match/rcs-xhorisien-etoile-de-faimes-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9cbd9bab2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RCS Xhorisien – R. Herve F.C.
+DESCRIPTION:1re provinciale Liège\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfe0713f38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:JS Fizoise – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3329749ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:K.F.C. Weywertz – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8be1b9f2bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:RCS Xhorisien – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41a1387908@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Union Flémalloise A – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58eea1cd35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RCS Xhorisien – R. Espoir Minerois
+DESCRIPTION:1re provinciale Liège\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3166286447@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K.F.C. Eupen 1963 – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b32cde076@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RCS Xhorisien – R.F.C. Warsage
+DESCRIPTION:1re provinciale Liège\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f1d444c00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Croatia Wandre A – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cdc732023@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RCS Xhorisien – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bb34ec6ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Royal Football Club Wallonia Hannut – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea52ae428b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RCS Xhorisien – F.C. Welkenraedt
+DESCRIPTION:1re provinciale Liège\nJournée 27\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1f6750012@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R.S.C. Beaufays A – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 28\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28059841f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Xhorisien – FC. Ster Francorchamps A
+DESCRIPTION:1re provinciale Liège\nJournée 29\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-171bc8c0ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Etoile De Faimes – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 30\nhttps://goalio.be/fr/equip
+ e/rcs-xhorisien/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

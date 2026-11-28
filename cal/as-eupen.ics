@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AS Eupen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/as-eupen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-534d7f1b04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T181500Z
+DTEND:20261101T200000Z
+SUMMARY:AS Eupen 1-2 Excelsior Virton
+DESCRIPTION:Challenger Pro League\nJournée 9\nhttps://goalio.be/fr/match/a
+ s-eupen-excelsior-virton-2026-11-01/
+URL:https://goalio.be/fr/match/as-eupen-excelsior-virton-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc4ea47fea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T150000Z
+DTEND:20261108T164500Z
+SUMMARY:K. Lierse S.K. 2-3 AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 10\nhttps://goalio.be/fr/match/
+ k-lierse-s-k-as-eupen-2026-11-08/
+URL:https://goalio.be/fr/match/k-lierse-s-k-as-eupen-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4030bcf2fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:AS Eupen 1-1 Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 11\nhttps://goalio.be/fr/match/
+ as-eupen-sporting-hasselt-2026-11-21/
+URL:https://goalio.be/fr/match/as-eupen-sporting-hasselt-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a8b719151@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:Francs Borains 2-2 AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 12\nhttps://goalio.be/fr/match/
+ francs-borains-as-eupen-2026-11-27/
+URL:https://goalio.be/fr/match/francs-borains-as-eupen-2026-11-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc8a44f14d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T150000Z
+DTEND:20261206T164500Z
+SUMMARY:AS Eupen – Seraing United
+DESCRIPTION:Challenger Pro League\nJournée 13\nhttps://goalio.be/fr/match/
+ as-eupen-seraing-united-2026-12-06/
+URL:https://goalio.be/fr/match/as-eupen-seraing-united-2026-12-06/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5f3a3f7af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261211T190000Z
+DTEND:20261211T204500Z
+SUMMARY:AS Eupen – KAA Gent II
+DESCRIPTION:Challenger Pro League\nJournée 14\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-562451e7eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:Dender – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 15\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a41e3651b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T150000Z
+DTEND:20270116T164500Z
+SUMMARY:AS Eupen – Club Brugge II
+DESCRIPTION:Challenger Pro League\nJournée 16\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6502e009a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Beerschot VA – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 17\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-545f0cc903@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:AS Eupen – Patro Eisden
+DESCRIPTION:Challenger Pro League\nJournée 18\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ece4ef029@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Liège – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 19\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-410ae6d178@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:AS Eupen – K. Lierse S.K.
+DESCRIPTION:Challenger Pro League\nJournée 20\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-840c06aec8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Seraing United – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 21\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a112f0dc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:KAA Gent II – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 22\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e64372830@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:AS Eupen – Lokeren-Temse
+DESCRIPTION:Challenger Pro League\nJournée 23\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93fb5d2921@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Sporting Hasselt – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 24\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f81479f19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:AS Eupen – Dender
+DESCRIPTION:Challenger Pro League\nJournée 25\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efa6faa687@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:AS Eupen – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 27\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3f3067cd5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Excelsior Virton – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 28\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cfa0c0d11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T180000Z
+DTEND:20270424T194500Z
+SUMMARY:AS Eupen – RSC Anderlecht II
+DESCRIPTION:Challenger Pro League\nJournée 29\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5689408627@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T180000Z
+DTEND:20270501T194500Z
+SUMMARY:KRC Genk II – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 30\nhttps://goalio.be/fr/equipe
+ /as-eupen/
+URL:https://goalio.be/fr/equipe/as-eupen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

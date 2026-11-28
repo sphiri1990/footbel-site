@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSV Schriek · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksv-schriek/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-510e44d96c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Groen Rood Katelijne 1-2 KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-groen-rood-katelijne-ksv-schriek-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-groen-rood-katelijne-ksv-schriek-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6f29127d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Katelijne 2-1 KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-katelijne-ksv-schriek-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-katelijne-ksv-schriek-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3720de955a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KSV Schriek 1-2 KV Bonheiden A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/ksv-schriek-kv-bonheiden-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/ksv-schriek-kv-bonheiden-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a2ef63e19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FCS Mariekerke-Branst A 2-0 KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/fcs-mariekerke-branst-a-ksv-schriek-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fcs-mariekerke-branst-a-ksv-schriek-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46c7e87523@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KSV Schriek – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/ksv-schriek-ksv-bornem-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ksv-schriek-ksv-bornem-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ee0cc9c4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K.S.K. Sint-Amands A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44b44e844b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KSV Schriek – VC Leest
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48b6c3cdde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FCM Hallaar A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c79feae8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:RB Elzestraat – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5718eb8c7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KSV Schriek – FCS Mariekerke-Branst A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a389dc133@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:KSV Bornem A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5447363271@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KSV Schriek – SK Peulis
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa691f739c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Volh. Wintam A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c5d8a6f96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KSV Schriek – K. Groen Rood Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1158a3a52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KSV Schriek – Kessel United
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d21a86ac9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:SK Rita Berlaar – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74d175ebd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KSV Schriek – KFC Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e51bdd3fce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KV Bonheiden A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23654ff76b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KSV Schriek – K.S.K. Sint-Amands A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87c23f1ed9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Nielse SV – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11d1f1f72f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSV Schriek – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/ksv-schriek/
+URL:https://goalio.be/nl/ploeg/ksv-schriek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

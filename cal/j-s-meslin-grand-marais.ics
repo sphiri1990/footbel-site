@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.S. Meslin - Grand Marais · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-26b1b5fcd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.A.J.S. Honnelloise 3-4 J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-a-j-s-honnelloise-j-s-meslin-grand-marais-2026-10-31/
+URL:https://goalio.be/fr/match/r-a-j-s-honnelloise-j-s-meslin-grand-marais-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8eb0ac481d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Meslin - Grand Marais 1-2 R.F.C. Vacresse
+DESCRIPTION:3e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/j-s-meslin-grand-marais-r-f-c-vacresse-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-meslin-grand-marais-r-f-c-vacresse-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c64149b4fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.F.C. Wiersien 2-5 J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-f-c-wiersien-j-s-meslin-grand-marais-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-wiersien-j-s-meslin-grand-marais-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-867dcabbc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:J.S. Meslin - Grand Marais – R.U.S. Hensies B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/j-s-meslin-grand-marais-r-u-s-hensies-b-2026-11-22/
+URL:https://goalio.be/fr/match/j-s-meslin-grand-marais-r-u-s-hensies-b-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b52d5a1fea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/a-s-quievrain-wasmuel-j-s-meslin-grand-marais-2026-11-29/
+URL:https://goalio.be/fr/match/a-s-quievrain-wasmuel-j-s-meslin-grand-marai
+ s-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8caf2ff81a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:A.S. Pommeroeul-Ville – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30c3cf7fac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:J.S. Meslin - Grand Marais – A.S. Vaudignies A
+DESCRIPTION:3e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-820bdaf0ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Harchies-Bernissart – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffd10dad58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:J.S. Meslin - Grand Marais – Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f46c1e9797@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:U.S. Thumaide – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d3f01019d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:J.S. Meslin - Grand Marais – C.D. Furia Espanola
+DESCRIPTION:3e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e53c35cd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Beclers – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03804b0fee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. Meslin - Grand Marais – R. SP B. Frameries B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90d5dea506@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:J.S. Meslin - Grand Marais – RFC Thulin
+DESCRIPTION:3e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc62846b14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. Chievres 69 – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c06606a168@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:J.S. Meslin - Grand Marais – R.A.J.S. Honnelloise
+DESCRIPTION:3e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bf2239dee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Vacresse – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef7a700d5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. Meslin - Grand Marais – R.F.C. Wiersien
+DESCRIPTION:3e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf21740cff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.U.S. Hensies B – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3f84b21d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Meslin - Grand Marais – A.S. Quiévrain-Wasmuel
+DESCRIPTION:3e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/j-s-meslin-grand-marais/
+URL:https://goalio.be/fr/equipe/j-s-meslin-grand-marais/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

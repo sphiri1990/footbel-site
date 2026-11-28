@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RJ Aischoise B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rj-aischoise-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b070cc2c60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T170000Z
+DTEND:20261101T184500Z
+SUMMARY:RJ Aischoise B 4-3 RAC Leuze-Longchamps A
+DESCRIPTION:3e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /rj-aischoise-b-rac-leuze-longchamps-a-2026-11-01/
+URL:https://goalio.be/fr/match/rj-aischoise-b-rac-leuze-longchamps-a-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06c71fb1ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:SC Mazycien A 1-1 RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /sc-mazycien-a-rj-aischoise-b-2026-11-08/
+URL:https://goalio.be/fr/match/sc-mazycien-a-rj-aischoise-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ffc8df73a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RJ Aischoise B 3-2 ES Boninne A
+DESCRIPTION:3e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /rj-aischoise-b-es-boninne-a-2026-11-15/
+URL:https://goalio.be/fr/match/rj-aischoise-b-es-boninne-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f96049002d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FCO Namur – RJ Aischoise B (remis)
+DESCRIPTION:3e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /fco-namur-rj-aischoise-b-2026-11-22/
+URL:https://goalio.be/fr/match/fco-namur-rj-aischoise-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d9c342920@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RJ Aischoise B – CS Wépionnais B
+DESCRIPTION:3e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /rj-aischoise-b-cs-wepionnais-b-2026-11-29/
+URL:https://goalio.be/fr/match/rj-aischoise-b-cs-wepionnais-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80594078f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:WA Sauvenière A – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68dadbc13d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RJ Aischoise B – RUS Loyers B
+DESCRIPTION:3e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-029b6abe36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:FC Ligny B – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1114c42abd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RJ Aischoise B – RFC Grand-Leez B
+DESCRIPTION:3e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc03d41414@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Naninnois B – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-632e8f8369@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RJ Aischoise B – RSC Petit-Waret A
+DESCRIPTION:3e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed61dfe16a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Temploux-Suarlée – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59ec23476a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RJ Aischoise B – RFC Rhisnois B
+DESCRIPTION:3e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdea0b1437@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC St-Germain – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7733fcce97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RJ Aischoise B – US Emines B
+DESCRIPTION:3e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ae90bce77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RAC Leuze-Longchamps A – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-000b4b935f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RJ Aischoise B – SC Mazycien A
+DESCRIPTION:3e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbbc5cf105@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:ES Boninne A – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4f02325c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RJ Aischoise B – FCO Namur
+DESCRIPTION:3e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54f8f67b23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:CS Wépionnais B – RJ Aischoise B
+DESCRIPTION:3e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/rj-aischoise-b/
+URL:https://goalio.be/fr/equipe/rj-aischoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

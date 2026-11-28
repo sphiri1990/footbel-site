@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Mont-S-March-Collège B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dc8eada088@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Mont-S-March-Collège B 1-7 Jeunesse Trazegnies
+DESCRIPTION:4e provinciale Hainaut E\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/f-c-mont-s-march-college-b-jeunesse-trazegnies-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-mont-s-march-college-b-jeunesse-trazegni
+ es-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f630e095cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.U.S. Club Anderlues 7-1 F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-u-s-club-anderlues-f-c-mont-s-march-college-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-club-anderlues-f-c-mont-s-march-colleg
+ e-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4b2abee0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Mont-S-March-Collège B 2-0 Société Royale J.S. Thudinienne
+DESCRIPTION:4e provinciale Hainaut E\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-mont-s-march-college-b-societe-royale-j-s-thudinienne-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-mont-s-march-college-b-societe-royale-j-
+ s-thudinienne-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a201aee17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.U.S. Binche – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-u-s-binche-4-prov-e-hainaut-f-c-mont-s-march-college-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-u-s-binche-4-prov-e-hainaut-f-c-mont-s-mar
+ ch-college-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f4b6a75e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Mont-S-March-Collège B – AS Montigny
+DESCRIPTION:4e provinciale Hainaut E\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-mont-s-march-college-b-as-montigny-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-mont-s-march-college-b-as-montigny-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cebdf26c6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Mont-S-March-Collège B – R.C. Gouy
+DESCRIPTION:4e provinciale Hainaut E\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c513ef71b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.F.C. Nalinnois – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e461bf621c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Sporting Club Farciennes – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e372f9611@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Mont-S-March-Collège B – R. Goutroux Sports B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-728dc0c330@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:AJS Buvrinnes – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e388d67b41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Mont-S-March-Collège B – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c74615d755@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Renaissance FC Carnières – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beb6247faf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Mont-S-March-Collège B – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-629f55f6bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.U.S. Courcelloise – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29c23875b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Jeunesse Trazegnies – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e754da8da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Mont-S-March-Collège B – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14b6ffa33d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Société Royale J.S. Thudinienne – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4af8f9070@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Mont-S-March-Collège B – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-375aa039c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:AS Montigny – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-mont-s-march-college-b/
+URL:https://goalio.be/fr/equipe/f-c-mont-s-march-college-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Football Club Dawm Anderlecht · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1b4303a8a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Football Club Dawm Anderlecht – NSeth Berchem (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 8\nhttps://
+ goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1b1c4ff4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Football Club Dawm Anderlecht 2-1 Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 10\nhttps:/
+ /goalio.be/fr/match/football-club-dawm-anderlecht-racing-club-forestois-20
+ 26-11-01/
+URL:https://goalio.be/fr/match/football-club-dawm-anderlecht-racing-club-fo
+ restois-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15cef6e0c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Anneessens 25 Brussels. 2-3 Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 9\nhttps://
+ goalio.be/fr/match/anneessens-25-brussels-football-club-dawm-anderlecht-20
+ 26-11-08/
+URL:https://goalio.be/fr/match/anneessens-25-brussels-football-club-dawm-an
+ derlecht-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb623f0c00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club Dawm Anderlecht 2-1 U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/football-club-dawm-anderlecht-u-africa-f-c-bruxelles-2
+ 026-11-15/
+URL:https://goalio.be/fr/match/football-club-dawm-anderlecht-u-africa-f-c-b
+ ruxelles-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a6a9ead1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:F.C. Suryoyés Bruxellois 5-1 Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 12\nhttps:/
+ /goalio.be/fr/match/f-c-suryoyes-bruxellois-football-club-dawm-anderlecht-
+ 2026-11-22/
+URL:https://goalio.be/fr/match/f-c-suryoyes-bruxellois-football-club-dawm-a
+ nderlecht-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a61bc973c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Football Club Dawm Anderlecht – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/football-club-dawm-anderlecht-black-star-f-c-2026-11-2
+ 9/
+URL:https://goalio.be/fr/match/football-club-dawm-anderlecht-black-star-f-c
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7f5d87402@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Football Club Dawm Anderlecht – F.C. Suryoyés Bruxellois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11b6db4680@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Black Star F.C. – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44ad606101@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C. Anderlecht Sport Milan – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c037aebe51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Football Club Dawm Anderlecht – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d102157235@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Racing Club Forestois – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b4659797e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Football Club Dawm Anderlecht – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ed68674b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T170000Z
+DTEND:20270214T184500Z
+SUMMARY:AS Brussels City B – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bc91e818c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Football Club Dawm Anderlecht – Aca. Jeun. Molenbeek B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ba57d2097@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:FC Bosanci Jette – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-976f8a0012@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:NSeth Berchem – Football Club Dawm Anderlecht (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21ced7c544@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Football Club Dawm Anderlecht – Anneessens 25 Brussels.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd373f497a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:U. Africa F.C. Bruxelles – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/football-club-dawm-anderlecht/
+URL:https://goalio.be/fr/equipe/football-club-dawm-anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

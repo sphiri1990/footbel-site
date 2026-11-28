@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RCS Condruzien B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rcs-condruzien-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bac119717a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RCS Condruzien B 2-1 FC Achêne A
+DESCRIPTION:3e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /rcs-condruzien-b-fc-achene-a-2026-11-01/
+URL:https://goalio.be/fr/match/rcs-condruzien-b-fc-achene-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a03dd47d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:US Beauraing 61 B 3-4 RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /us-beauraing-61-b-rcs-condruzien-b-2026-11-07/
+URL:https://goalio.be/fr/match/us-beauraing-61-b-rcs-condruzien-b-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d438630435@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RCS Condruzien B 2-1 AC Lustin B
+DESCRIPTION:3e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /rcs-condruzien-b-ac-lustin-b-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-condruzien-b-ac-lustin-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c84958b029@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:CS Onhaye B – RCS Condruzien B (remis)
+DESCRIPTION:3e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/match
+ /cs-onhaye-b-rcs-condruzien-b-2026-11-21/
+URL:https://goalio.be/fr/match/cs-onhaye-b-rcs-condruzien-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3c31e3a3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RCS Condruzien B – FC Vencimontois
+DESCRIPTION:3e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/match
+ /rcs-condruzien-b-fc-vencimontois-2026-11-29/
+URL:https://goalio.be/fr/match/rcs-condruzien-b-fc-vencimontois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5d98b0c34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RCS Condruzien B – R Dinant FC B
+DESCRIPTION:3e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51058d1a5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RU ST-G Sinsin-Waillet – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a056c5068@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RJS Leignon A – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5aec80767b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RCS Condruzien B – US St Hadelin-Haversin A
+DESCRIPTION:3e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f4c4901ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:CSE Han-Sur-Lesse A – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19ee182f06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RCS Condruzien B – RCS Hastière
+DESCRIPTION:3e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-327366e5bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RS FC Bièvre – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e02d1e02fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RCS Condruzien B – RFC Yvoir
+DESCRIPTION:3e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5d1a9c484@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.U.S. Dinantaise B – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c03e122e2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RCS Condruzien B – RES Gesvoise B
+DESCRIPTION:3e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3caa4978f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Achêne A – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-504babe169@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RCS Condruzien B – US Beauraing 61 B
+DESCRIPTION:3e provinciale Namur C\nJournée 27\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82f375700b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:AC Lustin B – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 28\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6e36a7251@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Condruzien B – CS Onhaye B
+DESCRIPTION:3e provinciale Namur C\nJournée 29\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3cd16adcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Vencimontois – RCS Condruzien B
+DESCRIPTION:3e provinciale Namur C\nJournée 30\nhttps://goalio.be/fr/equip
+ e/rcs-condruzien-b/
+URL:https://goalio.be/fr/equipe/rcs-condruzien-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

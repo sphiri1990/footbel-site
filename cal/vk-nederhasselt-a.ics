@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VK Nederhasselt A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6b6288bad8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:SV Sottegem A 4-1 VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/sv-sottegem-a-vk-nederhasselt-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/sv-sottegem-a-vk-nederhasselt-a-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61d22120de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:VVSM Horebeke 2-1 VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vvsm-horebeke-vk-nederhasselt-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vvsm-horebeke-vk-nederhasselt-a-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73fdf35d90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VK Nederhasselt A 6-2 KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vk-nederhasselt-a-ksk-zingem-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vk-nederhasselt-a-ksk-zingem-a-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a256f0c973@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KVE Winnik A 1-3 VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kve-winnik-a-vk-nederhasselt-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kve-winnik-a-vk-nederhasselt-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10e04b9a92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VK Nederhasselt A – VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vk-nederhasselt-a-vco-meerbeke-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vk-nederhasselt-a-vco-meerbeke-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-367e32b8a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Sp Wortegem – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a92c60f2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:SV Sint-Antelinks A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69e875dd00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VK Nederhasselt A – TK Meldert A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f673ea9bd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:EC Oudenhove A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6f42bf23d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VK Nederhasselt A – KSSV Denderleeuw
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aaf2f40507@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:KSK Zingem A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-468f3e3d0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VK Nederhasselt A – Kluisbergen Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8a1818fd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:RR Breivelde-Zottegem A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dee597cfa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VK Nederhasselt A – St Michelbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-270bbbb422@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:VV Volkegem A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60526ccf21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VK Nederhasselt A – Sp Wortegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-752844c377@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VCO Meerbeke A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a944e47dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VK Nederhasselt A – KVE Winnik A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eae9504d69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VK Nederhasselt A – VVSM Horebeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d73a34871@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VCE Houtem A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cd2f13668@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Nederhasselt A – SV Sottegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vk-nederhasselt-a/
+URL:https://goalio.be/nl/ploeg/vk-nederhasselt-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

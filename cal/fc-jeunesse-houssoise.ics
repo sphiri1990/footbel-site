@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Jeunesse Houssoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2bfd8d7e2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Jeunesse Houssoise 1-3 R.J. Magnétoise
+DESCRIPTION:4e provinciale Liège E\nJournée 11\nhttps://goalio.be/fr/matc
+ h/fc-jeunesse-houssoise-r-j-magnetoise-2026-11-01/
+URL:https://goalio.be/fr/match/fc-jeunesse-houssoise-r-j-magnetoise-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-586ba10fd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Jeunesse Houssoise 4-1 R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/fc-jeunesse-houssoise-r-s-c-saive-4-prov-e-liege-2026-11-15/
+URL:https://goalio.be/fr/match/fc-jeunesse-houssoise-r-s-c-saive-4-prov-e-l
+ iege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8ee441523@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Soumagne – FC Jeunesse Houssoise (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-soumagne-4-prov-e-liege-fc-jeunesse-houssoise-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-soumagne-4-prov-e-liege-fc-jeunesse-ho
+ ussoise-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6df27c51c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Jeunesse Houssoise – Union Aubeloise B
+DESCRIPTION:4e provinciale Liège E\nJournée 15\nhttps://goalio.be/fr/matc
+ h/fc-jeunesse-houssoise-union-aubeloise-b-2026-11-29/
+URL:https://goalio.be/fr/match/fc-jeunesse-houssoise-union-aubeloise-b-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7feaa8eb3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Jeunesse Houssoise – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège E\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed231a30f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-298dbe10c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Jeunesse Houssoise – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a0e890962@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R.F.C. Barchon – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05cc9f0278@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Jeunesse Houssoise – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d399fba44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:F.C. Jupille – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4393433137@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Jeunesse Houssoise – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3545e10c8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84e9f85690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Jeunesse Houssoise – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a492dfc092@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.J. Magnétoise – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d8d497368@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T150000Z
+DTEND:20270411T164500Z
+SUMMARY:R.S.C. Saive – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61907516dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Jeunesse Houssoise – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e3143df70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Aubeloise B – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/fc-jeunesse-houssoise/
+URL:https://goalio.be/fr/equipe/fc-jeunesse-houssoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

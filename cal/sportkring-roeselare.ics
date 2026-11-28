@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sportkring Roeselare · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/sportkring-roeselare/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7634d53cdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Sportkring Roeselare 0-0 Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/sportkring-r
+ oeselare-oud-heverlee-leuven-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/sportkring-roeselare-oud-heverlee-leuven
+ -2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5835aa8670@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Sportkring Roeselare 3-0 Racing Club Harelbeke
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/sportkring-r
+ oeselare-racing-club-harelbeke-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sportkring-roeselare-racing-club-harelbe
+ ke-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d7173068c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:K.F.C. Houtvenne 0-3 Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-f-c-houtve
+ nne-sportkring-roeselare-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-houtvenne-sportkring-roeselare-202
+ 6-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da22d600a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K. Sk. Heist – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-sk-heist-s
+ portkring-roeselare-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-sk-heist-sportkring-roeselare-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c898acfd07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Sportkring Roeselare – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fba4d9c9eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2529d231aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Sportkring Roeselare – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd1e208af7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Belisia Bilzen SV – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60b6301a39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Sportkring Roeselare – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c12f92cab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Racing Club Harelbeke – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24348dac5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K.F.C. Dessel Sport – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4c31d0bdf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sportkring Roeselare – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b2629997d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Cercle Brugge K.S.V. – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54d8f677c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Sportkring Roeselare – K.F.C. Houtvenne
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d7718234f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Oud-Heverlee Leuven – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6bfe3ba3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sportkring Roeselare – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fd35a92bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T190000Z
+DTEND:20270327T204500Z
+SUMMARY:R. Knokke F.C. – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59b57d8f27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Sportkring Roeselare – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2b202f4f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:F.C. Mandel United Izegem – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-593b2f1b48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sportkring Roeselare – Kvk Tienen
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/sportkring-roese
+ lare/
+URL:https://goalio.be/nl/ploeg/sportkring-roeselare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

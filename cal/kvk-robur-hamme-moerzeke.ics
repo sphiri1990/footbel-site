@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVK Robur Hamme-Moerzeke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8940efde48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke 2-1 VK White Boys SN
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kvk-robur-hamme-moerzeke-vk-white-boys-sn-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kvk-robur-hamme-moerzeke-vk-white-boys-s
+ n-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d54b18a98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke 0-2 KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kvk-robur-hamme-moerzeke-kv-sint-gillis-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kvk-robur-hamme-moerzeke-kv-sint-gillis-
+ 2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7290e7b6a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFCJV Kruibeke A 3-1 KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfcjv-kruibeke-a-kvk-robur-hamme-moerzeke-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfcjv-kruibeke-a-kvk-robur-hamme-moerzek
+ e-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afe0162e7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke 0-2 KFC Vrasene
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kvk-robur-hamme-moerzeke-kfc-vrasene-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kvk-robur-hamme-moerzeke-kfc-vrasene-202
+ 6-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ed28645b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KSK Kieldrecht – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-kieldrecht-kvk-robur-hamme-moerzeke-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/ksk-kieldrecht-kvk-robur-hamme-moerzeke-
+ 2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc4735fad7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – SV Blauw Wit Temse A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2c5e39bb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VK White Boys SN – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0030326f64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – Rangers Opdorp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48f953d2b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – KFCJ Schoonaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-806ce0314d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KV Sint-Gillis – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ea99a7531@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – KVKS Melsele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3c0b29391@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SKL Doorslaar A – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed90eaab53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – KFCJV Kruibeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbdccafec7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Eksaarde – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25b81585dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K Sp Waasmunster – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a46ecf4611@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – KFC Sp St-Gillis Waas
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2da8b8efd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KFC Vrasene – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04a90d1ea9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ff79082b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Heikant Zele A – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-daa59973b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KVK Robur Hamme-Moerzeke – SV Zaffelare
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdd7e1c024@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SV Blauw Wit Temse A – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kvk-robur-hamme-moerzeke/
+URL:https://goalio.be/nl/ploeg/kvk-robur-hamme-moerzeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

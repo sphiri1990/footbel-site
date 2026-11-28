@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Lindelhoeven VV B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9b60a70598@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:Lutlommel VV B 3-1 K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/lutlommel-vv-b-k-lindelhoeven-vv-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/lutlommel-vv-b-k-lindelhoeven-vv-b-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-442df9bc75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:K. Lindelhoeven VV B 6-0 K Peer SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-lindelhoeven-vv-b-k-peer-sv-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-lindelhoeven-vv-b-k-peer-sv-2026-11-07
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1a40c9f08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K. Breugel-Herkol SV 3-1 K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/k-breugel-herkol-sv-k-lindelhoeven-vv-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-breugel-herkol-sv-k-lindelhoeven-vv-b-
+ 2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2953933abc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:FC Eksel B 2-2 K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-eksel-b-k-lindelhoeven-vv-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-eksel-b-k-lindelhoeven-vv-b-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4174cfa667@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:K. Lindelhoeven VV B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-lindelhoeven-vv-b-h-wijshagen-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-lindelhoeven-vv-b-h-wijshagen-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfe5498787@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:KRC Peer B – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f193c1f87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:K. Lindelhoeven VV B – Lutlommel VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef8409c499@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K Peer SV – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e181ed3bcf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Sp. Grote Brogel – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f84b67e5cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:K. Lindelhoeven VV B – Sp. Lille
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-238ecb347a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:K. Lindelhoeven VV B – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59a6485c58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:HO Molenbeersel – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aceae3d9bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:K. Lindelhoeven VV B – Esperanza Pelt B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0faf8661fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:KSK Meeuwen B – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5327398fb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:K. Lindelhoeven VV B – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bcbd84faa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T164500Z
+DTEND:20270320T183000Z
+SUMMARY:N. Gruitrode B – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e103823168@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:K. Lindelhoeven VV B – KRC Peer B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5de37c4264@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:H. Wijshagen – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aced1f0ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:K. Lindelhoeven VV B – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61b1966c2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Maasland NO B – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/k-lindelhoeven-vv-b/
+URL:https://goalio.be/nl/ploeg/k-lindelhoeven-vv-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

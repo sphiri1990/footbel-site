@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Kontich FC B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b9348eeeb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:K. Kontich FC B 0-4 Verbr. Zwijndrecht B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-kontich-fc-b-verbr-zwijndrecht-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-kontich-fc-b-verbr-zwijndrecht-b-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81065235d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:F.C. Warriors Antwerpen 6-0 K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/f-c-warriors-antwerpen-k-kontich-fc-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/f-c-warriors-antwerpen-k-kontich-fc-b-20
+ 26-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db1ba12f7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T163000Z
+DTEND:20261114T181500Z
+SUMMARY:K. Kontich FC B 0-12 SV Aartselaar B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-kontich-fc-b-sv-aartselaar-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-kontich-fc-b-sv-aartselaar-b-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5df8e6882@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KSC Maccabi 0-0 K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksc-maccabi-k-kontich-fc-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksc-maccabi-k-kontich-fc-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c5ff9c119@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
+SUMMARY:K. Kontich FC B – Sporting Club Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-kontich-fc-b-sporting-club-antwerpen-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-kontich-fc-b-sporting-club-antwerpen-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-978ba35ee1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Sporting Club Schoten – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebad0f9853@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:FC Los Incas Antwerpen – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90beeb1ff4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:K. Kontich FC B – F.C. Warriors Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82028f7820@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
+SUMMARY:K. Kontich FC B – FC Merksem B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4235cc84c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T120000Z
+DTEND:20270124T134500Z
+SUMMARY:VC Mortsel OG B – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4121540d0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:K. Kontich FC B – KVC Wilrijk B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b6711d458@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T163000Z
+DTEND:20270220T181500Z
+SUMMARY:K. Kontich FC B – SC City Pirates Antwerpen B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2172a1b49f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. Tub. Borgerhout – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c717a7153@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T163000Z
+DTEND:20270306T181500Z
+SUMMARY:K. Kontich FC B – K. Wijnegem VC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6ee6d92a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Verbr. Zwijndrecht B – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afc58bc900@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Kontich FC B – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4457cc080@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Sporting Club Antwerpen – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e783886e2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T153000Z
+DTEND:20270410T171500Z
+SUMMARY:K. Kontich FC B – Sporting Club Schoten
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd8d6e6126@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:K. Kontich FC B – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7541eb33e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SV Aartselaar B – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-kontich-fc-b/
+URL:https://goalio.be/nl/ploeg/k-kontich-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

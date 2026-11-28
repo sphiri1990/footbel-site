@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Etoile Sp. Dalhemoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-li
+ ege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bfb6631b83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise 1-0 Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-etoile-sp-dalhemoise-3-prov-c-liege-racing-club-vaux-chaudfontaine-202
+ 6-11-01/
+URL:https://goalio.be/fr/match/r-etoile-sp-dalhemoise-3-prov-c-liege-racing
+ -club-vaux-chaudfontaine-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8c1722a9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise 1-1 Union Roclenge-Wonck
+DESCRIPTION:3e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-etoile-sp-dalhemoise-3-prov-c-liege-union-roclenge-wonck-2026-11-15/
+URL:https://goalio.be/fr/match/r-etoile-sp-dalhemoise-3-prov-c-liege-union-
+ roclenge-wonck-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ce1e6c4da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.J.S. Cheneenne – R. Etoile Sp. Dalhemoise (remis)
+DESCRIPTION:3e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-j-s-cheneenne-r-etoile-sp-dalhemoise-3-prov-c-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-j-s-cheneenne-r-etoile-sp-dalhemoise-3-pro
+ v-c-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87b3516ad4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261126T190000Z
+DTEND:20261126T204500Z
+SUMMARY:R. Oupeye FC – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-oupeye-fc-r-etoile-sp-dalhemoise-3-prov-c-liege-2026-11-26/
+URL:https://goalio.be/fr/match/r-oupeye-fc-r-etoile-sp-dalhemoise-3-prov-c-
+ liege-2026-11-26/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27a4d0de81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – J.S. Vivegnis
+DESCRIPTION:3e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-etoile-sp-dalhemoise-3-prov-c-liege-j-s-vivegnis-2026-11-29/
+URL:https://goalio.be/fr/match/r-etoile-sp-dalhemoise-3-prov-c-liege-j-s-vi
+ vegnis-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bc68a6708@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R.J.S. Olnoise
+DESCRIPTION:3e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edb0cd6d36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.C.S. Bollandois – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edddc536c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Jeunesse Haccourtoise – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1f5a698c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc97228b6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:A.S. Hermalienne – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96bcc525b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Espoir Minerois
+DESCRIPTION:3e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce5766e5ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Charneux – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02888f598f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R.F.C. Warsage
+DESCRIPTION:3e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7eeb5060ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Bressoux – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c45221d221@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bacc0fa949@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3debe6c90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Oupeye FC
+DESCRIPTION:3e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a591cd9ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Union Roclenge-Wonck – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4bd17f9cee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R.J.S. Cheneenne
+DESCRIPTION:3e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f834c4a495@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Vivegnis – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

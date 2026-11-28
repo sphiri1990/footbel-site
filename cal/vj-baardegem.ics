@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VJ Baardegem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vj-baardegem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1cba450b5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T170000Z
+DTEND:20261101T184500Z
+SUMMARY:VJ Baardegem 8-1 VK Nederhasselt B
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vj-baardegem-vk-nederhasselt-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vj-baardegem-vk-nederhasselt-b-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9205be2f36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:VCE Houtem B 1-4 VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vce-houtem-b-vj-baardegem-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vce-houtem-b-vj-baardegem-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a27e5d281@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:VJ Baardegem 3-1 Eendr Elene-Grotenberge B
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vj-baardegem-eendr-elene-grotenberge-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vj-baardegem-eendr-elene-grotenberge-b-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-114c9faec7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:VJ Baardegem 2-0 SK Erembodegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vj-baardegem-sk-erembodegem-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vj-baardegem-sk-erembodegem-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c5f5954ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Smetlede A – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fc-smetlede-a-vj-baardegem-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fc-smetlede-a-vj-baardegem-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b9b83a21a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:VJ Baardegem – VCE Deftinge A
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3c0ea19b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Doggen Eremb – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64ff41c4c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KSK Vlierzele – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6579516117@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:VJ Baardegem – VC Herzele-Ressegem A
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7910008722@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:VJ Baardegem – KFC Kerksken-Haaltert
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b97265d98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SV Sint-Antelinks B – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3bb0670f72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VJ Baardegem – FC Smetlede A
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23e2080887@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFCB Lierde-Everbeek A – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86f7413eb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VJ Baardegem – VCE Houtem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2b7fcad0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Eendr Elene-Grotenberge B – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24a9aa0ced@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VJ Baardegem – TK Meldert B
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9cf7653e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Erembodegem – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e6817aa02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:VJ Baardegem – Olsa Brakel B
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb33d7a9d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VCE Deftinge A – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-472bbd3b9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VJ Baardegem – Sp Moerbeke-G'bergen
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6311c2f1ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Nederhasselt B – VJ Baardegem
+DESCRIPTION:3e provinciale Oost-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vj-baardegem/
+URL:https://goalio.be/nl/ploeg/vj-baardegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

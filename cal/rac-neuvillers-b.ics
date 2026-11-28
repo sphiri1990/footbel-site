@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAC Neuvillers B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rac-neuvillers-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7ec6b4a595@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RAC Neuvillers B 2-0 R. Wallonia Libin B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/rac-neuvillers-b-r-wallonia-libin-b-2026-11-01/
+URL:https://goalio.be/fr/match/rac-neuvillers-b-r-wallonia-libin-b-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a58eaed325@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Fays-Les-Veneurs 1-4 RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/fc-fays-les-veneurs-rac-neuvillers-b-2026-11-08/
+URL:https://goalio.be/fr/match/fc-fays-les-veneurs-rac-neuvillers-b-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfdbeabc00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RAC Neuvillers B 2-2 ES Saint-Pierre B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/rac-neuvillers-b-es-saint-pierre-b-2026-11-15/
+URL:https://goalio.be/fr/match/rac-neuvillers-b-es-saint-pierre-b-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01e370b7f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSC Nassogne – RAC Neuvillers B (remis)
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/rsc-nassogne-rac-neuvillers-b-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-nassogne-rac-neuvillers-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-560d21de9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RAC Neuvillers B – FC Bertrix B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/rac-neuvillers-b-fc-bertrix-b-2026-11-29/
+URL:https://goalio.be/fr/match/rac-neuvillers-b-fc-bertrix-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7950b61ef4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RAC Neuvillers B – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a096745e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RES Orgeotoise – RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-782bed6072@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RAC Neuvillers B – R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e1ea39e2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RJS St-Marie Wideumont – RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38e541bb66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RAC Neuvillers B – FC Paliseulois
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3211f1903@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:ES Wellinoise – RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c06b31b8be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Union Club Bras – RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-357618b732@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RAC Neuvillers B – RES Petitvoir-Tournay
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56171a234c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R. Wallonia Libin B – RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b33a3544ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RAC Neuvillers B – FC Fays-Les-Veneurs
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eaa7a7ced6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ES Saint-Pierre B – RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rac-neuvillers-b/
+URL:https://goalio.be/fr/equipe/rac-neuvillers-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

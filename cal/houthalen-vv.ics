@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Houthalen VV · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/houthalen-vv/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-603b60cfe4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Lutlommel VV A – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/lutlommel-vv-a-houthalen-vv-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/lutlommel-vv-a-houthalen-vv-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34d8000bf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Houthalen VV 2-2 Thes Sport Tessenderlo B
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/houthalen-vv-thes-sport-tessenderlo-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/houthalen-vv-thes-sport-tessenderlo-b-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b9aa8721b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:GS Bree-Beek B 3-3 Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/gs-bree-beek-b-houthalen-vv-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/gs-bree-beek-b-houthalen-vv-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50433e5140@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:FC Eksel A 2-3 Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-eksel-a-houthalen-vv-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-eksel-a-houthalen-vv-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cd1dc971e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Houthalen VV – FC Paal-Tervant A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/houthalen-vv-fc-paal-tervant-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/houthalen-vv-fc-paal-tervant-a-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fba14fe64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:KRC Peer A – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97390bcbc3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Houthalen VV – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d91b6f724@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:Thes Sport Tessenderlo B – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b4212fb73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Houthalen VV – Boorsem Sport A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b75ad2da4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Kaulille FC – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76836afcc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Houthalen VV – Turkse FC A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f199137f7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Houthalen VV – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73da6cc917@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Kab. Opglabbeek – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aae10ad447@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Houthalen VV – K. FC Hamont 99 A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fe0fb341e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:KSK Meeuwen A – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68b697dbde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Houthalen VV – GS Bree-Beek B
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28656e7378@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:N. Gruitrode A – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc227c1b64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Houthalen VV – KRC Peer A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a2c3c4676@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T181500Z
+DTEND:20270410T200000Z
+SUMMARY:FC Paal-Tervant A – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cc1416774@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Houthalen VV – FC Eksel A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-204f75005e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Maasland NO A – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/houthalen-vv/
+URL:https://goalio.be/nl/ploeg/houthalen-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

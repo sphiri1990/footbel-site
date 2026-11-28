@@ -1,0 +1,42 @@
+{
+ "id": "/nl/",
+ "name": "Goalio",
+ "short_name": "Goalio",
+ "description": "Uitslagen, klassementen en statistieken van het Belgische voetbal, van Pro League tot 4de provinciale.",
+ "lang": "nl-BE",
+ "start_url": "/nl/mijn-club/?app=1",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#09121C",
+ "theme_color": "#09121C",
+ "icons": [
+  {
+   "src": "/partage/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/partage/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/partage/icon-maskable-512.png",
+   "sizes": "maskable-512xmaskable-512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Uitslagen",
+   "url": "/nl/uitslagen/"
+  },
+  {
+   "name": "Standen",
+   "url": "/nl/klassementen/"
+  }
+ ]
+}

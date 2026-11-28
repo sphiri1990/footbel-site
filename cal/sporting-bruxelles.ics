@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Bruxelles · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sporting-bruxelles/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7417d3abe4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:F.C. Kosova Schaerbeek 2-0 Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/f-c-kosova-sc
+ haerbeek-sporting-bruxelles-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-kosova-schaerbeek-sporting-bruxelles-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-827d0c10e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Sporting Bruxelles 2-2 R.A.S. Monceau
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/sporting-brux
+ elles-r-a-s-monceau-2026-11-08/
+URL:https://goalio.be/fr/match/sporting-bruxelles-r-a-s-monceau-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3a47dc4ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.F.C. Saint-Michel 0-4 Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/r-f-c-saint-m
+ ichel-sporting-bruxelles-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-saint-michel-sporting-bruxelles-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-501c713490@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Sporting Bruxelles 2-2 Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/sporting-brux
+ elles-union-sporting-club-jemappes-2026-11-22/
+URL:https://goalio.be/fr/match/sporting-bruxelles-union-sporting-club-jemap
+ pes-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa8348fc37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:S.C. De Nechin – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/s-c-de-nechin
+ -sporting-bruxelles-2026-11-28/
+URL:https://goalio.be/fr/match/s-c-de-nechin-sporting-bruxelles-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c171f71f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Sporting Bruxelles – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0199145e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Léopold F.C. – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6145543208@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Sporting Bruxelles – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d962f4fa3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sporting Bruxelles – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/sporting-brux
+ elles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02353aa591@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Soignies Sports – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6d7394968@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Sporting Bruxelles – Andenne Evelette Sports Football
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95138529eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Stade Everois Racing Club – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b7c36caa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sporting Bruxelles – R.U.S. Biesme
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a1cacd4f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.U. Wallonne Ciney – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-225bce1808@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Sporting Bruxelles – Pont-A-Celles-Buzet
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-824e54809a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Arquet Namur – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b42d231d57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sporting Bruxelles – F.C. Kosova Schaerbeek
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-380eefb24a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.A.S. Monceau – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c6b034a48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sporting Bruxelles – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77b59f93a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Union Sporting Club Jemappes – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcc8dde820@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sporting Bruxelles – S.C. De Nechin
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/sporting-bru
+ xelles/
+URL:https://goalio.be/fr/equipe/sporting-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

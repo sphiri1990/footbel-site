@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Wasmes · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-wasmes/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-288e90fbb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.S.C. Wasmes 4-2 R.U.S. Flobecquoise
+DESCRIPTION:4e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-s-c-wasmes-r-u-s-flobecquoise-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-c-wasmes-r-u-s-flobecquoise-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e9bc5de46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Baudour A.S.C. 2-2 R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/baudour-a-s-c-r-s-c-wasmes-2026-11-08/
+URL:https://goalio.be/fr/match/baudour-a-s-c-r-s-c-wasmes-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4a6206a44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.C. Wasmes 1-4 F.C. Houtaing
+DESCRIPTION:4e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-s-c-wasmes-f-c-houtaing-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-c-wasmes-f-c-houtaing-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1367be5560@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:A.C. Anvaing – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/a-c-anvaing-r-s-c-wasmes-2026-11-22/
+URL:https://goalio.be/fr/match/a-c-anvaing-r-s-c-wasmes-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb80a98cc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.S.C. Wasmes – A.S. Vaudignies
+DESCRIPTION:4e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-s-c-wasmes-a-s-vaudignies-2026-11-29/
+URL:https://goalio.be/fr/match/r-s-c-wasmes-a-s-vaudignies-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c0901de2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.S.C. Wasmes – FC Wodecq
+DESCRIPTION:4e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-580bfce515@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:U.S. Thumaide – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21512291b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.S.C. Wasmes – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83f6bfac73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.C.S. Lensois – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d486c5ed2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.E.S.C. Horrues – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a12e24161@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.S.C. Wasmes – R.U.S. Beloeil
+DESCRIPTION:4e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07f3ab9ce2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.L.C. Hornu B – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-039e6928e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.S.C. Wasmes – J.S. Isièroise
+DESCRIPTION:4e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff3213d28a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Ellezelles B – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ff1017504@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.S.C. Wasmes – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbb326abbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R.U.S. Flobecquoise – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a42ddf6bd7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.S.C. Wasmes – Baudour A.S.C.
+DESCRIPTION:4e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04485355bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Houtaing – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d63450504@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.S.C. Wasmes – A.C. Anvaing
+DESCRIPTION:4e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dafe1a1c34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.S. Vaudignies – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-wasmes/
+URL:https://goalio.be/fr/equipe/r-s-c-wasmes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

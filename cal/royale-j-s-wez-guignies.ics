@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royale J.S. Wez-Guignies · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4f75062c8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Royale J.S. Wez-Guignies 2-3 F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/royale-j-s-wez-guignies-f-c-brunehaut-2026-11-01/
+URL:https://goalio.be/fr/match/royale-j-s-wez-guignies-f-c-brunehaut-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f06770874@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Union Sportive Mouscronnoise 4-3 Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/union-sportive-mouscronnoise-royale-j-s-wez-guignies-2026-11-08/
+URL:https://goalio.be/fr/match/union-sportive-mouscronnoise-royale-j-s-wez-
+ guignies-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b857f98fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Royale J.S. Wez-Guignies 12-0 C.S. Taintignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/royale-j-s-wez-guignies-c-s-taintignies-2026-11-15/
+URL:https://goalio.be/fr/match/royale-j-s-wez-guignies-c-s-taintignies-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-475a563210@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.S.C. Templeuvois – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-s-c-templeuvois-royale-j-s-wez-guignies-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-templeuvois-royale-j-s-wez-guignies-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b110d95124@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Royale J.S. Wez-Guignies – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/royale-j-s-wez-guignies-diables-rouges-rongy-2026-11-29/
+URL:https://goalio.be/fr/match/royale-j-s-wez-guignies-diables-rouges-rongy
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-394d051151@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Royale J.S. Wez-Guignies – Ass. Montkainoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b283325e95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Renaissance Sporting Club Bruyelle – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99cafd8c60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Royale J.S. Wez-Guignies – Entente Velaines Enclusienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb6536fd99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.U.S. Herseautoise – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02d318645b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Royale J.S. Wez-Guignies – Football Club Etoiles D'Ere
+DESCRIPTION:4e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e557983f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:AC Barry-Carrieres – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13b2e8e1f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Royale J.S. Wez-Guignies – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb7948bcc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.A.S. Risquons-Tout Mouscron – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b48f5b923a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Royale J.S. Wez-Guignies – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0871008d0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Brunehaut – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d1f29645b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Royale J.S. Wez-Guignies – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-702795aab3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:C.S. Taintignies – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0d0efeda0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Royale J.S. Wez-Guignies – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b71c585cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Diables Rouges Rongy – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/royale-j-s-wez-guignies/
+URL:https://goalio.be/fr/equipe/royale-j-s-wez-guignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.S. Clermont · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/a-s-clermont/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6005a41c26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:JS Falisolle-Aisemont B 1-1 A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /js-falisolle-aisemont-b-a-s-clermont-2026-11-01/
+URL:https://goalio.be/fr/match/js-falisolle-aisemont-b-a-s-clermont-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dcce429b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Somzée B 5-0 A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /rfc-somzee-b-a-s-clermont-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-somzee-b-a-s-clermont-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a7af719b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:A.S. Clermont – FC Mesnilois (remis)
+DESCRIPTION:4e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /a-s-clermont-fc-mesnilois-2026-11-22/
+URL:https://goalio.be/fr/match/a-s-clermont-fc-mesnilois-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7c1d1fcf6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R Ham FC B – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-febcb91fb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:A.S. Clermont – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4836ca843@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.C.S. Florennois – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-333dd5971d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:A.S. Clermont – Celtic Denée Foot
+DESCRIPTION:4e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ddbc7489e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84c56527c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:A.S. Clermont – U St-Gérard B
+DESCRIPTION:4e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-966d6f7875@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FCE Tarciennois B – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24d3534d4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:A.S. Clermont – US Auvelais A
+DESCRIPTION:4e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-feda2c24e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Bioul 81 B – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93394bf89f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:A.S. Clermont – JS Falisolle-Aisemont B
+DESCRIPTION:4e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c105d6bd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Mesnilois – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ed1e9857c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.S. Clermont – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/a-s-clermont/
+URL:https://goalio.be/fr/equipe/a-s-clermont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

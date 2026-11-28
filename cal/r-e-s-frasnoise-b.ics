@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.E.S. Frasnoise B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-02e060a842@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Racing Club Marcinelle 2-4 R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/racing-club-marcinelle-r-e-s-frasnoise-b-2026-11-01/
+URL:https://goalio.be/fr/match/racing-club-marcinelle-r-e-s-frasnoise-b-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-049f566d00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.E.S. Frasnoise B 6-3 R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-e-s-frasnoise-b-r-f-c-de-gilly-2026-11-08/
+URL:https://goalio.be/fr/match/r-e-s-frasnoise-b-r-f-c-de-gilly-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-262474946c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RFC Baulet 2-0 R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/rfc-baulet-r-e-s-frasnoise-b-2026-11-14/
+URL:https://goalio.be/fr/match/rfc-baulet-r-e-s-frasnoise-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-470f28b15e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.E.S. Frasnoise B – R.E.S. Roux
+DESCRIPTION:4e provinciale Hainaut F\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-e-s-frasnoise-b-r-e-s-roux-4-prov-f-hainaut-2026-11-22/
+URL:https://goalio.be/fr/match/r-e-s-frasnoise-b-r-e-s-roux-4-prov-f-hainau
+ t-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c486bbaa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Bouffioulx – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-bouffioulx-r-e-s-frasnoise-b-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-bouffioulx-r-e-s-frasnoise-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93994d3d4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:A.F. US St Amand-Brye – R.E.S. Frasnoise B (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f6ba2c60c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.E.S. Frasnoise B – Football Club Fleurus
+DESCRIPTION:4e provinciale Hainaut F\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2936fd4d01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Black Country Charleroi – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe55d94539@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.E.S. Frasnoise B – Carolo Football Charleroi
+DESCRIPTION:4e provinciale Hainaut F\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-143e89c773@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Châtelineau – R.E.S. Frasnoise B (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a09318c30f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.E.S. Frasnoise B – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80fd24048e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. Jumet S.C. B – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9eab1cb8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.E.S. Frasnoise B – Mellet Sports
+DESCRIPTION:4e provinciale Hainaut F\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7474be4c6d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.E.S. Frasnoise B – Racing A.C.S. Couillet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb72cf1e29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:J.S. Aiseau-Presles – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bfa309d78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.E.S. Frasnoise B – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d6e52486@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. De Gilly – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42ad56d24d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.E.S. Frasnoise B – RFC Baulet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c810965af8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.E.S. Roux – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-267e1699fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.E.S. Frasnoise B – F.C. Bouffioulx
+DESCRIPTION:4e provinciale Hainaut F\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-e-s-frasnoise-b/
+URL:https://goalio.be/fr/equipe/r-e-s-frasnoise-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

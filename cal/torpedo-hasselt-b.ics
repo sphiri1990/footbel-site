@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Torpedo Hasselt B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-20fb7805cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Zutendaal VV A 1-1 Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/zutendaal-vv-a-torpedo-hasselt-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/zutendaal-vv-a-torpedo-hasselt-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95ec3b21f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Torpedo Hasselt B 1-4 Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/torpedo-hasselt-b-herk-sport-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/torpedo-hasselt-b-herk-sport-a-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-403356e0c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:E. Stevoort 3-0 Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/e-stevoort-torpedo-hasselt-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/e-stevoort-torpedo-hasselt-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-859b22c3b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Torpedo Hasselt B 2-1 VV Nieuwerkerken
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/torpedo-hasselt-b-vv-nieuwerkerken-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/torpedo-hasselt-b-vv-nieuwerkerken-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f8998bb61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:Belisia Bilzen SV B – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/belisia-bilzen-sv-b-torpedo-hasselt-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/belisia-bilzen-sv-b-torpedo-hasselt-b-20
+ 26-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d5daeec06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Torpedo Hasselt B – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d386f909@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:KMR Biesen B – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0abc5383d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Torpedo Hasselt B – Daring Huvo Jeuk A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92d73f8de9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:SK Munsterbilzen – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-360c77abf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VV Nieuwerkerken – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9a0cc4e30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Torpedo Hasselt B – E. Stevoort
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09a2b9141f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Torpedo Hasselt B – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdca13b18e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Herk Sport A – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c37194e97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Torpedo Hasselt B – Zutendaal VV A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e15bdb594@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:RC Hades Kiewit B – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf06be22f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Torpedo Hasselt B – Halveweg Zonhoven
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-397ca9c1f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Herk-De-Stad FC B – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fedead1160@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Habo-Borgloon A – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2638ccc99c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Torpedo Hasselt B – Belisia Bilzen SV B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a88d86b1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Zonhoven United B – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-358e8529cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Torpedo Hasselt B – WS Schoonbeek-Bilzen B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/torpedo-hasselt-b/
+URL:https://goalio.be/nl/ploeg/torpedo-hasselt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

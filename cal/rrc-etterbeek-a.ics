@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RRC Etterbeek A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c747a5719c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. La Hulpe SC. 1-1 RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 11\nhttps://
+ goalio.be/fr/match/r-la-hulpe-sc-rrc-etterbeek-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-la-hulpe-sc-rrc-etterbeek-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ae52ab1cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RRC Etterbeek A 5-0 Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 12\nhttps://
+ goalio.be/fr/match/rrc-etterbeek-a-anderlecht-youth-talents-2026-11-08/
+URL:https://goalio.be/fr/match/rrc-etterbeek-a-anderlecht-youth-talents-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66f5c8cbba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T193000Z
+DTEND:20261114T211500Z
+SUMMARY:RU Auderghem A 0-4 RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 13\nhttps://
+ goalio.be/fr/match/ru-auderghem-a-rrc-etterbeek-a-2026-11-14/
+URL:https://goalio.be/fr/match/ru-auderghem-a-rrc-etterbeek-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60face0283@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RRC Etterbeek A 2-1 R. US Ophain A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 14\nhttps://
+ goalio.be/fr/match/rrc-etterbeek-a-r-us-ophain-a-2026-11-22/
+URL:https://goalio.be/fr/match/rrc-etterbeek-a-r-us-ophain-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31f3fb511d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FC Genappe – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 15\nhttps://
+ goalio.be/fr/match/fc-genappe-rrc-etterbeek-a-2026-11-29/
+URL:https://goalio.be/fr/match/fc-genappe-rrc-etterbeek-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-689b28353e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Wavre Limal A – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 16\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f02a1e7427@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RRC Etterbeek A – BX Brussels A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 17\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9bf8dee0bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:RRC Etterbeek A – RRC Waterloo A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 18\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-461fff3a77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Union Lasne Ohain – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 19\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5109b9328c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RRC Etterbeek A – US Rebecquoise A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 20\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa64772e50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RFC Orp-Noduwez A – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 21\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84f82fe7a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RRC Etterbeek A – ROFC Stockel A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 22\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ecf35394a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RAS Saintoise A – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 23\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a370e7fbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RRC Etterbeek A – FC Suryoyés Bruxellois A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 24\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01024a60ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:RSD Jette B – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 25\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cab86eba0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RRC Etterbeek A – R. La Hulpe SC.
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 26\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc0330015a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Anderlecht Youth Talents – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 27\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca6feccd01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RRC Etterbeek A – RU Auderghem A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 28\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0017fb6b83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. US Ophain A – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 29\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2eabe6ce5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RRC Etterbeek A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 30\nhttps://
+ goalio.be/fr/equipe/rrc-etterbeek-a/
+URL:https://goalio.be/fr/equipe/rrc-etterbeek-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

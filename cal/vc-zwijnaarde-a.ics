@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Zwijnaarde A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-725f96a7cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:KVV Laarne-Kalken A 2-4 VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-laarne-kalken-a-vc-zwijnaarde-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kvv-laarne-kalken-a-vc-zwijnaarde-a-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e9163c1b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:VC Zwijnaarde A 1-0 FC Lembeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vc-zwijnaarde-a-fc-lembeke-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vc-zwijnaarde-a-fc-lembeke-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-060a4404ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KVVHT Zwijnaarde A 0-0 VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kvvht-zwijnaarde-a-vc-zwijnaarde-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kvvht-zwijnaarde-a-vc-zwijnaarde-a-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1dac7ad2a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:VC Zwijnaarde A 4-3 FCSJ Sleidinge
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vc-zwijnaarde-a-fcsj-sleidinge-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vc-zwijnaarde-a-fcsj-sleidinge-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-467d3f13ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Kleit A – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/f-c-kleit-a-vc-zwijnaarde-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/f-c-kleit-a-vc-zwijnaarde-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64285b0140@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:VC Zwijnaarde A – Oostakker - Azalea
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e166f508d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:VC Zwijnaarde A – KVVE Massemen A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-466d3d79a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Assenede – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a512cbc44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC Poesele A – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34d336862d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:VC Zwijnaarde A – KSV Melsen
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfa3be97e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:VC Nazareth-Eke A – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2247c41d1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VC Zwijnaarde A – F.C. Kleit A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77c0cee2b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Oostakker - Azalea – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37fccddbb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VC Zwijnaarde A – LS Merendree A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6deca79cd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFAC Waarschoot – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cde5af36c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VC Zwijnaarde A – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7da0d3610f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KSKDJ Lovendegem – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f64cd5b524@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VC Zwijnaarde A – KVVHT Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39417c091e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Lembeke – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10c9c8c167@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FCSJ Sleidinge – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a89481399@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Zwijnaarde A – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vc-zwijnaarde-a/
+URL:https://goalio.be/nl/ploeg/vc-zwijnaarde-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

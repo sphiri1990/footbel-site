@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KV Tervuren-Duisburg B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c426c92e8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T154500Z
+DTEND:20261101T173000Z
+SUMMARY:KV Tervuren-Duisburg B 0-2 Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/kv-tervuren-duisburg-b-sp-erps-kwerps-2026-11-01/
+URL:https://goalio.be/fr/match/kv-tervuren-duisburg-b-sp-erps-kwerps-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85d1aa65ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T154500Z
+DTEND:20261108T173000Z
+SUMMARY:KV Tervuren-Duisburg B 4-2 KFC Baal A
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/kv-tervuren-duisburg-b-kfc-baal-a-2026-11-08/
+URL:https://goalio.be/fr/match/kv-tervuren-duisburg-b-kfc-baal-a-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df32ff743a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Gr. Vossem A 2-1 KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/gr-vossem-a-kv-tervuren-duisburg-b-2026-11-14/
+URL:https://goalio.be/fr/match/gr-vossem-a-kv-tervuren-duisburg-b-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd66e5375e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T154500Z
+DTEND:20261122T173000Z
+SUMMARY:KV Tervuren-Duisburg B 2-4 K. Ol. Wijgmaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/kv-tervuren-duisburg-b-k-ol-wijgmaal-b-2026-11-22/
+URL:https://goalio.be/fr/match/kv-tervuren-duisburg-b-k-ol-wijgmaal-b-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b46f358739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VK Berg-Op – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/vk-berg-op-kv-tervuren-duisburg-b-2026-11-29/
+URL:https://goalio.be/fr/match/vk-berg-op-kv-tervuren-duisburg-b-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4024acb57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T154500Z
+DTEND:20261206T173000Z
+SUMMARY:KV Tervuren-Duisburg B – KV Tremelo
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d69e4dbf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T154500Z
+DTEND:20261213T173000Z
+SUMMARY:KV Tervuren-Duisburg B – Sporting Kampenhout B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-888ec36405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sp. Erps-Kwerps – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76d48a337a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T154500Z
+DTEND:20270117T173000Z
+SUMMARY:KV Tervuren-Duisburg B – Sp. Rotselaar B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b67516601@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Baal A – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96ed4be9a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T154500Z
+DTEND:20270131T173000Z
+SUMMARY:KV Tervuren-Duisburg B – Gr. Vossem A
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afb2bc65ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:KFC Herent B – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-255757dfcf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T154500Z
+DTEND:20270221T173000Z
+SUMMARY:KV Tervuren-Duisburg B – Eendr. Eizer
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c58c94b400@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:OHR Huldenberg B – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f984bf2fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T154500Z
+DTEND:20270307T173000Z
+SUMMARY:KV Tervuren-Duisburg B – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d37fd8e0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:SK Plenke Werchter – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc19179a78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T154500Z
+DTEND:20270321T173000Z
+SUMMARY:KV Tervuren-Duisburg B – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7479fba59d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Ol. Wijgmaal B – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c256c898f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:KV Tremelo – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60031136d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T144500Z
+DTEND:20270418T163000Z
+SUMMARY:KV Tervuren-Duisburg B – KFC Rap. Wezemaal
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f645d73700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Bertem-Leefdaal B – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kv-tervuren-duisburg-b/
+URL:https://goalio.be/fr/equipe/kv-tervuren-duisburg-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

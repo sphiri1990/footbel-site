@@ -1,0 +1,65 @@
+/* Goalio — partage et retour (footbel/partage.py, web/partage/partage.js), 25/11/2026.
+   Fichier séparé de style.css (session « mobile ») ; mêmes jetons de couleur, donc thèmes clair et sombre suivis. */
+
+/* ---------------------------------------------------------------- bloc « Partager » (sous l'en-tête de page) */
+.share { margin-top: var(--s-4); margin-bottom: var(--s-2); }
+.share__t { display: flex; align-items: center; gap: var(--s-2); margin: 0 0 var(--s-2); font: 700 var(--fs-s)/1.2 var(--f-body); letter-spacing: .06em; text-transform: uppercase; color: var(--c-text-2); }
+.share__t .si { width: 18px; height: 18px; }
+.share__p { margin: -2px 0 var(--s-2); font-size: var(--fs-s); color: var(--c-text-2); max-width: 60ch; }
+.share__row { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.share__b { display: inline-flex; align-items: center; gap: 7px; min-height: 44px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--c-line-2);
+  background: var(--c-surface); color: var(--c-text); font: 650 var(--fs-s)/1 var(--f-body); cursor: pointer; text-decoration: none; white-space: nowrap; }
+.share__b:hover { border-color: var(--c-text-2); color: var(--c-text); }
+
+.share__b--wa { background: #1FA855; border-color: #1FA855; color: #fff; }
+.share__b--wa:hover { background: #22b95d; border-color: #22b95d; color: #fff; }
+.share__b--fb { background: #1877F2; border-color: #1877F2; color: #fff; }
+.share__b--fb:hover { background: #2d86f5; border-color: #2d86f5; color: #fff; }
+.share__b--img { border-color: var(--c-signal); }
+.share__b.is-done { border-color: var(--c-signal); color: var(--c-signal); }
+.share__cal { margin-top: var(--s-3); padding-top: var(--s-3); border-top: 1px solid var(--c-line); }
+.share__cal > summary { cursor: pointer; list-style: none; min-height: 32px; margin: 0; color: var(--c-text); }
+.share__cal > summary::-webkit-details-marker { display: none; }
+.share__cal > summary::after { content: "+"; margin-left: auto; font-size: 1.25rem; line-height: 1; color: var(--c-signal); }
+.share__cal[open] > summary::after { content: "–"; }
+.share__cal[open] > summary { margin-bottom: var(--s-2); }
+@media (max-width: 760px) {
+  .share__row { display: grid; grid-template-columns: 1fr 1fr; }
+  .share__b { justify-content: center; padding: 0 10px; white-space: normal; text-align: center; line-height: 1.15; }
+  .share__cal .share__row { grid-template-columns: 1fr; }
+  .share__b[hidden] { display: none; }
+}
+
+/* ---------------------------------------------------------------- invitation à suivre son club (accueil, nouveau visiteur) */
+.nudge { margin-top: var(--s-5); }
+.nudge__in { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3) var(--s-5); padding: var(--s-4) var(--s-5); border: 1px solid var(--c-line);
+  border-radius: var(--r-l); background: linear-gradient(100deg, rgba(255, 212, 71, .10), transparent 65%), var(--c-surface); }
+.nudge__in > div { flex: 1 1 280px; }
+.nudge h2 { text-transform: uppercase; }
+.nudge p { margin: 6px 0 0; color: var(--c-text-2); font-size: var(--fs-s); }
+
+/* ---------------------------------------------------------------- invitation à installer (encart dans la page, jamais surgissant) */
+.install { margin-top: var(--s-4); }
+.install__in { display: grid; grid-template-columns: auto 1fr; gap: var(--s-3) var(--s-4); align-items: center; padding: var(--s-4); border: 1px solid var(--c-signal);
+  border-radius: var(--r-l); background: var(--c-surface); }
+.install__in img { border-radius: 12px; }
+.install h2 { font-size: 1.125rem; text-transform: uppercase; }
+.install p { margin: 4px 0 0; color: var(--c-text-2); font-size: var(--fs-s); }
+.install .install__how { color: var(--c-text); font-weight: 600; }
+.install__act { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: var(--s-2); }
+@media (min-width: 761px) { .install__in { grid-template-columns: auto 1fr auto; } .install__act { grid-column: auto; } }
+
+/* ---------------------------------------------------------------- favoris en tête de l'accueil */
+.favtop { margin-top: var(--s-5); }
+
+/* ---------------------------------------------------------------- pictogrammes (masques CSS : rien de répété dans les pages) */
+.si { display: inline-block; width: 20px; height: 20px; flex: none; background: currentColor; -webkit-mask: var(--si) center / contain no-repeat; mask: var(--si) center / contain no-repeat; }
+.si--wa { --si: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath fill="%23000" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.3-.4.8-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.4.1-.6.3-.2.2-.8.8-.8 2s.8 2.3 1 2.5c.1.2 1.6 2.5 4 3.5 1.5.6 2 .7 2.8.6.4-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2l-.4-.2z"/%3E%3C/svg%3E'); }
+.si--fb { --si: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath fill="%23000" d="M13.5 22v-8h2.7l.4-3.2h-3.1V8.8c0-.9.3-1.5 1.6-1.5h1.7V4.5c-.3 0-1.3-.1-2.4-.1-2.4 0-4.1 1.5-4.1 4.2v2.3H7.6V14h2.7v8z"/%3E%3C/svg%3E'); }
+.si--link { --si: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath fill="none" stroke="%23000" stroke-width="2" stroke-linecap="round" d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/%3E%3C/svg%3E'); }
+.si--share { --si: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath fill="none" stroke="%23000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/%3E%3C/svg%3E'); }
+.si--img { --si: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath fill="none" stroke="%23000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 4v11M7 10l5 5 5-5M5 20h14"/%3E%3C/svg%3E'); }
+.si--cal { --si: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath fill="none" stroke="%23000" stroke-width="2" stroke-linecap="round" d="M4 6h16v14H4zM4 10h16M8 3v5M16 3v5"/%3E%3C/svg%3E'); }
+
+/* ---------------------------------------------------------------- match joué sans score reçu (pages.py › page_preview) */
+.pm__unscored { margin: var(--s-4) 0 0; padding: var(--s-3) var(--s-4); border-left: 3px solid var(--c-signal); border-radius: var(--r-s); background: var(--c-surface); font-weight: 600; }

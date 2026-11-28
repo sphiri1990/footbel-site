@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KHO Huizingen B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kho-huizingen-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d2d219b5b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:SK Oetingen VC B 2-4 KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-oetingen-vc-b-kho-huizingen-b-2026-10-31/
+URL:https://goalio.be/fr/match/sk-oetingen-vc-b-kho-huizingen-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c77c5e739a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KHO Huizingen B 3-1 FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kho-huizingen-b-fc-negenmanneke-2026-11-07/
+URL:https://goalio.be/fr/match/kho-huizingen-b-fc-negenmanneke-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a3dc9a0aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:SK Vlezenbeek 2-3 KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/sk-vlezenbeek-kho-huizingen-b-2026-11-15/
+URL:https://goalio.be/fr/match/sk-vlezenbeek-kho-huizingen-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb7248b2e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:FC Galmaarden B – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-galmaarden-b-kho-huizingen-b-2026-11-28/
+URL:https://goalio.be/fr/match/fc-galmaarden-b-kho-huizingen-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e9a58a8dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KHO Huizingen B – KFC Lennik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb116c4d1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KV Zuun B – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43f2c86376@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC MZ Tollembeek – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-055ab77e3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KHO Huizingen B – KFC Av. Lembeek B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78df43194f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KHO Huizingen B – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b45faf5999@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KHO Huizingen B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c8419405c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KHO Huizingen B – FC Galmaarden B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71668ee948@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:KVC Linkebeek – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e204bd201@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KHO Huizingen B – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8dfbf2945f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Negenmanneke – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37b59462f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T163000Z
+DTEND:20270403T181500Z
+SUMMARY:KFC Lennik B – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d8f83d58d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KHO Huizingen B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e11e1fb5c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T183000Z
+DTEND:20270417T201500Z
+SUMMARY:KVV Kester-Gooik B – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b8bd8fab5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KHO Huizingen B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kho-huizingen-b/
+URL:https://goalio.be/fr/equipe/kho-huizingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

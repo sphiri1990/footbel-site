@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Verbr. Alberta · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2d70a69327@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFC Verbr. Alberta 0-3 KFC Tongerlo
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-verbr-alberta-kfc-tongerlo-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-verbr-alberta-kfc-tongerlo-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be62ce1f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Beekhoek Sp. 7-0 KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-beekhoek-sp-kfc-verbr-alberta-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-beekhoek-sp-kfc-verbr-alberta-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d847fb77f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Verbr. Alberta 3-0 VC Westerlo Kemphanen
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-verbr-alberta-vc-westerlo-kemphanen-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-verbr-alberta-vc-westerlo-kemphanen-
+ 2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38832b553a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KSV Oud Turnhout 3-1 KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksv-oud-turnhout-kfc-verbr-alberta-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ksv-oud-turnhout-kfc-verbr-alberta-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b9260d30c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Verbr. Alberta – VV-NEXT Laakdal A
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-verbr-alberta-vv-next-laakdal-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-verbr-alberta-vv-next-laakdal-a-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e9f49adfb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Verbr. Alberta – KFC Flandria
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03f9c71319@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. Blauwv. Oevel – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f7b52b1ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Verbr. Alberta – KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff6260ea52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Verbr. Alberta – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd2f9c79d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KVV Rauw Sp. – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ddec55bb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Verbr. Alberta – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e71864a5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VC Westerlo Kemphanen – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-316d00f7e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Verbr. Alberta – KFC Heultje
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bf5916b84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Olen United – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b1b346584@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Verbr. Alberta – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0a70fb26a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:VV-NEXT Laakdal A – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-862a9bcc57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Mol – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fefd713fa3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Verbr. Alberta – K Witgoor Sp Dessel B
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37b77be549@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Tongerlo – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-verbr-alberta/
+URL:https://goalio.be/nl/ploeg/kfc-verbr-alberta/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

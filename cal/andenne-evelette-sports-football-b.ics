@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Andenne Evelette Sports Football B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b
+ /
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-827dc23222@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Andenne Evelette Sports Football B 5-0 FC St-Martin Pessoux
+DESCRIPTION:4e provinciale Namur D\nJournée 11\nhttps://goalio.be/fr/match
+ /andenne-evelette-sports-football-b-fc-st-martin-pessoux-2026-10-31/
+URL:https://goalio.be/fr/match/andenne-evelette-sports-football-b-fc-st-mar
+ tin-pessoux-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-feb3932183@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RSC Oheytois B – Andenne Evelette Sports Football B (remis)
+DESCRIPTION:4e provinciale Namur D\nJournée 13\nhttps://goalio.be/fr/match
+ /rsc-oheytois-b-andenne-evelette-sports-football-b-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-oheytois-b-andenne-evelette-sports-footb
+ all-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b035f5163@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Andenne Evelette Sports Football B – ES Jamboise B
+DESCRIPTION:4e provinciale Namur D\nJournée 14\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afa8acccc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RS Fernelmont-Hemptinne B – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 15\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84943c5637@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Andenne Evelette Sports Football B – RUS Assessoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 16\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e28fca87f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R Ent Wartet FC – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 17\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be88b233f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Andenne Evelette Sports Football B – RCS Faulx-les-Tombes A
+DESCRIPTION:4e provinciale Namur D\nJournée 18\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ca7c65ae6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Andoy Wierde FC – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 19\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88258b8676@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Andenne Evelette Sports Football B – RAC Leuze-Longchamps B
+DESCRIPTION:4e provinciale Namur D\nJournée 20\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8fae84a9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSC Petit-Waret B – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 21\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1f3979fec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:E.S. Boninne – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 22\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b8b2cc9d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Andenne Evelette Sports Football B – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 23\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce6741c72c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC St-Martin Pessoux – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 24\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2a31ed970@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Andenne Evelette Sports Football B – RSC Oheytois B
+DESCRIPTION:4e provinciale Namur D\nJournée 25\nhttps://goalio.be/fr/equip
+ e/andenne-evelette-sports-football-b/
+URL:https://goalio.be/fr/equipe/andenne-evelette-sports-football-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

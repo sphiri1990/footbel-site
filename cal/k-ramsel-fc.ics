@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Ramsel FC · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-ramsel-fc/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6f67656c85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. Ramsel FC 1-2 K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-ramsel-fc-k-sav-st-dimpna-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-ramsel-fc-k-sav-st-dimpna-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-797109be9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. Ramsel FC 1-2 K. FC Poppel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-ramsel-fc-k-fc-poppel-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-ramsel-fc-k-fc-poppel-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07d64fe3bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Zwaneven 2-1 K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/rfc-zwaneven-k-ramsel-fc-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/rfc-zwaneven-k-ramsel-fc-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd253f17e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K. Ramsel FC 0-0 KFC De Kempen TL B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-ramsel-fc-kfc-de-kempen-tl-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-ramsel-fc-kfc-de-kempen-tl-b-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a97f326a10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. Zwal. Olmen – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-zwal-olmen-k-ramsel-fc-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-zwal-olmen-k-ramsel-fc-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1127a1c1d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K. Ramsel FC – K. Vlimmeren Sp.
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-863c8bfd99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. SAV St. Dimpna – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c848886b39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. Ramsel FC – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c989c50813@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. Ramsel FC – K.F.C. Zammel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc87f3c4f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. FC Poppel – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c54c182396@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. Ramsel FC – Verbr. Balen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c12f3e376@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KSK Kasterlee – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e543a82b90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K. Ramsel FC – RFC Zwaneven
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-965663524d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Waterheide Schorvoort Zevendonk – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-911d5437bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Merksplas SK – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccc62a0ed7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:K. Ramsel FC – KFC Exc. Bouwel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5c6eec434@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC De Kempen TL B – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c86ba3c772@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K. Ramsel FC – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-001e7076a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Heidebl. Pulderbos – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e19d252a30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. Ramsel FC – K.F.C. Houtvenne B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f9b25c63c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Vlimmeren Sp. – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-ramsel-fc/
+URL:https://goalio.be/nl/ploeg/k-ramsel-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

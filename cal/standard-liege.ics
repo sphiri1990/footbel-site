@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Standard Liège · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/standard-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fe94700b38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T171500Z
+DTEND:20261031T190000Z
+SUMMARY:Standard Liège 1-1 Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/sta
+ ndard-liege-kortrijk-2026-10-31/
+URL:https://goalio.be/fr/match/standard-liege-kortrijk-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-478d52f1b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261106T194500Z
+DTEND:20261106T213000Z
+SUMMARY:Standard Liège 3-0 SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/sta
+ ndard-liege-sk-beveren-2026-11-06/
+URL:https://goalio.be/fr/match/standard-liege-sk-beveren-2026-11-06/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1cafb9bdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T181500Z
+DTEND:20261122T200000Z
+SUMMARY:Lommel United 1-2 Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/lom
+ mel-united-standard-liege-2026-11-22/
+URL:https://goalio.be/fr/match/lommel-united-standard-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-966f90a249@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T173000Z
+DTEND:20261129T191500Z
+SUMMARY:Standard Liège – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/sta
+ ndard-liege-club-brugge-kv-2026-11-29/
+URL:https://goalio.be/fr/match/standard-liege-club-brugge-kv-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5ebd52afc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T194500Z
+DTEND:20261212T213000Z
+SUMMARY:Zulte Waregem – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dec76ce7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:Standard Liège – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1651b9e5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261226T194500Z
+DTEND:20261226T213000Z
+SUMMARY:Standard Liège – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1a6cd882a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:Sint-Truiden – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-561093b7ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Standard Liège – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00e958d575@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Cercle Brugge – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef980ea062@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Club Brugge KV – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82cefafe0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Standard Liège – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bb5455096@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Charleroi – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-597ff47253@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Standard Liège – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d3979bccc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Union Saint-Gilloise – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5895425e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Standard Liège – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95ce9ef198@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Anderlecht – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a9617640f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Standard Liège – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-049b6ed318@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Kortrijk – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21cd27a717@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Standard Liège – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-583cdebc1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:RAAL La Louvière – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9668713e56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Standard Liège – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08cc61b86d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Antwerp – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29b91ae8b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Standard Liège – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c11773744@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:SK Beveren – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/st
+ andard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-016e5024fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T194500Z
+DTEND:20261205T213000Z
+SUMMARY:RAAL La Louvière – Standard Liège
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/standard-liege/
+URL:https://goalio.be/fr/equipe/standard-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

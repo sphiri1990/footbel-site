@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Lenaarts B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/st-lenaarts-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dd8cdde782@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KFC Antonia B 2-1 St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-antonia-b-st-lenaarts-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-antonia-b-st-lenaarts-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8276aa831@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:St. Lenaarts B 2-3 Loenhout SK B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/st-lenaarts-b-loenhout-sk-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/st-lenaarts-b-loenhout-sk-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2046655e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K. Wuustwezel FC B 0-2 St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-wuustwezel-fc-b-st-lenaarts-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-wuustwezel-fc-b-st-lenaarts-b-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87765d76c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:St. Lenaarts B – Minderhout VV B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/st-lenaarts-b-minderhout-vv-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/st-lenaarts-b-minderhout-vv-b-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74535484fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KFC Zwarte Leeuw B – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa4b14b466@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:St. Lenaarts B – K. Sint Job FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-362617903f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:St. Lenaarts B – KFC Antonia B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9953b0e630@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Loenhout SK B – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-671fc65524@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KFC St. Mart. Halle – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1d20ec1cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Bucovina Loenhout – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d271a9f5d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:St. Lenaarts B – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8830b7173e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Minderhout VV B – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e6ad20115@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:St. Lenaarts B – K. Wuustwezel FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d32887c88a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KVK Westmalle – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-536cef6dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:St. Lenaarts B – K. Meerle FC
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdf57ea448@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Wechelderzande – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ff2dbbba4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:St. Lenaarts B – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d40e903d4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Alberta FC Schilde – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-029f37d80f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:St. Lenaarts B – KFC Zwarte Leeuw B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/st-lenaarts-b/
+URL:https://goalio.be/nl/ploeg/st-lenaarts-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

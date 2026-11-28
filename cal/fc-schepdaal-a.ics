@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Schepdaal A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-schepdaal-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1f65ef2bc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:FC Schepdaal A 0-0 K. Del. Londerzeel A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-schepdaal-a-k-del-londerzeel-a-2026-11-01/
+URL:https://goalio.be/fr/match/fc-schepdaal-a-k-del-londerzeel-a-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fb43ea2dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:T. Relegem 2-1 FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/t-relegem-fc-schepdaal-a-2026-11-08/
+URL:https://goalio.be/fr/match/t-relegem-fc-schepdaal-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14e0816c52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Schepdaal A 3-0 KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-schepdaal-a-kcs-machelen-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-schepdaal-a-kcs-machelen-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16337bf9b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC Schepdaal A 3-1 FC Galmaarden A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/fc-schepdaal-a-fc-galmaarden-a-2026-11-22/
+URL:https://goalio.be/fr/match/fc-schepdaal-a-fc-galmaarden-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f95476f27c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FC Herne A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-herne-a-fc-schepdaal-a-2026-11-29/
+URL:https://goalio.be/fr/match/fc-herne-a-fc-schepdaal-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-553caaaa0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Schepdaal A – L. Teralfene A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a490414124@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:NOVA Asse-Mollem A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-906c00fdac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:FC Schepdaal A – Eendr. Hekelgem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f619668eb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VK Liedekerke A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3b0ca6021@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Schepdaal A – KFC Rhodienne-De Hoek A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c616147f2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Galmaarden A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b85846cdb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:KCS Machelen A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1903df4500@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Schepdaal A – T. Relegem
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53bbcd9275@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:K. Del. Londerzeel A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b13c8b79ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Schepdaal A – Perk Steenokkerzeel V. 1820 A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f08e8f9533@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Leeuw Brucom A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c563bb783@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Schepdaal A – FC Herne A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f4e5b6058@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Meise A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8e532c955@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Schepdaal A – KFC Eppegem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c56ff633f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:L. Teralfene A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b17a738520@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Schepdaal A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fc-schepdaal-a/
+URL:https://goalio.be/fr/equipe/fc-schepdaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

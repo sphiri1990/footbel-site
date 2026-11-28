@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.U.S. Binche · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-u-s-binche/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-68e254f98f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.U.S. Binche 1-0 Royal Stockay Saint-Georges S/M
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/r-u-s-binche-ro
+ yal-stockay-saint-georges-s-m-2026-11-01/
+URL:https://goalio.be/fr/match/r-u-s-binche-royal-stockay-saint-georges-s-m
+ -2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a49f5933b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:RCS Brainois A 2-0 R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/rcs-brainois-a-
+ r-u-s-binche-2026-11-07/
+URL:https://goalio.be/fr/match/rcs-brainois-a-r-u-s-binche-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70978cd003@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.U.S. Binche 2-0 Union Namur A
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/r-u-s-binche-un
+ ion-namur-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-u-s-binche-union-namur-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7b8c0192a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSD Jette A 1-0 R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/rsd-jette-a-r-u
+ -s-binche-2026-11-22/
+URL:https://goalio.be/fr/match/rsd-jette-a-r-u-s-binche-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3631a07524@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.U.S. Binche – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/r-u-s-binche-cs
+ -pays-vert-ostiches-ath-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-u-s-binche-cs-pays-vert-ostiches-ath-a-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf2d528a47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Crossing Schaerbeek – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ef82944de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.U.S. Binche – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceece4afde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.U.S. Binche – K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d14db4678b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Entente Acren Lessines – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05ecf15a40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:SB Stade Mouscronnois A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d95f74d7ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.U.S. Binche – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95dd805eaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Aywaille F.C. A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7e1b780ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:R.U.S. Binche – C.S. Entité Manageoise
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1a8d9d319@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Ganshoren – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-baf0f35fb4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.U.S. Binche – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0d01ef9eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Royale Union Hutoise – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d9c2262dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:R.U.S. Binche – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60fc6ee668@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cff570f58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.U.S. Binche – RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17a5439145@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T190000Z
+DTEND:20270327T204500Z
+SUMMARY:Union Namur A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8668061034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.U.S. Binche – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7eaa6f0fd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16d1f69771@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.U.S. Binche – Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5bda69c9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/r-u-s-binche/
+URL:https://goalio.be/fr/equipe/r-u-s-binche/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Chievres 69 · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-512e4a3c58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RFC Thulin 0-5 R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/rfc-thulin-r-f-c-chievres-69-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-thulin-r-f-c-chievres-69-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2561f252f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Chievres 69 1-3 R.A.J.S. Honnelloise
+DESCRIPTION:3e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-chievres-69-r-a-j-s-honnelloise-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-chievres-69-r-a-j-s-honnelloise-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7f9fadd65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.F.C. Vacresse 2-0 R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-f-c-vacresse-r-f-c-chievres-69-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-vacresse-r-f-c-chievres-69-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbe3dbeab6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Chievres 69 – R.F.C. Wiersien
+DESCRIPTION:3e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-f-c-chievres-69-r-f-c-wiersien-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-chievres-69-r-f-c-wiersien-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5f07766b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.U.S. Hensies B – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-u-s-hensies-b-r-f-c-chievres-69-2026-11-29/
+URL:https://goalio.be/fr/match/r-u-s-hensies-b-r-f-c-chievres-69-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-228abad5af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33e726672b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Chievres 69 – A.S. Pommeroeul-Ville
+DESCRIPTION:3e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2f1d4a87f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:A.S. Vaudignies A – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07ef8e61d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C. Chievres 69 – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e2e74fc22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Péruwelz Football Club – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2c7f4d7a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. Chievres 69 – U.S. Thumaide
+DESCRIPTION:3e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d866a1df5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:C.D. Furia Espanola – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5007d03e5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. Chievres 69 – F.C. Beclers
+DESCRIPTION:3e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dc68605c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. SP B. Frameries B – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc62846b14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. Chievres 69 – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a0f7a0a53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Chievres 69 – RFC Thulin
+DESCRIPTION:3e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c90be8739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.A.J.S. Honnelloise – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b097c21de8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Chievres 69 – R.F.C. Vacresse
+DESCRIPTION:3e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c861636502@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Wiersien – R.F.C. Chievres 69
+DESCRIPTION:3e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8bb9132a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Chievres 69 – R.U.S. Hensies B
+DESCRIPTION:3e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-chievres-69/
+URL:https://goalio.be/fr/equipe/r-f-c-chievres-69/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

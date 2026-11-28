@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Harzé F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-harze-f-c/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-37038d10a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee 0-1 R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-r-harze-f-c-2026-11-01/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-r-harze-f-c-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a43084f15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Harzé F.C. 3-0 R. Union Flémalloise B
+DESCRIPTION:3e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-harze-f-c-r-union-flemalloise-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-harze-f-c-r-union-flemalloise-b-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ac5adee61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:C.S. Juprelle 1-1 R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/c-s-juprelle-3-prov-b-liege-r-harze-f-c-2026-11-14/
+URL:https://goalio.be/fr/match/c-s-juprelle-3-prov-b-liege-r-harze-f-c-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bc05d6b97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Harzé F.C. – R.C.S. Sart Tilman (remis)
+DESCRIPTION:3e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-harze-f-c-r-c-s-sart-tilman-2026-11-22/
+URL:https://goalio.be/fr/match/r-harze-f-c-r-c-s-sart-tilman-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8816eb81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:J.S. Pierreuse – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/j-s-pierreuse-r-harze-f-c-2026-11-29/
+URL:https://goalio.be/fr/match/j-s-pierreuse-r-harze-f-c-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3adb7609c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Harzé F.C. – S.C. Oneutois
+DESCRIPTION:3e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f551cf2054@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Jupille – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c42d7c321@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Harzé F.C. – R. Ougrée FC.
+DESCRIPTION:3e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3aa5e6dd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:J.S. Hognouloise – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cda8264651@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Harzé F.C. – R.S.C. Beaufays B
+DESCRIPTION:3e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14a89e4d42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R.U.S. Gold Star Liège – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e725e8bd6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Harzé F.C. – All. Fexhe Et Slins - Fragnee
+DESCRIPTION:3e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b76b706e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Illyrian Blegny – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5ede54ab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Harzé F.C. – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fb94caa81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Seraing Athletique R.F.C. – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-feabe6e3b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Harzé F.C. – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9638476b6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T133000Z
+DTEND:20270404T151500Z
+SUMMARY:R. Union Flémalloise B – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e8d14432f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Harzé F.C. – C.S. Juprelle
+DESCRIPTION:3e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dacc53948@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.C.S. Sart Tilman – R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9177877f96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Harzé F.C. – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-harze-f-c/
+URL:https://goalio.be/fr/equipe/r-harze-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

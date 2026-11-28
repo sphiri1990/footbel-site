@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAC Saint-Mard B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rac-saint-mard-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-97eb354c62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:CS Toernich 1-4 RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/cs-toernich-rac-saint-mard-b-2026-11-01/
+URL:https://goalio.be/fr/match/cs-toernich-rac-saint-mard-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef841af6de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RAC Saint-Mard B 2-3 Ethe-Belmont FC
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/rac-saint-mard-b-ethe-belmont-fc-2026-11-08/
+URL:https://goalio.be/fr/match/rac-saint-mard-b-ethe-belmont-fc-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89215fbb5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.C. Athusien 4-0 RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/r-s-c-athusien-rac-saint-mard-b-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-c-athusien-rac-saint-mard-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6426b046de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:US Waltzing-Bonnert – RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/us-waltzing-bonnert-rac-saint-mard-b-2026-11-29/
+URL:https://goalio.be/fr/match/us-waltzing-bonnert-rac-saint-mard-b-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c12384d55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RAC Saint-Mard B – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e10b6ab13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RUS Etalle – RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fcf8091f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RAC Saint-Mard B – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15bfb6162d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSC Tontelange – RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6916b1658@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RAC Saint-Mard B – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c5547c4a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Jeun. Freylangeoise – RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-947ba681f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RAC Saint-Mard B – UN R. St-Louis-St-Léger
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e296e6a155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:ES Châtillon – RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d806046d52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RAC Saint-Mard B – CS Toernich
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ead839d29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Ethe-Belmont FC – RAC Saint-Mard B
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99ce463c97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RAC Saint-Mard B – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-b/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

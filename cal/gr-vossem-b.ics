@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gr. Vossem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/gr-vossem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6e2f871349@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T160000Z
+DTEND:20261031T174500Z
+SUMMARY:Gr. Vossem B 0-5 KFC Werchter A
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/gr-vossem-b-kfc-werchter-a-2026-10-31/
+URL:https://goalio.be/fr/match/gr-vossem-b-kfc-werchter-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ade7524e8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:K. Eur. 90 Kraainem B 2-2 Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/k-eur-90-kraainem-b-gr-vossem-b-2026-11-07/
+URL:https://goalio.be/fr/match/k-eur-90-kraainem-b-gr-vossem-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1526de141a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T160000Z
+DTEND:20261114T174500Z
+SUMMARY:Gr. Vossem B 0-4 HO Veltem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/gr-vossem-b-ho-veltem-b-2026-11-14/
+URL:https://goalio.be/fr/match/gr-vossem-b-ho-veltem-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99852ffada@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T161500Z
+DTEND:20261121T180000Z
+SUMMARY:VK Holsbeek B 1-1 Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/vk-holsbeek-b-gr-vossem-b-2026-11-21/
+URL:https://goalio.be/fr/match/vk-holsbeek-b-gr-vossem-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b18d557ee3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:Gr. Vossem B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/gr-vossem-b-erc-hoeilaart-b-2026-11-28/
+URL:https://goalio.be/fr/match/gr-vossem-b-erc-hoeilaart-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a8f3e4d6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Moorsel B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-743a643293@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T160000Z
+DTEND:20261212T174500Z
+SUMMARY:Gr. Vossem B – KVC Sterrebeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c0e7752a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T160000Z
+DTEND:20270109T174500Z
+SUMMARY:Gr. Vossem B – Football Club Kortenberg United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a5213eefb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T111500Z
+DTEND:20270117T130000Z
+SUMMARY:KFC Baal B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9186a5df6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Gr. Vossem B – K. Eur. 90 Kraainem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4577fcc267@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:HO Veltem B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83de89c22f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T160000Z
+DTEND:20270214T174500Z
+SUMMARY:ERC Hoeilaart B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01b1744638@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Gr. Vossem B – DC Wezembeek-Oppem
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45973ca8ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Werchter A – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e60d088102@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Gr. Vossem B – KSC Keerbergen
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1282ca166@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Gr. Vossem B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e0b999aa8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Gr. Vossem B – VK Holsbeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44883bfd96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Gr. Vossem B – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81204eba8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Koninklijke Haacht United B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/gr-vossem-b/
+URL:https://goalio.be/fr/equipe/gr-vossem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Avenir Fouron F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2cd95ddca5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Royal Sporting Club De Wandre 2-3 R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/royal-sporting-club-de-wandre-r-avenir-fouron-f-c-2026-11-01/
+URL:https://goalio.be/fr/match/royal-sporting-club-de-wandre-r-avenir-fouro
+ n-f-c-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7dc81bf31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Avenir Fouron F.C. 19-0 Union Roclenge-Wonck
+DESCRIPTION:4e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-avenir-fouron-f-c-union-roclenge-wonck-4-prov-d-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-avenir-fouron-f-c-union-roclenge-wonck-4-p
+ rov-d-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1852b906af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club Othee 0-0 R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/football-club-othee-r-avenir-fouron-f-c-2026-11-15/
+URL:https://goalio.be/fr/match/football-club-othee-r-avenir-fouron-f-c-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a134ce278@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Avenir Fouron F.C. – J.S. du Thier-à-Liège (remis)
+DESCRIPTION:4e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-avenir-fouron-f-c-j-s-du-thier-a-liege-4-prov-d-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-avenir-fouron-f-c-j-s-du-thier-a-liege-4-p
+ rov-d-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d361b6f93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Avenir Fouron F.C. – FC Tilleur
+DESCRIPTION:4e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23744e7131@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Ms Herstal Milmort – R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df609c65b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Avenir Fouron F.C. – R.U.S. Glontoise
+DESCRIPTION:4e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39ef128708@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Oupeye FC – R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7207b96f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R. Avenir Fouron F.C. – A.S. Hermalienne
+DESCRIPTION:4e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01daa901ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Avenir Fouron F.C. – All. Fexhe Et Slins - Fragnee
+DESCRIPTION:4e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9242469a4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. Croatia Wandre – R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1bfdfe853@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Avenir Fouron F.C. – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbc14d13da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Elan Dalhem – R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dbe6d033d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Avenir Fouron F.C. – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d51888554@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Union Roclenge-Wonck – R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6da78def14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Avenir Fouron F.C. – Football Club Othee
+DESCRIPTION:4e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1fe689b7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:J.S. du Thier-à-Liège – R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-avenir-fouron-f-c/
+URL:https://goalio.be/fr/equipe/r-avenir-fouron-f-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

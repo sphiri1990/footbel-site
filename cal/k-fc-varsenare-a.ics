@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Varsenare A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e2866a35b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T184500Z
+DTEND:20261031T203000Z
+SUMMARY:K. FC Varsenare A 1-3 S.V. Wevelgem City A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 10\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-varsenare-a-s-v-wevelgem-city-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-fc-varsenare-a-s-v-wevelgem-city-a-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4bcad3be32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:SV Ingelmunster A 2-1 K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 11\nhttps://goalio.be/
+ nl/wedstrijd/sv-ingelmunster-a-k-fc-varsenare-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/sv-ingelmunster-a-k-fc-varsenare-a-2026-
+ 11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3af9792f48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T184500Z
+DTEND:20261114T203000Z
+SUMMARY:K. FC Varsenare A 2-3 K. SK Beveren-Leie A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 12\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-varsenare-a-k-sk-beveren-leie-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-fc-varsenare-a-k-sk-beveren-leie-a-202
+ 6-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d673c68c87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC Sp. Heestert A 1-6 K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 13\nhttps://goalio.be/
+ nl/wedstrijd/fc-sp-heestert-a-k-fc-varsenare-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-sp-heestert-a-k-fc-varsenare-a-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2fe010d4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T184500Z
+DTEND:20261128T203000Z
+SUMMARY:K. FC Varsenare A – K.R.C. Waregem A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 14\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-varsenare-a-k-r-c-waregem-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-fc-varsenare-a-k-r-c-waregem-a-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9b420c44e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Club Roeselare – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 15\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebeefc1233@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T184500Z
+DTEND:20261212T203000Z
+SUMMARY:K. FC Varsenare A – K. SV Veurne A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 16\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efdb0c3328@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K.S.C. Wielsbeke – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 17\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-492ad59eb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T184500Z
+DTEND:20270116T203000Z
+SUMMARY:K. FC Varsenare A – SV Ingelmunster A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 18\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5cc2c19b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T184500Z
+DTEND:20270123T203000Z
+SUMMARY:K. FC Varsenare A – FC Sp. Heestert A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 19\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b68a1b4c00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K. FC Heist A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 20\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-235a9df482@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T184500Z
+DTEND:20270213T203000Z
+SUMMARY:K. FC Varsenare A – KFC Aalbeke Sport A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 21\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25a391b321@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. SK Beveren-Leie A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 22\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84f8bc3ef3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T184500Z
+DTEND:20270227T203000Z
+SUMMARY:K. FC Varsenare A – K. RC Bissegem
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 23\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49f2a35246@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. FC Marke A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 24\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3852699b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T184500Z
+DTEND:20270313T203000Z
+SUMMARY:K. FC Varsenare A – K. Eendr. Wervik A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 25\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eaac7706d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K.R.C. Waregem A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 26\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abe9752e30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T174500Z
+DTEND:20270403T193000Z
+SUMMARY:K. FC Varsenare A – Club Roeselare
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 27\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0eb5daf1b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T163000Z
+DTEND:20270410T181500Z
+SUMMARY:K. Sassp. Boezinge A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 28\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed6724f844@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T174500Z
+DTEND:20270417T193000Z
+SUMMARY:K. FC Varsenare A – K. VC Ardooie A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 29\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a228af107f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:S.V. Wevelgem City A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 30\nhttps://goalio.be/
+ nl/ploeg/k-fc-varsenare-a/
+URL:https://goalio.be/nl/ploeg/k-fc-varsenare-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

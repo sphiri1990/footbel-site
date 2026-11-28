@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFAC Waarschoot · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfac-waarschoot/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b778b1aa00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFAC Waarschoot 0-0 KVVHT Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfac-waarschoot-kvvht-zwijnaarde-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfac-waarschoot-kvvht-zwijnaarde-a-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df723ee24b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KVVE Massemen A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kvve-massemen-a-kfac-waarschoot-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kvve-massemen-a-kfac-waarschoot-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7eb85e12b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFAC Waarschoot 2-1 VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfac-waarschoot-vc-nazareth-eke-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfac-waarschoot-vc-nazareth-eke-a-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd49bea285@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KFAC Waarschoot – KSKDJ Lovendegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kfac-waarschoot-kskdj-lovendegem-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfac-waarschoot-kskdj-lovendegem-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-239c4a140a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Lembeke – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fc-lembeke-kfac-waarschoot-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fc-lembeke-kfac-waarschoot-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1027dd1388@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFAC Waarschoot – F.C. Kleit A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15b2fbfa95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Zeveren Sp A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b80c6ef12e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFAC Waarschoot – Oostakker - Azalea
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5892da4eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KSV Melsen – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4010376bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFAC Waarschoot – FC Assenede
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd9728b091@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KSKDJ Lovendegem – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc9239201f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:VC Nazareth-Eke A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65b9a111c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFAC Waarschoot – KVVE Massemen A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1095288f95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KVVHT Zwijnaarde A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6deca79cd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFAC Waarschoot – VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d26296cf8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:LS Merendree A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45e3a17dd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFAC Waarschoot – FC Lembeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87700621ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Poesele A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eaf4dff983@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFAC Waarschoot – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65236c5a73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Kleit A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d131adf7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFAC Waarschoot – FCSJ Sleidinge
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfac-waarschoot/
+URL:https://goalio.be/nl/ploeg/kfac-waarschoot/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

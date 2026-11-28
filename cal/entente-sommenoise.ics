@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entente Sommenoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/entente-sommenoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5ac2489b26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Achêne B 3-2 Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 11\nhttps://goalio.be/fr/match
+ /fc-achene-b-entente-sommenoise-2026-10-31/
+URL:https://goalio.be/fr/match/fc-achene-b-entente-sommenoise-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a655d53d02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RCS Schaltin 3-0 Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 12\nhttps://goalio.be/fr/match
+ /rcs-schaltin-entente-sommenoise-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-schaltin-entente-sommenoise-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6738fac783@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Entente Sommenoise – RFC Miécret (remis)
+DESCRIPTION:4e provinciale Namur E\nJournée 13\nhttps://goalio.be/fr/match
+ /entente-sommenoise-rfc-miecret-2026-11-21/
+URL:https://goalio.be/fr/match/entente-sommenoise-rfc-miecret-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11f92a562b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Entente Sommenoise – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 14\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9121151578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RCS Faulx-les-Tombes B – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 15\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ee1d9f005@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Entente Sommenoise – R Anhée FC B
+DESCRIPTION:4e provinciale Namur E\nJournée 16\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b55484095@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:US St Hadelin-Haversin B – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 17\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc39389a97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Entente Sommenoise – CSE Han-Sur-Lesse B
+DESCRIPTION:4e provinciale Namur E\nJournée 18\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15ed43f5d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:RUS Méan B – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 19\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c408d4a68d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Entente Sommenoise – RFC Natoye
+DESCRIPTION:4e provinciale Namur E\nJournée 20\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bfca72c57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Bonneville SP A – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 21\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f40a775388@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Entente Sommenoise – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 22\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f34b5b13ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RRC Havelange B – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 23\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aead732b6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Entente Sommenoise – FC Achêne B
+DESCRIPTION:4e provinciale Namur E\nJournée 24\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7791a6df02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Miécret – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 25\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a7cca81b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Entente Sommenoise – RCS Schaltin
+DESCRIPTION:4e provinciale Namur E\nJournée 26\nhttps://goalio.be/fr/equip
+ e/entente-sommenoise/
+URL:https://goalio.be/fr/equipe/entente-sommenoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

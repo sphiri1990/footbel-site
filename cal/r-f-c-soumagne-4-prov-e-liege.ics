@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Soumagne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8db1e4fd0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.A.C. Hombourg 6-0 R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-a-c-hombourg-4-prov-e-liege-r-f-c-soumagne-4-prov-e-liege-2026-11-01/
+URL:https://goalio.be/fr/match/r-a-c-hombourg-4-prov-e-liege-r-f-c-soumagne
+ -4-prov-e-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9c8670b11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Soumagne 0-8 Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-f-c-soumagne-4-prov-e-liege-jeunesse-sportive-grivegnee-4-prov-e-liege
+ -2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-soumagne-4-prov-e-liege-jeunesse-sport
+ ive-grivegnee-4-prov-e-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-069463c7b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:U.C.E. de Liège 6-4 R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/u-c-e-de-liege-4-prov-e-liege-r-f-c-soumagne-4-prov-e-liege-2026-11-15/
+URL:https://goalio.be/fr/match/u-c-e-de-liege-4-prov-e-liege-r-f-c-soumagne
+ -4-prov-e-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8ee441523@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Soumagne – FC Jeunesse Houssoise (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-soumagne-4-prov-e-liege-fc-jeunesse-houssoise-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-soumagne-4-prov-e-liege-fc-jeunesse-ho
+ ussoise-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf9685458e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.J. Magnétoise – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-j-magnetoise-r-f-c-soumagne-4-prov-e-liege-2026-11-29/
+URL:https://goalio.be/fr/match/r-j-magnetoise-r-f-c-soumagne-4-prov-e-liege
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-151ce5529b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Soumagne – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27becc7643@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T181500Z
+DTEND:20270116T200000Z
+SUMMARY:Union Aubeloise B – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe00eab78b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.F.C. Soumagne – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb114ab339@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-880467f4ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:R.F.C. Soumagne – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc358af740@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. Barchon – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f43f92a41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R.F.C. Soumagne – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e872f7539a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Jupille – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd9630715a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:R.F.C. Soumagne – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a8685c8ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a3c787a87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:R.F.C. Soumagne – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61907516dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Jeunesse Houssoise – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4a3c88e21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T123000Z
+DTEND:20270425T141500Z
+SUMMARY:R.F.C. Soumagne – R.J. Magnétoise
+DESCRIPTION:4e provinciale Liège E\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-f-c-soumagne-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-soumagne-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RES Orgeotoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/res-orgeotoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d4e2080136@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RES Orgeotoise 8-1 RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/res-orgeotoise-rsc-nassogne-2026-10-31/
+URL:https://goalio.be/fr/match/res-orgeotoise-rsc-nassogne-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca7dca5f12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RUS Bure 0-1 RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/rus-bure-res-orgeotoise-2026-11-08/
+URL:https://goalio.be/fr/match/rus-bure-res-orgeotoise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c72a5ac676@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RES Orgeotoise 2-2 ES Wellinoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/res-orgeotoise-es-wellinoise-2026-11-14/
+URL:https://goalio.be/fr/match/res-orgeotoise-es-wellinoise-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cd94adb86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RES Orgeotoise – RJS St-Marie Wideumont (remis)
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/res-orgeotoise-rjs-st-marie-wideumont-2026-11-21/
+URL:https://goalio.be/fr/match/res-orgeotoise-rjs-st-marie-wideumont-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f732628b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Haut-Fays Sport – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/r-haut-fays-sport-res-orgeotoise-2026-11-29/
+URL:https://goalio.be/fr/match/r-haut-fays-sport-res-orgeotoise-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a612c7a582@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Paliseulois – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a096745e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RES Orgeotoise – RAC Neuvillers B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b79890ebea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Union Club Bras – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ace0347f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RES Orgeotoise – RES Petitvoir-Tournay
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bc9c2a723@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. Wallonia Libin B – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-971890adb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RES Orgeotoise – FC Fays-Les-Veneurs
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7151663a40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:ES Saint-Pierre B – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-477cbc8209@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RES Orgeotoise – FC Bertrix B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8fb1fb56d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RSC Nassogne – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09fe78c458@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RES Orgeotoise – RUS Bure
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7f8bd69a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ES Wellinoise – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/res-orgeotoise/
+URL:https://goalio.be/fr/equipe/res-orgeotoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

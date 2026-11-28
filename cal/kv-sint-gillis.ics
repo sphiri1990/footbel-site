@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KV Sint-Gillis · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kv-sint-gillis/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-424d62a0da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KV Sint-Gillis 1-4 SV Zaffelare
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kv-sint-gillis-sv-zaffelare-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kv-sint-gillis-sv-zaffelare-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d54b18a98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KVK Robur Hamme-Moerzeke 0-2 KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kvk-robur-hamme-moerzeke-kv-sint-gillis-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kvk-robur-hamme-moerzeke-kv-sint-gillis-
+ 2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa5e036b9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KV Sint-Gillis 2-2 K Sp Waasmunster
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kv-sint-gillis-k-sp-waasmunster-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kv-sint-gillis-k-sp-waasmunster-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd475e59e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KFCJ Schoonaarde A 1-4 KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kfcj-schoonaarde-a-kv-sint-gillis-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfcj-schoonaarde-a-kv-sint-gillis-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31a26b6409@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KV Sint-Gillis – KFC Eksaarde
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kv-sint-gillis-kfc-eksaarde-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kv-sint-gillis-kfc-eksaarde-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2611263bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFC Sp St-Gillis Waas – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02c8044320@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KV Sint-Gillis – KSK Kieldrecht
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe1af91fec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KV Sint-Gillis – KFCJV Kruibeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4462f9a4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KFC Vrasene – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-806ce0314d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KV Sint-Gillis – KVK Robur Hamme-Moerzeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83d7165d14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K Sp Waasmunster – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca1aee77a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Eksaarde – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d3ebafc6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KV Sint-Gillis – KFC Heikant Zele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e48f22283@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SV Zaffelare – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff981dfa7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KV Sint-Gillis – SKL Doorslaar A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-639bee0c6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVKS Melsele A – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb7b2178a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KV Sint-Gillis – VK White Boys SN
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f724d04874@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KV Sint-Gillis – KFCJ Schoonaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc105ea3fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SV Blauw Wit Temse A – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65d8a1b8cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KV Sint-Gillis – KFC Sp St-Gillis Waas
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf05002241@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Rangers Opdorp A – KV Sint-Gillis
+DESCRIPTION:2e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kv-sint-gillis/
+URL:https://goalio.be/nl/ploeg/kv-sint-gillis/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

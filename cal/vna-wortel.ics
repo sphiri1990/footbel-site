@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VNA Wortel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vna-wortel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9b5d174224@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VNA Wortel 0-2 FC Merksem A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/vna-wortel-fc-merksem-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vna-wortel-fc-merksem-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-888081d562@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:VNA Wortel 4-2 Verbr. Zwijndrecht A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/vna-wortel-verbr-zwijndrecht-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vna-wortel-verbr-zwijndrecht-a-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c626eb819@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. Sint Job FC A 3-1 VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-sint-job-fc-a-vna-wortel-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-sint-job-fc-a-vna-wortel-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3456d4d03b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VNA Wortel 0-1 FC Oxaco-Boechout
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/vna-wortel-fc-oxaco-boechout-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vna-wortel-fc-oxaco-boechout-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18dc6d1480@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T193000Z
+DTEND:20261128T211500Z
+SUMMARY:K. Heibos SV A – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-heibos-sv-a-vna-wortel-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-heibos-sv-a-vna-wortel-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4442119a52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:VNA Wortel – KFC Meer
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccfc2e9543@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:FC Merksem A – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22b858e3a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VNA Wortel – K. Gooreind VV A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f84761330@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VNA Wortel – K. Achterbroek VV
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c94c762f4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Verbr. Zwijndrecht A – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e0a4f8533@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:VNA Wortel – K. Brecht SK
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bd91d5b35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Zandvliet Sport A – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b31e015880@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VNA Wortel – K. Sint Job FC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba2321580e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VC Mortsel OG A – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-323272a4e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Berendrecht Sp. – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c559a53422@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VNA Wortel – FC Turk Sp.
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c37cc5259@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Oxaco-Boechout – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-935a5fa720@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VNA Wortel – K. Heibos SV A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-672d357791@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Horendonk FC – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87688e66d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VNA Wortel – K. Wijnegem VC A
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e42c407434@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Meer – VNA Wortel
+DESCRIPTION:3e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/vna-wortel/
+URL:https://goalio.be/nl/ploeg/vna-wortel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

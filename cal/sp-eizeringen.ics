@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sp. Eizeringen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sp-eizeringen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f413af9733@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Jong FC Opwijk 0-2 Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/jong-fc-opwijk-sp-eizeringen-2026-10-31/
+URL:https://goalio.be/fr/match/jong-fc-opwijk-sp-eizeringen-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06a6d6dfe0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Sp. Eizeringen 1-2 KFC Meise B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/sp-eizeringen-kfc-meise-b-2026-11-08/
+URL:https://goalio.be/fr/match/sp-eizeringen-kfc-meise-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1e2f2775d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VK Borchtlombeek B 0-1 Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/vk-borchtlombeek-b-sp-eizeringen-2026-11-15/
+URL:https://goalio.be/fr/match/vk-borchtlombeek-b-sp-eizeringen-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0617b3e96f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:VC Groot-Dilbeek B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/vc-groot-dilbeek-b-sp-eizeringen-2026-11-29/
+URL:https://goalio.be/fr/match/vc-groot-dilbeek-b-sp-eizeringen-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23a7436a5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Sp. Eizeringen – Emi. Essene B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9446c39b46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:Ritterklub Jette B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ff490774e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sp. Eizeringen – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10b0c05a44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Anderlecht Sporting Club Brother – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-988661140e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:FC Schepdaal B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7086f1e731@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Sp. Eizeringen – VC Groot-Dilbeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db0e2eb353@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T153000Z
+DTEND:20270214T171500Z
+SUMMARY:VC Den Boskant Peizegem B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-deef1f7bd9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sp. Eizeringen – SK Steenhuffel B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6f356bc13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:KFC Meise B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cbe783e44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Sp. Eizeringen – KVC Asse-Terheide B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1289fec660@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Emi. Essene B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90f64c2ae0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sp. Eizeringen – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6da450c40b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sp. Eizeringen – Jong FC Opwijk
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-517250f4b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Merchtem United B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f1a8385d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp. Eizeringen – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/sp-eizeringen/
+URL:https://goalio.be/fr/equipe/sp-eizeringen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

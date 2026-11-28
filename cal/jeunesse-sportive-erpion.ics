@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeunesse Sportive Erpion · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e1d04b4770@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Marbaisien 2-2 Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/f-c-marbaisien-jeunesse-sportive-erpion-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-marbaisien-jeunesse-sportive-erpion-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f043410df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R. Exc. Cl. Beaumontois 2-0 Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-exc-cl-beaumontois-jeunesse-sportive-erpion-2026-11-14/
+URL:https://goalio.be/fr/match/r-exc-cl-beaumontois-jeunesse-sportive-erpio
+ n-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a13f4aed98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Jeunesse Sportive Erpion – R.F.C. La Buissière
+DESCRIPTION:4e provinciale Hainaut G\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/jeunesse-sportive-erpion-r-f-c-la-buissiere-2026-11-22/
+URL:https://goalio.be/fr/match/jeunesse-sportive-erpion-r-f-c-la-buissiere-
+ 2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65554364ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:J.S. Jamioulx B – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/j-s-jamioulx-b-jeunesse-sportive-erpion-2026-11-29/
+URL:https://goalio.be/fr/match/j-s-jamioulx-b-jeunesse-sportive-erpion-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-501a419be5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fb38018dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Jeunesse Sportive Erpion – R.R.F.C. Gozee
+DESCRIPTION:4e provinciale Hainaut G\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c756e3670b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Jeunesse Sportive Erpion – Renaissance US Grand-Reng
+DESCRIPTION:4e provinciale Hainaut G\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9932152fca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:J.S. Froidchapelloise B – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-509061b154@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Jeunesse Sportive Erpion – R.R.C. De Rance
+DESCRIPTION:4e provinciale Hainaut G\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71985a90bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:U.S. Solrezienne – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-506b2427a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Jeunesse Sportive Erpion – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e7838a643@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Royal Baileux Chimay Sport – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-290b82ecca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Jeunesse Sportive Erpion – U.S. Merbesars
+DESCRIPTION:4e provinciale Hainaut G\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d5c709086@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Sivry Sports – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8068a49eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Jeunesse Sportive Erpion – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7172fbff13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Jeunesse Sportive Erpion – R. Exc. Cl. Beaumontois
+DESCRIPTION:4e provinciale Hainaut G\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9ca613212@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. La Buissière – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-033376197a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Jeunesse Sportive Erpion – J.S. Jamioulx B
+DESCRIPTION:4e provinciale Hainaut G\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/jeunesse-sportive-erpion/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-erpion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

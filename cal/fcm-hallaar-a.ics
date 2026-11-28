@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FCM Hallaar A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-403a707201@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FCM Hallaar A 2-1 Kessel United
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/fcm-hallaar-a-kessel-united-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fcm-hallaar-a-kessel-united-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a41abbf51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FCM Hallaar A 4-3 K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/fcm-hallaar-a-k-hove-sp-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fcm-hallaar-a-k-hove-sp-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2aa3e2fef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:SK Rita Berlaar 1-6 FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/sk-rita-berlaar-fcm-hallaar-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/sk-rita-berlaar-fcm-hallaar-a-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-233fbe2601@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FCM Hallaar A 1-1 Nielse SV
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/fcm-hallaar-a-nielse-sv-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fcm-hallaar-a-nielse-sv-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b302667342@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:SK Peulis – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/sk-peulis-fcm-hallaar-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/sk-peulis-fcm-hallaar-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cde1eb297a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FCM Hallaar A – KFC Volh. Wintam A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d65926d6df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Kessel United – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48b6c3cdde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FCM Hallaar A – KSV Schriek
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4b7a725b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FCM Hallaar A – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-304b8c018c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K. Hove Sp. – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30ad0815d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FCM Hallaar A – K.S.K. Sint-Amands A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc2a90129a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VC Leest – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9aa12d343b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:FCM Hallaar A – SK Rita Berlaar
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3de4f760f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KV Bonheiden A – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13606cc365@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:RB Elzestraat – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef9d2b77e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FCM Hallaar A – K. Groen Rood Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d419c0ba55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Nielse SV – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1738eaaf5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FCM Hallaar A – SK Peulis
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17b808887d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Katelijne – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-904337d91e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FCM Hallaar A – FCS Mariekerke-Branst A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7bf764924@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Volh. Wintam A – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/fcm-hallaar-a/
+URL:https://goalio.be/nl/ploeg/fcm-hallaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

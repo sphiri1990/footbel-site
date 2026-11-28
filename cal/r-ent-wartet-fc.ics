@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R Ent Wartet FC · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d567c7aa74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R Ent Wartet FC 3-2 RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 11\nhttps://goalio.be/fr/match
+ /r-ent-wartet-fc-rs-fernelmont-hemptinne-b-2026-10-31/
+URL:https://goalio.be/fr/match/r-ent-wartet-fc-rs-fernelmont-hemptinne-b-20
+ 26-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4227d78962@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R Ent Wartet FC 3-0 RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 12\nhttps://goalio.be/fr/match
+ /r-ent-wartet-fc-rsc-petit-waret-b-2026-11-14/
+URL:https://goalio.be/fr/match/r-ent-wartet-fc-rsc-petit-waret-b-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a302e83a95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RUS Assessoise B – R Ent Wartet FC (remis)
+DESCRIPTION:4e provinciale Namur D\nJournée 13\nhttps://goalio.be/fr/match
+ /rus-assessoise-b-r-ent-wartet-fc-2026-11-21/
+URL:https://goalio.be/fr/match/rus-assessoise-b-r-ent-wartet-fc-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0a42e7bde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RCS Faulx-les-Tombes A – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 14\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce7589e91a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R Ent Wartet FC – Andoy Wierde FC
+DESCRIPTION:4e provinciale Namur D\nJournée 15\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8d736bc10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RAC Leuze-Longchamps B – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e28fca87f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R Ent Wartet FC – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0310584c26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:E.S. Boninne – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4aeef2c5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R Ent Wartet FC – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dcea5545a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC St-Martin Pessoux – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c07cd5337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R Ent Wartet FC – RSC Oheytois B
+DESCRIPTION:4e provinciale Namur D\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af4ff47829@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R Ent Wartet FC – ES Jamboise B
+DESCRIPTION:4e provinciale Namur D\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aeebd2c2fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6733112159@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R Ent Wartet FC – RUS Assessoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dec87f3052@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSC Petit-Waret B – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-ent-wartet-fc/
+URL:https://goalio.be/fr/equipe/r-ent-wartet-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

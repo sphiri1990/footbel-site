@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Harchies-Bernissart · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8bad987dbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:A.S. Vaudignies A 3-3 F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/a-s-vaudignies-a-f-c-harchies-bernissart-2026-11-01/
+URL:https://goalio.be/fr/match/a-s-vaudignies-a-f-c-harchies-bernissart-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab21d623b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Harchies-Bernissart 2-3 RFC Thulin
+DESCRIPTION:3e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/f-c-harchies-bernissart-rfc-thulin-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-harchies-bernissart-rfc-thulin-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8cecafc8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Harchies-Bernissart 7-2 Péruwelz Football Club
+DESCRIPTION:3e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-harchies-bernissart-peruwelz-football-club-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-harchies-bernissart-peruwelz-football-cl
+ ub-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07dd9d7a42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:U.S. Thumaide – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/u-s-thumaide-f-c-harchies-bernissart-2026-11-22/
+URL:https://goalio.be/fr/match/u-s-thumaide-f-c-harchies-bernissart-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-320e4bcb22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Harchies-Bernissart – C.D. Furia Espanola
+DESCRIPTION:3e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-harchies-bernissart-c-d-furia-espanola-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-harchies-bernissart-c-d-furia-espanola-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-093f30e106@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Harchies-Bernissart – F.C. Beclers
+DESCRIPTION:3e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac859a8f1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:R. SP B. Frameries B – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-820bdaf0ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Harchies-Bernissart – J.S. Meslin - Grand Marais
+DESCRIPTION:3e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07ef8e61d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C. Chievres 69 – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9257f417f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Harchies-Bernissart – R.A.J.S. Honnelloise
+DESCRIPTION:3e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58bc3246de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. Vacresse – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e379de5628@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Harchies-Bernissart – R.F.C. Wiersien
+DESCRIPTION:3e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9375964131@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.U.S. Hensies B – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5393ee0d26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Harchies-Bernissart – A.S. Quiévrain-Wasmuel
+DESCRIPTION:3e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-386152729b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:A.S. Pommeroeul-Ville – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60a4e2b9a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Harchies-Bernissart – A.S. Vaudignies A
+DESCRIPTION:3e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-476f401d27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RFC Thulin – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-633878ae17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Péruwelz Football Club – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2df61942be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Harchies-Bernissart – U.S. Thumaide
+DESCRIPTION:3e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49ccffd602@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:C.D. Furia Espanola – F.C. Harchies-Bernissart
+DESCRIPTION:3e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-harchies-bernissart/
+URL:https://goalio.be/fr/equipe/f-c-harchies-bernissart/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

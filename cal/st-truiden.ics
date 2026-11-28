@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sint-Truiden · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/st-truiden/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5d7522eda6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T150000Z
+DTEND:20261101T164500Z
+SUMMARY:Sint-Truiden 1-2 OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/st-
+ truiden-oh-leuven-2026-11-01/
+URL:https://goalio.be/fr/match/st-truiden-oh-leuven-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c50b93c023@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T181500Z
+DTEND:20261108T200000Z
+SUMMARY:Sint-Truiden 4-1 Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/st-
+ truiden-zulte-waregem-2026-11-08/
+URL:https://goalio.be/fr/match/st-truiden-zulte-waregem-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73b83590f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Charleroi 2-2 Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/cha
+ rleroi-st-truiden-2026-11-21/
+URL:https://goalio.be/fr/match/charleroi-st-truiden-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b5b10198b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T123000Z
+DTEND:20261129T141500Z
+SUMMARY:Sint-Truiden – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/st-
+ truiden-genk-2026-11-29/
+URL:https://goalio.be/fr/match/st-truiden-genk-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a92af4f87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T181500Z
+DTEND:20261213T200000Z
+SUMMARY:Gent – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c27398ab3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T150000Z
+DTEND:20261220T164500Z
+SUMMARY:Sint-Truiden – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92f84002cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261227T123000Z
+DTEND:20261227T141500Z
+SUMMARY:Anderlecht – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1a6cd882a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T123000Z
+DTEND:20270117T141500Z
+SUMMARY:Sint-Truiden – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cce2d542d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:OH Leuven – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70024a8ab8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Sint-Truiden – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29da7eedc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Union Saint-Gilloise – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b3795f1cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Sint-Truiden – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8629eade50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Sint-Truiden – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0197a79dae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:RAAL La Louvière – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fef19b2f24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Sint-Truiden – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0891cf2c9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Genk – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b9f7c7674@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Sint-Truiden – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a9617640f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Standard Liège – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d95c8f239a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Sint-Truiden – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-784b862737@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:KVC Westerlo – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12aa9fae0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Lommel United – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee2ec7428d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Sint-Truiden – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11e2ea6c9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Zulte Waregem – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-367c471224@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Sint-Truiden – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a85a56fd64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:Kortrijk – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/st
+ -truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a752c4760@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261105T200000Z
+DTEND:20261105T214500Z
+SUMMARY:Sint-Truiden 1-1 Brann
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 3\nhttps://goali
+ o.be/fr/equipe/st-truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc16a826e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261126T200000Z
+DTEND:20261126T214500Z
+SUMMARY:HNK Hajduk Split 0-2 Sint-Truiden
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 4\nhttps://goali
+ o.be/fr/match/hnk-hajduk-split-st-truiden-2026-11-26/
+URL:https://goalio.be/fr/match/hnk-hajduk-split-st-truiden-2026-11-26/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d319f5d8f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261210T200000Z
+DTEND:20261210T214500Z
+SUMMARY:Sint-Truiden – Ajax
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 5\nhttps://goali
+ o.be/fr/equipe/st-truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1747d54d74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261217T200000Z
+DTEND:20261217T214500Z
+SUMMARY:FC Lugano – Sint-Truiden
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 6\nhttps://goali
+ o.be/fr/equipe/st-truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8689d36b6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:Charleroi – Sint-Truiden
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/st-truiden/
+URL:https://goalio.be/fr/equipe/st-truiden/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

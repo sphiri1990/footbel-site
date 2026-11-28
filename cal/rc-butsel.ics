@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RC Butsel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rc-butsel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ce10ab8f9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RC Butsel 2-1 RWL Sport B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 10\nhttps://goalio.b
+ e/fr/match/rc-butsel-rwl-sport-b-2026-11-01/
+URL:https://goalio.be/fr/match/rc-butsel-rwl-sport-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-714b57075f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Sparta Schaffen 5-5 RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 11\nhttps://goalio.b
+ e/fr/match/sparta-schaffen-rc-butsel-2026-11-07/
+URL:https://goalio.be/fr/match/sparta-schaffen-rc-butsel-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b75e624991@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RC Butsel 4-2 SC Aarschot B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 12\nhttps://goalio.b
+ e/fr/match/rc-butsel-sc-aarschot-b-2026-11-15/
+URL:https://goalio.be/fr/match/rc-butsel-sc-aarschot-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9f597111c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T184500Z
+DTEND:20261121T203000Z
+SUMMARY:KFC KO Begijnendijk 2-0 RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 13\nhttps://goalio.b
+ e/fr/match/kfc-ko-begijnendijk-rc-butsel-2026-11-21/
+URL:https://goalio.be/fr/match/kfc-ko-begijnendijk-rc-butsel-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11137f395b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RC Butsel – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 14\nhttps://goalio.b
+ e/fr/match/rc-butsel-tielt-winge-3000-2026-11-29/
+URL:https://goalio.be/fr/match/rc-butsel-tielt-winge-3000-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-897a8f140b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SK Deurne – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-439e0305a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KVC Langdorp – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42d12e34ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:RC Butsel – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c1ca00cf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RC Butsel – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c797f1def6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Boutersem United B – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53881ccf1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RC Butsel – Sp. Molenbeek
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d6392b1b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:SMS Lubbeek B – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd5f266589@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:RC Butsel – KFC Werchter B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-808352c620@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RWL Sport B – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74b5228ad7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RC Butsel – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16a5b93e87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Tielt-Winge 3000 – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77bad6ad0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RC Butsel – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4401b7044d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RC Butsel – KAC Betekom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b00308fdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SC Aarschot B – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/rc-butsel/
+URL:https://goalio.be/fr/equipe/rc-butsel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

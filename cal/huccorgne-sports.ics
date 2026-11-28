@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Huccorgne Sports · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/huccorgne-sports/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-02ed06c506@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Huccorgne Sports 2-2 R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/huccorgne-sports-r-all-clavinoise-s-c-2026-11-01/
+URL:https://goalio.be/fr/match/huccorgne-sports-r-all-clavinoise-s-c-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2650cfbff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S.C. Anthisnois 4-0 Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-s-c-anthisnois-huccorgne-sports-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-anthisnois-huccorgne-sports-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03fd950f11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Huccorgne Sports 1-2 R. Marchin Sport A
+DESCRIPTION:3e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/huccorgne-sports-r-marchin-sport-a-2026-11-15/
+URL:https://goalio.be/fr/match/huccorgne-sports-r-marchin-sport-a-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-870b740cbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Union Momalloise – Huccorgne Sports (remis)
+DESCRIPTION:3e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-union-momalloise-3-prov-a-liege-huccorgne-sports-2026-11-22/
+URL:https://goalio.be/fr/match/r-union-momalloise-3-prov-a-liege-huccorgne-
+ sports-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-844657e1c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Huccorgne Sports – R.U.S. Stree
+DESCRIPTION:3e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/huccorgne-sports-r-u-s-stree-2026-11-29/
+URL:https://goalio.be/fr/match/huccorgne-sports-r-u-s-stree-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f477b8a8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Huccorgne Sports – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9af3557405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Entente Amay A – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94058721ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Huccorgne Sports – R.F.C. Ouffet Warzée
+DESCRIPTION:3e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c9b46c9fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:J.S. Racour-Lincent – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f70764ca7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84628e0f20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Huccorgne Sports – E.S.F.C. Du Geer
+DESCRIPTION:3e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fea8accce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Fraiture SP A – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ab54bf705@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Huccorgne Sports – Entente Sportive Donceel
+DESCRIPTION:3e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cffa82eb9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Entité Wasseiges – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f14d7d720c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Huccorgne Sports – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9c27f2d66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. All. Clavinoise S.C. – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0920140d1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Huccorgne Sports – R.S.C. Anthisnois
+DESCRIPTION:3e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f795619aae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R. Marchin Sport A – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63e5b6da52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Huccorgne Sports – R. Union Momalloise
+DESCRIPTION:3e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-846bbb1229@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.U.S. Stree – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/huccorgne-sports/
+URL:https://goalio.be/fr/equipe/huccorgne-sports/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

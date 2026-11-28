@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wiekevorst Sp. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/wiekevorst-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ed04945973@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:VV-NEXT Laakdal B 1-2 Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/vv-next-laakdal-b-wiekevorst-sp-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vv-next-laakdal-b-wiekevorst-sp-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b867714984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Nijlen B 1-2 Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-nijlen-b-wiekevorst-sp-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-nijlen-b-wiekevorst-sp-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71409bc660@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VC Herentals 3-3 Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/vc-herentals-wiekevorst-sp-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vc-herentals-wiekevorst-sp-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f861dc0d59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Wiekevorst Sp. – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/wiekevorst-sp-k-zandhoven-sk-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/wiekevorst-sp-k-zandhoven-sk-b-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e31aa8aac4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KSK Heist B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3261104d16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Wiekevorst Sp. – KFC Herenthout
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef8b2cd95e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Wiekevorst Sp. – VV-NEXT Laakdal B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b97be0e03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:VC Immer Oost-Oosterwijk – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a35fcb2fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Wiekevorst Sp. – VC Herentals
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e309126d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T153000Z
+DTEND:20270214T171500Z
+SUMMARY:KFC Berlaar-Heikant B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7392063bee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Wiekevorst Sp. – FCM Hallaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61bc6c8f3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:K. Zandhoven SK B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8c4f7ebab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Wiekevorst Sp. – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d30e42cb98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:KFC Ranst B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5d1f86828@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Wiekevorst Sp. – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c45d31d39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:KVV OG Vorselaar B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d0cc446ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Wiekevorst Sp. – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8871e75e4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:SK sGravenwezel-Schilde B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93c9eb89aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Wiekevorst Sp. – KSK Heist B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/wiekevorst-sp/
+URL:https://goalio.be/nl/ploeg/wiekevorst-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

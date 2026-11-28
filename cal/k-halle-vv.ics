@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Halle VV. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-halle-vv/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c94e2e9534@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Halle VV. 0-5 KVZ Glabbeek Zuurbemde
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 10\nhttps://goalio.b
+ e/fr/match/k-halle-vv-kvz-glabbeek-zuurbemde-2026-11-01/
+URL:https://goalio.be/fr/match/k-halle-vv-kvz-glabbeek-zuurbemde-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70969e579b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:SK Waanrode 4-0 K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-waanrode-k-halle-vv-2026-11-08/
+URL:https://goalio.be/fr/match/sk-waanrode-k-halle-vv-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3a37cac4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. Halle VV. 0-6 SK Rummen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 12\nhttps://goalio.b
+ e/fr/match/k-halle-vv-sk-rummen-2026-11-15/
+URL:https://goalio.be/fr/match/k-halle-vv-sk-rummen-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da0291957a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:T. Bunsbeek 2-0 K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 13\nhttps://goalio.b
+ e/fr/match/t-bunsbeek-k-halle-vv-2026-11-21/
+URL:https://goalio.be/fr/match/t-bunsbeek-k-halle-vv-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d17b7ae0ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. Halle VV. – Atlas Linter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 14\nhttps://goalio.b
+ e/fr/match/k-halle-vv-atlas-linter-2026-11-29/
+URL:https://goalio.be/fr/match/k-halle-vv-atlas-linter-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-527ed92574@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KA Goetsenhoven – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05e4ebfd7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:VC Houtem-Oplinter – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2a8aa24e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K. Halle VV. – FC Valahia Tienen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19dd298295@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Halle VV. – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06d9836cf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Sp. Budingen – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e9ff4f8ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Atlas Linter – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bfbd98f96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. Halle VV. – KA Goetsenhoven
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e00f8b87cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:RD Zoutleeuw B – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2887f54358@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Halle VV. – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e4d42b8a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SK Rummen – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed158addb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Halle VV. – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38c63bce45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Halle VV. – K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf37ac9ce6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KVZ Glabbeek Zuurbemde – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a07da24d7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Neerwinden F.C. – K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/k-halle-vv/
+URL:https://goalio.be/fr/equipe/k-halle-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

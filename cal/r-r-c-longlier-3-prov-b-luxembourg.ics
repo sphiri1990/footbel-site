@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.R.C. Longlier · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg
+ /
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ec82792199@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.R.C. Longlier 1-0 Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/r-r-c-longlier-3-prov-b-luxembourg-union-cecilienne-2026-11-01/
+URL:https://goalio.be/fr/match/r-r-c-longlier-3-prov-b-luxembourg-union-cec
+ ilienne-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19c2f68b71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RUS Les Bulles 1-4 R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/rus-les-bulles-r-r-c-longlier-3-prov-b-luxembourg-2026-11-08/
+URL:https://goalio.be/fr/match/rus-les-bulles-r-r-c-longlier-3-prov-b-luxem
+ bourg-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9683877e97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.R.C. Longlier 2-2 FC Tintifontaine
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/r-r-c-longlier-3-prov-b-luxembourg-fc-tintifontaine-2026-11-15/
+URL:https://goalio.be/fr/match/r-r-c-longlier-3-prov-b-luxembourg-fc-tintif
+ ontaine-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9c700ce4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:CS Corbion – R.R.C. Longlier (remis)
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/cs-corbion-r-r-c-longlier-3-prov-b-luxembourg-2026-11-22/
+URL:https://goalio.be/fr/match/cs-corbion-r-r-c-longlier-3-prov-b-luxembour
+ g-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfbdc12976@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SC Villers-Dt-Orval – R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-954f422437@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.R.C. Longlier – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb98bb250c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RSC Muno – R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c629a3edf3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.R.C. Longlier – U.S. Assenois
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c196cf09a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RUS Ste Marie-Semois – R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79c386ecb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.R.C. Longlier – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93e8d2ca48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Marbehan – R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-accb974cf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.R.C. Longlier – R. Standard F.C. Bouillon
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2eb910f62b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Union Cecilienne – R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b59fc037a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.R.C. Longlier – RUS Les Bulles
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a68f26e824@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Tintifontaine – R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-r-c-longlier-3-prov-b-luxembourg/
+URL:https://goalio.be/fr/equipe/r-r-c-longlier-3-prov-b-luxembourg/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

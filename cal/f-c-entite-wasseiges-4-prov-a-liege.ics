@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Entité Wasseiges · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-lieg
+ e/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-54eb837324@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.F.C. Jehaytois 1-1 F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-f-c-jehaytois-f-c-entite-wasseiges-4-prov-a-liege-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-jehaytois-f-c-entite-wasseiges-4-prov-
+ a-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45c1c0138c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:F.C. Entité Wasseiges 2-3 Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-entite-wasseiges-4-prov-a-liege-cite-sports-grace-hollogne-2026-11-0
+ 7/
+URL:https://goalio.be/fr/match/f-c-entite-wasseiges-4-prov-a-liege-cite-spo
+ rts-grace-hollogne-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c8cd7fafe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Entente Sportive Donceel B 4-0 F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/entente-sportive-donceel-b-f-c-entite-wasseiges-4-prov-a-liege-2026-11-1
+ 5/
+URL:https://goalio.be/fr/match/entente-sportive-donceel-b-f-c-entite-wassei
+ ges-4-prov-a-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9657d2eb43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:F.C. Entité Wasseiges – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-entite-wasseiges-4-prov-a-liege-f-c-vaux-borset-2026-11-28/
+URL:https://goalio.be/fr/match/f-c-entite-wasseiges-4-prov-a-liege-f-c-vaux
+ -borset-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0ed460481@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:F.C. Entité Wasseiges – R. Couthuin Sports
+DESCRIPTION:4e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebabf5246e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:E.H. Braives B – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-532c8bdd07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:F.C. Entité Wasseiges – R. Oreye Union
+DESCRIPTION:4e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-125f4a2da9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C. Warnant – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d447036c6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Entité Wasseiges – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76da19debc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:F.C. Horion – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b49b0e4c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Entité Wasseiges – Entente Amay B
+DESCRIPTION:4e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0f7ea53ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T131500Z
+DTEND:20270221T150000Z
+SUMMARY:Patro Lensois B – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ade10e39a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Entité Wasseiges – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c4684eaed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Jeunesses Oleyennes Reunies – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f2c2c868a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:F.C. Entité Wasseiges – R.F.C. Jehaytois
+DESCRIPTION:4e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a5477f35f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Cité Sports Grâce-Hollogne – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c54db5592@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:F.C. Entité Wasseiges – Entente Sportive Donceel B
+DESCRIPTION:4e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b82a617c29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Vaux-Borset – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-entite-wasseiges-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/f-c-entite-wasseiges-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

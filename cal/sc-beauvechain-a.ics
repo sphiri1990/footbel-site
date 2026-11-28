@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SC Beauvechain A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sc-beauvechain-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d9a2ac382c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:ROS Ottignies-LLN A 1-1 SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/ros-ottignies-lln-a-sc-beauvechain-a-2026-11-01/
+URL:https://goalio.be/fr/match/ros-ottignies-lln-a-sc-beauvechain-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8c3b29d0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:SC Beauvechain A 4-3 CS Biergeois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/sc-beauvechain-a-cs-biergeois-a-2026-11-08/
+URL:https://goalio.be/fr/match/sc-beauvechain-a-cs-biergeois-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5e7131027@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Orp-Noduwez B 0-8 SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/rfc-orp-noduwez-b-sc-beauvechain-a-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-orp-noduwez-b-sc-beauvechain-a-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-588fa3d4a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:SC Beauvechain A 2-2 Ol. Clabecq A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/match/sc-beauvechain-a-ol-clabecq-a-2026-11-22/
+URL:https://goalio.be/fr/match/sc-beauvechain-a-ol-clabecq-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf7c80e254@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.R.C. De Boitsfort – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/match/r-r-c-de-boitsfort-sc-beauvechain-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-r-c-de-boitsfort-sc-beauvechain-a-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df102313c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Union Rixensartoise A – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa5a8fd0de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:SC Beauvechain A – RC Villers la Ville A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-316a13b45a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:SC Beauvechain A – RFC Grez-Doiceau A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ae4e6dfb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Union Lasne Ohain – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd4d1d0863@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:SC Beauvechain A – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0b4c036b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:ES. Brainoise A – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c483e7369@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SC Beauvechain A – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-965c80a10a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Genappe B – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dff0bd2a96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SC Beauvechain A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f2a92fcbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Léopold FC. B – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6346896ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SC Beauvechain A – ROS Ottignies-LLN A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da82e788c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:CS Biergeois A – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcef235da2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SC Beauvechain A – RFC Orp-Noduwez B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb4a5916a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Ol. Clabecq A – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-444352b96f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SC Beauvechain A – R.R.C. De Boitsfort
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-a/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

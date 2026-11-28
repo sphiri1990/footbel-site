@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Turnhout · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-turnhout/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-569bf382cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KFC Turnhout 3-1 KVV Zepperen-Brustem A
+DESCRIPTION:D3 VV B\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/kfc-turnho
+ ut-kvv-zepperen-brustem-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-turnhout-kvv-zepperen-brustem-a-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5fd83cfbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:KAC Betekom A 0-0 KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/kac-beteko
+ m-a-kfc-turnhout-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kac-betekom-a-kfc-turnhout-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5caa4e68d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC Turnhout 7-1 Esperanza Pelt A
+DESCRIPTION:D3 VV B\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/kfc-turnho
+ ut-esperanza-pelt-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-turnhout-esperanza-pelt-a-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9126374196@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:VK Linden A 0-7 KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 15\nhttps://goalio.be/nl/wedstrijd/vk-linden-
+ a-kfc-turnhout-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vk-linden-a-kfc-turnhout-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ea01659d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:GS Bree-Beek A – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 16\nhttps://goalio.be/nl/wedstrijd/gs-bree-be
+ ek-a-kfc-turnhout-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/gs-bree-beek-a-kfc-turnhout-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d045b15ca8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KFC Turnhout – KVC Lille United A
+DESCRIPTION:D3 VV B\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f8358a42c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:ASV Geel – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a49c373d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T183000Z
+DTEND:20261219T201500Z
+SUMMARY:KFC Turnhout – WS Schoonbeek-Bilzen A
+DESCRIPTION:D3 VV B\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da454f60d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KFC Turnhout – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddad351750@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Lommel SK B – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b652237f02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KFC Turnhout – KAC Betekom A
+DESCRIPTION:D3 VV B\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb2544ea11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:K. Nieuwmoer FC A – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc28985132@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KFC Turnhout – FC Wezel Sport A
+DESCRIPTION:D3 VV B\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4bf3e2dee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Esperanza Pelt A – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd6a4a415c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KFC Turnhout – K. Berg en Dal VV
+DESCRIPTION:D3 VV B\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fcd1e2d35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KFC Turnhout – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c90f960d9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:St. Lenaarts A – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fe8439918@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KFC Turnhout – VK Linden A
+DESCRIPTION:D3 VV B\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-042e7d8edd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:KVC Lille United A – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 31\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8690628653@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Turnhout – GS Bree-Beek A
+DESCRIPTION:D3 VV B\nSpeeldag 32\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4eca71116e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KVV Zepperen-Brustem A – KFC Turnhout
+DESCRIPTION:D3 VV B\nSpeeldag 33\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5141e91ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Turnhout – Achel VV A
+DESCRIPTION:D3 VV B\nSpeeldag 34\nhttps://goalio.be/nl/ploeg/kfc-turnhout/
+URL:https://goalio.be/nl/ploeg/kfc-turnhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R Dinant FC A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-dinant-fc-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6b1117f02c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RCS Profondeville A 1-4 R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rcs-profondeville-a-r-dinant-fc-a-2026-11-01/
+URL:https://goalio.be/fr/match/rcs-profondeville-a-r-dinant-fc-a-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-101cbd8baf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R Dinant FC A 1-0 RUS Pondrome A
+DESCRIPTION:2e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /r-dinant-fc-a-rus-pondrome-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-dinant-fc-a-rus-pondrome-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db1cc4aa27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FCE Tarciennois A 4-1 R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /fce-tarciennois-a-r-dinant-fc-a-2026-11-15/
+URL:https://goalio.be/fr/match/fce-tarciennois-a-r-dinant-fc-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a33c1f53e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R Dinant FC A – RUS Biesme B (remis)
+DESCRIPTION:2e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /r-dinant-fc-a-rus-biesme-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-dinant-fc-a-rus-biesme-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b1ab1850a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Sp Exc Jemeppe A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /sp-exc-jemeppe-a-r-dinant-fc-a-2026-11-29/
+URL:https://goalio.be/fr/match/sp-exc-jemeppe-a-r-dinant-fc-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-386512b6df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R Dinant FC A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8adbe6668@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RFC Bioul 81 A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15e5fa9244@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R Dinant FC A – FC Malonne 2000 A
+DESCRIPTION:2e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-583eebe275@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:U.S. Flavion-Morialmé A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-038ff69928@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R Dinant FC A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a105c219e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:ES Petigny-Frasnes A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e833818d70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R Dinant FC A – RFC Surice A
+DESCRIPTION:2e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aec4c260d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:US Thy-Chateau A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-937087898c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R Dinant FC A – R Exc FC Moustier A
+DESCRIPTION:2e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff822c5029@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R Anhée FC A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d89093f88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R Dinant FC A – RCS Profondeville A
+DESCRIPTION:2e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-681f473012@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RUS Pondrome A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c82d0af00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R Dinant FC A – FCE Tarciennois A
+DESCRIPTION:2e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1055306393@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RUS Biesme B – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f45fae352f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R Dinant FC A – Sp Exc Jemeppe A
+DESCRIPTION:2e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/r-dinant-fc-a/
+URL:https://goalio.be/fr/equipe/r-dinant-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

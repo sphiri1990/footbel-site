@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cercle Brugge · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/cercle-brugge/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7a69eeaf1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T123000Z
+DTEND:20261101T141500Z
+SUMMARY:Cercle Brugge 2-1 Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/cer
+ cle-brugge-antwerp-2026-11-01/
+URL:https://goalio.be/fr/match/cercle-brugge-antwerp-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-222f1a1264@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T194500Z
+DTEND:20261107T213000Z
+SUMMARY:RAAL La Louvière 0-1 Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/raa
+ l-la-louviere-cercle-brugge-2026-11-07/
+URL:https://goalio.be/fr/match/raal-la-louviere-cercle-brugge-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47ee97591e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261120T194500Z
+DTEND:20261120T213000Z
+SUMMARY:Cercle Brugge 1-0 KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/cer
+ cle-brugge-kvc-westerlo-2026-11-20/
+URL:https://goalio.be/fr/match/cercle-brugge-kvc-westerlo-2026-11-20/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24a5cbe849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T171500Z
+DTEND:20261128T190000Z
+SUMMARY:Cercle Brugge – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/cer
+ cle-brugge-kv-mechelen-2026-11-28/
+URL:https://goalio.be/fr/match/cercle-brugge-kv-mechelen-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5891e96df5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T194500Z
+DTEND:20261212T213000Z
+SUMMARY:SK Beveren – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d8c274bf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T171500Z
+DTEND:20261219T190000Z
+SUMMARY:Cercle Brugge – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7d31624ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164500Z
+SUMMARY:Kortrijk – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0abd836784@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T150000Z
+DTEND:20270117T164500Z
+SUMMARY:Cercle Brugge – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a39f56790@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Gent – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00e958d575@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Cercle Brugge – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-905a0260b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:KV Mechelen – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1a95b8785@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Cercle Brugge – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8629eade50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Sint-Truiden – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-745419efb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Cercle Brugge – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b7036d61f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Zulte Waregem – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5a4775457@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Cercle Brugge – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-011f7b08f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:KVC Westerlo – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04cd9b68bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Cercle Brugge – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe6b854b21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Antwerp – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4c53a52df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Cercle Brugge – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86a408c9b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Anderlecht – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f8d258285@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Cercle Brugge – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe8ccaee75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Genk – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d60212d6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Cercle Brugge – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7af5cd02da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:Lommel United – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/ce
+ rcle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-798f33b9bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:Zulte Waregem – Cercle Brugge
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/cercle-brugge/
+URL:https://goalio.be/fr/equipe/cercle-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

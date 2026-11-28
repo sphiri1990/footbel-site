@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ass. Sp. Club Havinnes · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-75c2da046a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:AC Barry-Carrieres 1-2 Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/ac-barry-carrieres-ass-sp-club-havinnes-2026-11-01/
+URL:https://goalio.be/fr/match/ac-barry-carrieres-ass-sp-club-havinnes-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ad99590cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Ass. Sp. Club Havinnes 3-0 R.U.S. Herseautoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/ass-sp-club-havinnes-r-u-s-herseautoise-2026-11-08/
+URL:https://goalio.be/fr/match/ass-sp-club-havinnes-r-u-s-herseautoise-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-466444aca2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Ass. Sp. Club Havinnes 3-4 R.A.S. Risquons-Tout Mouscron
+DESCRIPTION:4e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/ass-sp-club-havinnes-r-a-s-risquons-tout-mouscron-2026-11-15/
+URL:https://goalio.be/fr/match/ass-sp-club-havinnes-r-a-s-risquons-tout-mou
+ scron-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5599b1b01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Ren. US Tournaisienne – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/ren-us-tournaisienne-ass-sp-club-havinnes-2026-11-22/
+URL:https://goalio.be/fr/match/ren-us-tournaisienne-ass-sp-club-havinnes-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-071aaf91ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Ass. Sp. Club Havinnes – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/ass-sp-club-havinnes-f-c-brunehaut-2026-11-29/
+URL:https://goalio.be/fr/match/ass-sp-club-havinnes-f-c-brunehaut-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b48a54234c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Ass. Sp. Club Havinnes – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a641d1bfe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:C.S. Taintignies – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c1ae47255@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Ass. Sp. Club Havinnes – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e79d99443c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Diables Rouges Rongy – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fed150280@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ass. Sp. Club Havinnes – Ass. Montkainoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c50933559f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Renaissance Sporting Club Bruyelle – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14b120519f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Ass. Sp. Club Havinnes – Entente Velaines Enclusienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13b2e8e1f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Royale J.S. Wez-Guignies – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb17c6fa33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Football Club Etoiles D'Ere – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6232e9fb9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Ass. Sp. Club Havinnes – AC Barry-Carrieres
+DESCRIPTION:4e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a945688be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.U.S. Herseautoise – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fca554ffe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.A.S. Risquons-Tout Mouscron – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d577a110e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Ass. Sp. Club Havinnes – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b004b36690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Brunehaut – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/ass-sp-club-havinnes/
+URL:https://goalio.be/fr/equipe/ass-sp-club-havinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

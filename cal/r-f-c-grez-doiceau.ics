@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Grez-Doiceau · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b86e2d14e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T170000Z
+DTEND:20261101T184500Z
+SUMMARY:R.F.C. Grez-Doiceau 2-3 FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 11\nhttps:/
+ /goalio.be/fr/match/r-f-c-grez-doiceau-fc-walhain-b-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-grez-doiceau-fc-walhain-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3293e88d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:FC. Ronvau Chaumont 1-1 R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 12\nhttps:/
+ /goalio.be/fr/match/fc-ronvau-chaumont-r-f-c-grez-doiceau-2026-11-07/
+URL:https://goalio.be/fr/match/fc-ronvau-chaumont-r-f-c-grez-doiceau-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44b310ca34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T170000Z
+DTEND:20261122T184500Z
+SUMMARY:R.F.C. Grez-Doiceau 2-3 R. Wavre Limal B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 14\nhttps:/
+ /goalio.be/fr/match/r-f-c-grez-doiceau-r-wavre-limal-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-grez-doiceau-r-wavre-limal-b-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9836002a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T184500Z
+DTEND:20261128T203000Z
+SUMMARY:RE Stéphanois B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 15\nhttps:/
+ /goalio.be/fr/match/re-stephanois-b-r-f-c-grez-doiceau-2026-11-28/
+URL:https://goalio.be/fr/match/re-stephanois-b-r-f-c-grez-doiceau-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c9481eec2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.A.S. Jodoigne – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51021e5a8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T184500Z
+SUMMARY:R.F.C. Grez-Doiceau – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-107ce8731c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:SC Perwez – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd7e9ab5f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T170000Z
+DTEND:20270117T184500Z
+SUMMARY:R.F.C. Grez-Doiceau – A.S.E. De Chastre
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70c38d6297@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:ROS Ottignies-LLN B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-089e728ca3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T170000Z
+DTEND:20270131T184500Z
+SUMMARY:R.F.C. Grez-Doiceau – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e58a45b55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:CS Biergeois B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37beb3b4ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T170000Z
+DTEND:20270221T184500Z
+SUMMARY:R.F.C. Grez-Doiceau – SR. Incourt
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa86fb8212@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RCS Nivellois B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71eb1b1d20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T170000Z
+DTEND:20270314T184500Z
+SUMMARY:R.F.C. Grez-Doiceau – All. Huppaytoise
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dca3a9627@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T131500Z
+DTEND:20270321T150000Z
+SUMMARY:FC. Walhain B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4f98beed5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T160000Z
+DTEND:20270404T174500Z
+SUMMARY:R.F.C. Grez-Doiceau – FC. Ronvau Chaumont
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-342597e86a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Wavre Limal B – R.F.C. Grez-Doiceau
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26efce8d89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Grez-Doiceau – RE Stéphanois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/r-f-c-grez-doiceau/
+URL:https://goalio.be/fr/equipe/r-f-c-grez-doiceau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

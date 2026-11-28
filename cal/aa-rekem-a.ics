@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AA Rekem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/aa-rekem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dc3452455f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:E. Mechelen a/d Maas B 1-4 AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/e-mechelen-a-d-maas-b-aa-rekem-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/e-mechelen-a-d-maas-b-aa-rekem-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c484faadf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Sp. Ellikom 2-6 AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/sp-ellikom-aa-rekem-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/sp-ellikom-aa-rekem-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8488a6baeb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:AA Rekem A 1-2 VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/aa-rekem-a-vc-kesselt-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/aa-rekem-a-vc-kesselt-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f5a75f9fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Boorsem Sport B 3-3 AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/boorsem-sport-b-aa-rekem-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/boorsem-sport-b-aa-rekem-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e53a131605@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:AA Rekem A – SLW Maaseik A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/aa-rekem-a-slw-maaseik-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/aa-rekem-a-slw-maaseik-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff12ad422a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Umitspor Maasmechelen A – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d302aab90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Opitter FC – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6679cbe9a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:AA Rekem A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-829843c70e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T144500Z
+DTEND:20270117T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c2e2d9ecd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:AA Rekem A – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-522054f24d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:VC Kesselt – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad08b62a1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:AA Rekem A – As-Niel Utd. A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9b07fa8fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. Waterloos-Voorshoven VV – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b820e36e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:AA Rekem A – FC Veldwezelt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2eb88396dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T191500Z
+DTEND:20270306T210000Z
+SUMMARY:E. Louwel A – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-153cfc0a50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:AA Rekem A – Umitspor Maasmechelen A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b72f8c9f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:SLW Maaseik A – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5f090aad3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:AA Rekem A – Boorsem Sport B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-492e7f10f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:AA Rekem A – Sp. Ellikom
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8b95c9091@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:Neeroeteren FC A – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-931d15abb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:AA Rekem A – E. Mechelen a/d Maas B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/aa-rekem-a/
+URL:https://goalio.be/nl/ploeg/aa-rekem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

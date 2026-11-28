@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Herderen-Millen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-herderen-millen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a379dff9b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:FC Herderen-Millen 3-1 JB Eigenbilzen A
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/fc-herderen-millen-jb-eigenbilzen-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/fc-herderen-millen-jb-eigenbilzen-a-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1dc2100d6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Herderen-Millen 3-0 Zutendaal VV B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-herderen-millen-zutendaal-vv-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-herderen-millen-zutendaal-vv-b-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f9db7f610@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T161500Z
+DTEND:20261114T180000Z
+SUMMARY:VV Hoeselt B 5-2 FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/vv-hoeselt-b-fc-herderen-millen-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/vv-hoeselt-b-fc-herderen-millen-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-993ecbb595@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Herderen-Millen 4-2 K.F. Smeermaas
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-herderen-millen-k-f-smeermaas-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-herderen-millen-k-f-smeermaas-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecfd49d525@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Membruggen V&V – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/membruggen-v-v-fc-herderen-millen-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/membruggen-v-v-fc-herderen-millen-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4eeaf2fcfa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Herderen-Millen – K. Zw. FC Wiemismeer Zutend B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d838dcf315@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:JB Eigenbilzen A – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-039b140452@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Herderen-Millen – SK Vliermaalroot
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c38933187c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Herderen-Millen – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c89b497b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T113000Z
+DTEND:20270124T131500Z
+SUMMARY:Zutendaal VV B – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5453a4bda7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Herderen-Millen – Kortessemse VV B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf08b1cf46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Lanaken VV B – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c63ca10bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Herderen-Millen – VV Hoeselt B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ed536816a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Riemst V. – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f9c8b679b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Uikhoven VC – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35000dab6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K.F. Smeermaas – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b88987538@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Herderen-Millen – Membruggen V&V
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de725b14a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:UNICO Tongeren B – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec74b70ded@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Herderen-Millen – V. 's Herenelderen B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ee418a09a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Zw. FC Wiemismeer Zutend B – FC Herderen-Millen
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/fc-herderen-millen/
+URL:https://goalio.be/nl/ploeg/fc-herderen-millen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

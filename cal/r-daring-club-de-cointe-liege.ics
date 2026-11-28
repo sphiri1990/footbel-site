@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Daring Club de Cointe-Liège · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bccbe91fa3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.U.S. Montagnarde 1-1 R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-u-s-montagnarde-r-daring-club-de-cointe-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-montagnarde-r-daring-club-de-cointe-li
+ ege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0be7d49b43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Daring Club de Cointe-Liège 7-1 Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-daring-club-de-cointe-liege-entente-sportive-tilleur-4-prov-c-liege-20
+ 26-11-15/
+URL:https://goalio.be/fr/match/r-daring-club-de-cointe-liege-entente-sporti
+ ve-tilleur-4-prov-c-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-684aa0e015@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:F.C. Ans B – R. Daring Club de Cointe-Liège (remis)
+DESCRIPTION:4e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-ans-b-r-daring-club-de-cointe-liege-2026-11-21/
+URL:https://goalio.be/fr/match/f-c-ans-b-r-daring-club-de-cointe-liege-2026
+ -11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ab229c3cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Daring Club de Cointe-Liège – Engis Football Club
+DESCRIPTION:4e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-daring-club-de-cointe-liege-engis-football-club-2026-11-29/
+URL:https://goalio.be/fr/match/r-daring-club-de-cointe-liege-engis-football
+ -club-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2f1fcffc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Daring Club de Cointe-Liège – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0550c77f56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27af1e2c4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Daring Club de Cointe-Liège – J.S. du Thier-à-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6470d3a3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Illyrian Blegny B – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-934692385f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Daring Club de Cointe-Liège – MS Herstal Milmort B
+DESCRIPTION:4e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8cf53eaed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Herstal – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c69a64f376@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Daring Club de Cointe-Liège – FC Les Oranges de Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf4b432a3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. Pierreuse – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e68caf44f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Cfc Pontisse Herstal – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12cffe8114@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Daring Club de Cointe-Liège – FC Rapide Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c03d413aff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Daring Club de Cointe-Liège – R.U.S. Montagnarde
+DESCRIPTION:4e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da764dd2e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Entente Sportive Tilleur – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16dc771589@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Daring Club de Cointe-Liège – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b3016b83b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Engis Football Club – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-daring-club-de-cointe-liege/
+URL:https://goalio.be/fr/equipe/r-daring-club-de-cointe-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

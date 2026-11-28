@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RCS Xhorisien · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-390b31bcde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:R. Marchin Sport B 0-4 RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-marchin-sport-b-rcs-xhorisien-4-prov-b-liege-2026-11-07/
+URL:https://goalio.be/fr/match/r-marchin-sport-b-rcs-xhorisien-4-prov-b-lie
+ ge-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d65bf4bd13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:RCS Xhorisien 4-5 R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/rcs-xhorisien-4-prov-b-liege-r-sougne-remouch-sp-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-xhorisien-4-prov-b-liege-r-sougne-remouc
+ h-sp-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6f87e545e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Celtic Chaudfontaine FC – RCS Xhorisien (remis)
+DESCRIPTION:4e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/celtic-chaudfontaine-fc-rcs-xhorisien-4-prov-b-liege-2026-11-22/
+URL:https://goalio.be/fr/match/celtic-chaudfontaine-fc-rcs-xhorisien-4-prov
+ -b-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9ea0d4bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:RCS Xhorisien – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/rcs-xhorisien-4-prov-b-liege-r-s-c-tilffois-4-prov-b-liege-2026-11-29/
+URL:https://goalio.be/fr/match/rcs-xhorisien-4-prov-b-liege-r-s-c-tilffois-
+ 4-prov-b-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6540ccae1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RCS Xhorisien – R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fc468bd05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Jeunesse MSN Tilleur B – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e57dfeec3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.S.C. Modave – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-653cdf5854@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T130000Z
+DTEND:20270117T144500Z
+SUMMARY:RCS Xhorisien – U.S. Ferrières
+DESCRIPTION:4e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f9c3c61f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:C.S. D'Ocquier – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3147a03496@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T130000Z
+DTEND:20270131T144500Z
+SUMMARY:RCS Xhorisien – R. Fraiture SP B
+DESCRIPTION:4e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3908ac18d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Apicoles Tilffois – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d244e734c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T133000Z
+DTEND:20270221T151500Z
+SUMMARY:RCS Xhorisien – Groupe De Poulseur
+DESCRIPTION:4e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3aa170bd1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R. Harzé F.C. B – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-068b958b93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:RCS Xhorisien – R. All. Clavinoise S.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-343405a06e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RCS Xhorisien – R. Marchin Sport B
+DESCRIPTION:4e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-434b465e1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Sougne-Remouch. Sp. – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5931da48d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:RCS Xhorisien – Celtic Chaudfontaine FC
+DESCRIPTION:4e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89911293be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Tilffois – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/rcs-xhorisien-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/rcs-xhorisien-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

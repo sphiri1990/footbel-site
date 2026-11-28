@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Saint-Jean Tournai · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7b61d47d87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:R.A.S. Risquons-Tout Mouscron A 0-2 FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-a-s-risquons-tout-mouscron-a-fc-st-jean-tournai-2026-10-31/
+URL:https://goalio.be/fr/match/r-a-s-risquons-tout-mouscron-a-fc-st-jean-to
+ urnai-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-033be1bedf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Saint-Jean Tournai 0-5 S.C. De Nechin
+DESCRIPTION:3e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/fc-st-jean-tournai-s-c-de-nechin-3-prov-a-hainaut-2026-11-08/
+URL:https://goalio.be/fr/match/fc-st-jean-tournai-s-c-de-nechin-3-prov-a-ha
+ inaut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70171fb1e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:A.S. Obigies B 2-0 FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/a-s-obigies-b-fc-st-jean-tournai-2026-11-15/
+URL:https://goalio.be/fr/match/a-s-obigies-b-fc-st-jean-tournai-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f31971850@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Saint-Jean Tournai – F.C. Brunehaut A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/fc-st-jean-tournai-f-c-brunehaut-a-2026-11-22/
+URL:https://goalio.be/fr/match/fc-st-jean-tournai-f-c-brunehaut-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07d0fba852@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:R.F.C. Herinnes – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-f-c-herinnes-fc-st-jean-tournai-2026-11-28/
+URL:https://goalio.be/fr/match/r-f-c-herinnes-fc-st-jean-tournai-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cf2a681f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:A.C. Estaimbourg – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59ce0b7981@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Saint-Jean Tournai – R.S.C. Templeuvois A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecee7fbb9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-810b277ab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC Saint-Jean Tournai – SB Stade Mouscronnois B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d66dabc485@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C. Molenbaix B – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e5f6091d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Saint-Jean Tournai – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8dba5b4cb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:Ent. Velaines Enclusienne A – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee5a50493d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Saint-Jean Tournai – F.C. Esplechin
+DESCRIPTION:3e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2688a19bf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Royal Tournai Football Club B – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae31d594f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Saint-Jean Tournai – F.C. Bleharies
+DESCRIPTION:3e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-072f27e88e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Saint-Jean Tournai – R.A.S. Risquons-Tout Mouscron A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-215f137fe6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:S.C. De Nechin – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c479d7a33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Saint-Jean Tournai – A.S. Obigies B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf0fc14998@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Brunehaut A – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae1f914ac2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Saint-Jean Tournai – R.F.C. Herinnes
+DESCRIPTION:3e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/fc-st-jean-tournai/
+URL:https://goalio.be/fr/equipe/fc-st-jean-tournai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

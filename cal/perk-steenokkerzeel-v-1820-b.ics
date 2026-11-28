@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Perk Steenokkerzeel V. 1820 B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2dc0da22f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B 4-0 KCS Machelen B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/perk-steenokkerzeel-v-1820-b-kcs-machelen-b-2026-10-31/
+URL:https://goalio.be/fr/match/perk-steenokkerzeel-v-1820-b-kcs-machelen-b-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddca00913f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. Sp. Amicii Tange – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a723dda9e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B 4-3 VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/perk-steenokkerzeel-v-1820-b-vv-groot-kapelle-b-2026-11-14/
+URL:https://goalio.be/fr/match/perk-steenokkerzeel-v-1820-b-vv-groot-kapell
+ e-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae9ef9a6ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Zemst Sp. B 1-4 Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/zemst-sp-b-perk-steenokkerzeel-v-1820-b-2026-11-21/
+URL:https://goalio.be/fr/match/zemst-sp-b-perk-steenokkerzeel-v-1820-b-2026
+ -11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b170870d63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Infinity FC Vilvoorde – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e9169cb5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:FC Inkad Diegem B – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f945e6647@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – K. Sp. Amicii Tange
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-091ab0e616@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – SK Laar
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ad5d22e80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:AC Bormstraat Kapelle – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f00f56f8ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T160000Z
+DTEND:20270214T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cbda69180@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – KCVV Elewijt B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25495a381c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KFC Eppegem B – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b817a396c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – KV Woluwe-Zaventem B (annulé)
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4dd910d6ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T160000Z
+DTEND:20270314T174500Z
+SUMMARY:KCS Machelen B – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbb3484355@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19268ba7eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – Infinity FC Vilvoorde
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ef11d2be0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5240d08e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VV Groot Kapelle B – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/perk-steenokkerzeel-v-1820-b/
+URL:https://goalio.be/fr/equipe/perk-steenokkerzeel-v-1820-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

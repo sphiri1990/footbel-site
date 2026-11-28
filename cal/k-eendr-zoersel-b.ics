@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Eendr. Zoersel B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6b16896a8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Minderhout VV B 1-2 K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/minderhout-vv-b-k-eendr-zoersel-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/minderhout-vv-b-k-eendr-zoersel-b-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b5597b85c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261113T190000Z
+DTEND:20261113T204500Z
+SUMMARY:K. Eendr. Zoersel B 1-5 K. Meerle FC
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-eendr-zoersel-b-k-meerle-fc-2026-11-13/
+URL:https://goalio.be/nl/wedstrijd/k-eendr-zoersel-b-k-meerle-fc-2026-11-13
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7a2a7f174@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KVK Westmalle 2-3 K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kvk-westmalle-k-eendr-zoersel-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kvk-westmalle-k-eendr-zoersel-b-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a21560d8af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. Eendr. Zoersel B – K. Sint Job FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-eendr-zoersel-b-k-sint-job-fc-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-eendr-zoersel-b-k-sint-job-fc-b-2026-1
+ 1-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2495ab8e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K. Wuustwezel FC B – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1458debd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. Eendr. Zoersel B – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b08cac60b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC Zwarte Leeuw B – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ade854189@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:KFC Antonia B – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9f46bf9e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. Eendr. Zoersel B – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-397233dd8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. Sint Job FC B – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f60043b1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. Eendr. Zoersel B – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d271a9f5d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:St. Lenaarts B – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c57d50a944@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Eendr. Zoersel B – FC Bucovina Loenhout
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eec3b6924c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:Loenhout SK B – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b825c58432@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Eendr. Zoersel B – Minderhout VV B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24338daabc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Meerle FC – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-123833406b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K. Eendr. Zoersel B – K. Wuustwezel FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94d23e670a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KFC Wechelderzande – K. Eendr. Zoersel B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6da7776d4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Eendr. Zoersel B – St. Jozef
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-eendr-zoersel-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-zoersel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

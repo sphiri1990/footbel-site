@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Enghiennois B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fff7e92f69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Enghiennois B 1-4 R.F.C. Wiersien A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/f-c-enghiennois-b-r-f-c-wiersien-a-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-enghiennois-b-r-f-c-wiersien-a-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3943155ad2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.U.S. Hensies A 10-0 F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-u-s-hensies-a-f-c-enghiennois-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-hensies-a-f-c-enghiennois-b-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8daa72c860@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Enghiennois B 2-4 A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-enghiennois-b-a-c-estaimbourg-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-enghiennois-b-a-c-estaimbourg-a-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e36f81d6dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.U.S. Beloeil A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-u-s-beloeil-a-f-c-enghiennois-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-u-s-beloeil-a-f-c-enghiennois-b-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1106b5d585@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Enghiennois B – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-enghiennois-b-cs-pays-vert-ostiches-ath-b-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-enghiennois-b-cs-pays-vert-ostiches-ath-
+ b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ed8c7eddf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Enghiennois B – J.S. Isièroise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06d0c7c6c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5c8106b25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Enghiennois B – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1581cfa2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Péruwelz FC A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6833c6f05f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:J.S. Meslin-Grand Marais A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-755d3684e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Enghiennois B – A.C. Anvaing A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-adc1b956e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:DR Rongy A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce96d48ce2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Enghiennois B – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5817108735@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.U.S. Herseautoise A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-599722ee0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Enghiennois B – A.S. Obigies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1c901005b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Wiersien A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c06778af68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Enghiennois B – R.U.S. Hensies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56eaa78286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:A.C. Estaimbourg A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbe89643b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Enghiennois B – R.U.S. Beloeil A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e5092f5a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-enghiennois-b/
+URL:https://goalio.be/fr/equipe/f-c-enghiennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

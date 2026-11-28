@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RDK Gravelo · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/rdk-gravelo/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dd93123f32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:UNICO Tongeren A 2-1 RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/unico-tongeren-a-rdk-gravelo-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/unico-tongeren-a-rdk-gravelo-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f6236aa40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RDK Gravelo 5-2 SK Moelingen
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/rdk-gravelo-sk-moelingen-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/rdk-gravelo-sk-moelingen-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16a4955d16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Diepenbeek A 2-2 RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/fc-diepenbeek-a-rdk-gravelo-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/fc-diepenbeek-a-rdk-gravelo-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9eab1639e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RDK Gravelo 0-3 Juve Hasselt A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/rdk-gravelo-juve-hasselt-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/rdk-gravelo-juve-hasselt-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03952ba43f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:Sp. Kolmont – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/sp-kolmont-rdk-gravelo-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/sp-kolmont-rdk-gravelo-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccf4513beb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RDK Gravelo – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92c40806a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:WS Linkhout A – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ab61fc3b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:RDK Gravelo – VV Lummen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-233290a0df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Vliermaal – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d9751d7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Juve Hasselt A – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fe9538f95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RDK Gravelo – FC Diepenbeek A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0b41f3298@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RDK Gravelo – Lanaken VV A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-582ff4dd00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:SK Moelingen – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a32c649e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RDK Gravelo – UNICO Tongeren A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20582b1034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KMR Biesen A – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccedba9b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RDK Gravelo – K. Zw. FC Wiemismeer Zutend A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3750eef68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:E. Mech Bovelingen Opheers – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01dea499e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:HO Heide Hasselt – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85e094e4bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RDK Gravelo – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89a686b327@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:HIH Hoepertingen A – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4dc749b0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RDK Gravelo – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/rdk-gravelo/
+URL:https://goalio.be/nl/ploeg/rdk-gravelo/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

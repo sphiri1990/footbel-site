@@ -1,0 +1,334 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KV Mechelen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kv-mechelen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-55fa5eb0b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T150000Z
+DTEND:20261031T164500Z
+SUMMARY:KV Mechelen 1-0 Genk
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/kv-
+ mechelen-genk-2026-10-31/
+URL:https://goalio.be/fr/match/kv-mechelen-genk-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e54c086034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261104T193000Z
+DTEND:20261104T211500Z
+SUMMARY:Kortrijk 1-3 KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 9\nhttps://goalio.be/fr/match/kort
+ rijk-kv-mechelen-2026-11-04/
+URL:https://goalio.be/fr/match/kortrijk-kv-mechelen-2026-11-04/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d34acf39ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T171500Z
+DTEND:20261107T190000Z
+SUMMARY:OH Leuven 2-0 KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/oh-
+ leuven-kv-mechelen-2026-11-07/
+URL:https://goalio.be/fr/match/oh-leuven-kv-mechelen-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd97aef846@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T194500Z
+DTEND:20261121T213000Z
+SUMMARY:KV Mechelen 1-5 Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/kv-
+ mechelen-club-brugge-kv-2026-11-21/
+URL:https://goalio.be/fr/match/kv-mechelen-club-brugge-kv-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24a5cbe849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T171500Z
+DTEND:20261128T190000Z
+SUMMARY:Cercle Brugge – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/cer
+ cle-brugge-kv-mechelen-2026-11-28/
+URL:https://goalio.be/fr/match/cercle-brugge-kv-mechelen-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b4eb6e2fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T173000Z
+DTEND:20261213T191500Z
+SUMMARY:KV Mechelen – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-746133db70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:SK Beveren – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c6f30e756@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261227T181500Z
+DTEND:20261227T200000Z
+SUMMARY:KV Mechelen – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c18de49f35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T194500Z
+DTEND:20270116T213000Z
+SUMMARY:Antwerp – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebee96dffb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:KV Mechelen – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70024a8ab8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Sint-Truiden – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-905a0260b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:KV Mechelen – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3e2e93a63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Anderlecht – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cf60d3513@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:KV Mechelen – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ed6e83111@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:KVC Westerlo – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba98f89a99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:KV Mechelen – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5895425e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Standard Liège – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dc878a7c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:KV Mechelen – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a53f1cec7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Union Saint-Gilloise – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2300453202@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:KV Mechelen – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5380a1e98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:KV Mechelen – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0ad6aace6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Zulte Waregem – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-054076204d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:KV Mechelen – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d39e6bcf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Club Brugge KV – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e7724a58a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:KV Mechelen – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c5e46fee8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:Genk – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/kv
+ -mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34545d7746@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T123000Z
+DTEND:20261206T141500Z
+SUMMARY:Rochefort – KV Mechelen
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/kv-mechelen/
+URL:https://goalio.be/fr/equipe/kv-mechelen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

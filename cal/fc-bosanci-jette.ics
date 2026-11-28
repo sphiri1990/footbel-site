@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Bosanci Jette · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-bosanci-jette/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-765588cfe2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:Berchem Brussels FC 2-3 FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 8\nhttps://
+ goalio.be/fr/match/berchem-brussels-fc-fc-bosanci-jette-2026-11-01/
+URL:https://goalio.be/fr/match/berchem-brussels-fc-fc-bosanci-jette-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8734323cef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:FC Bosanci Jette 4-1 Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 9\nhttps://
+ goalio.be/fr/match/fc-bosanci-jette-racing-club-forestois-2026-11-07/
+URL:https://goalio.be/fr/match/fc-bosanci-jette-racing-club-forestois-2026-
+ 11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15e71e0990@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:A.S.A. Molenbeek 2-6 FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/a-s-a-molenbeek-fc-bosanci-jette-2026-11-14/
+URL:https://goalio.be/fr/match/a-s-a-molenbeek-fc-bosanci-jette-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cf2a8074d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:FC Bosanci Jette 2-1 AS Brussels City B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 12\nhttps:/
+ /goalio.be/fr/match/fc-bosanci-jette-as-brussels-city-b-2026-11-21/
+URL:https://goalio.be/fr/match/fc-bosanci-jette-as-brussels-city-b-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c4ed82132@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Aca. Jeun. Molenbeek B – FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/aca-jeun-molenbeek-b-fc-bosanci-jette-2026-11-29/
+URL:https://goalio.be/fr/match/aca-jeun-molenbeek-b-fc-bosanci-jette-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0593c02aaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T170000Z
+DTEND:20261206T184500Z
+SUMMARY:AS Brussels City B – FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6af63d555d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:FC Bosanci Jette – Aca. Jeun. Molenbeek B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c36d2f2b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T183000Z
+DTEND:20261219T201500Z
+SUMMARY:FC Bosanci Jette – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cc27e044d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:FC Bosanci Jette – NSeth Berchem (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a88d524deb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Anneessens 25 Brussels. – FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bfae46338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:FC Bosanci Jette – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43b02d409b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Suryoyés Bruxellois – FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ba57d2097@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:FC Bosanci Jette – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87c2637281@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Anderlecht Sport Milan – FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9de463f1fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FC Bosanci Jette – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68e3854c9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Racing Club Forestois – FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4d9f57d03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Bosanci Jette – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/fc-bosanci-jette/
+URL:https://goalio.be/fr/equipe/fc-bosanci-jette/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UN St. André Ochamps B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6d59349e7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:UN St. André Ochamps B 7-0 RLC Warmifontaine
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/un-st-andre-ochamps-b-rlc-warmifontaine-2026-10-31/
+URL:https://goalio.be/fr/match/un-st-andre-ochamps-b-rlc-warmifontaine-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d45d978131@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:UN St. André Ochamps B 2-0 RCS Libramontois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/un-st-andre-ochamps-b-rcs-libramontois-b-2026-11-07/
+URL:https://goalio.be/fr/match/un-st-andre-ochamps-b-rcs-libramontois-b-202
+ 6-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d839ff162c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T190000Z
+DTEND:20261111T204500Z
+SUMMARY:UN St. André Ochamps B 2-1 RUS Ste Ode A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 7\nhttps://goalio.be/fr/m
+ atch/un-st-andre-ochamps-b-rus-ste-ode-a-2026-11-11/
+URL:https://goalio.be/fr/match/un-st-andre-ochamps-b-rus-ste-ode-a-2026-11-
+ 11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1294eb5f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Athl. Florenvillois B 0-0 UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/athl-florenvillois-b-un-st-andre-ochamps-b-2026-11-15/
+URL:https://goalio.be/fr/match/athl-florenvillois-b-un-st-andre-ochamps-b-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10f45c1152@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:UN St. André Ochamps B – RES Bourcy (remis)
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/un-st-andre-ochamps-b-res-bourcy-2026-11-21/
+URL:https://goalio.be/fr/match/un-st-andre-ochamps-b-res-bourcy-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38808a9e2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RUS Léglise – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/rus-leglise-un-st-andre-ochamps-b-2026-11-29/
+URL:https://goalio.be/fr/match/rus-leglise-un-st-andre-ochamps-b-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69b99e0b9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RJS Mageretoise – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2842cebf8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:UN St. André Ochamps B – ES Saint-Pierre A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dd643aa63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. St. FC Bouillon A – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6fddd6dda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:UN St. André Ochamps B – FC Bertrix A
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-734b06d632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RUS Ste Ode A – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b81775e288@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:UN St. André Ochamps B – FC Les Cerfs Grandvoir
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59f1363e39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RAC Neuvillers A – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b620bda14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:UN St. André Ochamps B – RUS Tellinoise
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 23\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1de1b8bca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RLC Warmifontaine – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f46062985b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Libramontois B – UN St. André Ochamps B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad0a1e4cc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:UN St. André Ochamps B – Athl. Florenvillois B
+DESCRIPTION:2e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/un-st-andre-ochamps-b/
+URL:https://goalio.be/fr/equipe/un-st-andre-ochamps-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

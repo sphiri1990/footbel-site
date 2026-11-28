@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Muizen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-muizen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-94797e242d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VC Rijmenam 4-0 KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/vc-rijmenam-kfc-muizen-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vc-rijmenam-kfc-muizen-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7652e1446@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KFC Muizen 6-1 SV Grasheide
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-muizen-sv-grasheide-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-muizen-sv-grasheide-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92c7115b47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Atletico Adler FC Bonheiden 1-3 KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/atletico-adler-fc-bonheiden-kfc-muizen-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/atletico-adler-fc-bonheiden-kfc-muizen-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2792d8121@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KFC Muizen 2-0 K.S.C. Mechelen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kfc-muizen-k-s-c-mechelen-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfc-muizen-k-s-c-mechelen-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dfb3794f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T113000Z
+DTEND:20261129T131500Z
+SUMMARY:K.S.K. Wavria B – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-s-k-wavria-b-kfc-muizen-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-wavria-b-kfc-muizen-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4553c0f2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KFC Muizen – KFC Lint
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aee0800756@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Football Club Duffel B – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8894c8c24e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KFC Muizen – KV Bonheiden B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b285c3955@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Heffen SK – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9f83895ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KFC Muizen – K.S.K. Wavria B
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4f1f40f12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K.F.C. Putte B – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d406014190@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Muizen – KV Hooikt
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93c981a2bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:SV Grasheide – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cc5f67880@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Muizen – K. VV Duffel
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c50e1a1511@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Lint – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29cb08b1d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC Muizen – Zenn. Hombeek
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a50fb457dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K.S.C. Mechelen – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f8f2842f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Muizen – VC Rijmenam
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c0b131d0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. BO Beerzel FC – KFC Muizen
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4143102412@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Muizen – Atletico Adler FC Bonheiden
+DESCRIPTION:4e provinciale Antwerpen D\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-muizen/
+URL:https://goalio.be/nl/ploeg/kfc-muizen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Baal B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kfc-baal-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3df078254e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T111500Z
+DTEND:20261101T130000Z
+SUMMARY:KFC Baal B 2-3 VK Holsbeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/kfc-baal-b-vk-holsbeek-b-2026-11-01/
+URL:https://goalio.be/fr/match/kfc-baal-b-vk-holsbeek-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d629f91fac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:HO Veltem B 1-0 KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/ho-veltem-b-kfc-baal-b-2026-11-07/
+URL:https://goalio.be/fr/match/ho-veltem-b-kfc-baal-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75d7ce6505@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T111500Z
+DTEND:20261115T130000Z
+SUMMARY:KFC Baal B 0-3 VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/kfc-baal-b-vk-linden-b-2026-11-15/
+URL:https://goalio.be/fr/match/kfc-baal-b-vk-linden-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae0b496075@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:K. Eur. 90 Kraainem B 3-3 KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/k-eur-90-kraainem-b-kfc-baal-b-2026-11-21/
+URL:https://goalio.be/fr/match/k-eur-90-kraainem-b-kfc-baal-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1420f1edf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T160000Z
+DTEND:20261206T174500Z
+SUMMARY:ERC Hoeilaart B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7206207c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T111500Z
+DTEND:20261213T130000Z
+SUMMARY:KFC Baal B – DC Wezembeek-Oppem
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5a2e66ff1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:FC Moorsel B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a5213eefb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T111500Z
+DTEND:20270117T130000Z
+SUMMARY:KFC Baal B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b93a60571@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T111500Z
+DTEND:20270124T130000Z
+SUMMARY:KFC Baal B – HO Veltem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55c4e5fde5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KVC Sterrebeek B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f77c3c98c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T114500Z
+DTEND:20270221T133000Z
+SUMMARY:KFC Baal B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d22c8665c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KSC Keerbergen – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d04955c4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T114500Z
+DTEND:20270307T133000Z
+SUMMARY:KFC Baal B – Football Club Kortenberg United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf3276d3ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:VK Linden B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ab2f3faee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T114500Z
+DTEND:20270321T133000Z
+SUMMARY:KFC Baal B – K. Eur. 90 Kraainem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b78c04f6a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T151500Z
+DTEND:20270410T170000Z
+SUMMARY:VK Holsbeek B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1925a1e026@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T104500Z
+DTEND:20270418T123000Z
+SUMMARY:KFC Baal B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7b912ad27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Werchter A – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kfc-baal-b/
+URL:https://goalio.be/fr/equipe/kfc-baal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

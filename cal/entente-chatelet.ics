@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entente Chatelet · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/entente-chatelet/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bde9e51f37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.E.S. Roux 0-5 Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-e-s-roux-4-prov-f-hainaut-entente-chatelet-2026-11-01/
+URL:https://goalio.be/fr/match/r-e-s-roux-4-prov-f-hainaut-entente-chatelet
+ -2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e1f9ac469@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Entente Chatelet 4-1 F.C. Bouffioulx
+DESCRIPTION:4e provinciale Hainaut F\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/entente-chatelet-f-c-bouffioulx-2026-11-08/
+URL:https://goalio.be/fr/match/entente-chatelet-f-c-bouffioulx-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37c682ac82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:A.F. US St Amand-Brye – Entente Chatelet (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/a-f-us-st-amand-brye-entente-chatelet-2026-11-15/
+URL:https://goalio.be/fr/match/a-f-us-st-amand-brye-entente-chatelet-2026-1
+ 1-15/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c767f0b0f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Entente Chatelet – Football Club Fleurus
+DESCRIPTION:4e provinciale Hainaut F\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/entente-chatelet-football-club-fleurus-2026-11-22/
+URL:https://goalio.be/fr/match/entente-chatelet-football-club-fleurus-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4aa1afa76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Black Country Charleroi – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/black-country-charleroi-entente-chatelet-2026-11-29/
+URL:https://goalio.be/fr/match/black-country-charleroi-entente-chatelet-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a72c98a029@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Carolo Football Charleroi – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f74c5553d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Entente Chatelet – FC Châtelineau (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea89f4d627@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Entente Chatelet – Racing A.C.S. Couillet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed780b1ea0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R. Jumet S.C. B – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f817eb88d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Entente Chatelet – Mellet Sports
+DESCRIPTION:4e provinciale Hainaut F\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a09318c30f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.E.S. Frasnoise B – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0509d79293@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Entente Chatelet – J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc8da233e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Racing Club Marcinelle – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57f406f357@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Entente Chatelet – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f59c54162a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RFC Baulet – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6506b8a0d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Entente Chatelet – R.E.S. Roux
+DESCRIPTION:4e provinciale Hainaut F\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35caadead1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Bouffioulx – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e88d4bbad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Entente Chatelet – A.F. US St Amand-Brye (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92823db17f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Football Club Fleurus – Entente Chatelet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa59a5ae5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Entente Chatelet – Black Country Charleroi
+DESCRIPTION:4e provinciale Hainaut F\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/entente-chatelet/
+URL:https://goalio.be/fr/equipe/entente-chatelet/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

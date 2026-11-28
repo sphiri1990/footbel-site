@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cfc Pontisse Herstal · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-61bf537af4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Aubel F.C. 2-3 Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-aubel-f-c-2-prov-b-liege-cfc-pontisse-herstal-2026-11-01/
+URL:https://goalio.be/fr/match/r-aubel-f-c-2-prov-b-liege-cfc-pontisse-hers
+ tal-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89b5cdb690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Cfc Pontisse Herstal 2-1 Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/cfc-pontisse-herstal-royal-sprimont-banneux-2-prov-b-liege-2026-11-08/
+URL:https://goalio.be/fr/match/cfc-pontisse-herstal-royal-sprimont-banneux-
+ 2-prov-b-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4ab209df9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Cornesse F.C. 4-2 Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-cornesse-f-c-cfc-pontisse-herstal-2026-11-15/
+URL:https://goalio.be/fr/match/r-cornesse-f-c-cfc-pontisse-herstal-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98d173b03e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Cfc Pontisse Herstal – R. Alliance Melen-Micheroux (remis)
+DESCRIPTION:2e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/cfc-pontisse-herstal-r-alliance-melen-micheroux-2026-11-22/
+URL:https://goalio.be/fr/match/cfc-pontisse-herstal-r-alliance-melen-micher
+ oux-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96ae7f507b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.A.C. Hombourg – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-a-c-hombourg-cfc-pontisse-herstal-2026-11-29/
+URL:https://goalio.be/fr/match/r-a-c-hombourg-cfc-pontisse-herstal-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8eefef0fb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Ent. Blegnytoise – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-567024c657@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Cfc Pontisse Herstal – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f1d755f7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Entente Jeunesse Fleron – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2b8de6e71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Cfc Pontisse Herstal – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8756687b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:F.C.R. Vise United – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d837246f5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Cfc Pontisse Herstal – R.S.C. Saive
+DESCRIPTION:2e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a4e7327ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.A.S. Houtain – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30cd3d1bad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Cfc Pontisse Herstal – F.C. Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd9566d9e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Un. La Calamine – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62ef09ef68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Cfc Pontisse Herstal – U.C.E. de Liège
+DESCRIPTION:2e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-460ebc835c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Cfc Pontisse Herstal – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-589e4bc193@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Royal Sprimont Banneux – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfa5a7b468@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Cfc Pontisse Herstal – R. Cornesse F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e5bdb9b1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Alliance Melen-Micheroux – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a927dd2c2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Cfc Pontisse Herstal – R.A.C. Hombourg
+DESCRIPTION:2e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/cfc-pontisse-herstal/
+URL:https://goalio.be/fr/equipe/cfc-pontisse-herstal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Marbaisien · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-marbaisien/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e1d04b4770@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Marbaisien 2-2 Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/f-c-marbaisien-jeunesse-sportive-erpion-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-marbaisien-jeunesse-sportive-erpion-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afe88ae0a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:J.S. Froidchapelloise B 7-1 F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/j-s-froidchapelloise-b-f-c-marbaisien-2026-11-07/
+URL:https://goalio.be/fr/match/j-s-froidchapelloise-b-f-c-marbaisien-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aec55c64a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Marbaisien 2-1 R.R.C. De Rance
+DESCRIPTION:4e provinciale Hainaut G\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-marbaisien-r-r-c-de-rance-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-marbaisien-r-r-c-de-rance-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1df73170a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:U.S. Solrezienne – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/u-s-solrezienne-4-prov-g-hainaut-f-c-marbaisien-2026-11-22/
+URL:https://goalio.be/fr/match/u-s-solrezienne-4-prov-g-hainaut-f-c-marbais
+ ien-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7ce9f8795@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Marbaisien – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-marbaisien-c-s-forges-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-marbaisien-c-s-forges-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c9eb5267a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Marbaisien – Royal Baileux Chimay Sport
+DESCRIPTION:4e provinciale Hainaut G\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-617734c08a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:U.S. Merbesars – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-583425fcd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Marbaisien – Sivry Sports
+DESCRIPTION:4e provinciale Hainaut G\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-feb349e75e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Renaissance US Grand-Reng – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e9277d816@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Marbaisien – R. Exc. Cl. Beaumontois
+DESCRIPTION:4e provinciale Hainaut G\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-208fe8f698@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. La Buissière – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ab2eba866@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Marbaisien – J.S. Jamioulx B
+DESCRIPTION:4e provinciale Hainaut G\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32abaa5338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f94867a084@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Marbaisien – R.R.F.C. Gozee
+DESCRIPTION:4e provinciale Hainaut G\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8068a49eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Jeunesse Sportive Erpion – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45e4d96861@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Marbaisien – J.S. Froidchapelloise B
+DESCRIPTION:4e provinciale Hainaut G\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94b44a1d12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.R.C. De Rance – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57bc16c811@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Marbaisien – U.S. Solrezienne
+DESCRIPTION:4e provinciale Hainaut G\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f073c760be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:C.S. Forges – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-marbaisien/
+URL:https://goalio.be/fr/equipe/f-c-marbaisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

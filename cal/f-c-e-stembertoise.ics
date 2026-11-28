@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C.E. Stembertoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-267d02a1a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Ster-Francorchamps 10-0 F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/fc-ster-francorchamps-f-c-e-stembertoise-2026-10-31/
+URL:https://goalio.be/fr/match/fc-ster-francorchamps-f-c-e-stembertoise-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f92f5bbd9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C.E. Stembertoise 2-3 F.C. 1912 Raeren-Eynatten
+DESCRIPTION:4e provinciale Liège G\nJournée 13\nhttps://goalio.be/fr/matc
+ h/f-c-e-stembertoise-f-c-1912-raeren-eynatten-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-e-stembertoise-f-c-1912-raeren-eynatten-
+ 2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f62a6e592@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T124500Z
+DTEND:20261122T143000Z
+SUMMARY:Alliance Des Hautes Fagnes – F.C.E. Stembertoise (remis)
+DESCRIPTION:4e provinciale Liège G\nJournée 14\nhttps://goalio.be/fr/matc
+ h/alliance-des-hautes-fagnes-f-c-e-stembertoise-2026-11-22/
+URL:https://goalio.be/fr/match/alliance-des-hautes-fagnes-f-c-e-stembertois
+ e-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69406d2cd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C.E. Stembertoise – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-e-stembertoise-r-c-s-jalhaytois-4-prov-g-liege-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-e-stembertoise-r-c-s-jalhaytois-4-prov-g
+ -liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dbc192405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:F.C.E. Stembertoise – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af2f32724b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.F.C. De Goe – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99f7ded1d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C.E. Stembertoise – R. Spa F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd96e17536@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C.E. Stembertoise – R. Baelen F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5e393979a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.C.S. Stavelotain B – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa20a4f81c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C.E. Stembertoise – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1880f4d269@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:T.W. Waimes Faymonville – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e317eebc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C.E. Stembertoise – S.R. UN Verviers B
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc51aeb941@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:K. Honsfelder S.V. B – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4795009ed1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C.E. Stembertoise – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e028c6170@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2981f774a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C.E. Stembertoise – Alliance Des Hautes Fagnes
+DESCRIPTION:4e provinciale Liège G\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b49cdc920@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Jalhaytois – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-e-stembertoise/
+URL:https://goalio.be/fr/equipe/f-c-e-stembertoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

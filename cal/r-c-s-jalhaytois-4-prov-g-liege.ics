@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. Jalhaytois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-756405dc39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:T.W. Waimes Faymonville 2-3 R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/t-w-waimes-faymonville-r-c-s-jalhaytois-4-prov-g-liege-2026-11-01/
+URL:https://goalio.be/fr/match/t-w-waimes-faymonville-r-c-s-jalhaytois-4-pr
+ ov-g-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d6c1a0555@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.C.S. Jalhaytois 3-1 S.R. UN Verviers B
+DESCRIPTION:4e provinciale Liège G\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-c-s-jalhaytois-4-prov-g-liege-s-r-un-verviers-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-c-s-jalhaytois-4-prov-g-liege-s-r-un-vervi
+ ers-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96e178143f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:K. Honsfelder S.V. B 0-3 R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 13\nhttps://goalio.be/fr/matc
+ h/k-honsfelder-s-v-b-r-c-s-jalhaytois-4-prov-g-liege-2026-11-15/
+URL:https://goalio.be/fr/match/k-honsfelder-s-v-b-r-c-s-jalhaytois-4-prov-g
+ -liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d192060791@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.C.S. Jalhaytois – FC Ster-Francorchamps (remis)
+DESCRIPTION:4e provinciale Liège G\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-c-s-jalhaytois-4-prov-g-liege-fc-ster-francorchamps-2026-11-22/
+URL:https://goalio.be/fr/match/r-c-s-jalhaytois-4-prov-g-liege-fc-ster-fran
+ corchamps-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69406d2cd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C.E. Stembertoise – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-e-stembertoise-r-c-s-jalhaytois-4-prov-g-liege-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-e-stembertoise-r-c-s-jalhaytois-4-prov-g
+ -liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04502b9ccc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-764834e1c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.C.S. Jalhaytois – Alliance Des Hautes Fagnes
+DESCRIPTION:4e provinciale Liège G\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d704fa1a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e6afcc2c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.C.S. Jalhaytois – R.F.C. De Goe
+DESCRIPTION:4e provinciale Liège G\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-329ed3a42d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R. Spa F.C. – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8d3fe9037@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Baelen F.C. – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0286bf8652@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. Jalhaytois – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aea90b134e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a368419354@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Jalhaytois – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7aec29f5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:S.R. UN Verviers B – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-243dde4e98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.C.S. Jalhaytois – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef2b38931b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Ster-Francorchamps – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b49cdc920@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Jalhaytois – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-c-s-jalhaytois-4-prov-g-liege/
+URL:https://goalio.be/fr/equipe/r-c-s-jalhaytois-4-prov-g-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

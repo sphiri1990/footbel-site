@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Zwal. Olmen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-zwal-olmen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-af90aad522@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. Zwal. Olmen 3-3 KFC Heidebl. Pulderbos
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-zwal-olmen-kfc-heidebl-pulderbos-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-zwal-olmen-kfc-heidebl-pulderbos-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3e574d5bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:K. SAV St. Dimpna 6-0 K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-sav-st-dimpna-k-zwal-olmen-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-sav-st-dimpna-k-zwal-olmen-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc00bb5a02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K. Zwal. Olmen 4-3 K.F.C. Zammel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-zwal-olmen-k-f-c-zammel-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-zwal-olmen-k-f-c-zammel-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61af82f40e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Verbr. Balen 3-1 K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/verbr-balen-k-zwal-olmen-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/verbr-balen-k-zwal-olmen-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a97f326a10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. Zwal. Olmen – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-zwal-olmen-k-ramsel-fc-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-zwal-olmen-k-ramsel-fc-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8b581ea15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. Merksplas SK – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f58d7c97b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. FC Poppel – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1444efc371@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. Zwal. Olmen – K. SAV St. Dimpna
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4567c35d77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. Zwal. Olmen – KFC Exc. Bouwel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4bb158e2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Waterheide Schorvoort Zevendonk – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd00b7b2ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. Zwal. Olmen – KFC De Kempen TL B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9906225f13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. FC Pulle – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a327238835@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K. Zwal. Olmen – KSK Kasterlee
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7d356de0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Zwaneven – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e33cb50ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. Zwal. Olmen – K.F.C. Houtvenne B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19fb45957d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KFC Heidebl. Pulderbos – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55f06d1c5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K. Zwal. Olmen – Verbr. Balen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c86ba3c772@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K. Ramsel FC – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e487a62f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K. Zwal. Olmen – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-725db4e002@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. Zwal. Olmen – K. Vlimmeren Sp.
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23528e62a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.F.C. Zammel – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-zwal-olmen/
+URL:https://goalio.be/nl/ploeg/k-zwal-olmen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

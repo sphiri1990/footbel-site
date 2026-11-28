@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zeveren Sp A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/zeveren-sp-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-93b30b72e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Zeveren Sp A 5-2 KSKDJ Lovendegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/zeveren-sp-a-kskdj-lovendegem-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/zeveren-sp-a-kskdj-lovendegem-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac6b871bd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Zeveren Sp A 4-0 Oostakker - Azalea
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/zeveren-sp-a-oostakker-azalea-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/zeveren-sp-a-oostakker-azalea-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e2d35e3db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Kleit A 1-1 Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/f-c-kleit-a-zeveren-sp-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/f-c-kleit-a-zeveren-sp-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2209884dc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Zeveren Sp A 1-0 FC Lembeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/zeveren-sp-a-fc-lembeke-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/zeveren-sp-a-fc-lembeke-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f0f1e893@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:KVV Laarne-Kalken A – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-laarne-kalken-a-zeveren-sp-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvv-laarne-kalken-a-zeveren-sp-a-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c8c49b211@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Zeveren Sp A – KSV Melsen
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15b2fbfa95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Zeveren Sp A – KFAC Waarschoot
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aedd061b2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KSKDJ Lovendegem – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-908546b737@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Zeveren Sp A – KVVHT Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a94c0abfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Oostakker - Azalea – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd71f8c4f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Zeveren Sp A – F.C. Kleit A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85ca7caef2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KVVE Massemen A – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f292bda5b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Zeveren Sp A – FC Poesele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-270d303242@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FCSJ Sleidinge – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b528a3d7d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Zeveren Sp A – LS Merendree A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cde5af36c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VC Zwijnaarde A – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1cb4a1da5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Zeveren Sp A – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1daa99fe2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Lembeke – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd92c50b82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KSV Melsen – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1890123404@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Zeveren Sp A – FC Assenede
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00504785d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Nazareth-Eke A – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/zeveren-sp-a/
+URL:https://goalio.be/nl/ploeg/zeveren-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

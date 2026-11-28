@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lutlommel VV A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-603b60cfe4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Lutlommel VV A – Houthalen VV
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/lutlommel-vv-a-houthalen-vv-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/lutlommel-vv-a-houthalen-vv-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-058a82010e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Lutlommel VV A 3-0 N. Gruitrode A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/lutlommel-vv-a-n-gruitrode-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/lutlommel-vv-a-n-gruitrode-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a650916e96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Turkse FC A 2-1 Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/turkse-fc-a-lutlommel-vv-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/turkse-fc-a-lutlommel-vv-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80baa94007@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Lutlommel VV A 2-1 GS Bree-Beek B
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/lutlommel-vv-a-gs-bree-beek-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/lutlommel-vv-a-gs-bree-beek-b-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b65147be4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
+SUMMARY:Thes Sport Tessenderlo B – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/thes-sport-tessenderlo-b-lutlommel-vv-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/thes-sport-tessenderlo-b-lutlommel-vv-a-
+ 2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b35de0ee19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Lutlommel VV A – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97390bcbc3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Houthalen VV – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cd4617e5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Lutlommel VV A – KSK Meeuwen A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8386e1f3cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Lutlommel VV A – Kab. Opglabbeek
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-970f626590@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:N. Gruitrode A – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e79719e0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Lutlommel VV A – Kaulille FC
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-300eca91f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Boorsem Sport A – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-541d89ac51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Lutlommel VV A – Turkse FC A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71abf18d47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:FC Eksel A – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6efddf8e04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K. FC Hamont 99 A – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52cf1d77af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Lutlommel VV A – FC Maasland NO A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5597ec1127@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:GS Bree-Beek B – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34a9c285aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Lutlommel VV A – Thes Sport Tessenderlo B
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80e6c948bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:KRC Peer A – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf8281fc4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Lutlommel VV A – FC Paal-Tervant A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3e2cc1053@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:E. Mechelen a/d Maas A – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/lutlommel-vv-a/
+URL:https://goalio.be/nl/ploeg/lutlommel-vv-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

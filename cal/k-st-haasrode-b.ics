@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. St. Haasrode B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-st-haasrode-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-71ac2e7fe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:K. St. Haasrode B 0-1 RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/k-st-haasrode-b-rwl-sport-a-2026-10-31/
+URL:https://goalio.be/fr/match/k-st-haasrode-b-rwl-sport-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09cc5c2695@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T160000Z
+DTEND:20261108T174500Z
+SUMMARY:SC Out-Hoegaarden B 3-1 K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/sc-out-hoegaarden-b-k-st-haasrode-b-2026-11-08/
+URL:https://goalio.be/fr/match/sc-out-hoegaarden-b-k-st-haasrode-b-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-264bf3f6a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:K. St. Haasrode B 1-1 SC Aarschot A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/k-st-haasrode-b-sc-aarschot-a-2026-11-14/
+URL:https://goalio.be/fr/match/k-st-haasrode-b-sc-aarschot-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e6990c2b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:KVC Kessel-Lo 2000 B 2-1 K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/kvc-kessel-lo-2000-b-k-st-haasrode-b-2026-11-21/
+URL:https://goalio.be/fr/match/kvc-kessel-lo-2000-b-k-st-haasrode-b-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f903528eeb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:K. St. Haasrode B – Boutersem United A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/k-st-haasrode-b-boutersem-united-a-2026-11-28/
+URL:https://goalio.be/fr/match/k-st-haasrode-b-boutersem-united-a-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9874e7959b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:VC Bekkevoort – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f320bc1a6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4dc2d3ee53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:K. St. Haasrode B – SC Out-Hoegaarden B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4128fb8c43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:K. St. Haasrode B – Korbeek Sp.
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4c49f0718@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VS Kortenaken – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f5767e55b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:K. St. Haasrode B – Cr. Vissenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfb18bd30a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Meensel-Kiezegem – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-825c192d3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:K. St. Haasrode B – RD Zoutleeuw A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81b88719d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T193000Z
+DTEND:20270227T211500Z
+SUMMARY:SMS Lubbeek A – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b163b32e1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:K. St. Haasrode B – SNA Keiberg
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f539d76c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RWL Sport A – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9df3d4b835@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:K. St. Haasrode B – KVC Kessel-Lo 2000 B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20d09f5a8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Boutersem United A – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3762faf9e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:K. St. Haasrode B – VC Bekkevoort
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdfc3cc836@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:K. St. Haasrode B – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f812ad9709@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SC Aarschot A – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/k-st-haasrode-b/
+URL:https://goalio.be/fr/equipe/k-st-haasrode-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

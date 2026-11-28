@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Moreda Uccle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5ecdfd67cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Olympic Anderlecht 2-2 F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 9\nhttps://
+ goalio.be/fr/match/olympic-anderlecht-f-c-moreda-uccle-2026-10-31/
+URL:https://goalio.be/fr/match/olympic-anderlecht-f-c-moreda-uccle-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f344b15212@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T173000Z
+DTEND:20261107T191500Z
+SUMMARY:F.C. Moreda Uccle 4-3 Olympique Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 10\nhttps:/
+ /goalio.be/fr/match/f-c-moreda-uccle-olympique-club-forestois-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-moreda-uccle-olympique-club-forestois-20
+ 26-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1474762fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:F.C. Anderlecht Sport Milan 3-1 F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/f-c-anderlecht-sport-milan-3-prov-b-brabant-wallon-bru
+ xelles-f-c-moreda-uccle-2026-11-14/
+URL:https://goalio.be/fr/match/f-c-anderlecht-sport-milan-3-prov-b-brabant-
+ wallon-bruxelles-f-c-moreda-uccle-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c29a40d6f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T191500Z
+SUMMARY:F.C. Moreda Uccle 1-2 FC Polonia Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/f-c-moreda-uccle-fc-polonia-bruxelles-2026-11-21/
+URL:https://goalio.be/fr/match/f-c-moreda-uccle-fc-polonia-bruxelles-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb32f33d00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Un. Auderghem – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/r-un-auderghem-f-c-moreda-uccle-2026-11-29/
+URL:https://goalio.be/fr/match/r-un-auderghem-f-c-moreda-uccle-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f08d5006c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Polonia Bruxelles – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9829a3345@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T173000Z
+DTEND:20261212T191500Z
+SUMMARY:F.C. Moreda Uccle – R. Un. Auderghem
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-564d75cb92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R. Ol. F.C. Stockel – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3342b140cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T173000Z
+DTEND:20270116T191500Z
+SUMMARY:F.C. Moreda Uccle – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e4226b961@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Bx Brussels – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c28619e7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T173000Z
+DTEND:20270130T191500Z
+SUMMARY:F.C. Moreda Uccle – Racing Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0bf7ddf52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Olympic Wolves Brussels – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3320ab91de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T173000Z
+DTEND:20270220T191500Z
+SUMMARY:F.C. Moreda Uccle – F.E.F. Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bca9216c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T173000Z
+DTEND:20270227T191500Z
+SUMMARY:F.C. Moreda Uccle – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a4435caa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T173000Z
+DTEND:20270320T191500Z
+SUMMARY:F.C. Moreda Uccle – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e57698d3fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Olympique Club Forestois – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e80c03498@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Moreda Uccle – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/f-c-moreda-uccle/
+URL:https://goalio.be/fr/equipe/f-c-moreda-uccle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anderlecht · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/anderlecht/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5a1b1a07f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T194500Z
+DTEND:20261031T213000Z
+SUMMARY:Anderlecht 4-1 KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/and
+ erlecht-kvc-westerlo-2026-10-31/
+URL:https://goalio.be/fr/match/anderlecht-kvc-westerlo-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65b7c27858@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T123000Z
+DTEND:20261108T141500Z
+SUMMARY:Club Brugge KV 1-1 Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/clu
+ b-brugge-kv-anderlecht-2026-11-08/
+URL:https://goalio.be/fr/match/club-brugge-kv-anderlecht-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89e372d7ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T191500Z
+SUMMARY:Anderlecht 1-0 OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/and
+ erlecht-oh-leuven-2026-11-22/
+URL:https://goalio.be/fr/match/anderlecht-oh-leuven-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ca5ae411c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T164500Z
+SUMMARY:Antwerp – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/ant
+ werp-anderlecht-2026-11-29/
+URL:https://goalio.be/fr/match/antwerp-anderlecht-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-628dfd4526@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:Anderlecht – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dec76ce7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T123000Z
+DTEND:20261220T141500Z
+SUMMARY:Standard Liège – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92f84002cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261227T123000Z
+DTEND:20261227T141500Z
+SUMMARY:Anderlecht – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6897e63fcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T150000Z
+DTEND:20270116T164500Z
+SUMMARY:Lommel United – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbbb6a7071@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Kortrijk – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d046fbb81b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Anderlecht – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8b019a212@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:OH Leuven – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3e2e93a63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Anderlecht – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2194054c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Zulte Waregem – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79f1875bc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Anderlecht – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1fc4742b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:KVC Westerlo – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-552d5da383@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Anderlecht – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95ce9ef198@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Anderlecht – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8dac98c7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Genk – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72ce1ecf65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Anderlecht – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37787bd45d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Charleroi – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86a408c9b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Anderlecht – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee2ec7428d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Sint-Truiden – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64617c5c4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Anderlecht – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a42422077@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Anderlecht – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-616a46f433@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:RAAL La Louvière – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/an
+ derlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d24f2c93b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261105T174500Z
+DTEND:20261105T193000Z
+SUMMARY:Anderlecht 2-0 Red Bull Salzburg
+DESCRIPTION:Ligue Europa – phase de ligue\nJournée 4\nhttps://goalio.be/
+ fr/equipe/anderlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cacbfe757@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261126T200000Z
+DTEND:20261126T214500Z
+SUMMARY:OFI 1-3 Anderlecht
+DESCRIPTION:Ligue Europa – phase de ligue\nJournée 5\nhttps://goalio.be/
+ fr/match/ofi-anderlecht-2026-11-26/
+URL:https://goalio.be/fr/match/ofi-anderlecht-2026-11-26/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b49572d918@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261210T174500Z
+DTEND:20261210T193000Z
+SUMMARY:Anderlecht – 1899 Hoffenheim
+DESCRIPTION:Ligue Europa – phase de ligue\nJournée 6\nhttps://goalio.be/
+ fr/equipe/anderlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-647f681d56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270121T200000Z
+DTEND:20270121T214500Z
+SUMMARY:Anderlecht – Sunderland
+DESCRIPTION:Ligue Europa – phase de ligue\nJournée 7\nhttps://goalio.be/
+ fr/equipe/anderlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5c8e3b228@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270128T200000Z
+DTEND:20270128T214500Z
+SUMMARY:Marseille – Anderlecht
+DESCRIPTION:Ligue Europa – phase de ligue\nJournée 8\nhttps://goalio.be/
+ fr/equipe/anderlecht/
+URL:https://goalio.be/fr/equipe/anderlecht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

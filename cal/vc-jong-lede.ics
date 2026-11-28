@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Jong Lede · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-jong-lede/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c909ab7e2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VC Jong Lede 3-1 VSV Gent B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vc-jong-lede-vsv-gent-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/vc-jong-lede-vsv-gent-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-083558a81e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Eendr Zele 4-2 VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-eendr-zele-vc-jong-lede-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-eendr-zele-vc-jong-lede-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bbb16ad14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VC Jong Lede 1-1 KVV Laarne-Kalken B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vc-jong-lede-kvv-laarne-kalken-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vc-jong-lede-kvv-laarne-kalken-b-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13c085750d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T184500Z
+DTEND:20261121T203000Z
+SUMMARY:Jago St.-A'berg 1-3 VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/jago-st-a-berg-vc-jong-lede-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/jago-st-a-berg-vc-jong-lede-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ff66293e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VC Jong Lede – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vc-jong-lede-kesa-bottelare-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vc-jong-lede-kesa-bottelare-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba2cf5f834@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Genclerbirligi Zele – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa3de18ea4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:KFC Heikant Zele B – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c13b837ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VC Jong Lede – KFC Eendr Zele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-013ccc2ac0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VC Jong Lede – Eendr Moortsele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03c8b979e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:KFV HEDES Heusden-Destelbergen B – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48f6061ce7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:VC Jong Lede – KVVE Massemen B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdffa3c217@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VC Jong Lede – FC Anatolia Gent (afgelast)
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69a776a41b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Daknam – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc24a702b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VC Jong Lede – FC Smetlede B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aac4fc2952@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VSV Gent B – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19db63b4c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VC Jong Lede – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4da05e414a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:KESA Bottelare – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc7de9c07d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VC Jong Lede – FC Genclerbirligi Zele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9e4e21733@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VC Jong Lede – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7126ca5646@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVV Laarne-Kalken B – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vc-jong-lede/
+URL:https://goalio.be/nl/ploeg/vc-jong-lede/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

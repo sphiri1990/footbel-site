@@ -1,0 +1,359 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gent · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/gent/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d173ce75e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T173000Z
+DTEND:20261101T191500Z
+SUMMARY:Lommel United 2-0 Gent
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/lom
+ mel-united-gent-2026-11-01/
+URL:https://goalio.be/fr/match/lommel-united-gent-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-822173f9a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T150000Z
+DTEND:20261108T164500Z
+SUMMARY:Gent 1-0 Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/gen
+ t-kortrijk-2026-11-08/
+URL:https://goalio.be/fr/match/gent-kortrijk-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4c14a0dbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:SK Beveren 1-0 Gent
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/sk-
+ beveren-gent-2026-11-22/
+URL:https://goalio.be/fr/match/sk-beveren-gent-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-332c63c5e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T181500Z
+DTEND:20261129T200000Z
+SUMMARY:Union Saint-Gilloise – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/uni
+ on-st-gilloise-gent-2026-11-29/
+URL:https://goalio.be/fr/match/union-st-gilloise-gent-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a92af4f87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T181500Z
+DTEND:20261213T200000Z
+SUMMARY:Gent – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3110b55ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T181500Z
+DTEND:20261220T200000Z
+SUMMARY:KVC Westerlo – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a696db241@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261227T173000Z
+DTEND:20261227T191500Z
+SUMMARY:Gent – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-978bbc3b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T173000Z
+DTEND:20270117T191500Z
+SUMMARY:Charleroi – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a39f56790@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Gent – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d046fbb81b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:Anderlecht – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfccc0cd6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Gent – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b3795f1cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Sint-Truiden – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16af768b8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Gent – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-597ff47253@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Standard Liège – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d3ba2f4cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Gent – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fe40aab1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Gent – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5475d0c039@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Club Brugge KV – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d2c49c9d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Gent – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2300453202@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:KV Mechelen – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac1eddd8eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Gent – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a91ae2ec64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Antwerp – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ce1139ce4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Gent – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc836778e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Kortrijk – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ffb5aa8e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Gent – Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b80e509ab4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:OH Leuven – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/ge
+ nt/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9dbae925d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261105T174500Z
+DTEND:20261105T193000Z
+SUMMARY:KuPS 0-0 Gent
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 3\nhttps://goali
+ o.be/fr/equipe/gent/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d60722c118@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261126T200000Z
+DTEND:20261126T214500Z
+SUMMARY:Gent 1-1 FK Crvena Zvezda
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 4\nhttps://goali
+ o.be/fr/match/gent-fk-crvena-zvezda-2026-11-26/
+URL:https://goalio.be/fr/match/gent-fk-crvena-zvezda-2026-11-26/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42b16b7c7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261210T200000Z
+DTEND:20261210T214500Z
+SUMMARY:FC Thun – Gent
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 5\nhttps://goali
+ o.be/fr/equipe/gent/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-295c29d8f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261217T200000Z
+DTEND:20261217T214500Z
+SUMMARY:Gent – Brann
+DESCRIPTION:Ligue Conférence – phase de ligue\nJournée 6\nhttps://goali
+ o.be/fr/equipe/gent/
+URL:https://goalio.be/fr/equipe/gent/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

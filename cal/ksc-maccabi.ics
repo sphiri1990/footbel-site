@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSC Maccabi · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksc-maccabi/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d0b45c86de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261105T190000Z
+DTEND:20261105T204500Z
+SUMMARY:KSC Maccabi 4-1 SC City Pirates Antwerpen B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/ksc-maccabi-sc-city-pirates-antwerpen-b-2026-11-05/
+URL:https://goalio.be/nl/wedstrijd/ksc-maccabi-sc-city-pirates-antwerpen-b-
+ 2026-11-05/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3854c437d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:SV Aartselaar B 1-1 KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/sv-aartselaar-b-ksc-maccabi-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/sv-aartselaar-b-ksc-maccabi-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecbce3ffed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:KSC Maccabi 4-0 FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/ksc-maccabi-fc-united-borgerhout-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/ksc-maccabi-fc-united-borgerhout-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5df8e6882@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KSC Maccabi 0-0 K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksc-maccabi-k-kontich-fc-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksc-maccabi-k-kontich-fc-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43587f4db1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KVC Wilrijk B – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kvc-wilrijk-b-ksc-maccabi-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kvc-wilrijk-b-ksc-maccabi-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-693a986170@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. Tub. Borgerhout – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63a5574e20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. Wijnegem VC B – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0bb6e783a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:KSC Maccabi – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa46b9f8fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:KSC Maccabi – F.C. Warriors Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e083f15b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Sporting Club Antwerpen – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a73014e3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KSC Maccabi – KVC Wilrijk B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a97d3ba115@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sporting Club Schoten – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cec054541f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KSC Maccabi – SV Aartselaar B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e817bfcd5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:FC United Borgerhout – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0091d1642@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KSC Maccabi – FC Los Incas Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afc58bc900@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Kontich FC B – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91a513679b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KSC Maccabi – FC Merksem B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dec12c687f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KSC Maccabi – Verbr. Zwijndrecht B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a13bd04e2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SC City Pirates Antwerpen B – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/ksc-maccabi/
+URL:https://goalio.be/nl/ploeg/ksc-maccabi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

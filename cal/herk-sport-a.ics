@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Herk Sport A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/herk-sport-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-20a1ac72fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Herk Sport A 1-0 VV Nieuwerkerken
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/herk-sport-a-vv-nieuwerkerken-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/herk-sport-a-vv-nieuwerkerken-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95ec3b21f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Torpedo Hasselt B 1-4 Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/torpedo-hasselt-b-herk-sport-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/torpedo-hasselt-b-herk-sport-a-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7126440ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Herk Sport A 0-5 SK Munsterbilzen
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/herk-sport-a-sk-munsterbilzen-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/herk-sport-a-sk-munsterbilzen-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3597c8d1fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Herk Sport A 1-1 Halveweg Zonhoven
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/herk-sport-a-halveweg-zonhoven-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/herk-sport-a-halveweg-zonhoven-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acb4ffbacc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:E. Stevoort – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/e-stevoort-herk-sport-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/e-stevoort-herk-sport-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa0f8ff206@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Herk Sport A – Zutendaal VV A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-229135b2e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Godsheide VV – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1b54a1cf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Herk Sport A – WS Schoonbeek-Bilzen B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cae86440e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:RC Hades Kiewit B – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4228df68a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Herk Sport A – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-474d573f41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Halveweg Zonhoven – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1a44eb439@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SK Munsterbilzen – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdca13b18e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Herk Sport A – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d32d6b1a4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VV Nieuwerkerken – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12fd4ed920@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Herk Sport A – KMR Biesen B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a11d71e3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:Zonhoven United B – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74d4d0fd53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Herk Sport A – E. Stevoort
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f5bf65c1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Daring Huvo Jeuk A – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f419159630@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Herk Sport A – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b057012bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Zutendaal VV A – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f2da5124@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Herk Sport A – Belisia Bilzen SV B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/herk-sport-a/
+URL:https://goalio.be/nl/ploeg/herk-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

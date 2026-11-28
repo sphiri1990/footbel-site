@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSC Nassogne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rsc-nassogne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d4e2080136@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RES Orgeotoise 8-1 RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/res-orgeotoise-rsc-nassogne-2026-10-31/
+URL:https://goalio.be/fr/match/res-orgeotoise-rsc-nassogne-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbe7baa968@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RSC Nassogne 2-11 R. Haut-Fays Sport
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/rsc-nassogne-r-haut-fays-sport-2026-11-08/
+URL:https://goalio.be/fr/match/rsc-nassogne-r-haut-fays-sport-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e99d7ca87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RJS St-Marie Wideumont 3-3 RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/rjs-st-marie-wideumont-rsc-nassogne-2026-11-15/
+URL:https://goalio.be/fr/match/rjs-st-marie-wideumont-rsc-nassogne-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01e370b7f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSC Nassogne – RAC Neuvillers B (remis)
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/rsc-nassogne-rac-neuvillers-b-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-nassogne-rac-neuvillers-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3068360dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Paliseulois – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/fc-paliseulois-rsc-nassogne-2026-11-28/
+URL:https://goalio.be/fr/match/fc-paliseulois-rsc-nassogne-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd499e6632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Union Club Bras – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc969654d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RSC Nassogne – RES Petitvoir-Tournay
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b5e21b798@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. Wallonia Libin B – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-222c4375dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSC Nassogne – FC Fays-Les-Veneurs
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-652368bb73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:ES Saint-Pierre B – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4a9d9aaf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RSC Nassogne – FC Bertrix B
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96d1c23d6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RSC Nassogne – ES Wellinoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d48841f92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RUS Bure – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8fb1fb56d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RSC Nassogne – RES Orgeotoise
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d38048b8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Haut-Fays Sport – RSC Nassogne
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-427e140460@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSC Nassogne – RJS St-Marie Wideumont
+DESCRIPTION:3e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rsc-nassogne/
+URL:https://goalio.be/fr/equipe/rsc-nassogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

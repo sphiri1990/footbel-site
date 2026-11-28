@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Nokere-Kruishoutem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a6d9cc6381@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:VC Nokere-Kruishoutem B 1-2 Sparta Petegem Deinze B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vc-nokere-kruishoutem-b-sparta-petegem-deinze-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vc-nokere-kruishoutem-b-sparta-petegem-d
+ einze-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22223090f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:VC Zevergem Sp 4-1 VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vc-zevergem-sp-vc-nokere-kruishoutem-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vc-zevergem-sp-vc-nokere-kruishoutem-b-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bbd4ee9fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:VC Nokere-Kruishoutem B 0-1 SK Ooidonck Leerne
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vc-nokere-kruishoutem-b-sk-ooidonck-leerne-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/vc-nokere-kruishoutem-b-sk-ooidonck-leer
+ ne-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ea1db39f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KSV Maarkedal A 3-0 VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/ksv-maarkedal-a-vc-nokere-kruishoutem-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksv-maarkedal-a-vc-nokere-kruishoutem-b-
+ 2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3d758b972@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:VC Nokere-Kruishoutem B – K. WIK Eine A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vc-nokere-kruishoutem-b-k-wik-eine-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/vc-nokere-kruishoutem-b-k-wik-eine-a-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a2c80beeb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:FCSM Latem B – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9267d7ac08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KE Machelen a Leie – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-047d9681b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:VC Nokere-Kruishoutem B – VC Zevergem Sp
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3bf255e05f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:VC Nokere-Kruishoutem B – FC Gavere-Asper A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdbeadbb75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:SK Munkzwalm B – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b38fa4bffe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:VC Nokere-Kruishoutem B – K Olsene Sp
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2ffb9b18e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:Kluisbergen Sp B – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1a6263f53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:VC Nokere-Kruishoutem B – Jong Zulte
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a829f91e65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:JV De Pinte A – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fb7578c3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:VC Nokere-Kruishoutem B – WIK Boekel
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-169d1ea176@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:Sparta Petegem Deinze B – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cc84b1ffa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:VC Nokere-Kruishoutem B – KSV Maarkedal A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9cd83028a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. WIK Eine A – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f9e35bbf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:VC Nokere-Kruishoutem B – FCSM Latem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26fab55cb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:VC Nokere-Kruishoutem B – VC Sp Bevere
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a7017e01a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Ooidonck Leerne – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/vc-nokere-kruishoutem-b/
+URL:https://goalio.be/nl/ploeg/vc-nokere-kruishoutem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

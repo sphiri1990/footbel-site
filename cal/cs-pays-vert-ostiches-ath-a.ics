@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CS Pays Vert Ostiches-Ath A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5c67b8b5f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Entente Acren Lessines 0-1 CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/entente-acren-l
+ essines-cs-pays-vert-ostiches-ath-a-2026-11-01/
+URL:https://goalio.be/fr/match/entente-acren-lessines-cs-pays-vert-ostiches
+ -ath-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fa3b637ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A 1-5 Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/cs-pays-vert-os
+ tiches-ath-a-crossing-schaerbeek-d2-ffa-2026-11-07/
+URL:https://goalio.be/fr/match/cs-pays-vert-ostiches-ath-a-crossing-schaerb
+ eek-d2-ffa-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-992b9506f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A 4-4 CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/u-st-ghisl-tert
+ re-hautr-a-cs-pays-vert-ostiches-ath-a-2026-11-15/
+URL:https://goalio.be/fr/match/u-st-ghisl-tertre-hautr-a-cs-pays-vert-ostic
+ hes-ath-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9d8ba05b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A 1-2 K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/cs-pays-vert-os
+ tiches-ath-a-k-a-s-eupen-b-2026-11-21/
+URL:https://goalio.be/fr/match/cs-pays-vert-ostiches-ath-a-k-a-s-eupen-b-20
+ 26-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3631a07524@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.U.S. Binche – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/r-u-s-binche-cs
+ -pays-vert-ostiches-ath-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-u-s-binche-cs-pays-vert-ostiches-ath-a-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4aac2088a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b511ed6c50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:RFC Un. La Calamine – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d75cf22f19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Aywaille F.C. A – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09a0294a92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – C.S. Entité Manageoise
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-002af114ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC Ganshoren – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfca6291d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7d8848cf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Royale Union Hutoise – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a411d2875@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T183000Z
+DTEND:20270206T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38220e663f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbeebc2e54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e55f5084@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Union Namur A – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c84653865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db95cf1ed4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – Entente Acren Lessines
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1b6019ad0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Crossing Schaerbeek – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c58041e683@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T190000Z
+DTEND:20270327T204500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87f52eee58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K.A.S. Eupen B – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7eaa6f0fd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4310bc91a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SB Stade Mouscronnois A – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89d296e235@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/cs-pays-vert-o
+ stiches-ath-a/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leeuw Brucom A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/leeuw-brucom-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dce9208362@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Leeuw Brucom A 4-0 KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/leeuw-brucom-a-kfc-lennik-a-2026-11-01/
+URL:https://goalio.be/fr/match/leeuw-brucom-a-kfc-lennik-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f95c3a0ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Leeuw Brucom A 2-2 L. Teralfene A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/leeuw-brucom-a-l-teralfene-a-2026-11-08/
+URL:https://goalio.be/fr/match/leeuw-brucom-a-l-teralfene-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2e415235a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Eppegem A 2-1 Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/kfc-eppegem-a-leeuw-brucom-a-2026-11-15/
+URL:https://goalio.be/fr/match/kfc-eppegem-a-leeuw-brucom-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e66adbc9a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Leeuw Brucom A 3-1 Eendr. Hekelgem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/leeuw-brucom-a-eendr-hekelgem-a-2026-11-22/
+URL:https://goalio.be/fr/match/leeuw-brucom-a-eendr-hekelgem-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e3ed779d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VK Liedekerke A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/vk-liedekerke-a-leeuw-brucom-a-2026-11-29/
+URL:https://goalio.be/fr/match/vk-liedekerke-a-leeuw-brucom-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f05b43d3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Leeuw Brucom A – FC Galmaarden A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0a7b1ba4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Lennik A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c4129c179@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Leeuw Brucom A – K. Del. Londerzeel A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6c789a515@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Leeuw Brucom A – KFC Rhodienne-De Hoek A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-667b25be2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:L. Teralfene A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f68782f095@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Leeuw Brucom A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1edf425904@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Herne A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c3a2c88d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Leeuw Brucom A – KFC Eppegem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79ab1acb67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e403c6d474@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:NOVA Asse-Mollem A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f08e8f9533@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Leeuw Brucom A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4600ff1780@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Eendr. Hekelgem A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-093c2bec60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Leeuw Brucom A – VK Liedekerke A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d758deb656@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:KCS Machelen A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71a145b3fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Leeuw Brucom A – T. Relegem
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ebee54c3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Galmaarden A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/leeuw-brucom-a/
+URL:https://goalio.be/fr/equipe/leeuw-brucom-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

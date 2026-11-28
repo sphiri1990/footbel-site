@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KESA Bottelare · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kesa-bottelare/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5ce975af3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:KESA Bottelare 1-2 KFC Eendr Zele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kesa-bottelare-kfc-eendr-zele-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kesa-bottelare-kfc-eendr-zele-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f80905778b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:KESA Bottelare 4-1 KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kesa-bottelare-kfc-heikant-zele-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kesa-bottelare-kfc-heikant-zele-b-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36db797491@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Daknam 0-2 KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/fc-daknam-kesa-bottelare-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/fc-daknam-kesa-bottelare-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29c8815004@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:KESA Bottelare 3-1 KVVE Massemen B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kesa-bottelare-kvve-massemen-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kesa-bottelare-kvve-massemen-b-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ff66293e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VC Jong Lede – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/vc-jong-lede-kesa-bottelare-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vc-jong-lede-kesa-bottelare-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b68eee76ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:KESA Bottelare – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e75ba6d89f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Eendr Zele – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c61c3b31d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:KESA Bottelare – KVV Laarne-Kalken B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8bec7f5b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T163000Z
+DTEND:20270123T181500Z
+SUMMARY:KFC Heikant Zele B – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bd1fc397d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:KESA Bottelare – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f84d5f03d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Anatolia Gent – KESA Bottelare (afgelast)
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7268fd96bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:KESA Bottelare – FC Daknam
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db7e993114@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:KFV HEDES Heusden-Destelbergen B – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aca59a6fb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Genclerbirligi Zele – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c637c48934@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:KESA Bottelare – Eendr Moortsele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87b7d98e21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KVVE Massemen B – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4da05e414a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:KESA Bottelare – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-398774f87b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VSV Gent B – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb405d5a12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:KESA Bottelare – FC Smetlede B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-835745996a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSC Dikkelvenne B – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kesa-bottelare/
+URL:https://goalio.be/nl/ploeg/kesa-bottelare/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

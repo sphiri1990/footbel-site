@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vilvoorde City · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vilvoorde-city/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c10510cf9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Zemst Sp. A 3-1 Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/zemst-sp-a-vilvoorde-city-2026-11-01/
+URL:https://goalio.be/fr/match/zemst-sp-a-vilvoorde-city-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21f950d070@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Londerzeel United 4-1 Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/londerzeel-united-vilvoorde-city-2026-11-07/
+URL:https://goalio.be/fr/match/londerzeel-united-vilvoorde-city-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07fad81ee7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Vilvoorde City 1-0 Eendr. Mazenzele Opwijk B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/vilvoorde-city-eendr-mazenzele-opwijk-b-2026-11-15/
+URL:https://goalio.be/fr/match/vilvoorde-city-eendr-mazenzele-opwijk-b-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22b9010420@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T191500Z
+DTEND:20261121T210000Z
+SUMMARY:Merchtem United A 2-1 Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/merchtem-united-a-vilvoorde-city-2026-11-21/
+URL:https://goalio.be/fr/match/merchtem-united-a-vilvoorde-city-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f38d7b941@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Vilvoorde City – SK Steenhuffel A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/vilvoorde-city-sk-steenhuffel-a-2026-11-29/
+URL:https://goalio.be/fr/match/vilvoorde-city-sk-steenhuffel-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9171fed3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T191500Z
+DTEND:20261205T210000Z
+SUMMARY:VV Groot Kapelle A – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d783c469b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:KSC Grimbergen B – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f9ddf12ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Vilvoorde City – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2d37ee1ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:SK Nossegem B – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c066ed041@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Vilvoorde City – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2b8d2b456@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T191500Z
+DTEND:20270130T210000Z
+SUMMARY:Eendr. Mazenzele Opwijk B – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d496a5335@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Vilvoorde City – K. Del. Londerzeel B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22c2b715c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Koninklijke FFF Haren – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b80161ea4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Vilvoorde City – Sparta Melsbroek
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee7ce2cae8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Inkad Diegem A – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-925507a945@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Vilvoorde City – VV Groot Kapelle A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e31c70b709@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:SK Steenhuffel A – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49731fd8ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Vilvoorde City – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62122aba16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Vilvoorde City – Londerzeel United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ffa1d18c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T120000Z
+DTEND:20270418T134500Z
+SUMMARY:VC Den Boskant Peizegem A – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c059258da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Vilvoorde City – Zemst Sp. A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vilvoorde-city/
+URL:https://goalio.be/fr/equipe/vilvoorde-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

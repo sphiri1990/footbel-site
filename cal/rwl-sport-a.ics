@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RWL Sport A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rwl-sport-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-71ac2e7fe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:K. St. Haasrode B 0-1 RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/k-st-haasrode-b-rwl-sport-a-2026-10-31/
+URL:https://goalio.be/fr/match/k-st-haasrode-b-rwl-sport-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-649f0a3ece@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RWL Sport A 1-1 Meensel-Kiezegem
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/rwl-sport-a-meensel-kiezegem-2026-11-08/
+URL:https://goalio.be/fr/match/rwl-sport-a-meensel-kiezegem-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c583030c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:Korbeek Sp. 1-6 RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/korbeek-sp-rwl-sport-a-2026-11-14/
+URL:https://goalio.be/fr/match/korbeek-sp-rwl-sport-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b718a9b415@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RWL Sport A 0-1 SMS Lubbeek A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/rwl-sport-a-sms-lubbeek-a-2026-11-22/
+URL:https://goalio.be/fr/match/rwl-sport-a-sms-lubbeek-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6921968b4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:RC Meldert – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/rc-meldert-rwl-sport-a-2026-11-28/
+URL:https://goalio.be/fr/match/rc-meldert-rwl-sport-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d462556a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RWL Sport A – SC Out-Hoegaarden B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2123e1243@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Cr. Vissenaken – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99ac8c7095@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:RD Zoutleeuw A – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a811153438@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:RWL Sport A – SNA Keiberg
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06f8761ac4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T193000Z
+DTEND:20270123T211500Z
+SUMMARY:SMS Lubbeek A – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22ff98db36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RWL Sport A – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-193e2429d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RWL Sport A – Korbeek Sp.
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b228b0c47f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Averbode Testelt Okselaar B – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-429b8dba82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RWL Sport A – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f72b866e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SC Aarschot A – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f539d76c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RWL Sport A – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c168655a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Meensel-Kiezegem – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-909cd9ff38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T150000Z
+DTEND:20270404T164500Z
+SUMMARY:SC Out-Hoegaarden B – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04c2139167@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RWL Sport A – Boutersem United A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3512fb6da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:KVC Kessel-Lo 2000 B – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8cf236e16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RWL Sport A – VC Bekkevoort
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/rwl-sport-a/
+URL:https://goalio.be/fr/equipe/rwl-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

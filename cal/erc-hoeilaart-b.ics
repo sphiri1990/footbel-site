@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ERC Hoeilaart B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-336d84dc01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Football Club Kortenberg United B 2-0 ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/football-club-kortenberg-united-b-erc-hoeilaart-b-2026-10-31/
+URL:https://goalio.be/fr/match/football-club-kortenberg-united-b-erc-hoeila
+ art-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f0cf56b57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:ERC Hoeilaart B 4-0 KSC Keerbergen
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/erc-hoeilaart-b-ksc-keerbergen-2026-11-08/
+URL:https://goalio.be/fr/match/erc-hoeilaart-b-ksc-keerbergen-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26f20dd5d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Koninklijke Haacht United B 3-7 ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/koninklijke-haacht-united-b-erc-hoeilaart-b-2026-11-15/
+URL:https://goalio.be/fr/match/koninklijke-haacht-united-b-erc-hoeilaart-b-
+ 2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2171c4197f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T174500Z
+SUMMARY:ERC Hoeilaart B 0-0 VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/erc-hoeilaart-b-vk-linden-b-2026-11-22/
+URL:https://goalio.be/fr/match/erc-hoeilaart-b-vk-linden-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b18d557ee3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T160000Z
+DTEND:20261128T174500Z
+SUMMARY:Gr. Vossem B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/gr-vossem-b-erc-hoeilaart-b-2026-11-28/
+URL:https://goalio.be/fr/match/gr-vossem-b-erc-hoeilaart-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1420f1edf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T160000Z
+DTEND:20261206T174500Z
+SUMMARY:ERC Hoeilaart B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1065f788f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T160000Z
+DTEND:20261213T174500Z
+SUMMARY:ERC Hoeilaart B – KFC Werchter A
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-821e2e6331@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T161500Z
+DTEND:20270109T180000Z
+SUMMARY:VK Holsbeek B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9201cf27f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T160000Z
+DTEND:20270124T174500Z
+SUMMARY:ERC Hoeilaart B – KVC Sterrebeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6e8f5bda2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:DC Wezembeek-Oppem – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83de89c22f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T160000Z
+DTEND:20270214T174500Z
+SUMMARY:ERC Hoeilaart B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f77c3c98c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T114500Z
+DTEND:20270221T133000Z
+SUMMARY:KFC Baal B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37fae3bff4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T160000Z
+DTEND:20270228T174500Z
+SUMMARY:ERC Hoeilaart B – K. Eur. 90 Kraainem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-053c1b70cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:FC Moorsel B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76ac272f83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T160000Z
+DTEND:20270314T174500Z
+SUMMARY:ERC Hoeilaart B – HO Veltem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60a8eb70dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T150000Z
+DTEND:20270404T164500Z
+SUMMARY:ERC Hoeilaart B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efcaf70c59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KSC Keerbergen – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd115c5062@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:VK Linden B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22d21cfd83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ERC Hoeilaart B – Football Club Kortenberg United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/erc-hoeilaart-b/
+URL:https://goalio.be/fr/equipe/erc-hoeilaart-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

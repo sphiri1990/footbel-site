@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeunesses Oleyennes Reunies · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov
+ -a-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-83fda34baa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies 3-1 F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/jeunesses-oleyennes-reunies-4-prov-a-liege-f-c-vaux-borset-2026-11-01/
+URL:https://goalio.be/fr/match/jeunesses-oleyennes-reunies-4-prov-a-liege-f
+ -c-vaux-borset-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f08d282bb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Couthuin Sports 3-1 Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-couthuin-sports-jeunesses-oleyennes-reunies-4-prov-a-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-couthuin-sports-jeunesses-oleyennes-reunie
+ s-4-prov-a-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd2a80bbea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies 7-2 E.H. Braives B
+DESCRIPTION:4e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/jeunesses-oleyennes-reunies-4-prov-a-liege-e-h-braives-b-2026-11-15/
+URL:https://goalio.be/fr/match/jeunesses-oleyennes-reunies-4-prov-a-liege-e
+ -h-braives-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ad7d59ad3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Oreye Union – Jeunesses Oleyennes Reunies (remis)
+DESCRIPTION:4e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-oreye-union-jeunesses-oleyennes-reunies-4-prov-a-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-oreye-union-jeunesses-oleyennes-reunies-4-
+ prov-a-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c82bd4896@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies – R.F.C. Warnant
+DESCRIPTION:4e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/jeunesses-oleyennes-reunies-4-prov-a-liege-r-f-c-warnant-2026-11-29/
+URL:https://goalio.be/fr/match/jeunesses-oleyennes-reunies-4-prov-a-liege-r
+ -f-c-warnant-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-803554e91d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10fd1fdeb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Horion – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4f4c3a2dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies – Entente Amay B
+DESCRIPTION:4e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96fc5a5bba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Patro Lensois B – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be781ac764@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ada16b3f6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Jehaytois – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-622b3c656b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jeunesses Oleyennes Reunies – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-777dcf4717@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Entente Sportive Donceel B – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c4684eaed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Jeunesses Oleyennes Reunies – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e91b2f984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Vaux-Borset – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41d4e1cee1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Jeunesses Oleyennes Reunies – R. Couthuin Sports
+DESCRIPTION:4e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c15c73c7b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:E.H. Braives B – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a92711e17e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Jeunesses Oleyennes Reunies – R. Oreye Union
+DESCRIPTION:4e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-582842f22e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Warnant – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/jeunesses-oleyennes-reunies-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

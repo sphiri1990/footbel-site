@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SFC Onoz · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sfc-onoz/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d03cb55bc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SFC Onoz 0-6 New Entente Foot Moignele
+DESCRIPTION:4e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /sfc-onoz-new-entente-foot-moignele-2026-11-01/
+URL:https://goalio.be/fr/match/sfc-onoz-new-entente-foot-moignele-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6210f2d8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:SFC Onoz 3-5 S Flawinne FC B
+DESCRIPTION:4e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /sfc-onoz-s-flawinne-fc-b-2026-11-15/
+URL:https://goalio.be/fr/match/sfc-onoz-s-flawinne-fc-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10c2121b50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R Ham FC A – SFC Onoz (remis)
+DESCRIPTION:4e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /r-ham-fc-a-sfc-onoz-2026-11-22/
+URL:https://goalio.be/fr/match/r-ham-fc-a-sfc-onoz-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5536132187@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Bonneville SP B – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ad37b80a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:SFC Onoz – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2eea66517@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:SP Salzinnes Namur – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00ef680533@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SFC Onoz – SC Mazycien B
+DESCRIPTION:4e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-626f6c07a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Sp Exc Jemeppe B – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69352ea2f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SFC Onoz – Union Bossière Gembloux B
+DESCRIPTION:4e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40753e368d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:US Auvelais B – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a1a891935@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SFC Onoz – WA Sauvenière B
+DESCRIPTION:4e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2113976022@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:JS Falisolle-Aisemont A – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be82e289e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SFC Onoz – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61b8b02910@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:New Entente Foot Moignele – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05d636878e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SFC Onoz – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49600704c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:S Flawinne FC B – SFC Onoz
+DESCRIPTION:4e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/sfc-onoz/
+URL:https://goalio.be/fr/equipe/sfc-onoz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

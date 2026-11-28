@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R Ham FC A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-ham-fc-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1762a4011c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:S Flawinne FC B 7-3 R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /s-flawinne-fc-b-r-ham-fc-a-2026-11-01/
+URL:https://goalio.be/fr/match/s-flawinne-fc-b-r-ham-fc-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d6cc9ac83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Bonneville SP B 0-5 R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /bonneville-sp-b-r-ham-fc-a-2026-11-15/
+URL:https://goalio.be/fr/match/bonneville-sp-b-r-ham-fc-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10c2121b50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R Ham FC A – SFC Onoz (remis)
+DESCRIPTION:4e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /r-ham-fc-a-sfc-onoz-2026-11-22/
+URL:https://goalio.be/fr/match/r-ham-fc-a-sfc-onoz-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac3350d2e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Lesve-Arbre – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57d846bc59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R Ham FC A – SP Salzinnes Namur
+DESCRIPTION:4e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-466393a473@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:SC Mazycien B – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-938ab6d2bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R Ham FC A – Sp Exc Jemeppe B
+DESCRIPTION:4e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18bb580ecf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Union Bossière Gembloux B – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e92676373e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R Ham FC A – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dc63077db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:WA Sauvenière B – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e59b5a937@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R Ham FC A – JS Falisolle-Aisemont A
+DESCRIPTION:4e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b6be4ff41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RCS Profondeville B – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b13852754a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R Ham FC A – New Entente Foot Moignele
+DESCRIPTION:4e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdc24fbb48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R Ham FC A – S Flawinne FC B
+DESCRIPTION:4e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05d636878e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SFC Onoz – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9482a2428a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R Ham FC A – Bonneville SP B
+DESCRIPTION:4e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-ham-fc-a/
+URL:https://goalio.be/fr/equipe/r-ham-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Tilffois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6b35c05968@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.S.C. Tilffois 0-3 R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-s-c-tilffois-4-prov-b-liege-r-sougne-remouch-sp-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-c-tilffois-4-prov-b-liege-r-sougne-remou
+ ch-sp-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fd0c7a52e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Celtic Chaudfontaine FC 4-1 R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/celtic-chaudfontaine-fc-r-s-c-tilffois-4-prov-b-liege-2026-11-08/
+URL:https://goalio.be/fr/match/celtic-chaudfontaine-fc-r-s-c-tilffois-4-pro
+ v-b-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4fbf96918@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Jeunesse MSN Tilleur B 1-2 R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/jeunesse-msn-tilleur-b-r-s-c-tilffois-4-prov-b-liege-2026-11-14/
+URL:https://goalio.be/fr/match/jeunesse-msn-tilleur-b-r-s-c-tilffois-4-prov
+ -b-liege-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f7ecdfd82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.S.C. Tilffois – R. Fraiture F.C. (remis)
+DESCRIPTION:4e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-s-c-tilffois-4-prov-b-liege-r-fraiture-f-c-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-tilffois-4-prov-b-liege-r-fraiture-f-c
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9ea0d4bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:RCS Xhorisien – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/rcs-xhorisien-4-prov-b-liege-r-s-c-tilffois-4-prov-b-liege-2026-11-29/
+URL:https://goalio.be/fr/match/rcs-xhorisien-4-prov-b-liege-r-s-c-tilffois-
+ 4-prov-b-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7606609545@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.S.C. Modave – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73ed592528@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.S.C. Tilffois – U.S. Ferrières
+DESCRIPTION:4e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-507ad7779e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:C.S. D'Ocquier – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d3cafa0ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.S.C. Tilffois – R. Fraiture SP B
+DESCRIPTION:4e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45925f5d7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Apicoles Tilffois – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9a510acf0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.S.C. Tilffois – Groupe De Poulseur
+DESCRIPTION:4e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bd2a3cc87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:R. Harzé F.C. B – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56cbc8aeab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.S.C. Tilffois – R. All. Clavinoise S.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b53a61b7b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.S.C. Tilffois – R. Marchin Sport B
+DESCRIPTION:4e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c3495f643@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Sougne-Remouch. Sp. – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1af687433d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.S.C. Tilffois – Celtic Chaudfontaine FC
+DESCRIPTION:4e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8916d1c86e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.S.C. Tilffois – Jeunesse MSN Tilleur B
+DESCRIPTION:4e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd42923dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Fraiture F.C. – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89911293be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Tilffois – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-s-c-tilffois-4-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois-4-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

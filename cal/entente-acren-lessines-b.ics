@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entente Acren Lessines B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-11a53a2e20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.E.S. Frasnoise A 5-1 Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-e-s-frasnoise-a-entente-acren-lessines-b-2026-10-31/
+URL:https://goalio.be/fr/match/r-e-s-frasnoise-a-entente-acren-lessines-b-2
+ 026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f77a7eaea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Entente Acren Lessines B 3-2 R.F.C.R. Symphorinois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 12\nhttps://goalio.be/fr/matc
+ h/entente-acren-lessines-b-r-f-c-r-symphorinois-a-2026-11-08/
+URL:https://goalio.be/fr/match/entente-acren-lessines-b-r-f-c-r-symphorinoi
+ s-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a8c99715d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.C. Naastois A 3-0 Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-s-c-naastois-a-entente-acren-lessines-b-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-c-naastois-a-entente-acren-lessines-b-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17d657ebd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.F.C. Ellezelles A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-ellezelles-a-entente-acren-lessines-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-ellezelles-a-entente-acren-lessines-b-
+ 2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3cb041b3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Entente Acren Lessines B – R.A.S. Pays Blanc Antoing A
+DESCRIPTION:1re provinciale Hainaut\nJournée 15\nhttps://goalio.be/fr/matc
+ h/entente-acren-lessines-b-r-a-s-pays-blanc-antoing-a-2026-11-29/
+URL:https://goalio.be/fr/match/entente-acren-lessines-b-r-a-s-pays-blanc-an
+ toing-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b44f031f83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Entente Acren Lessines B – R.F.C. Luingnois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71f8a1d1f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:F.C. Enghiennois A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-931d47c9d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Entente Acren Lessines B – R.U.F.C. Ransartoise A
+DESCRIPTION:1re provinciale Hainaut\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f03852f8f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Etoiles d'Ere A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5a78a736b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Entente Acren Lessines B – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e8a877c93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Gerpinnes A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2be33686ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Entente Acren Lessines B – R.F.C. Houdinois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceab6f9642@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8052a8201@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Entente Acren Lessines B – R. Gosselies Sports A
+DESCRIPTION:1re provinciale Hainaut\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6c4b89e7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Royal Tournai Football Club A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95d700d02b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Entente Acren Lessines B – R.E.S. Frasnoise A
+DESCRIPTION:1re provinciale Hainaut\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-092b90d768@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C.R. Symphorinois A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbe3ef3d0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Entente Acren Lessines B – R.S.C. Naastois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d13200491@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Acren Lessines B – R.F.C. Ellezelles A
+DESCRIPTION:1re provinciale Hainaut\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e322037b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.A.S. Pays Blanc Antoing A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/entente-acren-lessines-b/
+URL:https://goalio.be/fr/equipe/entente-acren-lessines-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

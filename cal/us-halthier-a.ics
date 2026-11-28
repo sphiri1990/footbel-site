@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Halthier A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/us-halthier-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7a510a0a45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:US Halthier A 0-2 RRC Mormont B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/us-halthier-a-rrc-mormont-b-2026-10-31/
+URL:https://goalio.be/fr/match/us-halthier-a-rrc-mormont-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19bc91ff46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:US Halthier A 1-0 RES Izier
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/us-halthier-a-res-izier-2026-11-07/
+URL:https://goalio.be/fr/match/us-halthier-a-res-izier-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a02bbb6fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T193000Z
+DTEND:20261114T211500Z
+SUMMARY:Marloie Sport B 4-2 US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/marloie-sport-b-us-halthier-a-2026-11-14/
+URL:https://goalio.be/fr/match/marloie-sport-b-us-halthier-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f21aab1c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:US Halthier A – ROC Rochois (remis)
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/us-halthier-a-roc-rochois-2026-11-21/
+URL:https://goalio.be/fr/match/us-halthier-a-roc-rochois-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b606d2f5d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RC Erezée-Amonines – US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/rc-erezee-amonines-us-halthier-a-2026-11-29/
+URL:https://goalio.be/fr/match/rc-erezee-amonines-us-halthier-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-037a2582be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:RESC Houffaloise B – US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8668693bb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:US Halthier A – FC Bomal
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78474a08b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RES Champlonaise – US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01479c07b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:US Halthier A – RES Vaux A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-155c3c75d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T193000Z
+DTEND:20270227T211500Z
+SUMMARY:RES Melreux-Hotton A – US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a9e4c77c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:US Halthier A – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7c0416c1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:US Vecmont – US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d5051f1cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:US Halthier A – R. Lierneux FC
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8c93a9a82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:RRC Mormont B – US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-188cd4f3be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RES Izier – US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c341d71f82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US Halthier A – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/us-halthier-a/
+URL:https://goalio.be/fr/equipe/us-halthier-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

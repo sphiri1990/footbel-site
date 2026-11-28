@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KNV Keerbergen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/knv-keerbergen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7eb757d011@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:KNV Keerbergen 1-1 OHR Huldenberg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/knv-keerbergen-ohr-huldenberg-b-2026-10-31/
+URL:https://goalio.be/fr/match/knv-keerbergen-ohr-huldenberg-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a7155617b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KNV Keerbergen 2-3 Gr. Vossem A
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/knv-keerbergen-gr-vossem-a-2026-11-08/
+URL:https://goalio.be/fr/match/knv-keerbergen-gr-vossem-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49c0954b0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VK Berg-Op 5-0 KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/vk-berg-op-knv-keerbergen-2026-11-15/
+URL:https://goalio.be/fr/match/vk-berg-op-knv-keerbergen-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f8713ae86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KNV Keerbergen 3-3 KFC Baal A
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/knv-keerbergen-kfc-baal-a-2026-11-22/
+URL:https://goalio.be/fr/match/knv-keerbergen-kfc-baal-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbd862b581@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:KV Tremelo – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/kv-tremelo-knv-keerbergen-2026-11-28/
+URL:https://goalio.be/fr/match/kv-tremelo-knv-keerbergen-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b84facac7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KNV Keerbergen – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a1e939a50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:OHR Huldenberg B – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d92eb06025@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KNV Keerbergen – Sp. Rotselaar B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3401a1932b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:KNV Keerbergen – KFC Rap. Wezemaal
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bcffb21919@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Gr. Vossem A – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a626df34a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KNV Keerbergen – Eendr. Eizer
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78c16bba7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. Ol. Wijgmaal B – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41545c4562@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KNV Keerbergen – VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d72d6d5a8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:SK Plenke Werchter – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f984bf2fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T154500Z
+DTEND:20270307T173000Z
+SUMMARY:KV Tervuren-Duisburg B – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e7377e89c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KNV Keerbergen – Sporting Kampenhout B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d783ede6d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC Baal A – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a8aa0dca2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KNV Keerbergen – KV Tremelo
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c7a8b51e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:VC Bertem-Leefdaal B – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfedb73e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KNV Keerbergen – KFC Herent B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-545b41af60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp. Erps-Kwerps – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/knv-keerbergen/
+URL:https://goalio.be/fr/equipe/knv-keerbergen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

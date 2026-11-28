@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Union Rochefortoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a
+ /
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-811a13351b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Pont-A-Celles-Buzet 3-3 Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/pont-a-celles
+ -buzet-union-rochefortoise-d3-ffa-serie-a-2026-11-01/
+URL:https://goalio.be/fr/match/pont-a-celles-buzet-union-rochefortoise-d3-f
+ fa-serie-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2025c8d10d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Union Rochefortoise 2-3 R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/union-rochefo
+ rtoise-d3-ffa-serie-a-r-arquet-namur-2026-11-07/
+URL:https://goalio.be/fr/match/union-rochefortoise-d3-ffa-serie-a-r-arquet-
+ namur-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-094e95e997@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:F.C. Kosova Schaerbeek 4-0 Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/f-c-kosova-sc
+ haerbeek-union-rochefortoise-d3-ffa-serie-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-kosova-schaerbeek-union-rochefortoise-d3
+ -ffa-serie-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4701edc5ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Union Rochefortoise 2-3 R.A.S. Monceau
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/union-rochefo
+ rtoise-d3-ffa-serie-a-r-a-s-monceau-2026-11-21/
+URL:https://goalio.be/fr/match/union-rochefortoise-d3-ffa-serie-a-r-a-s-mon
+ ceau-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22cb9c2ff3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.F.C. Saint-Michel – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/r-f-c-saint-m
+ ichel-union-rochefortoise-d3-ffa-serie-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-saint-michel-union-rochefortoise-d3-ff
+ a-serie-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-998a5da561@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Union Sporting Club Jemappes – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6600389849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Union Rochefortoise – S.C. De Nechin
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6145543208@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Sporting Bruxelles – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e14f0f9661@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:S.C. De Nechin – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/union-rochefo
+ rtoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1b655bf94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Union Rochefortoise – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a52503cef9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Union Rochefortoise – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff257c8402@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Soignies Sports – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e35c31289@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Union Rochefortoise – Andenne Evelette Sports Football
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc0283a849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Stade Everois Racing Club – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6411ef71f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Union Rochefortoise – R.U.S. Biesme
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d56a06bd70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.U. Wallonne Ciney – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a6da64233@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Union Rochefortoise – Pont-A-Celles-Buzet
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d65c63488@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Arquet Namur – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bedb88b27d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Union Rochefortoise – F.C. Kosova Schaerbeek
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d396cc3307@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.A.S. Monceau – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-172a2e9484@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Rochefortoise – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/union-rochef
+ ortoise-d3-ffa-serie-a/
+URL:https://goalio.be/fr/equipe/union-rochefortoise-d3-ffa-serie-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

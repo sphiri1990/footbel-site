@@ -1,0 +1,279 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OHR Huldenberg A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b32c2e77a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Berg en Dal VV 0-2 OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-berg-en-
+ dal-vv-ohr-huldenberg-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-berg-en-dal-vv-ohr-huldenberg-a-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b71fa235c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:OHR Huldenberg A 4-1 Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/ohr-hulden
+ berg-a-lommel-sk-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ohr-huldenberg-a-lommel-sk-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2926f2bf32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:FC Wezel Sport A 5-1 OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/fc-wezel-s
+ port-a-ohr-huldenberg-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/fc-wezel-sport-a-ohr-huldenberg-a-2026-1
+ 1-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0f2f0e078@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:OHR Huldenberg A 1-0 KAC Betekom A
+DESCRIPTION:D3 VV B\nSpeeldag 15\nhttps://goalio.be/nl/wedstrijd/ohr-hulden
+ berg-a-kac-betekom-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ohr-huldenberg-a-kac-betekom-a-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a977fcad7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:KVC Lille United A – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 16\nhttps://goalio.be/nl/wedstrijd/kvc-lille-
+ united-a-ohr-huldenberg-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvc-lille-united-a-ohr-huldenberg-a-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e31883390@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:OHR Huldenberg A – VK Linden A
+DESCRIPTION:D3 VV B\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-faeb63bd9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. Nieuwmoer FC A – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-255bfdadd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Esperanza Pelt A – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20b3f8076f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:OHR Huldenberg A – K. Berg en Dal VV
+DESCRIPTION:D3 VV B\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da454f60d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KFC Turnhout – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-504d36e7a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:OHR Huldenberg A – St. Lenaarts A
+DESCRIPTION:D3 VV B\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc6e64efff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:GS Bree-Beek A – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e10147f2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:OHR Huldenberg A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbda0d9fb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:WS Schoonbeek-Bilzen A – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4dfc89dfa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:OHR Huldenberg A – Achel VV A
+DESCRIPTION:D3 VV B\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ca6d788a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VK Linden A – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3081f95134@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:OHR Huldenberg A – KVC Lille United A
+DESCRIPTION:D3 VV B\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-683a4b4dfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:OHR Huldenberg A – KVV Zepperen-Brustem A
+DESCRIPTION:D3 VV B\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85fe07c0a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Lommel SK B – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 31\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c951cee19d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:OHR Huldenberg A – ASV Geel
+DESCRIPTION:D3 VV B\nSpeeldag 32\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25950c4152@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:OHR Huldenberg A – FC Wezel Sport A
+DESCRIPTION:D3 VV B\nSpeeldag 33\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30e25e5860@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KAC Betekom A – OHR Huldenberg A
+DESCRIPTION:D3 VV B\nSpeeldag 34\nhttps://goalio.be/nl/ploeg/ohr-huldenberg
+ -a/
+URL:https://goalio.be/nl/ploeg/ohr-huldenberg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

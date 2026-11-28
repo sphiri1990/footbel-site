@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.A. Forchies A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a447fe8acd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.S.A. Forchies A 6-0 R.C. Marcinelle A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-s-a-forchies-a-r-c-marcinelle-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-a-forchies-a-r-c-marcinelle-a-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05e94b935b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.U.S. Courcelloise A 0-1 R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-u-s-courcelloise-a-r-s-a-forchies-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-courcelloise-a-r-s-a-forchies-a-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-254f1299f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.A. Forchies A 4-1 R.F.C. de Gilly A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-s-a-forchies-a-r-f-c-de-gilly-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-a-forchies-a-r-f-c-de-gilly-a-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19a25a0a12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:S.C. Montignies – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/s-c-montignies-r-s-a-forchies-a-2026-11-21/
+URL:https://goalio.be/fr/match/s-c-montignies-r-s-a-forchies-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b52df7678@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.S.A. Forchies A – R. Gosselies Sports B
+DESCRIPTION:2e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-s-a-forchies-a-r-gosselies-sports-b-2026-11-29/
+URL:https://goalio.be/fr/match/r-s-a-forchies-a-r-gosselies-sports-b-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abe8dff897@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.S.A. Forchies A – F.C. Bouffioulx A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fee097979@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:A.S. Fontainoise A – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8de1cc2eed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.S.A. Forchies A – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8162bb4bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SC Farciennes A – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b91bacda50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.S.A. Forchies A – S.R.J.S. Thudinienne A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52aa3b5eb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Erpion-LL Eau d'Heure B – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04af1f5415@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.S.A. Forchies A – R. Jumet S.C. A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b847b20769@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:E.S. Mominoise A – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc794db623@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S.A. Forchies A – R.F.C. Nalinnois A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6c14072ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.U.S.C. Anderlues A – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18c83f18a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C. Marcinelle A – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db6b03af6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.S.A. Forchies A – R.U.S. Courcelloise A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f025799c03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. de Gilly A – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa36a92610@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.S.A. Forchies A – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8065d835ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Gosselies Sports B – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-s-a-forchies-a/
+URL:https://goalio.be/fr/equipe/r-s-a-forchies-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

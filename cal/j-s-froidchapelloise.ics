@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.S. Froidchapelloise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6fc3a885cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:J.S. Froidchapelloise 2-0 Jeunesse Sportive Erpion A
+DESCRIPTION:3e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/j-s-froidchapelloise-jeunesse-sportive-erpion-a-2026-10-31/
+URL:https://goalio.be/fr/match/j-s-froidchapelloise-jeunesse-sportive-erpio
+ n-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c71f15d0df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.E.S. Roux 2-0 J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-e-s-roux-j-s-froidchapelloise-2026-11-08/
+URL:https://goalio.be/fr/match/r-e-s-roux-j-s-froidchapelloise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb92b320a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:J.S. Froidchapelloise 3-1 E.S. Mominoise B
+DESCRIPTION:3e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/j-s-froidchapelloise-e-s-mominoise-b-2026-11-14/
+URL:https://goalio.be/fr/match/j-s-froidchapelloise-e-s-mominoise-b-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3179def593@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.A.S. Monceau – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-a-s-monceau-3-prov-d-hainaut-j-s-froidchapelloise-2026-11-22/
+URL:https://goalio.be/fr/match/r-a-s-monceau-3-prov-d-hainaut-j-s-froidchap
+ elloise-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b56a75f25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:J.S. Froidchapelloise – F.C. Mont-S-Marchienne-Collège
+DESCRIPTION:3e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/j-s-froidchapelloise-f-c-mont-s-marchienne-college-2026-11-28/
+URL:https://goalio.be/fr/match/j-s-froidchapelloise-f-c-mont-s-marchienne-c
+ ollege-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca07f71730@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:J.S. Froidchapelloise – J.S. Jamioulx
+DESCRIPTION:3e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-233472983e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.R.F.C. Gozee A – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9af4cca2ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:J.S. Froidchapelloise – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82bd626796@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Carolo Football Charleroi – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c526a8701a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.U.F.C. Ransartoise – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33acda6f3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:J.S. Froidchapelloise – U.S. Solrezienne
+DESCRIPTION:3e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e46e7d87f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:C.S. Forges A – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0d9c1f0b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:J.S. Froidchapelloise – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da6fab36e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:J.S. Solrezienne – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3245312a40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:J.S. Froidchapelloise – R. Goutroux Sports
+DESCRIPTION:3e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef33b164e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Jeunesse Sportive Erpion A – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87b5fd458a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:J.S. Froidchapelloise – R.E.S. Roux
+DESCRIPTION:3e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9329be593@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:E.S. Mominoise B – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3300313de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:J.S. Froidchapelloise – R.A.S. Monceau
+DESCRIPTION:3e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a411b02ba4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Mont-S-Marchienne-Collège – J.S. Froidchapelloise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/j-s-froidchapelloise/
+URL:https://goalio.be/fr/equipe/j-s-froidchapelloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

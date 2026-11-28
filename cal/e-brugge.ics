@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E. Brugge · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/e-brugge/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-29cb6f5f24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:E. Brugge 7-2 K. FC Heist B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/e-brugge-k-fc-heist-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/e-brugge-k-fc-heist-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-556473e6ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261110T190000Z
+DTEND:20261110T204500Z
+SUMMARY:E. Brugge – GL Ruiselede
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/e-brugge-gl-ruiselede-2026-11-10/
+URL:https://goalio.be/nl/wedstrijd/e-brugge-gl-ruiselede-2026-11-10/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fccb5da5da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:KFC Damme 3-1 E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-damme-e-brugge-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-damme-e-brugge-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7eab34af78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:E. Brugge 1-4 K. VC Wingene B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/e-brugge-k-vc-wingene-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/e-brugge-k-vc-wingene-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3ae8b00d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:E. Brugge – K. SK Steenbrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88ba3d5a82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. FC Heist B – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08f520be19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:E. Brugge – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf0140d519@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:E. Brugge – K. FC Varsenare B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9457b50ac4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:GL Ruiselede – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bd76f73f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:E. Brugge – VV Westkapelle B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-756d681699@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. FC Sint-Joris Sp. – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-842e39e9c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E. Brugge – KFC Damme
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d47bd3f91d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:V.V. Cercle Beernem B – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-932a242688@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Zeebrugge – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-906f3a43cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:E. Brugge – VK Dudzele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88df7476f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K. VC Wingene B – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f229f147c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. FC Lissewege – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29e48928cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:E. Brugge – K. FC Aarsele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63d8581613@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. SK Steenbrugge – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/e-brugge/
+URL:https://goalio.be/nl/ploeg/e-brugge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

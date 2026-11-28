@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HO Molenbeersel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ho-molenbeersel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-90a3dca45f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. Breugel-Herkol SV 4-1 HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/k-breugel-herkol-sv-ho-molenbeersel-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-breugel-herkol-sv-ho-molenbeersel-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b61a4d754f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:HO Molenbeersel 5-2 Sp. Grote Brogel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/ho-molenbeersel-sp-grote-brogel-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ho-molenbeersel-sp-grote-brogel-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2666829d22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K Peer SV 0-2 HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/k-peer-sv-ho-molenbeersel-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-peer-sv-ho-molenbeersel-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9349a8f244@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:HO Molenbeersel 2-0 N. Gruitrode B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/ho-molenbeersel-n-gruitrode-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ho-molenbeersel-n-gruitrode-b-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-613e23a286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:KSK Meeuwen B – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/ksk-meeuwen-b-ho-molenbeersel-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/ksk-meeuwen-b-ho-molenbeersel-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa9f0d4609@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:Hechtel FC B – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c899bbfade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:HO Molenbeersel – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3752c1c80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Lutlommel VV B – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b41c2337f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T163000Z
+DTEND:20270123T181500Z
+SUMMARY:FC Maasland NO B – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ae9d4aed2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:HO Molenbeersel – KSK Meeuwen B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8da044a2d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sp. Lille – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59a6485c58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:HO Molenbeersel – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b29e1c9ca2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Sp. Grote Brogel – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a859b8542@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:HO Molenbeersel – KRC Peer B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3d1ada341@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:HO Molenbeersel – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af435240c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T154500Z
+DTEND:20270403T173000Z
+SUMMARY:N. Gruitrode B – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6665554546@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:HO Molenbeersel – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-643f8067a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Esperanza Pelt B – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-376246e0e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HO Molenbeersel – K Peer SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/ho-molenbeersel/
+URL:https://goalio.be/nl/ploeg/ho-molenbeersel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

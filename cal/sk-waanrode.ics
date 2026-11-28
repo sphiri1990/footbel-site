@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Waanrode · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sk-waanrode/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e2f90eb541@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SK Waanrode 3-2 K. St. Drieslinter B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-waanrode-k-st-drieslinter-b-2026-11-01/
+URL:https://goalio.be/fr/match/sk-waanrode-k-st-drieslinter-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70969e579b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:SK Waanrode 4-0 K. Halle VV.
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-waanrode-k-halle-vv-2026-11-08/
+URL:https://goalio.be/fr/match/sk-waanrode-k-halle-vv-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6aea9b15b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T170000Z
+DTEND:20261115T184500Z
+SUMMARY:FC Valahia Tienen 0-4 SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-valahia-tienen-sk-waanrode-2026-11-15/
+URL:https://goalio.be/fr/match/fc-valahia-tienen-sk-waanrode-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5684cf157d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:SK Waanrode 4-0 RD Zoutleeuw B
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 13\nhttps://goalio.b
+ e/fr/match/sk-waanrode-rd-zoutleeuw-b-2026-11-22/
+URL:https://goalio.be/fr/match/sk-waanrode-rd-zoutleeuw-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65b0cc3194@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Geetbets – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-geetbets-sk-waanrode-2026-11-29/
+URL:https://goalio.be/fr/match/fc-geetbets-sk-waanrode-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-802319b735@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SK Waanrode – Sp. Budingen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f7f79073e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:SK Waanrode – VC Houtem-Oplinter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-809c959dc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T160000Z
+DTEND:20270109T174500Z
+SUMMARY:K. St. Drieslinter B – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19dd298295@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Halle VV. – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0dc6e8af4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Waanrode – FC Valahia Tienen
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cf207217f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Neerwinden F.C. – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2fa33b4c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Waanrode – Atlas Linter
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be29b8cfb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SK Rummen – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4aec374c1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Waanrode – T. Bunsbeek
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae346bdeda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KA Goetsenhoven – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ae86f914b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Waanrode – FC Geetbets
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ea11511d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:RD Zoutleeuw B – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-844e5273cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sp. Budingen – SK Waanrode
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbab6766a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Waanrode – KVZ Glabbeek Zuurbemde
+DESCRIPTION:4e provinciale Brabant flamand F\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/sk-waanrode/
+URL:https://goalio.be/fr/equipe/sk-waanrode/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

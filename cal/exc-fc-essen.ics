@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exc. FC Essen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/exc-fc-essen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2a81d69337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:Exc. FC Essen 1-1 K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/exc-fc-essen-k-gooreind-vv-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/exc-fc-essen-k-gooreind-vv-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c4ff632ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. Kalmthout SK B 1-2 Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-kalmthout-sk-b-exc-fc-essen-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-kalmthout-sk-b-exc-fc-essen-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a123cafd59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Exc. FC Essen 7-0 Excelsior Mariaburg B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/exc-fc-essen-excelsior-mariaburg-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/exc-fc-essen-excelsior-mariaburg-b-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-775df642e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Exc. FC Essen 4-0 Ekeren FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/exc-fc-essen-ekeren-fc-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/exc-fc-essen-ekeren-fc-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00590fffe8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:SV Noorse – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/sv-noorse-exc-fc-essen-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/sv-noorse-exc-fc-essen-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39334ee1e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Exc. FC Essen – K. Nieuwmoer FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beef2ffbf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Zandvliet Sport B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6823342eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T160000Z
+DTEND:20270116T174500Z
+SUMMARY:K. Heibos SV B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85909a796c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Exc. FC Essen – KSV Wildert
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50edcb0bbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:Ekeren FC B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99c0bc62e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Excelsior Mariaburg B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0c8193056@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Exc. FC Essen – K. Kalmthout SK B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-213adf7ac6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T163000Z
+DTEND:20270227T181500Z
+SUMMARY:K. Gooreind VV B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-123e8ff821@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Exc. FC Essen – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58697248e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Putte SK – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-750acfcd92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Exc. FC Essen – SV Noorse
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-031bacb799@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T153000Z
+DTEND:20270403T171500Z
+SUMMARY:R. Cappellen FC B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b76ead246@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Exc. FC Essen – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-457768c857@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:K. Nieuwmoer FC B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbf45e1f85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Exc. FC Essen – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/exc-fc-essen/
+URL:https://goalio.be/nl/ploeg/exc-fc-essen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

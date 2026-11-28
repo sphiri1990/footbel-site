@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.S.K. Oudegem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-624e978e4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K.S.K. Oudegem B 0-3 KVCE Nieuwerkerken
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-oudegem-b-kvce-nieuwerkerken-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-oudegem-b-kvce-nieuwerkerken-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b19d92a12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Jong SG Dendermonde 8-0 K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/jong-sg-dendermonde-k-s-k-oudegem-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/jong-sg-dendermonde-k-s-k-oudegem-b-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18a2e04159@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K.S.K. Oudegem B 0-1 VC Olympic Burst 2026
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-oudegem-b-vc-olympic-burst-2026-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-oudegem-b-vc-olympic-burst-2026-20
+ 26-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-349efd77c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:E Buggenhout B 1-0 K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/e-buggenhout-b-k-s-k-oudegem-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/e-buggenhout-b-k-s-k-oudegem-b-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a37ce5c12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K.S.K. Oudegem B – SK Herdersem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-oudegem-b-sk-herdersem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-oudegem-b-sk-herdersem-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-535c960c2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KSCW Hofstade A – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e339832b5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K.S.K. Oudegem B – VC Herzele-Ressegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a50b648f80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FCW Gijzegem – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7aae60eefe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K.S.K. Oudegem B – Jong SG Dendermonde
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d7d33354a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:VC Olympic Burst 2026 – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50d386bf89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SK Herdersem – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dabb01e43d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K.S.K. Oudegem B – VKJ Neigem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59d513d366@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KVCE Nieuwerkerken – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96639f0475@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K.S.K. Oudegem B – KVE Winnik B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfc3ef1ef6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SK Aaigem – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f96411dc5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K.S.K. Oudegem B – VCO Meerbeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-161849df9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K.S.K. Oudegem B – E Buggenhout B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6adf4b058@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KSCDS Moorsel – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c5414d481@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K.S.K. Oudegem B – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2056446d27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Denderhoutem B – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oudegem-b/
+URL:https://goalio.be/nl/ploeg/k-s-k-oudegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

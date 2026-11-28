@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Wavre Limal A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-wavre-limal-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a15d7e3aa7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RU Auderghem A 5-0 R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 11\nhttps://
+ goalio.be/fr/match/ru-auderghem-a-r-wavre-limal-a-2026-10-31/
+URL:https://goalio.be/fr/match/ru-auderghem-a-r-wavre-limal-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fbf11014e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R. Wavre Limal A 2-0 R. US Ophain A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 12\nhttps://
+ goalio.be/fr/match/r-wavre-limal-a-r-us-ophain-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-wavre-limal-a-r-us-ophain-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1938fa7425@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Genappe 0-1 R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 13\nhttps://
+ goalio.be/fr/match/fc-genappe-r-wavre-limal-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-genappe-r-wavre-limal-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b98e8a623@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RRC Waterloo A 1-2 R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 14\nhttps://
+ goalio.be/fr/match/rrc-waterloo-a-r-wavre-limal-a-2026-11-22/
+URL:https://goalio.be/fr/match/rrc-waterloo-a-r-wavre-limal-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1095a13b01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Wavre Limal A – BX Brussels A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 15\nhttps://
+ goalio.be/fr/match/r-wavre-limal-a-bx-brussels-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-wavre-limal-a-bx-brussels-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-689b28353e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Wavre Limal A – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 16\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f365622e31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Union Lasne Ohain – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 17\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1af6ba4b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Wavre Limal A – US Rebecquoise A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 18\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ebd769e35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:RFC Orp-Noduwez A – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 19\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6be2b745bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Wavre Limal A – ROFC Stockel A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 20\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cfe86d1ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:RAS Saintoise A – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 21\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-557c9674c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Wavre Limal A – FC Suryoyés Bruxellois A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 22\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e08dd37e08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:RSD Jette B – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 23\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-148ba5554f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Wavre Limal A – R. La Hulpe SC.
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 24\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc9170d716@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Anderlecht Youth Talents – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 25\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df7f3834f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Wavre Limal A – RU Auderghem A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 26\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92f536f3c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:R. US Ophain A – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 27\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac485108c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Wavre Limal A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 28\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78152a73f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Wavre Limal A – RRC Waterloo A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 29\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee2bfa3a09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:BX Brussels A – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 30\nhttps://
+ goalio.be/fr/equipe/r-wavre-limal-a/
+URL:https://goalio.be/fr/equipe/r-wavre-limal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.C. Le Roeulx A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bb7e29c058@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.F.C. Ellezelles A 3-1 A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-f-c-ellezelles-a-a-c-le-roeulx-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-ellezelles-a-a-c-le-roeulx-a-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b42eadd19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:A.C. Le Roeulx A 1-1 F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 12\nhttps://goalio.be/fr/matc
+ h/a-c-le-roeulx-a-f-c-gerpinnes-a-2026-11-08/
+URL:https://goalio.be/fr/match/a-c-le-roeulx-a-f-c-gerpinnes-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68cfbec0b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.F.C. Houdinois A 4-2 A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-f-c-houdinois-a-a-c-le-roeulx-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-houdinois-a-a-c-le-roeulx-a-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c78df1c5f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:A.C. Le Roeulx A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 14\nhttps://goalio.be/fr/matc
+ h/a-c-le-roeulx-a-erpion-ll-eau-d-heure-a-2026-11-22/
+URL:https://goalio.be/fr/match/a-c-le-roeulx-a-erpion-ll-eau-d-heure-a-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12f7c292fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R. Gosselies Sports A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-gosselies-sports-a-a-c-le-roeulx-a-2026-11-28/
+URL:https://goalio.be/fr/match/r-gosselies-sports-a-a-c-le-roeulx-a-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a501ee39f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Royal Tournai Football Club A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b793c053a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:A.C. Le Roeulx A – R.E.S. Frasnoise A
+DESCRIPTION:1re provinciale Hainaut\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5b3ffdf69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.F.C.R. Symphorinois A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-191300b6b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:A.C. Le Roeulx A – R.S.C. Naastois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5a78a736b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Entente Acren Lessines B – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc0b92886f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:A.C. Le Roeulx A – R.A.S. Pays Blanc Antoing A
+DESCRIPTION:1re provinciale Hainaut\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7d6fecd4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:R.F.C. Luingnois A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dde9cf3193@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:A.C. Le Roeulx A – F.C. Enghiennois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c3a1dc345@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.U.F.C. Ransartoise A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef729a43bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:A.C. Le Roeulx A – F.C. Etoiles d'Ere A
+DESCRIPTION:1re provinciale Hainaut\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7199531284@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:A.C. Le Roeulx A – R.F.C. Ellezelles A
+DESCRIPTION:1re provinciale Hainaut\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8760f2326f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Gerpinnes A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6adbfbae6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:A.C. Le Roeulx A – R.F.C. Houdinois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8aaa491110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Erpion-LL Eau d'Heure A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad59999147@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.C. Le Roeulx A – R. Gosselies Sports A
+DESCRIPTION:1re provinciale Hainaut\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/a-c-le-roeulx-a/
+URL:https://goalio.be/fr/equipe/a-c-le-roeulx-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

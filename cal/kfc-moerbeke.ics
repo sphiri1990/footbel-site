@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Moerbeke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-moerbeke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-169019f965@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T143000Z
+DTEND:20261101T161500Z
+SUMMARY:KFC Moerbeke 1-0 Sp. Burcht FC
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-moerbeke-sp-burcht-fc-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-moerbeke-sp-burcht-fc-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20144439db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC Hoogeinde 0-7 KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/fc-hoogeinde-kfc-moerbeke-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-hoogeinde-kfc-moerbeke-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68aabb1830@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T143000Z
+DTEND:20261115T161500Z
+SUMMARY:KFC Moerbeke 2-1 SVE Bazel
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-moerbeke-sve-bazel-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-moerbeke-sve-bazel-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46e5537a0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KSK Klinge 2-3 KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-klinge-kfc-moerbeke-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksk-klinge-kfc-moerbeke-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae7a276f7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T143000Z
+DTEND:20261129T161500Z
+SUMMARY:KFC Moerbeke – PD Kruibeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-moerbeke-pd-kruibeke-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-moerbeke-pd-kruibeke-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-febf7ccb4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Bosdam Beveren – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec658f2d91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Sportkring Kemzeke – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42f6472fbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T143000Z
+DTEND:20270110T161500Z
+SUMMARY:KFC Moerbeke – FC Hoogeinde
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29a346e394@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T143000Z
+DTEND:20270117T161500Z
+SUMMARY:KFC Moerbeke – KSK Kallo
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df8186e441@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:SVH Waasmunster A – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ef8daa101@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T143000Z
+DTEND:20270131T161500Z
+SUMMARY:KFC Moerbeke – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42f55ba2ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFCH Sinaai – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d0b87969a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T143000Z
+DTEND:20270221T161500Z
+SUMMARY:KFC Moerbeke – FC Sint-Niklaas
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a900999e8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:HRS Haasdonk B – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea49ee247c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T143000Z
+DTEND:20270307T161500Z
+SUMMARY:KFC Moerbeke – VKS Hamme-Zogge
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e9bd57900@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Sp. Burcht FC – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9d82c02a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T143000Z
+DTEND:20270321T161500Z
+SUMMARY:KFC Moerbeke – KSK Klinge
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1280e82c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:PD Kruibeke – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ec04b5fdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T133000Z
+DTEND:20270411T151500Z
+SUMMARY:KFC Moerbeke – FC Bosdam Beveren
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cd903b301@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T133000Z
+DTEND:20270418T151500Z
+SUMMARY:KFC Moerbeke – KVKS Melsele B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa9e1bb676@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SVE Bazel – KFC Moerbeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfc-moerbeke/
+URL:https://goalio.be/nl/ploeg/kfc-moerbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

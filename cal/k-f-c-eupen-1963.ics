@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.F.C. Eupen 1963 · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9c7961c0bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Espoir Minerois 2-1 K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 11\nhttps://goalio.be/fr/match
+ /r-espoir-minerois-k-f-c-eupen-1963-2026-11-01/
+URL:https://goalio.be/fr/match/r-espoir-minerois-k-f-c-eupen-1963-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cf4f55be2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:K.F.C. Eupen 1963 2-2 JS Fizoise
+DESCRIPTION:1re provinciale Liège\nJournée 12\nhttps://goalio.be/fr/match
+ /k-f-c-eupen-1963-js-fizoise-2026-11-08/
+URL:https://goalio.be/fr/match/k-f-c-eupen-1963-js-fizoise-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c33876eaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K.F.C. Eupen 1963 1-1 R.F.C. Warsage
+DESCRIPTION:1re provinciale Liège\nJournée 13\nhttps://goalio.be/fr/match
+ /k-f-c-eupen-1963-r-f-c-warsage-2026-11-15/
+URL:https://goalio.be/fr/match/k-f-c-eupen-1963-r-f-c-warsage-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5b59d8b40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Croatia Wandre A – K.F.C. Eupen 1963 (remis)
+DESCRIPTION:1re provinciale Liège\nJournée 14\nhttps://goalio.be/fr/match
+ /r-f-c-croatia-wandre-a-k-f-c-eupen-1963-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-croatia-wandre-a-k-f-c-eupen-1963-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbcbbb67de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K.F.C. Eupen 1963 – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 15\nhttps://goalio.be/fr/match
+ /k-f-c-eupen-1963-r-etoile-sp-dalhemoise-2026-11-29/
+URL:https://goalio.be/fr/match/k-f-c-eupen-1963-r-etoile-sp-dalhemoise-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfe519dd9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:K.F.C. Eupen 1963 – Royal Football Club Wallonia Hannut
+DESCRIPTION:1re provinciale Liège\nJournée 16\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8eccac78d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Welkenraedt – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 17\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f1367bab2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:K.F.C. Eupen 1963 – R.S.C. Beaufays A
+DESCRIPTION:1re provinciale Liège\nJournée 18\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d03ddf53a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FC. Ster Francorchamps A – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 19\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-588928e368@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K.F.C. Eupen 1963 – Etoile De Faimes
+DESCRIPTION:1re provinciale Liège\nJournée 20\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e046f5d11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Herve F.C. – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 21\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3166286447@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K.F.C. Eupen 1963 – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 22\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e4246ecb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.F.C. Weywertz – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 23\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4645def79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K.F.C. Eupen 1963 – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 24\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be150287ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Union Flémalloise A – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 25\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-519d75d266@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K.F.C. Eupen 1963 – R. Espoir Minerois
+DESCRIPTION:1re provinciale Liège\nJournée 26\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b0603e5a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:JS Fizoise – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 27\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a221d657a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Warsage – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 28\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0853bcb09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.F.C. Eupen 1963 – R.F.C. Croatia Wandre A
+DESCRIPTION:1re provinciale Liège\nJournée 29\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-542a569949@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 30\nhttps://goalio.be/fr/equip
+ e/k-f-c-eupen-1963/
+URL:https://goalio.be/fr/equipe/k-f-c-eupen-1963/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

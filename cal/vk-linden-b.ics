@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VK Linden B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vk-linden-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6895e4723a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K. Eur. 90 Kraainem B 1-1 VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/k-eur-90-kraainem-b-vk-linden-b-2026-10-31/
+URL:https://goalio.be/fr/match/k-eur-90-kraainem-b-vk-linden-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9be3cc08a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:VK Linden B 6-1 KVC Sterrebeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/vk-linden-b-kvc-sterrebeek-b-2026-11-07/
+URL:https://goalio.be/fr/match/vk-linden-b-kvc-sterrebeek-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75d7ce6505@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T111500Z
+DTEND:20261115T130000Z
+SUMMARY:KFC Baal B 0-3 VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/kfc-baal-b-vk-linden-b-2026-11-15/
+URL:https://goalio.be/fr/match/kfc-baal-b-vk-linden-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2171c4197f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T174500Z
+SUMMARY:ERC Hoeilaart B 0-0 VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/erc-hoeilaart-b-vk-linden-b-2026-11-22/
+URL:https://goalio.be/fr/match/erc-hoeilaart-b-vk-linden-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf1b3b3df4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:VK Linden B – KFC Werchter A
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/vk-linden-b-kfc-werchter-a-2026-11-28/
+URL:https://goalio.be/fr/match/vk-linden-b-kfc-werchter-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abc8dd4bc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:DC Wezembeek-Oppem – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3bcc436bd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:VK Linden B – K. Eur. 90 Kraainem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fec1ec5a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KVC Sterrebeek B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb372dac02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:VK Linden B – KSC Keerbergen
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1086a1a87a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:VK Linden B – Football Club Kortenberg United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a092b9c30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T161500Z
+DTEND:20270220T180000Z
+SUMMARY:VK Holsbeek B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1f2f048c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:VK Linden B – HO Veltem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5a7f6de27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Koninklijke Haacht United B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf3276d3ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:VK Linden B – KFC Baal B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1282ca166@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Gr. Vossem B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7d8f050b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:VK Linden B – DC Wezembeek-Oppem
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64b81c584e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Werchter A – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd115c5062@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:VK Linden B – ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6547d385a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Moorsel B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vk-linden-b/
+URL:https://goalio.be/fr/equipe/vk-linden-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R St Gedinnois B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-39f6b6214e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Rienne Sp 1-1 R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /rienne-sp-r-st-gedinnois-b-2026-11-15/
+URL:https://goalio.be/fr/match/rienne-sp-r-st-gedinnois-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e5df2a9b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R St Gedinnois B – RFC Surice B (remis)
+DESCRIPTION:4e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /r-st-gedinnois-b-rfc-surice-b-2026-11-21/
+URL:https://goalio.be/fr/match/r-st-gedinnois-b-rfc-surice-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6259f4f559@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:US Viroin-Treignes – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed53632693@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R St Gedinnois B – E Sp Viroin-Olloy
+DESCRIPTION:4e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de05fcdaf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:St Cl Feschaux – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d38fab5d49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R St Gedinnois B – Ent. Dionaise
+DESCRIPTION:4e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ec03b9638@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:ES Des Frontières – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00fc99bbf6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R St Gedinnois B – ES Couvin-Mariemb Fraire B
+DESCRIPTION:4e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93fc88050a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RES Philippeville B – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd90711d10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R St Gedinnois B – Sporting Club Graide
+DESCRIPTION:4e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71577c7995@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RUS Pondrome B – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b32f9e722c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R St Gedinnois B – R.U.S Pesche B
+DESCRIPTION:4e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b74bc3df58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Surice B – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0af8d90df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R St Gedinnois B – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-st-gedinnois-b/
+URL:https://goalio.be/fr/equipe/r-st-gedinnois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

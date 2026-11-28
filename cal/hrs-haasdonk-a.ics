@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HRS Haasdonk A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-adb4f4333f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KVVS Sersk-Schellebelle A 1-4 HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 10\nhttps://goalio.be/
+ nl/wedstrijd/kvvs-sersk-schellebelle-a-hrs-haasdonk-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kvvs-sersk-schellebelle-a-hrs-haasdonk-a
+ -2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b346a4bd81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:HRS Haasdonk A 1-1 KVE Aalter A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 11\nhttps://goalio.be/
+ nl/wedstrijd/hrs-haasdonk-a-kve-aalter-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/hrs-haasdonk-a-kve-aalter-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00a3618e72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:SK Munkzwalm A 0-0 HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 12\nhttps://goalio.be/
+ nl/wedstrijd/sk-munkzwalm-a-hrs-haasdonk-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sk-munkzwalm-a-hrs-haasdonk-a-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-792792fe46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:HRS Haasdonk A 1-2 VK Ninove B
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 13\nhttps://goalio.be/
+ nl/wedstrijd/hrs-haasdonk-a-vk-ninove-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/hrs-haasdonk-a-vk-ninove-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f37754e37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:SK Denderhoutem A – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 14\nhttps://goalio.be/
+ nl/wedstrijd/sk-denderhoutem-a-hrs-haasdonk-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/sk-denderhoutem-a-hrs-haasdonk-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6b332974f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:HRS Haasdonk A – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 15\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-338526d858@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KVCDT Borsbeke – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 16\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9c6646dd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:HRS Haasdonk A – VC Nokere-Kruishoutem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 17\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-598c42e95f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K.F.C. Eeklo – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 18\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a24d0ed90f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:SK Berlare – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 19\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb703f5267@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:HRS Haasdonk A – SK Denderhoutem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 20\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed52355516@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:K.S.K. Beveren – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 21\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7b6fa04ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:HRS Haasdonk A – Evergem 2020
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 22\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8568bc5025@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:KVE Aalter A – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 23\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efcdc06675@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:HRS Haasdonk A – KSVK Maldegem
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 24\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-379e6ed23d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:FCSM Latem A – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 25\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04ff47a15d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:HRS Haasdonk A – KSK Grembergen A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 26\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-318c163723@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:VK Ninove B – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 27\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14ab658eb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:HRS Haasdonk A – KVVS Sersk-Schellebelle A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 28\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ae494dfe0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:SK Vlaamse Ardennen A – HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 29\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aca574b9b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HRS Haasdonk A – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 30\nhttps://goalio.be/
+ nl/ploeg/hrs-haasdonk-a/
+URL:https://goalio.be/nl/ploeg/hrs-haasdonk-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

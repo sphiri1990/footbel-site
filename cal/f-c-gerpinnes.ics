@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Gerpinnes · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-gerpinnes/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-79a30258dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:C.S. Forges A 3-3 F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/c-s-forges-a-f-c-gerpinnes-2026-11-01/
+URL:https://goalio.be/fr/match/c-s-forges-a-f-c-gerpinnes-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45dacb5bb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:F.C. Gerpinnes 10-0 Carolo Football Charleroi
+DESCRIPTION:3e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/f-c-gerpinnes-carolo-football-charleroi-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-gerpinnes-carolo-football-charleroi-2026
+ -11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91ec15f695@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:F.C. Gerpinnes 4-1 J.S. Solrezienne
+DESCRIPTION:3e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-gerpinnes-j-s-solrezienne-2026-11-14/
+URL:https://goalio.be/fr/match/f-c-gerpinnes-j-s-solrezienne-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74b97a8788@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R. Goutroux Sports – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-goutroux-sports-f-c-gerpinnes-2026-11-21/
+URL:https://goalio.be/fr/match/r-goutroux-sports-f-c-gerpinnes-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d8740ec91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:F.C. Gerpinnes – Jeunesse Sportive Erpion A
+DESCRIPTION:3e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-gerpinnes-jeunesse-sportive-erpion-a-2026-11-28/
+URL:https://goalio.be/fr/match/f-c-gerpinnes-jeunesse-sportive-erpion-a-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91111ad4c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:F.C. Gerpinnes – R.E.S. Roux
+DESCRIPTION:3e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36bb6e78f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:E.S. Mominoise B – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5362ce1da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:F.C. Gerpinnes – R.A.S. Monceau
+DESCRIPTION:3e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-353cefa1cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Mont-S-Marchienne-Collège – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8279abfeaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Gerpinnes – J.S. Jamioulx
+DESCRIPTION:3e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7d1b6f995@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.R.F.C. Gozee A – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a65bab34a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Gerpinnes – Jeunesse Sportive Team Roselies
+DESCRIPTION:3e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0d9c1f0b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:J.S. Froidchapelloise – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1800929d95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Gerpinnes – R.U.F.C. Ransartoise
+DESCRIPTION:3e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c43014d440@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:U.S. Solrezienne – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d17e653936@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:F.C. Gerpinnes – C.S. Forges A
+DESCRIPTION:3e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7f875b4f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Carolo Football Charleroi – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24d8623db2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. Solrezienne – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e6ea345f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Gerpinnes – R. Goutroux Sports
+DESCRIPTION:3e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-352e198d45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Jeunesse Sportive Erpion A – F.C. Gerpinnes
+DESCRIPTION:3e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-gerpinnes/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

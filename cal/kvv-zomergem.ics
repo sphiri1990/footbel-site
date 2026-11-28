@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVV Zomergem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvv-zomergem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0c627e0101@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:E Vinkt 1-0 KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/e-vinkt-kvv-zomergem-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/e-vinkt-kvv-zomergem-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5d493e48e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KVV Zomergem 0-6 R.F.C. Goalgetters Sint-Laureins A
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-zomergem-r-f-c-goalgetters-sint-laureins-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kvv-zomergem-r-f-c-goalgetters-sint-laur
+ eins-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9d6218b8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:KFC St-Kruis-W 3-0 KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-st-kruis-w-kvv-zomergem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-st-kruis-w-kvv-zomergem-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f46d2d3a39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KVV Zomergem 1-3 KFCE Belzele Evergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-zomergem-kfce-belzele-evergem-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kvv-zomergem-kfce-belzele-evergem-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec8069f072@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:St Muide Gent – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/st-muide-gent-kvv-zomergem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/st-muide-gent-kvv-zomergem-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3442c94ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KVV Zomergem – VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5f342f062@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KVV Zomergem – VK Knesselare
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d69935dee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KSCE Mariakerke – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b42f9fe2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T160000Z
+DTEND:20270116T174500Z
+SUMMARY:KVE Aalter B – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd9cdbc87c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVV Zomergem – Daring Maria-Aalter
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d12ff19ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Bellem – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e882e0c5b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KVV Zomergem – St Muide Gent
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3edc6c12ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VV Sp Ursel – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-225fdca368@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KVV Zomergem – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43a91e0cb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VVE Hansbeke A – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05bbea9e9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVV Zomergem – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eac383ad1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KFC Evergem Center – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aab98e6517@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVV Zomergem – KFC St-Kruis-W
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-279e7d74d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Goalgetters Sint-Laureins A – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-358c5aab5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFCE Belzele Evergem – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a1e6e34dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVV Zomergem – E Vinkt
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kvv-zomergem/
+URL:https://goalio.be/nl/ploeg/kvv-zomergem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

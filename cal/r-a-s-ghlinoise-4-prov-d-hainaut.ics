@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.A.S. Ghlinoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-33c2a86802@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.A.S. Ghlinoise 2-3 Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-a-s-ghlinoise-4-prov-d-hainaut-trazegnies-sports-2026-11-01/
+URL:https://goalio.be/fr/match/r-a-s-ghlinoise-4-prov-d-hainaut-trazegnies-
+ sports-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-331edc35b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Olympique Club Ghlin 4-2 R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/olympique-club-ghlin-4-prov-d-hainaut-r-a-s-ghlinoise-4-prov-d-hainaut-
+ 2026-11-08/
+URL:https://goalio.be/fr/match/olympique-club-ghlin-4-prov-d-hainaut-r-a-s-
+ ghlinoise-4-prov-d-hainaut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90b3a5a184@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.A.S. Ghlinoise 2-3 FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-a-s-ghlinoise-4-prov-d-hainaut-fc-snef-2026-11-15/
+URL:https://goalio.be/fr/match/r-a-s-ghlinoise-4-prov-d-hainaut-fc-snef-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49d23e65bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Union Entité Estinnoise – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/union-entite-estinnoise-r-a-s-ghlinoise-4-prov-d-hainaut-2026-11-22/
+URL:https://goalio.be/fr/match/union-entite-estinnoise-r-a-s-ghlinoise-4-pr
+ ov-d-hainaut-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c42bd082ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.A.S. Ghlinoise – R.S.C. Naastois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-a-s-ghlinoise-4-prov-d-hainaut-r-s-c-naastois-2026-11-29/
+URL:https://goalio.be/fr/match/r-a-s-ghlinoise-4-prov-d-hainaut-r-s-c-naast
+ ois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31fc8c67f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.A.S. Ghlinoise – R.F.C.E. Maurage
+DESCRIPTION:4e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c4191e9a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:A.S. Morlanwelz – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a9c4e1851@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.A.S. Ghlinoise – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5c7261411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Lindbergh Club Givry – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c173d4526@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.A.S. Ghlinoise – Athl. Club Le Roeulx
+DESCRIPTION:4e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1862e73df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Club Olympic Trivières – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c66c55f5f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.A.S. Ghlinoise – US Centre Haine-Saint-Pierre
+DESCRIPTION:4e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-513cc6cd07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Peronnes – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e51cb9745@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.A.S. Ghlinoise – R.F.C. Ecaussinnois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61bf0852d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Trazegnies Sports – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-824942bef1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.A.S. Ghlinoise – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b6f49f63a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Snef – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77c545553c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.A.S. Ghlinoise – Union Entité Estinnoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa289ce4a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Naastois – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-a-s-ghlinoise-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

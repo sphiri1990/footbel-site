@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Casteau · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-casteau/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-71c7e43978@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:FC Sainte-Odile Elouges 2-4 F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/fc-sainte-odile-elouges-f-c-casteau-2026-11-01/
+URL:https://goalio.be/fr/match/fc-sainte-odile-elouges-f-c-casteau-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02e512bf20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:F.C. Casteau 2-3 Union Sporting Club Jemappes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/f-c-casteau-union-sporting-club-jemappes-4-prov-c-hainaut-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-casteau-union-sporting-club-jemappes-4-p
+ rov-c-hainaut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dc942ef8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:F.C. Casteau 3-3 R. Entente Mons Nord
+DESCRIPTION:4e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-casteau-r-entente-mons-nord-4-prov-c-hainaut-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-casteau-r-entente-mons-nord-4-prov-c-hai
+ naut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbec3e1886@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC Borina Quaregnon – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/fc-borina-quaregnon-4-prov-c-hainaut-f-c-casteau-2026-11-22/
+URL:https://goalio.be/fr/match/fc-borina-quaregnon-4-prov-c-hainaut-f-c-cas
+ teau-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2dd510c209@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:F.C. Casteau – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-casteau-r-a-s-ghlinoise-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-casteau-r-a-s-ghlinoise-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4365a736ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:F.C. Casteau – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5c2f623eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-877cc9cc58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C. Casteau – Entente Sportive Elouges Dour
+DESCRIPTION:4e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df4ba7112f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.L.C. Hornu – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13cc0bb754@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Casteau – FC Quévy Genly
+DESCRIPTION:4e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13b8099da8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.S.C. Paturageois – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b97333032@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Casteau – R. Léopold Club Mesvinois
+DESCRIPTION:4e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11808aa153@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. All. F.C. Cuesmes – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d9452a4c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Casteau – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d3d1138e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.C.S. Aulnoisien – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c9bad26c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Casteau – FC Sainte-Odile Elouges
+DESCRIPTION:4e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf81ca4c7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Union Sporting Club Jemappes – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43ec2f04e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Entente Mons Nord – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b4e16dde3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Casteau – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19aa244155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.A.S. Ghlinoise – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-casteau/
+URL:https://goalio.be/fr/equipe/f-c-casteau/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

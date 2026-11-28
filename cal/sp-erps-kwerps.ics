@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sp. Erps-Kwerps · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sp-erps-kwerps/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c426c92e8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T154500Z
+DTEND:20261101T173000Z
+SUMMARY:KV Tervuren-Duisburg B 0-2 Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/kv-tervuren-duisburg-b-sp-erps-kwerps-2026-11-01/
+URL:https://goalio.be/fr/match/kv-tervuren-duisburg-b-sp-erps-kwerps-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9ac534676@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Sp. Erps-Kwerps 1-1 VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/sp-erps-kwerps-vk-berg-op-2026-11-08/
+URL:https://goalio.be/fr/match/sp-erps-kwerps-vk-berg-op-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c4282c4f3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Eendr. Eizer 0-1 Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/eendr-eizer-sp-erps-kwerps-2026-11-15/
+URL:https://goalio.be/fr/match/eendr-eizer-sp-erps-kwerps-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8708ba945d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Sporting Kampenhout B 3-5 Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/sporting-kampenhout-b-sp-erps-kwerps-2026-11-21/
+URL:https://goalio.be/fr/match/sporting-kampenhout-b-sp-erps-kwerps-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81cfc68bcf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Sp. Erps-Kwerps – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/sp-erps-kwerps-vc-bertem-leefdaal-b-2026-11-29/
+URL:https://goalio.be/fr/match/sp-erps-kwerps-vc-bertem-leefdaal-b-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b84facac7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KNV Keerbergen – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-391fd86bff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Sp. Erps-Kwerps – KFC Rap. Wezemaal
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-888ec36405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sp. Erps-Kwerps – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce4cf6bba2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VK Berg-Op – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63cfc4181c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K. Ol. Wijgmaal B – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e7c001dae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Sp. Erps-Kwerps – Sporting Kampenhout B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77d3a076e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:OHR Huldenberg B – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0a5f475d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sp. Erps-Kwerps – Sp. Rotselaar B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53ac21e8b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:VC Bertem-Leefdaal B – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b9a0af661@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Sp. Erps-Kwerps – Eendr. Eizer
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dd389b924@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:KFC Herent B – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5830e65d02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sp. Erps-Kwerps – SK Plenke Werchter
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a57862a5ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Baal A – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f82f5ddbe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sp. Erps-Kwerps – Gr. Vossem A
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a505b58a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:KV Tremelo – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-545b41af60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp. Erps-Kwerps – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/sp-erps-kwerps/
+URL:https://goalio.be/fr/equipe/sp-erps-kwerps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.S. Hermalienne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/a-s-hermalienne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-24181fc3be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:A.S. Hermalienne 4-1 R.F.C. Warsage
+DESCRIPTION:3e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/a-s-hermalienne-r-f-c-warsage-3-prov-c-liege-2026-11-01/
+URL:https://goalio.be/fr/match/a-s-hermalienne-r-f-c-warsage-3-prov-c-liege
+ -2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-452089a3cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Bressoux 3-2 A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-bressoux-a-s-hermalienne-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-bressoux-a-s-hermalienne-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8996c9a004@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:A.S. Hermalienne 1-2 R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/a-s-hermalienne-r-f-c-soumagne-2026-11-15/
+URL:https://goalio.be/fr/match/a-s-hermalienne-r-f-c-soumagne-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0aebd30338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – A.S. Hermalienne (remis)
+DESCRIPTION:3e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/racing-club-vaux-chaudfontaine-a-s-hermalienne-2026-11-22/
+URL:https://goalio.be/fr/match/racing-club-vaux-chaudfontaine-a-s-hermalien
+ ne-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e509b6b3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:A.S. Hermalienne – R. Oupeye FC
+DESCRIPTION:3e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/a-s-hermalienne-r-oupeye-fc-2026-11-29/
+URL:https://goalio.be/fr/match/a-s-hermalienne-r-oupeye-fc-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40e64a676f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:A.S. Hermalienne – Union Roclenge-Wonck
+DESCRIPTION:3e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d35e101f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.J.S. Cheneenne – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aba0b21dad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:A.S. Hermalienne – J.S. Vivegnis
+DESCRIPTION:3e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1e8ed2e95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.J.S. Olnoise – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc97228b6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:A.S. Hermalienne – R. Etoile Sp. Dalhemoise
+DESCRIPTION:3e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67e2a2a284@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Jeunesse Haccourtoise – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c61f29d1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:A.S. Hermalienne – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e77be7c787@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.C.S. Bollandois – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dd68d13e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Espoir Minerois – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-886352a1d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:A.S. Hermalienne – R.F.C. Charneux
+DESCRIPTION:3e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75ae8bb974@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:R.F.C. Warsage – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f56bed693f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:A.S. Hermalienne – F.C. Bressoux
+DESCRIPTION:3e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f23ba92a54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Soumagne – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fffcee8e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.S. Hermalienne – Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7feaddcb3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Oupeye FC – A.S. Hermalienne
+DESCRIPTION:3e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/a-s-hermalienne/
+URL:https://goalio.be/fr/equipe/a-s-hermalienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

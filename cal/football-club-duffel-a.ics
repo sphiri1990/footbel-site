@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Football Club Duffel A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/football-club-duffel-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5e48f001ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Football Club Duffel A 0-0 KFC Antonia A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/football-club-duffel-a-kfc-antonia-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/football-club-duffel-a-kfc-antonia-a-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-471dff9ac2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC Punt-Larum 0-1 Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-punt-larum-football-club-duffel-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-punt-larum-football-club-duffel-a-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e38cccc4df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club Duffel A 6-0 RVC Hoboken
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/football-club-duffel-a-rvc-hoboken-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/football-club-duffel-a-rvc-hoboken-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-938d472ace@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Football Club Duffel A 3-4 K. Kontich FC A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/football-club-duffel-a-k-kontich-fc-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/football-club-duffel-a-k-kontich-fc-a-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7f3c27930@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Ranst A – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/kfc-ranst-a-football-club-duffel-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-ranst-a-football-club-duffel-a-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e2e3536c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Football Club Duffel A – KFC Zwarte Leeuw A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0fd45fd3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:SV Aartselaar A – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f995c46e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K.B.S.K. Retie – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-116d53b7e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Football Club Duffel A – TOR Deurne Pirates
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e3e625286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Football Club Duffel A – KFC Berlaar-Heikant A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a893c1e0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Wezel Sport B – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c00a6fe64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:Football Club Duffel A – KFC Ranst A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d935cd74a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K Witgoor Sp Dessel A – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1db4135721@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:Football Club Duffel A – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3591e94975@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:RVC Hoboken – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95ae88fa0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:Football Club Duffel A – K. Sp. Tisselt A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2e1a8a18e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. Kontich FC A – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7fb9c3ac7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:Football Club Duffel A – K. Bevel FC
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2b52083ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Zwarte Leeuw A – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bf8c83cf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:Football Club Duffel A – K. Zandhoven SK A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4bd48a3c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Antonia A – Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/football-club-duffel-a/
+URL:https://goalio.be/nl/ploeg/football-club-duffel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

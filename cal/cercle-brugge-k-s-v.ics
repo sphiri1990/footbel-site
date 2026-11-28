@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cercle Brugge K.S.V. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3690f1c84e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Oud-Heverlee Leuven 3-3 Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/oud-heverlee
+ -leuven-cercle-brugge-k-s-v-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/oud-heverlee-leuven-cercle-brugge-k-s-v-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb738f3cdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:F.C. Mandel United Izegem 3-1 Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/f-c-mandel-u
+ nited-izegem-cercle-brugge-k-s-v-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/f-c-mandel-united-izegem-cercle-brugge-k
+ -s-v-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-905ab3d032@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Cercle Brugge K.S.V. 1-1 K.F.C. Houtvenne
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/cercle-brugg
+ e-k-s-v-k-f-c-houtvenne-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/cercle-brugge-k-s-v-k-f-c-houtvenne-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-123c2c87f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Racing Club Harelbeke 1-1 Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/racing-club-
+ harelbeke-cercle-brugge-k-s-v-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/racing-club-harelbeke-cercle-brugge-k-s-
+ v-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32204a4453@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Cercle Brugge K.S.V. – Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/cercle-brugg
+ e-k-s-v-belisia-bilzen-sv-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/cercle-brugge-k-s-v-belisia-bilzen-sv-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c898acfd07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Sportkring Roeselare – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-deb31e526d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K.V.V. Zelzate – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52f3577ec2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Cercle Brugge K.S.V. – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc01b235b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:K. Lyra-Lierse – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cb5ff682b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Cercle Brugge K.S.V. – F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a3c2c3452@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Knokke F.C. – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-376367fb5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Cercle Brugge K.S.V. – Racing Club Harelbeke
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eeeac0b4c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Belisia Bilzen SV – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b2629997d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Cercle Brugge K.S.V. – Sportkring Roeselare
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d9c10b319@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Kvk Tienen – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da6e5b0f4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Cercle Brugge K.S.V. – K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd4f8b6ce7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K.F.C. Houtvenne – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5ce873eb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Cercle Brugge K.S.V. – K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f707d01b95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Cercle Brugge K.S.V. – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c036ed301@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Hoogstraten V.V. – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b53834e4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Cercle Brugge K.S.V. – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/cercle-brugge-k-
+ s-v/
+URL:https://goalio.be/nl/ploeg/cercle-brugge-k-s-v/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

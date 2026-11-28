@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vroenhoven VV · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vroenhoven-vv/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-845759d852@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K.F. Smeermaas 3-1 Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/k-f-smeermaas-vroenhoven-vv-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-f-smeermaas-vroenhoven-vv-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a82059223a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Vroenhoven VV 0-1 Kortessemse VV B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/vroenhoven-vv-kortessemse-vv-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vroenhoven-vv-kortessemse-vv-b-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a662a6d31d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Membruggen V&V 2-1 Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/membruggen-v-v-vroenhoven-vv-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/membruggen-v-v-vroenhoven-vv-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f71735b861@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Vroenhoven VV 1-3 Zutendaal VV B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/vroenhoven-vv-zutendaal-vv-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vroenhoven-vv-zutendaal-vv-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c0998e665@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:SK Vliermaalroot – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/sk-vliermaalroot-vroenhoven-vv-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/sk-vliermaalroot-vroenhoven-vv-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc5c9d898f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Vroenhoven VV – Lanaken VV B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-faa5456fc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:K. Zw. FC Wiemismeer Zutend B – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50b8370f1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Vroenhoven VV – Riemst V.
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c38933187c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Herderen-Millen – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48865f5ced@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Vroenhoven VV – SK Vliermaalroot
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db84afc703@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T161500Z
+DTEND:20270213T180000Z
+SUMMARY:VV Hoeselt B – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecec1420e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Vroenhoven VV – JB Eigenbilzen A
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6780c562c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Kortessemse VV B – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-877c019d33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Vroenhoven VV – UNICO Tongeren B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb0bf9a228@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Lanaken VV B – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfafde66a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Vroenhoven VV – V. 's Herenelderen B
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-243e6a90a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T110000Z
+DTEND:20270404T124500Z
+SUMMARY:Zutendaal VV B – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cffb9c9310@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Vroenhoven VV – K.F. Smeermaas
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-161c18f741@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:Uikhoven VC – Vroenhoven VV
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9129b5c128@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Vroenhoven VV – Membruggen V&V
+DESCRIPTION:4e provinciale Limburg D\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/vroenhoven-vv/
+URL:https://goalio.be/nl/ploeg/vroenhoven-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.S. Morlanwelz · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5eff34fd7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:A.S. Morlanwelz 5-2 R.F.C. Ecaussinnois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/a-s-morlanwelz-4-prov-d-hainaut-r-f-c-ecaussinnois-4-prov-d-hainaut-202
+ 6-11-01/
+URL:https://goalio.be/fr/match/a-s-morlanwelz-4-prov-d-hainaut-r-f-c-ecauss
+ innois-4-prov-d-hainaut-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f75716624@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Trazegnies Sports 1-5 A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/trazegnies-sports-a-s-morlanwelz-4-prov-d-hainaut-2026-11-08/
+URL:https://goalio.be/fr/match/trazegnies-sports-a-s-morlanwelz-4-prov-d-ha
+ inaut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f29126449a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:A.S. Morlanwelz 1-1 Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/a-s-morlanwelz-4-prov-d-hainaut-olympique-club-ghlin-4-prov-d-hainaut-2
+ 026-11-15/
+URL:https://goalio.be/fr/match/a-s-morlanwelz-4-prov-d-hainaut-olympique-cl
+ ub-ghlin-4-prov-d-hainaut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-002191a830@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC Snef – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/fc-snef-a-s-morlanwelz-4-prov-d-hainaut-2026-11-22/
+URL:https://goalio.be/fr/match/fc-snef-a-s-morlanwelz-4-prov-d-hainaut-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-caac4082f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:A.S. Morlanwelz – Union Entité Estinnoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/a-s-morlanwelz-4-prov-d-hainaut-union-entite-estinnoise-2026-11-29/
+URL:https://goalio.be/fr/match/a-s-morlanwelz-4-prov-d-hainaut-union-entite
+ -estinnoise-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3bef9b0a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:A.S. Morlanwelz – R.S.C. Naastois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e0af96076@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C.E. Maurage – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c4191e9a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:A.S. Morlanwelz – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2566c7a00a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Soignies Sports – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6eb91be24b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:A.S. Morlanwelz – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-261e4b379b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T140000Z
+DTEND:20270213T154500Z
+SUMMARY:Athl. Club Le Roeulx – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7daa55cb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:A.S. Morlanwelz – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e12356b384@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:US Centre Haine-Saint-Pierre – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01d64ee21e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:A.S. Morlanwelz – F.C. Peronnes
+DESCRIPTION:4e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-236141b2e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Ecaussinnois – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b644ec07c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:A.S. Morlanwelz – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10a7166b55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Olympique Club Ghlin – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-949d7a3164@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.S. Morlanwelz – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7877b31d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Entité Estinnoise – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/a-s-morlanwelz-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/a-s-morlanwelz-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

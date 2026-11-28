@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KCS Machelen A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kcs-machelen-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7233ce2a0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:VK Liedekerke A 0-2 KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/vk-liedekerke-a-kcs-machelen-a-2026-11-01/
+URL:https://goalio.be/fr/match/vk-liedekerke-a-kcs-machelen-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82c28c03ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KCS Machelen A 5-0 K. Del. Londerzeel A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kcs-machelen-a-k-del-londerzeel-a-2026-11-08/
+URL:https://goalio.be/fr/match/kcs-machelen-a-k-del-londerzeel-a-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14e0816c52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Schepdaal A 3-0 KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-schepdaal-a-kcs-machelen-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-schepdaal-a-kcs-machelen-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee305e31f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KCS Machelen A 1-4 KFC Eppegem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/kcs-machelen-a-kfc-eppegem-a-2026-11-22/
+URL:https://goalio.be/fr/match/kcs-machelen-a-kfc-eppegem-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-702332a2aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Galmaarden A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-galmaarden-a-kcs-machelen-a-2026-11-29/
+URL:https://goalio.be/fr/match/fc-galmaarden-a-kcs-machelen-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d58fa99e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KCS Machelen A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db3d7d904a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Eendr. Hekelgem A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00a93dfa13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:FC Herne A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d0e6caed4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KCS Machelen A – T. Relegem
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a00dc2c0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Eppegem A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-207df3d99a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KCS Machelen A – Perk Steenokkerzeel V. 1820 A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b85846cdb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:KCS Machelen A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f9e2c7b66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:L. Teralfene A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19e20cd43f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:KCS Machelen A – FC Galmaarden A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db3d47dd21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Rhodienne-De Hoek A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1e468ed7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:KCS Machelen A – VK Liedekerke A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7a67a517f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. Del. Londerzeel A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3876568d8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Lennik A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d758deb656@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:KCS Machelen A – Leeuw Brucom A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7530e78e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Meise A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f9a7f2bd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KCS Machelen A – NOVA Asse-Mollem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kcs-machelen-a/
+URL:https://goalio.be/fr/equipe/kcs-machelen-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

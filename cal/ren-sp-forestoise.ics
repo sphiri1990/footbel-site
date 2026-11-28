@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ren. Sp. Forestoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ren-sp-forestoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-189c83e50f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RRC Etterbeek B 1-2 Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 10\nhttps:/
+ /goalio.be/fr/match/rrc-etterbeek-b-ren-sp-forestoise-2026-11-01/
+URL:https://goalio.be/fr/match/rrc-etterbeek-b-ren-sp-forestoise-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e925b3a1ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Ren. Sp. Forestoise 7-4 FC. Forest
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/ren-sp-forestoise-fc-forest-2026-11-08/
+URL:https://goalio.be/fr/match/ren-sp-forestoise-fc-forest-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5532d4bf09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T133000Z
+DTEND:20261111T151500Z
+SUMMARY:FC Saint-Josse 1-6 Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 12\nhttps:/
+ /goalio.be/fr/match/fc-saint-josse-ren-sp-forestoise-2026-11-11/
+URL:https://goalio.be/fr/match/fc-saint-josse-ren-sp-forestoise-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44788021a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Berchem Brussels FC A 2-6 Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/berchem-brussels-fc-a-ren-sp-forestoise-2026-11-15/
+URL:https://goalio.be/fr/match/berchem-brussels-fc-a-ren-sp-forestoise-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bc539e1ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Ren. Sp. Forestoise 2-6 FC Amicii Bxl Jette
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/match/ren-sp-forestoise-fc-amicii-bxl-jette-2026-11-22/
+URL:https://goalio.be/fr/match/ren-sp-forestoise-fc-amicii-bxl-jette-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf15447655@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RFC Saint-Michel B – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/match/rfc-saint-michel-b-ren-sp-forestoise-2026-11-29/
+URL:https://goalio.be/fr/match/rfc-saint-michel-b-ren-sp-forestoise-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2df7ed41e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:AS Brussels City A – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-016e5116b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Ren. Sp. Forestoise – Crossing Schaerbeek B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ce3290b8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Sporting Bruxelles B – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9808d2b7ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Ren. Sp. Forestoise – Olympique Club Forestois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-132a6c199f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ren. Sp. Forestoise – FC Saint-Josse
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-454597f93f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Racing White Woluwe – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a98e9359e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Ren. Sp. Forestoise – FC M. Uccle A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32ad2a62f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:A.S.A. Molenbeek A – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1274f825fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Ren. Sp. Forestoise – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50e5a2918f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Aca. Jeun. Molenbeek A – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96b06fc68d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Ren. Sp. Forestoise – RRC Etterbeek B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e5915e2d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC. Forest – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bed7d31621@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Ren. Sp. Forestoise – Berchem Brussels FC A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-698dd21e69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Amicii Bxl Jette – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bf848f38d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Ren. Sp. Forestoise – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/ren-sp-forestoise/
+URL:https://goalio.be/fr/equipe/ren-sp-forestoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

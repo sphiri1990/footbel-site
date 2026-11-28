@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Brunehaut · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-brunehaut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4f75062c8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Royale J.S. Wez-Guignies 2-3 F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/royale-j-s-wez-guignies-f-c-brunehaut-2026-11-01/
+URL:https://goalio.be/fr/match/royale-j-s-wez-guignies-f-c-brunehaut-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-adc3ead4fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club Etoiles D'Ere 5-0 F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/football-club-etoiles-d-ere-f-c-brunehaut-2026-11-15/
+URL:https://goalio.be/fr/match/football-club-etoiles-d-ere-f-c-brunehaut-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-168ec6227e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Brunehaut – AC Barry-Carrieres
+DESCRIPTION:4e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/f-c-brunehaut-ac-barry-carrieres-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-brunehaut-ac-barry-carrieres-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-071aaf91ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Ass. Sp. Club Havinnes – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/ass-sp-club-havinnes-f-c-brunehaut-2026-11-29/
+URL:https://goalio.be/fr/match/ass-sp-club-havinnes-f-c-brunehaut-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-607662a2a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.A.S. Risquons-Tout Mouscron – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc261123b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Brunehaut – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae4cf1e543@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Brunehaut – R.U.S. Herseautoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c4449da65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Union Sportive Mouscronnoise – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c94fc9534@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Brunehaut – C.S. Taintignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-006521e939@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.S.C. Templeuvois – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-833eec2dd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Brunehaut – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5a8855741@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Ass. Montkainoise – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-275fa45591@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Brunehaut – Renaissance Sporting Club Bruyelle
+DESCRIPTION:4e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-233176b550@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Entente Velaines Enclusienne – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0871008d0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Brunehaut – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf3a963bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Brunehaut – Football Club Etoiles D'Ere
+DESCRIPTION:4e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2137475922@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:AC Barry-Carrieres – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b004b36690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Brunehaut – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-brunehaut/
+URL:https://goalio.be/fr/equipe/f-c-brunehaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

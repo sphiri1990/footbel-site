@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Herne B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-herne-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2aa34f4e65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:FC Herne B 2-3 FC Galmaarden B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-herne-b-fc-galmaarden-b-2026-11-01/
+URL:https://goalio.be/fr/match/fc-herne-b-fc-galmaarden-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe96a9ef5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:FC Herne B 4-2 KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/fc-herne-b-kv-zuun-b-2026-11-07/
+URL:https://goalio.be/fr/match/fc-herne-b-kv-zuun-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7f1ae54a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:FC Herne B 4-4 KFC MZ Tollembeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/fc-herne-b-kfc-mz-tollembeek-2026-11-21/
+URL:https://goalio.be/fr/match/fc-herne-b-kfc-mz-tollembeek-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30758e6c9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:FC Herne B – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5613932fea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:FC Herne B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4dbf942bab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:FC Galmaarden B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c26b4e85e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:FC Herne B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77999f17cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KV Zuun B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b54858b5b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:KFC Av. Lembeek B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15dc7e339a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:FC Herne B – KVV Kester-Gooik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71d37a784f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T173000Z
+DTEND:20270227T191500Z
+SUMMARY:KFC Lennik B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acd05da376@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:FC Herne B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de4030545f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:SK Pepingen-Halle B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f94d0404c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC MZ Tollembeek – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cfc435347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:SK Oetingen VC B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ca3a72d53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:FC Herne B – KVC Linkebeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b8bd8fab5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KHO Huizingen B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fc-herne-b/
+URL:https://goalio.be/fr/equipe/fc-herne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

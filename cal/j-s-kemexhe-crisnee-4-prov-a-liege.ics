@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.S. Kemexhe Crisnee · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege
+ /
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1369b4014a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Kemexhe Crisnee 0-5 F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/j-s-kemexhe-crisnee-4-prov-a-liege-f-c-horion-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-kemexhe-crisnee-4-prov-a-liege-f-c-horio
+ n-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c12f074c51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Entente Amay B 5-0 J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/entente-amay-b-j-s-kemexhe-crisnee-4-prov-a-liege-2026-11-14/
+URL:https://goalio.be/fr/match/entente-amay-b-j-s-kemexhe-crisnee-4-prov-a-
+ liege-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77174f4dd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:J.S. Kemexhe Crisnee – Patro Lensois B (remis)
+DESCRIPTION:4e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/j-s-kemexhe-crisnee-4-prov-a-liege-patro-lensois-b-2026-11-22/
+URL:https://goalio.be/fr/match/j-s-kemexhe-crisnee-4-prov-a-liege-patro-len
+ sois-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de7bf966f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/royal-football-club-wallonia-hannut-4-prov-a-liege-j-s-kemexhe-crisnee-4
+ -prov-a-liege-2026-11-29/
+URL:https://goalio.be/fr/match/royal-football-club-wallonia-hannut-4-prov-a
+ -liege-j-s-kemexhe-crisnee-4-prov-a-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-803554e91d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f45d0babf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:J.S. Kemexhe Crisnee – R.F.C. Jehaytois
+DESCRIPTION:4e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a6bd7bbb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd90c842f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:J.S. Kemexhe Crisnee – Entente Sportive Donceel B
+DESCRIPTION:4e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d447036c6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Entité Wasseiges – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6b5aef4e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:J.S. Kemexhe Crisnee – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66eeb86d52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Couthuin Sports – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c84affbecd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. Kemexhe Crisnee – E.H. Braives B
+DESCRIPTION:4e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bb9fc8e24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Oreye Union – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d382e301e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:J.S. Kemexhe Crisnee – R.F.C. Warnant
+DESCRIPTION:4e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea46426cdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Horion – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc3e146c4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. Kemexhe Crisnee – Entente Amay B
+DESCRIPTION:4e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae76177f4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:Patro Lensois B – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-928acb0d90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Kemexhe Crisnee – Royal Football Club Wallonia Hannut
+DESCRIPTION:4e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/j-s-kemexhe-crisnee-4-prov-a-liege/
+URL:https://goalio.be/fr/equipe/j-s-kemexhe-crisnee-4-prov-a-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

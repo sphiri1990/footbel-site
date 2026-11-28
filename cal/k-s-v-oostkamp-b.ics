@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.S.V. Oostkamp B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c33fa2c284@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:K.S.V. Oostkamp B 1-2 K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-v-oostkamp-b-k-fc-lichtervelde-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-s-v-oostkamp-b-k-fc-lichtervelde-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db257e7bde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:K.S.V. Oostkamp B 4-3 K. EG Gistel
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-v-oostkamp-b-k-eg-gistel-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-s-v-oostkamp-b-k-eg-gistel-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10ffc3cc50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:SV Loppem 2-2 K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/sv-loppem-k-s-v-oostkamp-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sv-loppem-k-s-v-oostkamp-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fd25c224d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:K.S.V. Oostkamp B 3-1 K. SV Jabbeke B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-v-oostkamp-b-k-sv-jabbeke-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-s-v-oostkamp-b-k-sv-jabbeke-b-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d623979173@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. SK Wenduine – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sk-wenduine-k-s-v-oostkamp-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-sk-wenduine-k-s-v-oostkamp-b-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42002956ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:K.S.V. Oostkamp B – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66ae1368bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:K.S.V. Oostkamp B – S.K. Eernegem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-127420a96c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. FC Lichtervelde – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a23dda1ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:K.S.V. Oostkamp B – K. Sp. Club Blankenberge B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-051a9216f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K. EG Gistel – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da3b712e4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:K.S.V. Oostkamp B – SV Loppem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e02281aca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K.S.K. Snaaskerke – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12b6f709fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:K.S.V. Oostkamp B – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab4755e3af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. VV Aartrijke – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-671ed49360@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:K.S.V. Oostkamp B – FA Nieuwpoort A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6055eaa7fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Veldegem – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d13d023d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:K.S.V. Oostkamp B – K. SK Wenduine
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0be9838dc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. SV Jabbeke B – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f12053d38a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:V.V. Cercle Beernem A – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-076b1e264e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:K.S.V. Oostkamp B – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67089479a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KV Koksijde Oostduinkerke A – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-s-v-oostkamp-b/
+URL:https://goalio.be/nl/ploeg/k-s-v-oostkamp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Union Sporting Club Jemappes · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-99353af3ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.F.C. Saint-Michel 2-2 Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/r-f-c-saint-m
+ ichel-union-sporting-club-jemappes-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-saint-michel-union-sporting-club-jemap
+ pes-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db741ff333@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Union Sporting Club Jemappes 1-1 R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/union-sportin
+ g-club-jemappes-r-f-c-molenbaix-2026-11-08/
+URL:https://goalio.be/fr/match/union-sporting-club-jemappes-r-f-c-molenbaix
+ -2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b918d32ea9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Union Sporting Club Jemappes 1-1 S.C. De Nechin
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/union-sportin
+ g-club-jemappes-s-c-de-nechin-2026-11-15/
+URL:https://goalio.be/fr/match/union-sporting-club-jemappes-s-c-de-nechin-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-501c713490@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Sporting Bruxelles 2-2 Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/sporting-brux
+ elles-union-sporting-club-jemappes-2026-11-22/
+URL:https://goalio.be/fr/match/sporting-bruxelles-union-sporting-club-jemap
+ pes-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e71f99c42b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Union Sporting Club Jemappes – R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/union-sportin
+ g-club-jemappes-r-leopold-f-c-2026-11-29/
+URL:https://goalio.be/fr/match/union-sporting-club-jemappes-r-leopold-f-c-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-998a5da561@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Union Sporting Club Jemappes – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26d0f955b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Soignies Sports – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a61922dd2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Union Sporting Club Jemappes – Andenne Evelette Sports Football
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-781897071e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Union Sporting Club Jemappes – R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/union-sportin
+ g-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-362848fe37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Stade Everois Racing Club – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b257698b74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Union Sporting Club Jemappes – R.U.S. Biesme
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef4b85e5d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.U. Wallonne Ciney – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b7fdf02ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Union Sporting Club Jemappes – Pont-A-Celles-Buzet
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3621f1f150@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Arquet Namur – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b6c2b5a30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Union Sporting Club Jemappes – F.C. Kosova Schaerbeek
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2dce85e0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.A.S. Monceau – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4065e50bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Union Sporting Club Jemappes – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c0ce9923c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.F.C. Molenbaix – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3457fd08d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:S.C. De Nechin – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77b59f93a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Union Sporting Club Jemappes – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bba143eb84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Léopold F.C. – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/union-sporti
+ ng-club-jemappes/
+URL:https://goalio.be/fr/equipe/union-sporting-club-jemappes/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

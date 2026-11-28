@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.U.S. Club Anderlues · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-557a72e18f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:A.S. Fontainoise 2-4 R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/a-s-fontainoise-r-u-s-club-anderlues-2026-10-31/
+URL:https://goalio.be/fr/match/a-s-fontainoise-r-u-s-club-anderlues-2026-10
+ -31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f630e095cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.U.S. Club Anderlues 7-1 F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-u-s-club-anderlues-f-c-mont-s-march-college-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-club-anderlues-f-c-mont-s-march-colleg
+ e-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a8f77fe82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Jeunesse Trazegnies 3-1 R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/jeunesse-trazegnies-r-u-s-club-anderlues-2026-11-14/
+URL:https://goalio.be/fr/match/jeunesse-trazegnies-r-u-s-club-anderlues-202
+ 6-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e858581d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.U.S. Courcelloise – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-u-s-courcelloise-r-u-s-club-anderlues-2026-11-22/
+URL:https://goalio.be/fr/match/r-u-s-courcelloise-r-u-s-club-anderlues-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41d6f63baf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.U.S. Club Anderlues – Société Royale J.S. Thudinienne
+DESCRIPTION:4e provinciale Hainaut E\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-u-s-club-anderlues-societe-royale-j-s-thudinienne-2026-11-29/
+URL:https://goalio.be/fr/match/r-u-s-club-anderlues-societe-royale-j-s-thud
+ inienne-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2e28cf05e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.U.S. Club Anderlues – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69d695b658@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:AS Montigny – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30f851d5f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.U.S. Club Anderlues – R.C. Gouy
+DESCRIPTION:4e provinciale Hainaut E\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fe6347662@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C. Nalinnois – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2876321530@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Sporting Club Farciennes – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ec258ed25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T140000Z
+DTEND:20270213T154500Z
+SUMMARY:R.U.S. Club Anderlues – R. Goutroux Sports B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23ad2644dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T140000Z
+DTEND:20270220T154500Z
+SUMMARY:AJS Buvrinnes – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-badcafdb16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.U.S. Club Anderlues – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-017b48f01f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T140000Z
+DTEND:20270313T154500Z
+SUMMARY:Renaissance FC Carnières – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acc6bce466@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.U.S. Club Anderlues – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e754da8da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Mont-S-March-Collège B – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26c01b541c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.U.S. Club Anderlues – Jeunesse Trazegnies
+DESCRIPTION:4e provinciale Hainaut E\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47ce8c6283@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.U.S. Club Anderlues – R.U.S. Courcelloise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20f86dc7e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Société Royale J.S. Thudinienne – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-club-anderlues/
+URL:https://goalio.be/fr/equipe/r-u-s-club-anderlues/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

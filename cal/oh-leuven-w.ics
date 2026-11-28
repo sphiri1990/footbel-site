@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OH Leuven W · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/oh-leuven-w/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7dbfe628eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T123000Z
+DTEND:20261107T141500Z
+SUMMARY:Club Brugge W 1-1 OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 8\nhttps://goalio.be/fr/match/
+ club-brugge-w-oh-leuven-w-2026-11-07/
+URL:https://goalio.be/fr/match/club-brugge-w-oh-leuven-w-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ab4a55988@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T160000Z
+DTEND:20261115T174500Z
+SUMMARY:OH Leuven W 1-2 Genk W
+DESCRIPTION:Super League féminine\nJournée 9\nhttps://goalio.be/fr/match/
+ oh-leuven-w-genk-w-2026-11-15/
+URL:https://goalio.be/fr/match/oh-leuven-w-genk-w-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc38b46f52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:RAAL La Louvière W 1-1 OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 10\nhttps://goalio.be/fr/match
+ /raal-la-louviere-w-oh-leuven-w-2026-11-21/
+URL:https://goalio.be/fr/match/raal-la-louviere-w-oh-leuven-w-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92aef76966@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T123000Z
+DTEND:20261212T141500Z
+SUMMARY:OH Leuven W – Standard Liège W
+DESCRIPTION:Super League féminine\nJournée 11\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00fc24f76d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:Zulte Waregem W – OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 12\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f5f2cc61e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T123000Z
+DTEND:20270109T141500Z
+SUMMARY:OH Leuven W – Anderlecht W
+DESCRIPTION:Super League féminine\nJournée 13\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-368e95fe1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Gent W – OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 14\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46857f9880@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:OH Leuven W – Genk W
+DESCRIPTION:Super League féminine\nJournée 15\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-390f1bd314@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:OH Leuven W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 16\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56bbd857e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T150000Z
+DTEND:20270206T164500Z
+SUMMARY:Zulte Waregem W – OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 17\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19f2d5c236@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:OH Leuven W – Gent W
+DESCRIPTION:Super League féminine\nJournée 18\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21fd1b5f25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T150000Z
+DTEND:20270220T164500Z
+SUMMARY:Club Brugge W – OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 19\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7c48a1961@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:OH Leuven W – Anderlecht W
+DESCRIPTION:Super League féminine\nJournée 20\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0fe119195@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Standard Liège W – OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 21\nhttps://goalio.be/fr/equip
+ e/oh-leuven-w/
+URL:https://goalio.be/fr/equipe/oh-leuven-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

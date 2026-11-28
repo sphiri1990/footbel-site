@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kluisbergen Sp B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-42aea5116e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Gavere-Asper A 0-2 Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-gavere-asper-a-kluisbergen-sp-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-gavere-asper-a-kluisbergen-sp-b-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8cab35344b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:Sparta Petegem Deinze B 2-0 Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/sparta-petegem-deinze-b-kluisbergen-sp-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/sparta-petegem-deinze-b-kluisbergen-sp-b
+ -2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed1226de6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Kluisbergen Sp B 3-0 SK Munkzwalm B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kluisbergen-sp-b-sk-munkzwalm-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kluisbergen-sp-b-sk-munkzwalm-b-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ff3d1a35b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:WIK Boekel 1-2 Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/wik-boekel-kluisbergen-sp-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/wik-boekel-kluisbergen-sp-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a077de80c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:Kluisbergen Sp B – SK Ooidonck Leerne
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kluisbergen-sp-b-sk-ooidonck-leerne-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kluisbergen-sp-b-sk-ooidonck-leerne-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b173fef0cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KSV Maarkedal A – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a34e9eef0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:Kluisbergen Sp B – Jong Zulte
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f2eb8c338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. WIK Eine A – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3abca5d74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:FCSM Latem B – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2f3b7ead7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:Kluisbergen Sp B – WIK Boekel
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db597f1952@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Ooidonck Leerne – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2ffb9b18e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:Kluisbergen Sp B – VC Nokere-Kruishoutem B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-630a486ef7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:VC Sp Bevere – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7212783eb4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:Kluisbergen Sp B – FC Gavere-Asper A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2532f5b7db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:Kluisbergen Sp B – VC Zevergem Sp
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0ab3ac30c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:JV De Pinte A – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0e3e08b98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:Kluisbergen Sp B – Sparta Petegem Deinze B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cd38a43b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:SK Munkzwalm B – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11a935d932@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:Kluisbergen Sp B – KSV Maarkedal A
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b85469622b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K Olsene Sp – Kluisbergen Sp B
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d271f31f25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Kluisbergen Sp B – KE Machelen a Leie
+DESCRIPTION:3e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kluisbergen-sp-b/
+URL:https://goalio.be/nl/ploeg/kluisbergen-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

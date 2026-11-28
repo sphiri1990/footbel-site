@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stade Vervietois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b69b508ce5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K.F.C. OL. Recht 1-1 Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/k-f-c-ol-recht-stade-vervietois-2-prov-c-liege-2026-11-01/
+URL:https://goalio.be/fr/match/k-f-c-ol-recht-stade-vervietois-2-prov-c-lie
+ ge-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98d108f0cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Stade Vervietois 1-1 R.F.C. Xhoffraix
+DESCRIPTION:2e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/stade-vervietois-2-prov-c-liege-r-f-c-xhoffraix-2026-11-08/
+URL:https://goalio.be/fr/match/stade-vervietois-2-prov-c-liege-r-f-c-xhoffr
+ aix-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-596499ab06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.R.C. Trois-Ponts 1-5 Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-r-c-trois-ponts-stade-vervietois-2-prov-c-liege-2026-11-15/
+URL:https://goalio.be/fr/match/r-r-c-trois-ponts-stade-vervietois-2-prov-c-
+ liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4899dcdc3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Stade Vervietois – K.F.C. Grün-Weiss Amel (remis)
+DESCRIPTION:2e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/stade-vervietois-2-prov-c-liege-k-f-c-grun-weiss-amel-2026-11-22/
+URL:https://goalio.be/fr/match/stade-vervietois-2-prov-c-liege-k-f-c-grun-w
+ eiss-amel-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c30ec6952c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.A.F. Franchimontois – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-a-f-franchimontois-stade-vervietois-2-prov-c-liege-2026-11-29/
+URL:https://goalio.be/fr/match/r-a-f-franchimontois-stade-vervietois-2-prov
+ -c-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e2f759375@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:S.G. Rapid Oudler – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4279c5af31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Stade Vervietois – Königlicher Honsfelder S.V.
+DESCRIPTION:2e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29f376726d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Battice F.C. A – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-066f3f4505@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Stade Vervietois – R.F.C. Sart-Lez-Spa
+DESCRIPTION:2e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39ffc683a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:ET. Elsautoise B – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb287844a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Stade Vervietois – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-620c83c6fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. FC Rocherath – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8db7cbe337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Stade Vervietois – Royale Entente Lambermont-Rechain
+DESCRIPTION:2e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88ec6f5253@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R.F.C. 1924 St-Vith – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636ba756e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Stade Vervietois – R. St. F.C. Andrimont
+DESCRIPTION:2e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66075bb612@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Stade Vervietois – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdb6bb6f64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Xhoffraix – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55467acb64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Stade Vervietois – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8eefac316@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.F.C. Grün-Weiss Amel – Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-231c98f459@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Stade Vervietois – R.A.F. Franchimontois
+DESCRIPTION:2e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/stade-vervietois-2-prov-c-liege/
+URL:https://goalio.be/fr/equipe/stade-vervietois-2-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

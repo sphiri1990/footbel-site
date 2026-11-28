@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:C.S. D'Ocquier · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/c-s-d-ocquier/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ea4ac3380c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:C.S. D'Ocquier 0-4 Groupe De Poulseur
+DESCRIPTION:4e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/c-s-d-ocquier-groupe-de-poulseur-2026-11-01/
+URL:https://goalio.be/fr/match/c-s-d-ocquier-groupe-de-poulseur-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d315d6c38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T144500Z
+SUMMARY:R. Harzé F.C. B 5-0 C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-harze-f-c-b-c-s-d-ocquier-2026-11-08/
+URL:https://goalio.be/fr/match/r-harze-f-c-b-c-s-d-ocquier-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34424184ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:C.S. D'Ocquier 1-3 R. All. Clavinoise S.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/c-s-d-ocquier-r-all-clavinoise-s-c-4-prov-b-liege-2026-11-15/
+URL:https://goalio.be/fr/match/c-s-d-ocquier-r-all-clavinoise-s-c-4-prov-b-
+ liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c04e4b135f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:C.S. D'Ocquier – R. Marchin Sport B
+DESCRIPTION:4e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/c-s-d-ocquier-r-marchin-sport-b-2026-11-29/
+URL:https://goalio.be/fr/match/c-s-d-ocquier-r-marchin-sport-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb60ffcf71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:C.S. D'Ocquier – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ab80b3bbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Celtic Chaudfontaine FC – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-507ad7779e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:C.S. D'Ocquier – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed469bcbe5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Fraiture F.C. – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f9c3c61f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:C.S. D'Ocquier – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fe7806c1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R.S.C. Modave – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac2293776d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:C.S. D'Ocquier – U.S. Ferrières
+DESCRIPTION:4e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a9807cfde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Jeunesse MSN Tilleur B – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-adf2e84978@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Fraiture SP B – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6caad3fd05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:C.S. D'Ocquier – FC Apicoles Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-356bf13ef1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Groupe De Poulseur – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a9f6a2a82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:C.S. D'Ocquier – R. Harzé F.C. B
+DESCRIPTION:4e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-790fc7cf97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. All. Clavinoise S.C. – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa558efa81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Marchin Sport B – C.S. D'Ocquier
+DESCRIPTION:4e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/c-s-d-ocquier/
+URL:https://goalio.be/fr/equipe/c-s-d-ocquier/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

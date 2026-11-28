@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Sporting Club Lontzen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c2d3e369df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:UN. Walhorn 1-3 R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/un-walhorn-r-sporting-club-lontzen-2026-10-31/
+URL:https://goalio.be/fr/match/un-walhorn-r-sporting-club-lontzen-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc0fc02013@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Sporting Club Lontzen 2-2 K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-sporting-club-lontzen-k-fc-eupen-1963-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-sporting-club-lontzen-k-fc-eupen-1963-b-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a71746a55a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:U.S.F.C. Elsenborn 1-0 R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/u-s-f-c-elsenborn-r-sporting-club-lontzen-2026-11-15/
+URL:https://goalio.be/fr/match/u-s-f-c-elsenborn-r-sporting-club-lontzen-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ccf87c2fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Sporting Club Lontzen – R.C.S. Jalhaytois (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-sporting-club-lontzen-r-c-s-jalhaytois-2026-11-22/
+URL:https://goalio.be/fr/match/r-sporting-club-lontzen-r-c-s-jalhaytois-202
+ 6-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5fe04005e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.U. Limbourg – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-u-limbourg-r-sporting-club-lontzen-2026-11-28/
+URL:https://goalio.be/fr/match/r-u-limbourg-r-sporting-club-lontzen-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-070b3d96f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R.C.S. Bellevaux-Ligneuville – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc87d3f2e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Sporting Club Lontzen – R. FC Bütgenbach
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-737c5dc423@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T133000Z
+DTEND:20261219T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-081ab92ad0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Sporting Club Lontzen – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f6a1d9177@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Büllingen – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eacd8a4d89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Sporting Club Lontzen – All. Hautes Fagnes A
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1995cae997@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Entente Pepine A – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e357cee253@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Sporting Club Lontzen – R.U.S. 1947 Emmels
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c26ab4a098@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:F.C. Welkenraedt B – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f47a6e885e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Sporting Club Lontzen – R.F.C. Malmundaria 1904 B
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1abbb6550e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Sporting Club Lontzen – UN. Walhorn
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abf8ab2db9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K. FC Eupen 1963 B – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f9cf84b32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Sporting Club Lontzen – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f885427d7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.C.S. Jalhaytois – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67893e8141@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Sporting Club Lontzen – R.U. Limbourg
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-sporting-club-lontzen/
+URL:https://goalio.be/fr/equipe/r-sporting-club-lontzen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

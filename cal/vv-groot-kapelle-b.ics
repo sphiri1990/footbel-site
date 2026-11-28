@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VV Groot Kapelle B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-33b3beef8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T163000Z
+DTEND:20261107T181500Z
+SUMMARY:VV Groot Kapelle B 3-2 Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/vv-groot-kapelle-b-zemst-sp-b-2026-11-07/
+URL:https://goalio.be/fr/match/vv-groot-kapelle-b-zemst-sp-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a723dda9e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B 4-3 VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/perk-steenokkerzeel-v-1820-b-vv-groot-kapelle-b-2026-11-14/
+URL:https://goalio.be/fr/match/perk-steenokkerzeel-v-1820-b-vv-groot-kapell
+ e-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91cca7cb0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T163000Z
+DTEND:20261121T181500Z
+SUMMARY:VV Groot Kapelle B 6-0 FC Inkad Diegem B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/vv-groot-kapelle-b-fc-inkad-diegem-b-2026-11-21/
+URL:https://goalio.be/fr/match/vv-groot-kapelle-b-fc-inkad-diegem-b-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eddf0dd145@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T160000Z
+DTEND:20261129T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/fenixx-beigem-humbeek-b-vv-groot-kapelle-b-2026-11-29/
+URL:https://goalio.be/fr/match/fenixx-beigem-humbeek-b-vv-groot-kapelle-b-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cee8c56a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:VV Groot Kapelle B – KCVV Elewijt B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ef6b836ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Peutie FC – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab783acb07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:VV Groot Kapelle B – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-117110466e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:SK Laar – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89bfc19aee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:VV Groot Kapelle B – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb4c5d1bd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KFC Eppegem B – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9232915ea9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T163000Z
+DTEND:20270220T181500Z
+SUMMARY:VV Groot Kapelle B – K. Sp. Amicii Tange
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b694550b1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:Zemst Sp. B – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b211ee0ee8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T163000Z
+DTEND:20270306T181500Z
+SUMMARY:VV Groot Kapelle B – KCS Machelen B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-676e2b713c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:KCVV Elewijt B – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-658e189164@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:VV Groot Kapelle B – KV Woluwe-Zaventem B (annulé)
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c3517ebbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:FC Inkad Diegem B – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab4e2cd92e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Infinity FC Vilvoorde – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5240d08e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VV Groot Kapelle B – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vv-groot-kapelle-b/
+URL:https://goalio.be/fr/equipe/vv-groot-kapelle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

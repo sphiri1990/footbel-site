@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.S.K. Meldert · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-s-k-meldert/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e22e151cba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K.S.K. Meldert 3-1 KVV Heusden-Zolder B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/k-s-k-meldert-kvv-heusden-zolder-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-meldert-kvv-heusden-zolder-b-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6879fd0277@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:FC Paal-Tervant B 0-2 K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-paal-tervant-b-k-s-k-meldert-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-paal-tervant-b-k-s-k-meldert-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63d827dc64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K.S.K. Meldert – HSC Beringen (afgelast)
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/k-s-k-meldert-hsc-beringen-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-meldert-hsc-beringen-2026-11-15/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f26dcd267b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K.S.K. Meldert 1-4 VV Lummen B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/k-s-k-meldert-vv-lummen-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-meldert-vv-lummen-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f942768400@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KFC Ham United – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/kfc-ham-united-k-s-k-meldert-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-ham-united-k-s-k-meldert-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11a11425ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K.S.K. Meldert – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5949f47390@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Bolderberg FC – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9e14905c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K.S.K. Meldert – Beringen F.C.
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-680b55dad7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:WS Linkhout B – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6816597925@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K.S.K. Meldert – Turkse FC B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de90e4a0a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:VV Lummen B – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2492eafc7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:HSC Beringen – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fefae154d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.S.K. Meldert – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcfb06abda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:KVV Heusden-Zolder B – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-689bc8e1fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K.S.K. Meldert – K. ESK Leopoldsburg B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-458b42f1a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Verbroedering Loksbergen – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bcce7905d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K.S.K. Meldert – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1877f4419a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T153000Z
+DTEND:20270403T171500Z
+SUMMARY:KFC Helson Helchteren B – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac8ddbf3e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:MD Halen – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b467c041d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.S.K. Meldert – K. FC Anadol B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/k-s-k-meldert/
+URL:https://goalio.be/nl/ploeg/k-s-k-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Koninklijke FFF Haren · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e00fada1ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Koninklijke FFF Haren 2-1 V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/koninklijke-fff-haren-v-hofstade-2026-11-01/
+URL:https://goalio.be/fr/match/koninklijke-fff-haren-v-hofstade-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd516d992d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:SK Nossegem B 0-2 Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-nossegem-b-koninklijke-fff-haren-2026-11-07/
+URL:https://goalio.be/fr/match/sk-nossegem-b-koninklijke-fff-haren-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bf05dd22f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Koninklijke FFF Haren 2-0 VV Groot Kapelle A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/koninklijke-fff-haren-vv-groot-kapelle-a-2026-11-15/
+URL:https://goalio.be/fr/match/koninklijke-fff-haren-vv-groot-kapelle-a-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acbdadac7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Zemst Sp. A 3-0 Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/zemst-sp-a-koninklijke-fff-haren-2026-11-22/
+URL:https://goalio.be/fr/match/zemst-sp-a-koninklijke-fff-haren-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9a1073ed8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Koninklijke FFF Haren – K. Del. Londerzeel B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/koninklijke-fff-haren-k-del-londerzeel-b-2026-11-29/
+URL:https://goalio.be/fr/match/koninklijke-fff-haren-k-del-londerzeel-b-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0eb9068e9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T191500Z
+DTEND:20261205T210000Z
+SUMMARY:Merchtem United A – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1db6cc0f1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:FC Inkad Diegem A – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd1051b9d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Koninklijke FFF Haren – SK Nossegem B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-545f9a3721@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Koninklijke FFF Haren – SK Steenhuffel A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cad06ed8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Londerzeel United – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cde07a4972@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Koninklijke FFF Haren – Sparta Melsbroek
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d3f46d2a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:KSC Grimbergen B – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22c2b715c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Koninklijke FFF Haren – Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-617c1a9f25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:VC Den Boskant Peizegem A – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66345020e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Koninklijke FFF Haren – Eendr. Mazenzele Opwijk B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61aa049f6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:V. Hofstade – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84e3044c4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Koninklijke FFF Haren – Zemst Sp. A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78ed11f48b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K. Del. Londerzeel B – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-737f5c56f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Koninklijke FFF Haren – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64cffe0645@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Koninklijke FFF Haren – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-600e919413@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VV Groot Kapelle A – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/koninklijke-fff-haren/
+URL:https://goalio.be/fr/equipe/koninklijke-fff-haren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

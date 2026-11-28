@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Landen B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-landen-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-19875fb8f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Landen B 3-2 F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/fc-landen-b-f-c-habo-borgloon-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-landen-b-f-c-habo-borgloon-b-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a70c3230d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:FC Diepenbeek B 1-1 FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-diepenbeek-b-fc-landen-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-diepenbeek-b-fc-landen-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aba3465c0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Landen B 3-5 FC Alken
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/fc-landen-b-fc-alken-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/fc-landen-b-fc-alken-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2026ff1acc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Juve Hasselt B 9-0 FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/juve-hasselt-b-fc-landen-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/juve-hasselt-b-fc-landen-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-039ad104bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Landen B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/fc-landen-b-f-c-alken-united-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fc-landen-b-f-c-alken-united-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad0a12ac52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T160000Z
+DTEND:20261205T174500Z
+SUMMARY:K. Velm VV B – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98835ebdfe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Landen B – JB Eigenbilzen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a93209b10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Herk Sport B – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6345ca487@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Landen B – Sp. Aalst
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-831e016a4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Landen B – FC Diepenbeek B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dab69f510d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KVV Zepperen-Brustem B – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c42ab0cd5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:F.C. Alken United – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa492960b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Landen B – K. Velm VV B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c027ab80af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Fl. Termolen – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e2c75b980@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Landen B – Heers VV
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21a8884a4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:FC Alken – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-997256e3b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Landen B – Juve Hasselt B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af7def0a67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Landen B – Daring Huvo Jeuk B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-606b0e510e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Habo-Borgloon B – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3863f2d3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Landen B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/fc-landen-b/
+URL:https://goalio.be/nl/ploeg/fc-landen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

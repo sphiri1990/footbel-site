@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAC Saint-Mard A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rac-saint-mard-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2983916a44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RAC Saint-Mard A 2-2 US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/rac-saint-mard-a-us-martelangeoise-2026-11-01/
+URL:https://goalio.be/fr/match/rac-saint-mard-a-us-martelangeoise-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a782e2838@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:RJS Habaysienne 0-1 RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/rjs-habaysienne-rac-saint-mard-a-2026-11-07/
+URL:https://goalio.be/fr/match/rjs-habaysienne-rac-saint-mard-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f64442ade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RAC Saint-Mard A 2-5 RES Aubange
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/rac-saint-mard-a-res-aubange-2026-11-15/
+URL:https://goalio.be/fr/match/rac-saint-mard-a-res-aubange-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3afcfd4768@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSC Vance – RAC Saint-Mard A (remis)
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/rsc-vance-rac-saint-mard-a-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-vance-rac-saint-mard-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3464347151@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RAC Saint-Mard A – R. Excelsior Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/rac-saint-mard-a-r-excelsior-virton-b-2026-11-29/
+URL:https://goalio.be/fr/match/rac-saint-mard-a-r-excelsior-virton-b-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1370d9b2dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:ROC Meix-Dt-Virton B – RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa98d777ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RAC Saint-Mard A – AS Gérouville
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84fe58bae4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Ass. Sp. Nothomb-Post B – RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da6f433778@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RAC Saint-Mard A – RFC Messancy B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c30c7402c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RCS Halanzy – RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29891e4be9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RAC Saint-Mard A – R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0be3b3b83d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R. Jeunesse Autelbas – RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e97e0f647@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RAC Saint-Mard A – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b59b22c09e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:US Martelangeoise – RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad13a9ff4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RAC Saint-Mard A – RJS Habaysienne
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec63f56f75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RES Aubange – RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rac-saint-mard-a/
+URL:https://goalio.be/fr/equipe/rac-saint-mard-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Aubel F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-61bf537af4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Aubel F.C. 2-3 Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-aubel-f-c-2-prov-b-liege-cfc-pontisse-herstal-2026-11-01/
+URL:https://goalio.be/fr/match/r-aubel-f-c-2-prov-b-liege-cfc-pontisse-hers
+ tal-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51a1fffd89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Football Club de Trooz 0-3 R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/football-club-de-trooz-r-aubel-f-c-2-prov-b-liege-2026-11-08/
+URL:https://goalio.be/fr/match/football-club-de-trooz-r-aubel-f-c-2-prov-b-
+ liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76322b99aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Aubel F.C. 1-4 Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-aubel-f-c-2-prov-b-liege-royal-sprimont-banneux-2-prov-b-liege-2026-11
+ -15/
+URL:https://goalio.be/fr/match/r-aubel-f-c-2-prov-b-liege-royal-sprimont-ba
+ nneux-2-prov-b-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-945aa40333@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Aubel F.C. – F.C.R. Vise United (remis)
+DESCRIPTION:2e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-aubel-f-c-2-prov-b-liege-f-c-r-vise-united-2026-11-22/
+URL:https://goalio.be/fr/match/r-aubel-f-c-2-prov-b-liege-f-c-r-vise-united
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3004fdf36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Cornesse F.C. – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-cornesse-f-c-r-aubel-f-c-2-prov-b-liege-2026-11-29/
+URL:https://goalio.be/fr/match/r-cornesse-f-c-r-aubel-f-c-2-prov-b-liege-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf8fbd6d94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.S.C. Saive – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d39df84b34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Aubel F.C. – R. Alliance Melen-Micheroux
+DESCRIPTION:2e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08aa1c14be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.A.S. Houtain – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42323b047e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Aubel F.C. – R.A.C. Hombourg
+DESCRIPTION:2e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d56124792f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Herstal – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3b8c49917@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Aubel F.C. – R. Ent. Blegnytoise
+DESCRIPTION:2e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cb2db0ef1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Un. La Calamine – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e83f68105@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Aubel F.C. – R. Aywaille F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0189791aef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:U.C.E. de Liège – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afa7372973@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Aubel F.C. – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-460ebc835c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Cfc Pontisse Herstal – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7154bd5b71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Aubel F.C. – Football Club de Trooz
+DESCRIPTION:2e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5db8054f18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Royal Sprimont Banneux – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5299ace87b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C.R. Vise United – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29b4cfc207@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Aubel F.C. – R. Cornesse F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-aubel-f-c-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/r-aubel-f-c-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

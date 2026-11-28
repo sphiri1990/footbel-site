@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeunesse Sportive Grivegnee · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-37038d10a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee 0-1 R. Harzé F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-r-harze-f-c-2026-11-01/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-r-harze-f-c-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd9d3d8aaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Jupille 2-5 Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-jupille-jeunesse-sportive-grivegnee-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-jupille-jeunesse-sportive-grivegnee-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3e29aada4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee 7-0 R. Ougrée FC.
+DESCRIPTION:3e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-r-ougree-fc-2026-11-15/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-r-ougree-fc-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a66ebb6b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:J.S. Hognouloise – Jeunesse Sportive Grivegnee (remis)
+DESCRIPTION:3e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/j-s-hognouloise-jeunesse-sportive-grivegnee-2026-11-22/
+URL:https://goalio.be/fr/match/j-s-hognouloise-jeunesse-sportive-grivegnee-
+ 2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7386f4a04a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.S.C. Beaufays B
+DESCRIPTION:3e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-r-s-c-beaufays-b-2026-11-29/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-r-s-c-beaufays-b
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c953554eb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.U.S. Gold Star Liège
+DESCRIPTION:3e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50d7f94426@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:All. Fexhe Et Slins - Fragnee – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfbd6c2d93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – Illyrian Blegny
+DESCRIPTION:3e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bed1d9a7cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Entente Sportive Tilleur – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72c5ef4d8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – Seraing Athletique R.F.C.
+DESCRIPTION:3e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eeb8821b65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:S.C. Oneutois – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-038ba9e690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T143000Z
+DTEND:20270214T161500Z
+SUMMARY:R. Union Flémalloise B – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5eb9339320@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – C.S. Juprelle
+DESCRIPTION:3e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e8919d643@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. Sart Tilman – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98bfdd1c90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-feabe6e3b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Harzé F.C. – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb4ae7eba1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Jeunesse Sportive Grivegnee – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f86d458ef9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Ougrée FC. – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66ed81aead@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Jeunesse Sportive Grivegnee – J.S. Hognouloise
+DESCRIPTION:3e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-003a2561ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Beaufays B – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

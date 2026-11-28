@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Noordstar VV · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-noordstar-vv/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f55da61482@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Noordstar VV 4-2 K. Vrijh. Herselt
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-noordstar-vv-k-vrijh-herselt-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-noordstar-vv-k-vrijh-herselt-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca45e939cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K.F.C. Putte A 1-3 K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-f-c-putte-a-k-noordstar-vv-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-putte-a-k-noordstar-vv-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19535aa85f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. Noordstar VV 2-4 KSKS Herentals
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-noordstar-vv-ksks-herentals-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-noordstar-vv-ksks-herentals-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34789a329e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K. Noordstar VV 2-2 KVC Booischot
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-noordstar-vv-kvc-booischot-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-noordstar-vv-kvc-booischot-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fada74e3c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:KVV OG Vorselaar A – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kvv-og-vorselaar-a-k-noordstar-vv-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvv-og-vorselaar-a-k-noordstar-vv-2026-1
+ 1-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db982b2abc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. Noordstar VV – K.F.C. Arendonk Sport
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b95a4afd32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Dessel Sp. B – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a180a76f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KVC Oostmalle – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e32825c29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K. Noordstar VV – KFC Lentezon Beerse
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df7b00ee70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Noordstar VV – Vosselaar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a4b06bac5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:K. Eendr. Zoersel A – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73efc7008f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. Noordstar VV – KVV OG Vorselaar A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbef93ab4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KVC Lille United B – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1353f9301@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. Noordstar VV – K.F.C. Putte A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09d2c51972@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KSKS Herentals – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fd1756e0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. Noordstar VV – Minderhout VV A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d0f440f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KVC Booischot – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f496eaa02c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Noordstar VV – KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac2aaade56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K.F.C. Arendonk Sport – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c41408ba1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Noordstar VV – KSK Weelde
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e9d47a266@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Vrijh. Herselt – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-noordstar-vv/
+URL:https://goalio.be/nl/ploeg/k-noordstar-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

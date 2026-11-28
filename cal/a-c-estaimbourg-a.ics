@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.C. Estaimbourg A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-96f4883f5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B 1-4 A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-a-s-pays-blanc-antoing-b-a-c-estaimbourg-a-2026-10-31/
+URL:https://goalio.be/fr/match/r-a-s-pays-blanc-antoing-b-a-c-estaimbourg-a
+ -2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e659fb61f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:A.C. Estaimbourg A 8-0 R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/a-c-estaimbourg-a-r-f-c-luingnois-b-2026-11-08/
+URL:https://goalio.be/fr/match/a-c-estaimbourg-a-r-f-c-luingnois-b-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8daa72c860@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Enghiennois B 2-4 A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-enghiennois-b-a-c-estaimbourg-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-enghiennois-b-a-c-estaimbourg-a-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44d3441c35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:A.C. Estaimbourg A – J.S. Meslin-Grand Marais A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/a-c-estaimbourg-a-j-s-meslin-grand-marais-a-2026-11-22/
+URL:https://goalio.be/fr/match/a-c-estaimbourg-a-j-s-meslin-grand-marais-a-
+ 2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1561547dd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:A.C. Anvaing A – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/a-c-anvaing-a-a-c-estaimbourg-a-2026-11-29/
+URL:https://goalio.be/fr/match/a-c-anvaing-a-a-c-estaimbourg-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9816d7dd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:DR Rongy A – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09ddbbb939@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:A.C. Estaimbourg A – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a9e4d2ced@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.U.S. Herseautoise A – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2d354d856@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:A.C. Estaimbourg A – A.S. Obigies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb70108a62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C. Wiersien A – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32b3f8b7d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:A.C. Estaimbourg A – R.U.S. Hensies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3857f210f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:A.C. Estaimbourg A – Péruwelz FC A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-996b9222f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.U.S. Beloeil A – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d01f91cf54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:A.C. Estaimbourg A – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dcd6a5736@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:J.S. Isièroise A – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c120160cc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:A.C. Estaimbourg A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cda36f9858@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:R.F.C. Luingnois B – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56eaa78286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:A.C. Estaimbourg A – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aca51017cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:J.S. Meslin-Grand Marais A – A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9b74ef837@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.C. Estaimbourg A – A.C. Anvaing A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/a-c-estaimbourg-a/
+URL:https://goalio.be/fr/equipe/a-c-estaimbourg-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

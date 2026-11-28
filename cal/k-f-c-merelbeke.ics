@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.F.C. Merelbeke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9251843c29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261106T190000Z
+DTEND:20261106T204500Z
+SUMMARY:K.F.C. Merelbeke 2-1 K. Sk. Heist
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-f-c-merelb
+ eke-k-sk-heist-2026-11-06/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-merelbeke-k-sk-heist-2026-11-06/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c6626d64e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Oud-Heverlee Leuven 1-0 K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/oud-heverlee
+ -leuven-k-f-c-merelbeke-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/oud-heverlee-leuven-k-f-c-merelbeke-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d76ac5f4d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K.F.C. Merelbeke 0-1 K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-f-c-merelb
+ eke-k-lyra-lierse-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-merelbeke-k-lyra-lierse-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ac23d9938@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-v-v-thes-s
+ port-tessenderlo-k-f-c-merelbeke-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-thes-sport-tessenderlo-k-f-c-merel
+ beke-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37397bb42e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K.F.C. Merelbeke – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-389f11ab0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Racing Club Harelbeke – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d54685d6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:K.F.C. Merelbeke – Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-adb396d325@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K.F.C. Dessel Sport – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b193fb264@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K.F.C. Merelbeke – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24534e91a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:F.C. Mandel United Izegem – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2598803d89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K.F.C. Merelbeke – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fca2b3e658@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270219T190000Z
+DTEND:20270219T204500Z
+SUMMARY:K.V.V. Zelzate – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b14978809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K.F.C. Merelbeke – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f52ed0989f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K. Lyra-Lierse – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6368824c23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:K.F.C. Merelbeke – Kvk Tienen
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6bfe3ba3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sportkring Roeselare – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42004f138f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K.F.C. Merelbeke – K.F.C. Houtvenne
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f707d01b95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Cercle Brugge K.S.V. – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecef081f8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.F.C. Merelbeke – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0001eee8af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Sk. Heist – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-f-c-merelbeke/
+URL:https://goalio.be/nl/ploeg/k-f-c-merelbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

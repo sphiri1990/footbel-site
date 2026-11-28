@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R Anhée FC A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-anhee-fc-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9ae4f4df83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R Anhée FC A 4-1 RFC Bioul 81 A
+DESCRIPTION:2e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /r-anhee-fc-a-rfc-bioul-81-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-anhee-fc-a-rfc-bioul-81-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39d5ef9e65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:FC Malonne 2000 A 6-5 R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /fc-malonne-2000-a-r-anhee-fc-a-2026-11-07/
+URL:https://goalio.be/fr/match/fc-malonne-2000-a-r-anhee-fc-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63ca7146a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R Anhée FC A 3-0 U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /r-anhee-fc-a-u-s-flavion-morialme-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-anhee-fc-a-u-s-flavion-morialme-a-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2d3787ba7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RFC Somzée A – R Anhée FC A (remis)
+DESCRIPTION:2e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /rfc-somzee-a-r-anhee-fc-a-2026-11-22/
+URL:https://goalio.be/fr/match/rfc-somzee-a-r-anhee-fc-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-063d8b254d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R Anhée FC A – ES Petigny-Frasnes A
+DESCRIPTION:2e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /r-anhee-fc-a-es-petigny-frasnes-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-anhee-fc-a-es-petigny-frasnes-a-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82e1f051e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R Anhée FC A – RFC Surice A
+DESCRIPTION:2e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-301cad875e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:US Thy-Chateau A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d12e4422b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R Anhée FC A – R Exc FC Moustier A
+DESCRIPTION:2e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbf248e0ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RAS Houyet – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3053b54455@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RCS Profondeville A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18622f0f4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R Anhée FC A – RUS Pondrome A
+DESCRIPTION:2e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0c285eb83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FCE Tarciennois A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c07512db7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R Anhée FC A – RUS Biesme B
+DESCRIPTION:2e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af4f4bb6b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Sp Exc Jemeppe A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff822c5029@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R Anhée FC A – R Dinant FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b53788142c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RFC Bioul 81 A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85c4705d4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R Anhée FC A – FC Malonne 2000 A
+DESCRIPTION:2e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cb0ad0350@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:U.S. Flavion-Morialmé A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c112c47f76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R Anhée FC A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57d35d5606@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ES Petigny-Frasnes A – R Anhée FC A
+DESCRIPTION:2e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/r-anhee-fc-a/
+URL:https://goalio.be/fr/equipe/r-anhee-fc-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

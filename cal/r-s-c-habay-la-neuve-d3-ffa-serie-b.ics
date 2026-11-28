@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Habay La Neuve · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-
+ b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d09a24207d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.S.C. Habay La Neuve 0-0 R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 11\nhttps://goalio.be/fr/match/r-s-c-habay-l
+ a-neuve-d3-ffa-serie-b-r-o-c-meix-dt-virton-2026-10-31/
+URL:https://goalio.be/fr/match/r-s-c-habay-la-neuve-d3-ffa-serie-b-r-o-c-me
+ ix-dt-virton-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-579defed0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.F.C. Malmundaria 1904 1-1 R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 12\nhttps://goalio.be/fr/match/r-f-c-malmund
+ aria-1904-r-s-c-habay-la-neuve-d3-ffa-serie-b-2026-11-07/
+URL:https://goalio.be/fr/match/r-f-c-malmundaria-1904-r-s-c-habay-la-neuve-
+ d3-ffa-serie-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec9b112894@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T133000Z
+DTEND:20261111T151500Z
+SUMMARY:R. Stade Waremmien F.C. 0-2 R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 1\nhttps://goalio.be/fr/match/r-stade-waremm
+ ien-f-c-r-s-c-habay-la-neuve-d3-ffa-serie-b-2026-11-11/
+URL:https://goalio.be/fr/match/r-stade-waremmien-f-c-r-s-c-habay-la-neuve-d
+ 3-ffa-serie-b-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7b38db3a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R.S.C. Habay La Neuve 3-4 Royal Sprimont Banneux
+DESCRIPTION:D3 FFA B\nJournée 13\nhttps://goalio.be/fr/match/r-s-c-habay-l
+ a-neuve-d3-ffa-serie-b-royal-sprimont-banneux-2026-11-14/
+URL:https://goalio.be/fr/match/r-s-c-habay-la-neuve-d3-ffa-serie-b-royal-sp
+ rimont-banneux-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fba11bb118@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.F.C. Messancy 2-4 R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 14\nhttps://goalio.be/fr/match/r-f-c-messanc
+ y-r-s-c-habay-la-neuve-d3-ffa-serie-b-2026-11-21/
+URL:https://goalio.be/fr/match/r-f-c-messancy-r-s-c-habay-la-neuve-d3-ffa-s
+ erie-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-609083dcf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.S.C. Habay La Neuve – R.C.S. Libramontois
+DESCRIPTION:D3 FFA B\nJournée 15\nhttps://goalio.be/fr/match/r-s-c-habay-l
+ a-neuve-d3-ffa-serie-b-r-c-s-libramontois-2026-11-28/
+URL:https://goalio.be/fr/match/r-s-c-habay-la-neuve-d3-ffa-serie-b-r-c-s-li
+ bramontois-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd2e073fe7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R.S.C. Habay La Neuve – R. Stade Waremmien F.C.
+DESCRIPTION:D3 FFA B\nJournée 16\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2828c12096@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Aubel F.C. – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 17\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-782fae47c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C. Ans – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 18\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a2935b34f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:R.S.C. Habay La Neuve – R. Aubel F.C.
+DESCRIPTION:D3 FFA B\nJournée 2\nhttps://goalio.be/fr/equipe/r-s-c-habay-l
+ a-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87d06f71ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.S.C. Habay La Neuve – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 19\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f5744616e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Union Momalloise – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 20\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3e80316f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.S.C. Habay La Neuve – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 21\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-573185cced@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.S.C. Tilffois – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 22\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a69e491f4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.S.C. Habay La Neuve – Et. Elsautoise
+DESCRIPTION:D3 FFA B\nJournée 23\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35f1462059@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. Verlaine – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 24\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8b3d278e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.S.C. Habay La Neuve – R.R.C. Longlier
+DESCRIPTION:D3 FFA B\nJournée 25\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a02a46fde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.O.C. Meix Dt-Virton – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 26\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80853fc4f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.S.C. Habay La Neuve – R.F.C. Malmundaria 1904
+DESCRIPTION:D3 FFA B\nJournée 27\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0019f2313@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Royal Sprimont Banneux – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 28\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a3905e889@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.S.C. Habay La Neuve – R.F.C. Messancy
+DESCRIPTION:D3 FFA B\nJournée 29\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5c1b08fc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Libramontois – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 30\nhttps://goalio.be/fr/equipe/r-s-c-habay-
+ la-neuve-d3-ffa-serie-b/
+URL:https://goalio.be/fr/equipe/r-s-c-habay-la-neuve-d3-ffa-serie-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

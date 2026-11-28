@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SB Stade Mouscronnois A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-07806776e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:SB Stade Mouscronnois A 2-1 Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/sb-stade-mouscr
+ onnois-a-stade-vervietois-2026-10-31/
+URL:https://goalio.be/fr/match/sb-stade-mouscronnois-a-stade-vervietois-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7edc601572@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Royal Stockay Saint-Georges S/M 1-1 SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/royal-stockay-s
+ aint-georges-s-m-sb-stade-mouscronnois-a-2026-11-08/
+URL:https://goalio.be/fr/match/royal-stockay-saint-georges-s-m-sb-stade-mou
+ scronnois-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fb23f187d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:SB Stade Mouscronnois A 0-2 RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/sb-stade-mouscr
+ onnois-a-rcs-brainois-a-2026-11-14/
+URL:https://goalio.be/fr/match/sb-stade-mouscronnois-a-rcs-brainois-a-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4d90ed289@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Union Namur A 0-0 SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/union-namur-a-s
+ b-stade-mouscronnois-a-2026-11-22/
+URL:https://goalio.be/fr/match/union-namur-a-sb-stade-mouscronnois-a-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f37df407c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:SB Stade Mouscronnois A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/sb-stade-mouscr
+ onnois-a-rsd-jette-a-2026-11-28/
+URL:https://goalio.be/fr/match/sb-stade-mouscronnois-a-rsd-jette-a-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4aac2088a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-324860eedc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:SB Stade Mouscronnois A – Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8531f7eac4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:SB Stade Mouscronnois A – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa7bf6f799@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:K.A.S. Eupen B – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05ecf15a40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:SB Stade Mouscronnois A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c0d5dc07d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Entente Acren Lessines – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a28ee57ad5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:RFC Un. La Calamine – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e561b06aa5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:SB Stade Mouscronnois A – R. Aywaille F.C. A
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d68b5bcdc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:C.S. Entité Manageoise – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bc693c6cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:SB Stade Mouscronnois A – FC Ganshoren
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e6779a01f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. UN Richelle A – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12e5ad8c48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:SB Stade Mouscronnois A – Royale Union Hutoise
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9df4e6098a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Stade Vervietois – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-913b96b88f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:SB Stade Mouscronnois A – Royal Stockay Saint-Georges S/M
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-393e826368@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T190000Z
+DTEND:20270327T204500Z
+SUMMARY:RCS Brainois A – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7d325b0dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:SB Stade Mouscronnois A – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31e94812c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RSD Jette A – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4310bc91a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SB Stade Mouscronnois A – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31a28b0149@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Crossing Schaerbeek – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/sb-stade-mousc
+ ronnois-a/
+URL:https://goalio.be/fr/equipe/sb-stade-mouscronnois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

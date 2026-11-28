@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hulste Sp. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/hulste-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2f045e7f11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:Hulste Sp. 4-2 K. VC Deerlijk Sport
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/hulste-sp-k-vc-deerlijk-sport-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/hulste-sp-k-vc-deerlijk-sport-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da3a869908@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:Hulste Sp. 0-3 KSV Kortrijk
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/hulste-sp-ksv-kortrijk-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/hulste-sp-ksv-kortrijk-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1230144e02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:Dosko Kanegem 1-2 Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/dosko-kanegem-hulste-sp-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/dosko-kanegem-hulste-sp-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0edda7a8e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Hulste Sp. 3-0 V.V. Tielt
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/hulste-sp-v-v-tielt-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/hulste-sp-v-v-tielt-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cd74f1c1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:SC Oostrozebeke – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/sc-oostrozebeke-hulste-sp-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/sc-oostrozebeke-hulste-sp-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-280e7a9059@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:Hulste Sp. – WS Bellegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c118a38c02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:K. VC Deerlijk Sport – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b3ca5ed3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:Hulste Sp. – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a931f388d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:Hulste Sp. – K. dNS Heule A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc0c25ed06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:KSV Kortrijk – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da66ec79c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:Hulste Sp. – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22fc31c560@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:OG Stasegem – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2590a43ec2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:Hulste Sp. – Dosko Kanegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59522e99a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T173000Z
+DTEND:20270227T191500Z
+SUMMARY:Jong Helkijn – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-206fa60843@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:Bl. Otegem – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-301e8ed3b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:Hulste Sp. – K. Z. Dentergem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-281714799c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:V.V. Tielt – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1eb9259ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:Hulste Sp. – SC Oostrozebeke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5a336b6f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K. SKV Zwevezele – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77fe12eade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:Hulste Sp. – Jong Anzegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-535680205a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:WS Bellegem – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/hulste-sp/
+URL:https://goalio.be/nl/ploeg/hulste-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

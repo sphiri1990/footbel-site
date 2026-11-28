@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Ecl. Sp. Signeulx · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b250cfb21a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.S.C. Rachecourt 4-1 R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/r-s-c-rachecourt-r-ecl-sp-signeulx-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-c-rachecourt-r-ecl-sp-signeulx-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d649815398@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R. Ecl. Sp. Signeulx 0-10 R. Jeun. Freylangeoise
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/r-ecl-sp-signeulx-r-jeun-freylangeoise-2026-11-08/
+URL:https://goalio.be/fr/match/r-ecl-sp-signeulx-r-jeun-freylangeoise-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae72501cba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:UN R. St-Louis-St-Léger 6-0 R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/un-r-st-louis-st-leger-r-ecl-sp-signeulx-2026-11-15/
+URL:https://goalio.be/fr/match/un-r-st-louis-st-leger-r-ecl-sp-signeulx-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-642dd361cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R. Ecl. Sp. Signeulx – CS Toernich (remis)
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/r-ecl-sp-signeulx-cs-toernich-2026-11-22/
+URL:https://goalio.be/fr/match/r-ecl-sp-signeulx-cs-toernich-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3db33f400@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:ES Châtillon – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/es-chatillon-r-ecl-sp-signeulx-2026-11-29/
+URL:https://goalio.be/fr/match/es-chatillon-r-ecl-sp-signeulx-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0a6d0729b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Ethe-Belmont FC – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7db7742b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Ecl. Sp. Signeulx – R.S.C. Athusien
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-892f502c2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:US Waltzing-Bonnert – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6916b1658@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RAC Saint-Mard B – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a179de6936@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Ecl. Sp. Signeulx – RUS Etalle
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1245ff27a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:ES Meix-Le-Tige – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8aaa0ae0dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Ecl. Sp. Signeulx – RSC Tontelange
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6b60c4295@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Ecl. Sp. Signeulx – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11c5bc01b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Jeun. Freylangeoise – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31235e6f8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Ecl. Sp. Signeulx – UN R. St-Louis-St-Léger
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-ecl-sp-signeulx/
+URL:https://goalio.be/fr/equipe/r-ecl-sp-signeulx/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Templeuvois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1f6d8e19b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Ass. Montkainoise 1-1 R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/ass-montkainoise-r-s-c-templeuvois-2026-11-01/
+URL:https://goalio.be/fr/match/ass-montkainoise-r-s-c-templeuvois-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0cc8afd26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S.C. Templeuvois 2-5 Renaissance Sporting Club Bruyelle
+DESCRIPTION:4e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-s-c-templeuvois-renaissance-sporting-club-bruyelle-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-templeuvois-renaissance-sporting-club-
+ bruyelle-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb98bc1242@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Entente Velaines Enclusienne 0-4 R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/entente-velaines-enclusienne-r-s-c-templeuvois-2026-11-15/
+URL:https://goalio.be/fr/match/entente-velaines-enclusienne-r-s-c-templeuvo
+ is-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-475a563210@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.S.C. Templeuvois – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-s-c-templeuvois-royale-j-s-wez-guignies-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-templeuvois-royale-j-s-wez-guignies-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-253a684a19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Football Club Etoiles D'Ere – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71d002f2f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.S.C. Templeuvois – AC Barry-Carrieres
+DESCRIPTION:4e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c1ae47255@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Ass. Sp. Club Havinnes – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-673bdf1ec2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.S.C. Templeuvois – R.A.S. Risquons-Tout Mouscron
+DESCRIPTION:4e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5c2b4201c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ren. US Tournaisienne – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-006521e939@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.S.C. Templeuvois – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-271d491ea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Union Sportive Mouscronnoise – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28093ae5e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.S.C. Templeuvois – C.S. Taintignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb1ddf6fd7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S.C. Templeuvois – R.U.S. Herseautoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c363fa0fd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Diables Rouges Rongy – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4315eb9373@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.S.C. Templeuvois – Ass. Montkainoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca0248c6eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Renaissance Sporting Club Bruyelle – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-668fb4f145@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.S.C. Templeuvois – Entente Velaines Enclusienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0d0efeda0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Royale J.S. Wez-Guignies – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-s-c-templeuvois/
+URL:https://goalio.be/fr/equipe/r-s-c-templeuvois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

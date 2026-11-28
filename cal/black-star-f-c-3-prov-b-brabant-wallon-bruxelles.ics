@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Black Star F.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wa
+ llon-bruxelles/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d55d8d99d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Black Star F.C. 2-5 R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 10\nhttps:/
+ /goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxelles-r-r-c
+ -de-boitsfort-3-prov-b-brabant-wallon-bruxelles-2026-11-07/
+URL:https://goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxe
+ lles-r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-533a114853@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Olympic Anderlecht 6-5 Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/olympic-anderlecht-black-star-f-c-3-prov-b-brabant-wal
+ lon-bruxelles-2026-11-14/
+URL:https://goalio.be/fr/match/olympic-anderlecht-black-star-f-c-3-prov-b-b
+ rabant-wallon-bruxelles-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99e66f7506@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Black Star F.C. 1-5 Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxelles-bx-br
+ ussels-2026-11-21/
+URL:https://goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxe
+ lles-bx-brussels-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce6f00f560@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Olympique Club Forestois – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/olympique-club-forestois-black-star-f-c-3-prov-b-braba
+ nt-wallon-bruxelles-2026-11-28/
+URL:https://goalio.be/fr/match/olympique-club-forestois-black-star-f-c-3-pr
+ ov-b-brabant-wallon-bruxelles-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf7e65e109@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Bx Brussels – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5d319dd82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Black Star F.C. – Olympique Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdcacae771@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Racing Anderlecht – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc3c131072@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Black Star F.C. – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c11ca98b61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Olympic Wolves Brussels – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d316c91067@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Black Star F.C. – FC Polonia Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e29817393e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.E.F. Anderlecht – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-682863941f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Black Star F.C. – R. Un. Auderghem
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bca9216c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T173000Z
+DTEND:20270227T191500Z
+SUMMARY:F.C. Moreda Uccle – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-640e4d128a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Black Star F.C. – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-647366d219@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.R.C. De Boitsfort – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cefb9029dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Black Star F.C. – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/black-star-f-c-3-prov-b-brabant-wallon-brux
+ elles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

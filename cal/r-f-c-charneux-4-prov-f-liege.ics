@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Charneux · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bb8eb63dbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:A.C. Soiron 3-1 R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 11\nhttps://goalio.be/fr/matc
+ h/a-c-soiron-r-f-c-charneux-4-prov-f-liege-2026-11-01/
+URL:https://goalio.be/fr/match/a-c-soiron-r-f-c-charneux-4-prov-f-liege-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27b0bb2ade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:R.F.C. Charneux 3-3 R.C.S. Bollandois
+DESCRIPTION:4e provinciale Liège F\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-f-c-charneux-4-prov-f-liege-r-c-s-bollandois-4-prov-f-liege-2026-11-14
+ /
+URL:https://goalio.be/fr/match/r-f-c-charneux-4-prov-f-liege-r-c-s-bollando
+ is-4-prov-f-liege-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56ec638bfa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Cornesse F.C. – R.F.C. Charneux (remis)
+DESCRIPTION:4e provinciale Liège F\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-cornesse-f-c-4-prov-f-liege-r-f-c-charneux-4-prov-f-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-cornesse-f-c-4-prov-f-liege-r-f-c-charneux
+ -4-prov-f-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e680a50945@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:R.F.C. Charneux – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-f-c-charneux-4-prov-f-liege-f-c-entente-pepine-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-charneux-4-prov-f-liege-f-c-entente-pe
+ pine-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f177a46b18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:R.F.C. Charneux – Union Aubeloise
+DESCRIPTION:4e provinciale Liège F\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-743a9b683b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Skill Racing Union Verviers – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acc6ed8cfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T144500Z
+SUMMARY:R.F.C. Charneux – R. ST F.C. Andrimont B
+DESCRIPTION:4e provinciale Liège F\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72f4da938d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R. Battice F.C. – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f5a040b30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Herve F.C. – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa6f3a8347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:R.F.C. Charneux – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcfdf5aa6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.A.F. Franchimontois – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-900a015db8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R.F.C. Charneux – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-231d8bd272@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. Queue du Bois – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd160af7f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:R.F.C. Charneux – A.C. Soiron
+DESCRIPTION:4e provinciale Liège F\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b167fe7fd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:R.C.S. Bollandois – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a1ee658ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:R.F.C. Charneux – R. Cornesse F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-527d3351d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Entente Pepine – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-f-c-charneux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-f-c-charneux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

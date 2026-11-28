@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Welkenraedt B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c43d249f42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:U.S.F.C. Elsenborn 1-1 F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/u-s-f-c-elsenborn-f-c-welkenraedt-b-2026-11-01/
+URL:https://goalio.be/fr/match/u-s-f-c-elsenborn-f-c-welkenraedt-b-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c3453bee9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Welkenraedt B 1-2 R.C.S. Jalhaytois
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-welkenraedt-b-r-c-s-jalhaytois-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-welkenraedt-b-r-c-s-jalhaytois-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3be051918a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:R.U. Limbourg 2-1 F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-u-limbourg-f-c-welkenraedt-b-2026-11-14/
+URL:https://goalio.be/fr/match/r-u-limbourg-f-c-welkenraedt-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f926cb436f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Welkenraedt B – R.C.S. Bellevaux-Ligneuville (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-welkenraedt-b-r-c-s-bellevaux-ligneuville-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-welkenraedt-b-r-c-s-bellevaux-ligneuvill
+ e-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a31bd7ff40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. FC Bütgenbach – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-fc-butgenbach-f-c-welkenraedt-b-2026-11-29/
+URL:https://goalio.be/fr/match/r-fc-butgenbach-f-c-welkenraedt-b-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cf613321f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-311cb592a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Welkenraedt B – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b604ec4545@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Büllingen – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20f9e7b549@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Welkenraedt B – All. Hautes Fagnes A
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3521489378@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Entente Pepine A – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d714eac48f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Welkenraedt B – R.U.S. 1947 Emmels
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d06574702f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:F.C. Welkenraedt B – UN. Walhorn
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12ec4cade2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:R.F.C. Malmundaria 1904 B – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c26ab4a098@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:F.C. Welkenraedt B – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfff5801d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K. FC Eupen 1963 B – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a30b8fb0bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:F.C. Welkenraedt B – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-500a97de32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.C.S. Jalhaytois – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7955dfd57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:F.C. Welkenraedt B – R.U. Limbourg
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa903f264c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.C.S. Bellevaux-Ligneuville – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0cc30423cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Welkenraedt B – R. FC Bütgenbach
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-welkenraedt-b/
+URL:https://goalio.be/fr/equipe/f-c-welkenraedt-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

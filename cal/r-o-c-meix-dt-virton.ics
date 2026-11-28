@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.O.C. Meix Dt-Virton · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d09a24207d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.S.C. Habay La Neuve 0-0 R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 11\nhttps://goalio.be/fr/match/r-s-c-habay-l
+ a-neuve-d3-ffa-serie-b-r-o-c-meix-dt-virton-2026-10-31/
+URL:https://goalio.be/fr/match/r-s-c-habay-la-neuve-d3-ffa-serie-b-r-o-c-me
+ ix-dt-virton-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8722e53ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.O.C. Meix Dt-Virton 1-4 F.C. Ans
+DESCRIPTION:D3 FFA B\nJournée 12\nhttps://goalio.be/fr/match/r-o-c-meix-dt
+ -virton-f-c-ans-2026-11-08/
+URL:https://goalio.be/fr/match/r-o-c-meix-dt-virton-f-c-ans-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a90192719f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:E.S.F.C. Du Geer 1-3 R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 13\nhttps://goalio.be/fr/match/e-s-f-c-du-ge
+ er-r-o-c-meix-dt-virton-2026-11-15/
+URL:https://goalio.be/fr/match/e-s-f-c-du-geer-r-o-c-meix-dt-virton-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ee8acfa2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.O.C. Meix Dt-Virton 3-2 R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 14\nhttps://goalio.be/fr/match/r-o-c-meix-dt
+ -virton-r-union-momalloise-2026-11-22/
+URL:https://goalio.be/fr/match/r-o-c-meix-dt-virton-r-union-momalloise-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-019ee5effc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.R.C. Mormont – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 15\nhttps://goalio.be/fr/match/r-r-c-mormont
+ -r-o-c-meix-dt-virton-2026-11-29/
+URL:https://goalio.be/fr/match/r-r-c-mormont-r-o-c-meix-dt-virton-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f636857616@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.S.C. Tilffois – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 16\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-732b15898d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.O.C. Meix Dt-Virton – Et. Elsautoise
+DESCRIPTION:D3 FFA B\nJournée 17\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42e1e80971@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.C.S. Verlaine – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 18\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1caf1c4ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Et. Elsautoise – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 2\nhttps://goalio.be/fr/equipe/r-o-c-meix-dt
+ -virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8979236314@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R.O.C. Meix Dt-Virton – R.R.C. Longlier
+DESCRIPTION:D3 FFA B\nJournée 19\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9a8ee918e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.O.C. Meix Dt-Virton – R. Aubel F.C.
+DESCRIPTION:D3 FFA B\nJournée 20\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38431b4627@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.F.C. Malmundaria 1904 – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 21\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ceb6a5992@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.O.C. Meix Dt-Virton – Royal Sprimont Banneux
+DESCRIPTION:D3 FFA B\nJournée 22\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82309f5b12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.F.C. Messancy – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 23\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-667cb0bb27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.O.C. Meix Dt-Virton – R.C.S. Libramontois
+DESCRIPTION:D3 FFA B\nJournée 24\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62f2e1c31d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Stade Waremmien F.C. – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 25\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a02a46fde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.O.C. Meix Dt-Virton – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 26\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddacfe620c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Ans – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 27\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-506440ac10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.O.C. Meix Dt-Virton – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 28\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a75d74dfcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Union Momalloise – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 29\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7da7a8a482@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.O.C. Meix Dt-Virton – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 30\nhttps://goalio.be/fr/equipe/r-o-c-meix-d
+ t-virton/
+URL:https://goalio.be/fr/equipe/r-o-c-meix-dt-virton/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

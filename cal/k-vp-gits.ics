@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. VP Gits · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-vp-gits/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c554941e63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:K. Sint-Eloois-Winkel Sp. 0-3 K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-sint-eloois-winkel-sp-k-vp-gits-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-sint-eloois-winkel-sp-k-vp-gits-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6b5720173@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. VP Gits 2-2 FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-vp-gits-fc-dadizele-sport-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-vp-gits-fc-dadizele-sport-a-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74c07f647a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Sp. Kruiseke 1-6 K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/sp-kruiseke-k-vp-gits-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sp-kruiseke-k-vp-gits-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12542c2b12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K. VP Gits 1-2 K. Sassp. Boezinge B
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-vp-gits-k-sassp-boezinge-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-vp-gits-k-sassp-boezinge-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74943fe74e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. SV De Ruiter Roes. A – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-de-ruiter-roes-a-k-vp-gits-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-sv-de-ruiter-roes-a-k-vp-gits-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdf72ef8c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:K. VP Gits – K.W.S. Club Lauwe B
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e8ee1b39f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. VP Gits – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f1a72db03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sp. Dikkebus – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d0b61eba3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:VV Alveringem – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62e4be3c3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K. VP Gits – VK Langemark-Poelkapelle
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bc10d71f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:VKW Vleteren – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-252220669e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. VP Gits – K. SV De Ruiter Roes. A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d38f77dac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.W.S. Club Lauwe B – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52dfb0f0da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. VP Gits – SK Staden
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-296a00ef44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:S.C.T. Menen – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-295843414d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. VP Gits – Ol. Ledegem
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56067fea19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T150000Z
+DTEND:20270321T164500Z
+SUMMARY:R.T.S.C. Proven – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6a6995146@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:K. VP Gits – Sp. Kruiseke
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43415de865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:FC Dadizele Sport A – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b72c3f7315@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Sassp. Boezinge B – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7656970db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. VP Gits – K. Sint-Eloois-Winkel Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-vp-gits/
+URL:https://goalio.be/nl/ploeg/k-vp-gits/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

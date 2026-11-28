@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SKD Hertsberge · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/skd-hertsberge/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dcfb843a48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:VK Dudzele 1-5 SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vk-dudzele-skd-hertsberge-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vk-dudzele-skd-hertsberge-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36920df415@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. FC Lissewege 5-2 SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lissewege-skd-hertsberge-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lissewege-skd-hertsberge-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acdfe11d34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:SKD Hertsberge 6-1 V.V. Cercle Beernem B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/skd-hertsberge-v-v-cercle-beernem-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/skd-hertsberge-v-v-cercle-beernem-b-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ff31248d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T191500Z
+SUMMARY:K. FC Aarsele 4-4 SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-aarsele-skd-hertsberge-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-fc-aarsele-skd-hertsberge-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65da3d60ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:SKD Hertsberge – K. FC Varsenare B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/skd-hertsberge-k-fc-varsenare-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/skd-hertsberge-k-fc-varsenare-b-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e22973289@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:VV Westkapelle B – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5feecd2619@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:SKD Hertsberge – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08f520be19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:E. Brugge – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdfeb74494@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Zeebrugge – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66500ba7d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:SKD Hertsberge – K. FC Aarsele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-323e4547e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T184500Z
+DTEND:20270130T203000Z
+SUMMARY:K. FC Varsenare B – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a1201a3dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. SK Steenbrugge – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aca50a89fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:SKD Hertsberge – VK Dudzele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c89a1c3ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:SKD Hertsberge – K. FC Heist B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f51267c463@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Damme – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cea9127fce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:SKD Hertsberge – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7079a74f9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:V.V. Cercle Beernem B – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb96067d39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:SKD Hertsberge – VV Westkapelle B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e50d5e57a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. VC Wingene B – SKD Hertsberge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c2f1f7f9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SKD Hertsberge – GL Ruiselede
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/skd-hertsberge/
+URL:https://goalio.be/nl/ploeg/skd-hertsberge/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E.S. Boninne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/e-s-boninne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c7f0d9d8f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:E.S. Boninne 3-2 J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 11\nhttps://goalio.be/fr/match
+ /e-s-boninne-j-tavietoise-b-2026-10-31/
+URL:https://goalio.be/fr/match/e-s-boninne-j-tavietoise-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05c6d04628@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:E.S. Boninne 5-1 RSC Oheytois B
+DESCRIPTION:4e provinciale Namur D\nJournée 12\nhttps://goalio.be/fr/match
+ /e-s-boninne-rsc-oheytois-b-2026-11-14/
+URL:https://goalio.be/fr/match/e-s-boninne-rsc-oheytois-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b2c46e976@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC St-Martin Pessoux – E.S. Boninne (remis)
+DESCRIPTION:4e provinciale Namur D\nJournée 13\nhttps://goalio.be/fr/match
+ /fc-st-martin-pessoux-e-s-boninne-2026-11-22/
+URL:https://goalio.be/fr/match/fc-st-martin-pessoux-e-s-boninne-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1e6d5744e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:ES Jamboise B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 15\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fd3851bc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:E.S. Boninne – RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 16\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7c035a54b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:RUS Assessoise B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 17\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0310584c26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:E.S. Boninne – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 18\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-186fa87841@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:RCS Faulx-les-Tombes A – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 19\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f074f4974@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:E.S. Boninne – Andoy Wierde FC
+DESCRIPTION:4e provinciale Namur D\nJournée 20\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2745324c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RAC Leuze-Longchamps B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 21\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1f3979fec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:E.S. Boninne – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 22\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acdbd27d80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RSC Petit-Waret B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 23\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7fe2414dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:J Tavietoise B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 24\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a8eb4b473@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:E.S. Boninne – FC St-Martin Pessoux
+DESCRIPTION:4e provinciale Namur D\nJournée 25\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecbc1c3b3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSC Oheytois B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 26\nhttps://goalio.be/fr/equip
+ e/e-s-boninne/
+URL:https://goalio.be/fr/equipe/e-s-boninne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

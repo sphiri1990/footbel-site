@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Mol · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-mol/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c7b5404e78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KFC Mol 1-1 RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-mol-rbw-molse-sk-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-mol-rbw-molse-sk-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2253cdce2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KFC Mol 5-0 KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-mol-ksv-oud-turnhout-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-mol-ksv-oud-turnhout-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5538d37a61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KFC Mol 0-5 KFC Beekhoek Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kfc-mol-kfc-beekhoek-sp-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kfc-mol-kfc-beekhoek-sp-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc76fae308@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K Witgoor Sp Dessel B – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-witgoor-sp-dessel-b-kfc-mol-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-witgoor-sp-dessel-b-kfc-mol-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df905429e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KFC Mol – K. Blauwv. Oevel
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9e3ea0408@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:VV-NEXT Laakdal A – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3853869387@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC Mol – Olen United
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69afd597d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KFC Heultje – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e95789f04b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KFC Mol – KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45d15fb18c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Beekhoek Sp. – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9886bc85ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KSV Oud Turnhout – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c30574d8f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RBW Molse SK – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fba87c1f87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KFC Mol – KFC Tongerlo
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78c71d0778@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VC Westerlo Kemphanen – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afecaa10a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KFC Mol – K Witgoor Sp Dessel B
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9a8338610@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Flandria – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-862a9bcc57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Mol – KFC Verbr. Alberta
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-955135f6bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Blauwv. Oevel – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f15b919e47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Mol – KVV Rauw Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-mol/
+URL:https://goalio.be/nl/ploeg/kfc-mol/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

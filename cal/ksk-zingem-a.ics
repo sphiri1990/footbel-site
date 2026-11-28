@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK Zingem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksk-zingem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-cd743dc2e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:VV Volkegem A 1-4 KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vv-volkegem-a-ksk-zingem-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vv-volkegem-a-ksk-zingem-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc69692337@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:KSK Zingem A 2-0 VCO Meerbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-zingem-a-vco-meerbeke-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ksk-zingem-a-vco-meerbeke-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73fdf35d90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VK Nederhasselt A 6-2 KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vk-nederhasselt-a-ksk-zingem-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vk-nederhasselt-a-ksk-zingem-a-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f051cadb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:KSK Zingem A 0-0 SV Sint-Antelinks A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-zingem-a-sv-sint-antelinks-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ksk-zingem-a-sv-sint-antelinks-a-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4628cf90a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:EC Oudenhove A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/ec-oudenhove-a-ksk-zingem-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ec-oudenhove-a-ksk-zingem-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c39ee2218f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:KSK Zingem A – VCE Houtem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac871775e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:VVSM Horebeke – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72a5eb8fbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:KSK Zingem A – SV Sottegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de7139d66c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:TK Meldert A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9968540a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:SV Sint-Antelinks A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aaf2f40507@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:KSK Zingem A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c5d42815e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:KSK Zingem A – KVE Winnik A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a975721793@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VCO Meerbeke A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1fb3b7bc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:KSK Zingem A – VV Volkegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6916dfc549@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:RR Breivelde-Zottegem A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e40e0e9dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:KSK Zingem A – KSSV Denderleeuw
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17457a7926@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sp Wortegem – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87e8317af7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:VCE Houtem A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8104da357c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:KSK Zingem A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a328abd457@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Kluisbergen Sp A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc0218e360@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSK Zingem A – St Michelbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/ksk-zingem-a/
+URL:https://goalio.be/nl/ploeg/ksk-zingem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

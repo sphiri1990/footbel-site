@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ren. US Tournaisienne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c2e297233c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Ren. US Tournaisienne 0-4 Football Club Etoiles D'Ere
+DESCRIPTION:4e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/ren-us-tournaisienne-football-club-etoiles-d-ere-2026-11-08/
+URL:https://goalio.be/fr/match/ren-us-tournaisienne-football-club-etoiles-d
+ -ere-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3e605cd77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:AC Barry-Carrieres 2-0 Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/ac-barry-carrieres-ren-us-tournaisienne-2026-11-15/
+URL:https://goalio.be/fr/match/ac-barry-carrieres-ren-us-tournaisienne-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5599b1b01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Ren. US Tournaisienne – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/ren-us-tournaisienne-ass-sp-club-havinnes-2026-11-22/
+URL:https://goalio.be/fr/match/ren-us-tournaisienne-ass-sp-club-havinnes-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2738dd533@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.A.S. Risquons-Tout Mouscron – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-a-s-risquons-tout-mouscron-ren-us-tournaisienne-2026-11-29/
+URL:https://goalio.be/fr/match/r-a-s-risquons-tout-mouscron-ren-us-tournais
+ ienne-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b004d7b872@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Ren. US Tournaisienne – R.U.S. Herseautoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc261123b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Brunehaut – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fca116821@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Ren. US Tournaisienne – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c4d79a5c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:C.S. Taintignies – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5c2b4201c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ren. US Tournaisienne – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a393980a31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Diables Rouges Rongy – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b9e08e3d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Ren. US Tournaisienne – Ass. Montkainoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc7556f1e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Renaissance Sporting Club Bruyelle – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aed6f456b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Ren. US Tournaisienne – Entente Velaines Enclusienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b48f5b923a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Royale J.S. Wez-Guignies – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e398bb7b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Football Club Etoiles D'Ere – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b85f795bbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Ren. US Tournaisienne – AC Barry-Carrieres
+DESCRIPTION:4e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d577a110e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Ass. Sp. Club Havinnes – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-301f5df2d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Ren. US Tournaisienne – R.A.S. Risquons-Tout Mouscron
+DESCRIPTION:4e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/ren-us-tournaisienne/
+URL:https://goalio.be/fr/equipe/ren-us-tournaisienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

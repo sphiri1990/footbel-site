@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.F.C. Walem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-f-c-walem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-589a01bf18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Ekeren FC A 2-0 K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/ekeren-fc-a-k-f-c-walem-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ekeren-fc-a-k-f-c-walem-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4fa5c796e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:FC Oppuurs A 3-2 K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/fc-oppuurs-a-k-f-c-walem-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-oppuurs-a-k-f-c-walem-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c4d318cfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K.F.C. Walem 4-2 KFC Broechem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-f-c-walem-kfc-broechem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-walem-kfc-broechem-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dff110191d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:Rupel-Boom B 2-0 K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/rupel-boom-b-k-f-c-walem-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/rupel-boom-b-k-f-c-walem-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a8a405d7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K.F.C. Walem – K. Schelle Sp. A
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-f-c-walem-k-schelle-sp-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-walem-k-schelle-sp-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b50670269a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K Ternesse VV – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbe373a5b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K.S.K. Wavria A – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b080420a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K.F.C. Walem – K. Berchem Sp. 2004 B
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-196c938863@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T191500Z
+DTEND:20270116T210000Z
+SUMMARY:KFC Brasschaat A – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53d0a76bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K.F.C. Walem – K. Wuustwezel FC A
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddff3552b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Broechem – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5eb2099e8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K.F.C. Walem – Voetbal Puurs A
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-858deb629c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:SK sGravenwezel-Schilde A – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1cf5e5fc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K.F.C. Walem – K. Kalmthout SK A
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d8e49743b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Excelsior Mariaburg A – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5374ceffbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K.F.C. Walem – K Ternesse VV
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d4aeb981e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K. Schelle Sp. A – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-858d4169bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K.F.C. Walem – Rupel-Boom B
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee9b9e0f78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K.F.C. Walem – FC Oppuurs A
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5741d58760@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Loenhout SK A – K.F.C. Walem
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2632f5c68d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.F.C. Walem – Ekeren FC A
+DESCRIPTION:2e provinciale Antwerpen A\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-f-c-walem/
+URL:https://goalio.be/nl/ploeg/k-f-c-walem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

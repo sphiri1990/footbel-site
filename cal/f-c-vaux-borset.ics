@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Vaux-Borset · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-vaux-borset/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-83fda34baa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Jeunesses Oleyennes Reunies 3-1 F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/jeunesses-oleyennes-reunies-4-prov-a-liege-f-c-vaux-borset-2026-11-01/
+URL:https://goalio.be/fr/match/jeunesses-oleyennes-reunies-4-prov-a-liege-f
+ -c-vaux-borset-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9a07dd4a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Vaux-Borset 5-0 R.F.C. Jehaytois
+DESCRIPTION:4e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-vaux-borset-r-f-c-jehaytois-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-vaux-borset-r-f-c-jehaytois-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cad2209774@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Cité Sports Grâce-Hollogne 0-7 F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/cite-sports-grace-hollogne-f-c-vaux-borset-2026-11-15/
+URL:https://goalio.be/fr/match/cite-sports-grace-hollogne-f-c-vaux-borset-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3c3f83a7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Vaux-Borset – Entente Sportive Donceel B (remis)
+DESCRIPTION:4e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-vaux-borset-entente-sportive-donceel-b-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-vaux-borset-entente-sportive-donceel-b-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9657d2eb43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:F.C. Entité Wasseiges – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-entite-wasseiges-4-prov-a-liege-f-c-vaux-borset-2026-11-28/
+URL:https://goalio.be/fr/match/f-c-entite-wasseiges-4-prov-a-liege-f-c-vaux
+ -borset-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-547fbff36b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Couthuin Sports – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26139d8a04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C. Vaux-Borset – E.H. Braives B
+DESCRIPTION:4e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-140303ff9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Oreye Union – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ee8a63c8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Vaux-Borset – R.F.C. Warnant
+DESCRIPTION:4e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6b5aef4e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:J.S. Kemexhe Crisnee – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bac472170c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Vaux-Borset – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-017958d996@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Entente Amay B – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9bab5e079@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Vaux-Borset – Patro Lensois B
+DESCRIPTION:4e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a0c24b280@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e91b2f984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Vaux-Borset – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43b2cbf3b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Jehaytois – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25af559092@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Vaux-Borset – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a8cb31e93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Sportive Donceel B – F.C. Vaux-Borset
+DESCRIPTION:4e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b82a617c29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Vaux-Borset – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-vaux-borset/
+URL:https://goalio.be/fr/equipe/f-c-vaux-borset/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

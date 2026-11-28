@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Sp. Wijchmaal · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-904e6d7ff6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:Kadijk SK B 2-4 K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/kadijk-sk-b-k-sp-wijchmaal-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kadijk-sk-b-k-sp-wijchmaal-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-251d959047@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. Sp. Wijchmaal 9-0 E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-sp-wijchmaal-e-houthalen-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-sp-wijchmaal-e-houthalen-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d803f90ef6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:W. Koersel B 3-2 K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/w-koersel-b-k-sp-wijchmaal-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/w-koersel-b-k-sp-wijchmaal-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-518c5f7fae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K. Sp. Wijchmaal 1-1 Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/k-sp-wijchmaal-achel-vv-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-sp-wijchmaal-achel-vv-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a27d7d3522@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:GT Lommel Kol. – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/gt-lommel-kol-k-sp-wijchmaal-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/gt-lommel-kol-k-sp-wijchmaal-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-068fc53401@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K. Sp. Wijchmaal – Bocholter V.V. B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-086c37b3e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Kattenbos Sport – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0aebe0dc5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. Sp. Wijchmaal – Sp. Grote Heide
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c6e1406c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Stal Sport – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21f538a281@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Achel VV B – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0be8f30560@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. Sp. Wijchmaal – W. Koersel B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c63d78575a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K. Sp. Wijchmaal – K. FC Hamont 99 B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a956281cca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E. Houthalen – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1607660021@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. Sp. Wijchmaal – Kadijk SK B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-911544ba09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. ESK Leopoldsburg A – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71942cdf8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:K. Sp. Wijchmaal – Hechtel FC A
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33d5235568@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Heusden 06 – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-270eff0efe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:Bocholter V.V. B – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c352d4f804@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K. Sp. Wijchmaal – GT Lommel Kol.
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83b1ca338e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KVV Heusden-Zolder A – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c38b8512e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Sp. Wijchmaal – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/k-sp-wijchmaal/
+URL:https://goalio.be/nl/ploeg/k-sp-wijchmaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

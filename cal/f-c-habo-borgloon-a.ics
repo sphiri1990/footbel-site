@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Habo-Borgloon A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f5f430d217@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Habo-Borgloon A 1-2 KMR Biesen B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/f-c-habo-borgloon-a-kmr-biesen-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/f-c-habo-borgloon-a-kmr-biesen-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-455c68246e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Halveweg Zonhoven 3-0 F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/halveweg-zonhoven-f-c-habo-borgloon-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/halveweg-zonhoven-f-c-habo-borgloon-a-20
+ 26-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9505fd4b1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Habo-Borgloon A 2-0 Zonhoven United B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/f-c-habo-borgloon-a-zonhoven-united-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/f-c-habo-borgloon-a-zonhoven-united-b-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d6da6ad71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:SK Munsterbilzen 1-1 F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/sk-munsterbilzen-f-c-habo-borgloon-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/sk-munsterbilzen-f-c-habo-borgloon-a-202
+ 6-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8411c45be2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Habo-Borgloon A – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/f-c-habo-borgloon-a-godsheide-vv-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/f-c-habo-borgloon-a-godsheide-vv-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d5daeec06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Torpedo Hasselt B – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-213ef6937f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Habo-Borgloon A – Daring Huvo Jeuk A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-600b3f1443@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Zutendaal VV A – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b1ff84599@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:F.C. Habo-Borgloon A – Halveweg Zonhoven
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9796b3543@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:F.C. Habo-Borgloon A – SK Munsterbilzen
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2eb4f4cf26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Belisia Bilzen SV B – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8088980088@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Habo-Borgloon A – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06b44b6d3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:Zonhoven United B – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-722bc2e4df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Habo-Borgloon A – RC Hades Kiewit B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c666ef5cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:WS Schoonbeek-Bilzen B – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98f656b08e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Habo-Borgloon A – VV Nieuwerkerken
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7319affbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Godsheide VV – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fedead1160@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Habo-Borgloon A – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f419159630@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Herk Sport A – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9200a2c103@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Habo-Borgloon A – E. Stevoort
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5afabc2a74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KMR Biesen B – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/f-c-habo-borgloon-a/
+URL:https://goalio.be/nl/ploeg/f-c-habo-borgloon-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

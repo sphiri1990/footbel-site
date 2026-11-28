@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Lendelede Sport · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0b8c62408f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:KFC Poperinge 3-0 K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-poperinge-k-fc-lendelede-sport-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-poperinge-k-fc-lendelede-sport-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-642ba8f6d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. SK Geluwe 3-0 K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-sk-geluwe-k-fc-lendelede-sport-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-sk-geluwe-k-fc-lendelede-sport-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d11834b87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:K. FC Lendelede Sport 1-3 K. FC. Meulebeke
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lendelede-sport-k-fc-meulebeke-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lendelede-sport-k-fc-meulebeke-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c4773426f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:GD Ingooigem 1-1 K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/gd-ingooigem-k-fc-lendelede-sport-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/gd-ingooigem-k-fc-lendelede-sport-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c640d5056@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:K. FC Lendelede Sport – K. SV Moorsele A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lendelede-sport-k-sv-moorsele-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lendelede-sport-k-sv-moorsele-a-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c1aef5dc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K.S.V. Pittem – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e14d70c1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. FC Lendelede Sport – K. VK Avelgem A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f23281664@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:K. Dosko Beveren – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63109139d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K.R.C. Waregem B – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37ed24fbe6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:K. FC Lendelede Sport – GD Ingooigem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cf2dbc3ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K. SV Moorsele A – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abe5a94c08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:K. FC Lendelede Sport – SV Moorslede
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cb4336f87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.S.K Vlamertinge A – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68d2d3b7f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:K. FC Lendelede Sport – KFC Poperinge
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8d1cf19f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:K. FC Lendelede Sport – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4e9f3ba8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.J.H. Comines A – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-848b232127@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:K. FC Lendelede Sport – K. SK Geluwe
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a004cbc0bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:K. FC. Meulebeke – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e49f0ea3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:K. FC Lendelede Sport – K.S.V. Pittem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd6a9ccc34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SC Zonnebeke A – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02c41f9b44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Lendelede Sport – SK Nieuwkerke
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lendelede-sport/
+URL:https://goalio.be/nl/ploeg/k-fc-lendelede-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

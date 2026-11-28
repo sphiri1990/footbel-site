@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.J.S. Olnoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-63db34a298@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:R.J.S. Olnoise 2-2 F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège E\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-j-s-olnoise-4-prov-e-liege-f-c-trois-frontieres-2026-11-01/
+URL:https://goalio.be/fr/match/r-j-s-olnoise-4-prov-e-liege-f-c-trois-front
+ ieres-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c68f0d39a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois 0-1 R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-queue-du-bois-r-j-s-olnoise-4-prov-e-liege-2026-11-08/
+URL:https://goalio.be/fr/match/jeunesse-sportive-queue-du-bois-r-j-s-olnois
+ e-4-prov-e-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63350b7aee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:R.J.S. Olnoise 0-2 Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-j-s-olnoise-4-prov-e-liege-entente-jeunesse-fleron-4-prov-e-liege-2026
+ -11-15/
+URL:https://goalio.be/fr/match/r-j-s-olnoise-4-prov-e-liege-entente-jeuness
+ e-fleron-4-prov-e-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fac6bbb2a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Barchon – R.J.S. Olnoise (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-barchon-r-j-s-olnoise-4-prov-e-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-barchon-r-j-s-olnoise-4-prov-e-liege-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c27d57d425@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Jupille – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f3b46e280@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T143000Z
+DTEND:20261213T161500Z
+SUMMARY:R.J.S. Olnoise – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d24003b88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0afa868d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T143000Z
+DTEND:20270117T161500Z
+SUMMARY:R.J.S. Olnoise – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05cc9f0278@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Jeunesse Houssoise – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23cf582052@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T143000Z
+DTEND:20270131T161500Z
+SUMMARY:R.J.S. Olnoise – R.J. Magnétoise
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d46afb779a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T143000Z
+DTEND:20270221T161500Z
+SUMMARY:R.J.S. Olnoise – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f43f92a41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R.F.C. Soumagne – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63b634b86a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T143000Z
+DTEND:20270314T161500Z
+SUMMARY:R.J.S. Olnoise – Union Aubeloise B
+DESCRIPTION:4e provinciale Liège E\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c491949af5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Trois-Frontières – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9abb9fea39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T133000Z
+DTEND:20270404T151500Z
+SUMMARY:R.J.S. Olnoise – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e19b311113@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Entente Jeunesse Fleron – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc5f6fb91e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T133000Z
+DTEND:20270418T151500Z
+SUMMARY:R.J.S. Olnoise – R.F.C. Barchon
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-j-s-olnoise-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-j-s-olnoise-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

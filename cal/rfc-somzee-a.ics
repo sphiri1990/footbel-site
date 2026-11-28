@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Somzée A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-somzee-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-06330eb4f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RFC Surice A 4-2 RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rfc-surice-a-rfc-somzee-a-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-surice-a-rfc-somzee-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b69106e097@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RFC Somzée A 1-2 US Thy-Chateau A
+DESCRIPTION:2e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /rfc-somzee-a-us-thy-chateau-a-2026-11-08/
+URL:https://goalio.be/fr/match/rfc-somzee-a-us-thy-chateau-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5fdf6725ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R Exc FC Moustier A 2-0 RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /r-exc-fc-moustier-a-rfc-somzee-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-exc-fc-moustier-a-rfc-somzee-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2d3787ba7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RFC Somzée A – R Anhée FC A (remis)
+DESCRIPTION:2e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /rfc-somzee-a-r-anhee-fc-a-2026-11-22/
+URL:https://goalio.be/fr/match/rfc-somzee-a-r-anhee-fc-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0e032954c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RCS Profondeville A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /rcs-profondeville-a-rfc-somzee-a-2026-11-29/
+URL:https://goalio.be/fr/match/rcs-profondeville-a-rfc-somzee-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6f3374160@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RUS Pondrome A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de7c8b54d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RFC Somzée A – FCE Tarciennois A
+DESCRIPTION:2e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c09e38bea6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:RUS Biesme B – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30ce50fe18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RFC Somzée A – Sp Exc Jemeppe A
+DESCRIPTION:2e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-038ff69928@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R Dinant FC A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0813830d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RFC Somzée A – RFC Bioul 81 A
+DESCRIPTION:2e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-124a1e3c2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:FC Malonne 2000 A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6d5098b7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RFC Somzée A – U.S. Flavion-Morialmé A
+DESCRIPTION:2e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8126a00e1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Somzée A – RAS Houyet
+DESCRIPTION:2e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11af375777@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:ES Petigny-Frasnes A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2a8f3ea8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RFC Somzée A – RFC Surice A
+DESCRIPTION:2e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7163be9f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:US Thy-Chateau A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-caacc4fd32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RFC Somzée A – R Exc FC Moustier A
+DESCRIPTION:2e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c112c47f76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R Anhée FC A – RFC Somzée A
+DESCRIPTION:2e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95bd2b84aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RFC Somzée A – RCS Profondeville A
+DESCRIPTION:2e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/rfc-somzee-a/
+URL:https://goalio.be/fr/equipe/rfc-somzee-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

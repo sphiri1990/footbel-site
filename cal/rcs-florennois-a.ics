@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RCS Florennois A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rcs-florennois-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1de798afdd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RCS Florennois A 6-4 RES Philippeville A
+DESCRIPTION:3e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rcs-florennois-a-res-philippeville-a-2026-11-01/
+URL:https://goalio.be/fr/match/rcs-florennois-a-res-philippeville-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ed0c9e7c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.U.S Pesche A 1-1 RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /r-u-s-pesche-a-rcs-florennois-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-u-s-pesche-a-rcs-florennois-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b86a1706f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RCS Florennois A 4-2 OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /rcs-florennois-a-oc-nismes-b-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-florennois-a-oc-nismes-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bec6b87b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:ARS Ent Floreffe – RCS Florennois A (remis)
+DESCRIPTION:3e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /ars-ent-floreffe-rcs-florennois-a-2026-11-22/
+URL:https://goalio.be/fr/match/ars-ent-floreffe-rcs-florennois-a-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edaab6e9ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RCS Florennois A – JS Bois-Villers
+DESCRIPTION:3e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /rcs-florennois-a-js-bois-villers-2026-11-29/
+URL:https://goalio.be/fr/match/rcs-florennois-a-js-bois-villers-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd2254d0c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:JS Taminoise B – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55d87cec65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RCS Florennois A – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17cad02147@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:U.S. Flavion-Morialmé B – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f1885aaf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RCS Florennois A – U St-Gérard A
+DESCRIPTION:3e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60fde3bfff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:ES Petigny-Frasnes B – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9296669c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RCS Florennois A – Espoir Sportif Fraire A
+DESCRIPTION:3e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4c6e3e553@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Et. Taminoise – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f521472381@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RCS Florennois A – US Thy-Chateau B
+DESCRIPTION:3e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4a26a8a19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R Exc FC Moustier B – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94a8e0140f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RCS Florennois A – FC Malonne 2000 B
+DESCRIPTION:3e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0454109689@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RES Philippeville A – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3183ad3b6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RCS Florennois A – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e14702d05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:OC Nismes B – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38575971e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Florennois A – ARS Ent Floreffe
+DESCRIPTION:3e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18a3c12389@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:JS Bois-Villers – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/rcs-florennois-a/
+URL:https://goalio.be/fr/equipe/rcs-florennois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

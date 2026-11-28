@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Averbode Testelt Okselaar B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a8af0e9746@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B 5-1 SNA Keiberg
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-averbode-testelt-okselaar-b-sna-keiberg-2026-11-01/
+URL:https://goalio.be/fr/match/fc-averbode-testelt-okselaar-b-sna-keiberg-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37e26e743a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Boutersem United A 3-2 FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/boutersem-united-a-fc-averbode-testelt-okselaar-b-2026-11-07/
+URL:https://goalio.be/fr/match/boutersem-united-a-fc-averbode-testelt-oksel
+ aar-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d93a801d87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B 2-0 VC Bekkevoort
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-averbode-testelt-okselaar-b-vc-bekkevoort-2026-11-15/
+URL:https://goalio.be/fr/match/fc-averbode-testelt-okselaar-b-vc-bekkevoort
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6aa63b1eef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:SC Aarschot A 1-2 FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/sc-aarschot-a-fc-averbode-testelt-okselaar-b-2026-11-22/
+URL:https://goalio.be/fr/match/sc-aarschot-a-fc-averbode-testelt-okselaar-b
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-952a15a269@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-averbode-testelt-okselaar-b-vs-kortenaken-2026-11-29/
+URL:https://goalio.be/fr/match/fc-averbode-testelt-okselaar-b-vs-kortenaken
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b663a3d606@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:Korbeek Sp. – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f320bc1a6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B – K. St. Haasrode B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a02c89deba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B – SMS Lubbeek A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46ea17a75d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Cr. Vissenaken – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d41257ed3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Averbode Testelt Okselaar B – Boutersem United A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e989c2bcde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:VC Bekkevoort – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83e224d4dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VS Kortenaken – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b228b0c47f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Averbode Testelt Okselaar B – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5d2477088@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:SNA Keiberg – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d098864237@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Averbode Testelt Okselaar B – RD Zoutleeuw A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06399fdfe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:KVC Kessel-Lo 2000 B – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a1b8252a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Averbode Testelt Okselaar B – SC Out-Hoegaarden B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c31e998b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Averbode Testelt Okselaar B – SC Aarschot A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92268ecf5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:RC Meldert – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-623ae321cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Averbode Testelt Okselaar B – Korbeek Sp.
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60870c1c97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Meensel-Kiezegem – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fc-averbode-testelt-okselaar-b/
+URL:https://goalio.be/fr/equipe/fc-averbode-testelt-okselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

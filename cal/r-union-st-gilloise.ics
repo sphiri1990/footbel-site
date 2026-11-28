@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Union St-Gilloise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-union-st-gilloise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dec036fdde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:R. Union St-Gilloise 4-3 R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 11\nhttps://goalio.be/fr/match/r-union-st-gill
+ oise-r-a-e-c-mons-a-2026-10-31/
+URL:https://goalio.be/fr/match/r-union-st-gilloise-r-a-e-c-mons-a-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f42a0b343b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S.C. Habay La Neuve 2-1 R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 12\nhttps://goalio.be/fr/match/r-s-c-habay-la-
+ neuve-r-union-st-gilloise-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-habay-la-neuve-r-union-st-gilloise-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0cbcc80742@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Standard de Liège B 0-3 R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 13\nhttps://goalio.be/fr/match/r-standard-de-l
+ iege-b-r-union-st-gilloise-2026-11-15/
+URL:https://goalio.be/fr/match/r-standard-de-liege-b-r-union-st-gilloise-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3d05030c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:R. Union St-Gilloise 1-1 RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 14\nhttps://goalio.be/fr/match/r-union-st-gill
+ oise-rfc-meux-a-2026-11-21/
+URL:https://goalio.be/fr/match/r-union-st-gilloise-rfc-meux-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a08cf3de8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Union Rochefortoise – R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 15\nhttps://goalio.be/fr/match/union-rochefort
+ oise-r-union-st-gilloise-2026-11-28/
+URL:https://goalio.be/fr/match/union-rochefortoise-r-union-st-gilloise-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-742b57443a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:R. Union St-Gilloise – F.C. Flénu
+DESCRIPTION:D1 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/r-union-st-gil
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-st-gilloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edc588ba5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:R. Union St-Gilloise – R. Olympic Club Charleroi
+DESCRIPTION:D1 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/r-union-st-gil
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-st-gilloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40a1ca8364@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:R.W.D.M. Brussels – R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/r-union-st-gil
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-st-gilloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6f0fb538e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Sporting Du Pays De Charleroi – R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/r-union-st-gil
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-st-gilloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e215807fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:R. Union St-Gilloise – C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/r-union-st-gil
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-st-gilloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-776802f5d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:R.A.E.C. Mons A – R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/r-union-st-gil
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-st-gilloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c53ce0e85a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Union St-Gilloise – Ren. Un. Tubize-Braine-Le-Comte
+DESCRIPTION:D1 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/r-union-st-gil
+ loise/
+URL:https://goalio.be/fr/equipe/r-union-st-gilloise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

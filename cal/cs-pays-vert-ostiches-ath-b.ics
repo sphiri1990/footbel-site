@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CS Pays Vert Ostiches-Ath B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-81cfc0805e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Péruwelz FC A 1-1 CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/peruwelz-fc-a-cs-pays-vert-ostiches-ath-b-2026-11-01/
+URL:https://goalio.be/fr/match/peruwelz-fc-a-cs-pays-vert-ostiches-ath-b-20
+ 26-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ed1664e49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B 2-2 J.S. Isièroise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/cs-pays-vert-ostiches-ath-b-j-s-isieroise-a-2026-11-08/
+URL:https://goalio.be/fr/match/cs-pays-vert-ostiches-ath-b-j-s-isieroise-a-
+ 2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f06188d9d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B 1-1 CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-a-s-pays-blanc-antoing-b-cs-pays-vert-ostiches-ath-b-2026-11-14/
+URL:https://goalio.be/fr/match/r-a-s-pays-blanc-antoing-b-cs-pays-vert-osti
+ ches-ath-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fb416bf36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – R.F.C. Luingnois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/cs-pays-vert-ostiches-ath-b-r-f-c-luingnois-b-2026-11-22/
+URL:https://goalio.be/fr/match/cs-pays-vert-ostiches-ath-b-r-f-c-luingnois-
+ b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1106b5d585@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Enghiennois B – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-enghiennois-b-cs-pays-vert-ostiches-ath-b-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-enghiennois-b-cs-pays-vert-ostiches-ath-
+ b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24ac5a4e32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:J.S. Meslin-Grand Marais A – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccf4b66417@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – A.C. Anvaing A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-247cfed9a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T194500Z
+SUMMARY:DR Rongy A – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15a8478630@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67f93309db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.U.S. Herseautoise A – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18ee1359e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – A.S. Obigies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4370ce94e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Wiersien A – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eef93c4cc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – R.U.S. Hensies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d01f91cf54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:A.C. Estaimbourg A – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfa6dccdf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – R.U.S. Beloeil A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1d8d6a14a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – Péruwelz FC A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3671df1a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:J.S. Isièroise A – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fc3c27df3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bd392bdd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Luingnois B – CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e5092f5a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/cs-pays-vert-ostiches-ath-b/
+URL:https://goalio.be/fr/equipe/cs-pays-vert-ostiches-ath-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

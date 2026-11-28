@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAAL La Louvière U21 · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f1671a7366@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261113T193000Z
+DTEND:20261113T211500Z
+SUMMARY:Francs Borains U21 4-2 RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 7\nhttps://goalio.be/fr/match/fran
+ cs-borains-u21-raal-la-louviere-u21-2026-11-13/
+URL:https://goalio.be/fr/match/francs-borains-u21-raal-la-louviere-u21-2026
+ -11-13/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-659d6fcfe1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261120T193000Z
+DTEND:20261120T211500Z
+SUMMARY:RAAL La Louvière U21 1-1 Kortrijk U21
+DESCRIPTION:Reserve Pro League\nJournée 10\nhttps://goalio.be/fr/match/raa
+ l-la-louviere-u21-kortrijk-u21-2026-11-20/
+URL:https://goalio.be/fr/match/raal-la-louviere-u21-kortrijk-u21-2026-11-20
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c81de61030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:RWDM U21 1-4 RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 11\nhttps://goalio.be/fr/match/rwd
+ m-u21-raal-la-louviere-u21-2026-11-27/
+URL:https://goalio.be/fr/match/rwdm-u21-raal-la-louviere-u21-2026-11-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68e1efa94a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270115T183000Z
+DTEND:20270115T201500Z
+SUMMARY:Waasland-Beveren U21 – RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 12\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d26208a17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270122T193000Z
+DTEND:20270122T211500Z
+SUMMARY:RAAL La Louvière U21 – RFC Seraing U21
+DESCRIPTION:Reserve Pro League\nJournée 13\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3644915026@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270129T193000Z
+DTEND:20270129T211500Z
+SUMMARY:RAAL La Louvière U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c7ca90e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270219T193000Z
+DTEND:20270219T211500Z
+SUMMARY:Sporting Hasselt U21 – RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b2ce262c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270226T193000Z
+DTEND:20270226T211500Z
+SUMMARY:RAAL La Louvière U21 – RFC Liège U21
+DESCRIPTION:Reserve Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28e2aa3ae5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270305T193000Z
+DTEND:20270305T211500Z
+SUMMARY:Westerlo U21 – RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e4fe70ada@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270312T193000Z
+DTEND:20270312T211500Z
+SUMMARY:RAAL La Louvière U21 – Francs Borains U21
+DESCRIPTION:Reserve Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5fa14a98b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270319T190000Z
+DTEND:20270319T204500Z
+SUMMARY:Lierse SK U21 – RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f00c88fa88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270423T183000Z
+DTEND:20270423T201500Z
+SUMMARY:Kortrijk U21 – RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5bc689cf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270507T183000Z
+DTEND:20270507T201500Z
+SUMMARY:RAAL La Louvière U21 – RWDM U21
+DESCRIPTION:Reserve Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/ra
+ al-la-louviere-u21/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

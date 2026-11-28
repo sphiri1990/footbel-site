@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Espoir Sportif Fraire B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-62a276db86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R Ham FC B 0-4 Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /r-ham-fc-b-espoir-sportif-fraire-b-2026-11-01/
+URL:https://goalio.be/fr/match/r-ham-fc-b-espoir-sportif-fraire-b-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df0bcf36e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Espoir Sportif Fraire B 0-0 R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /espoir-sportif-fraire-b-r-c-s-florennois-2026-11-15/
+URL:https://goalio.be/fr/match/espoir-sportif-fraire-b-r-c-s-florennois-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15a101db60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Espoir Sportif Fraire B – Celtic Denée Foot
+DESCRIPTION:4e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-febcb91fb1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:A.S. Clermont – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf41cc9f1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Espoir Sportif Fraire B – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56849606af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:U St-Gérard B – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-968b3a4a43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Espoir Sportif Fraire B – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a8a7a2464@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:US Auvelais A – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6839a0467b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Espoir Sportif Fraire B – RFC Bioul 81 B
+DESCRIPTION:4e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfb24d8469@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:JS Falisolle-Aisemont B – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-661108c77a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Espoir Sportif Fraire B – FC Mesnilois
+DESCRIPTION:4e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b14cb9e0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Somzée B – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53b36e043f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Espoir Sportif Fraire B – R Ham FC B
+DESCRIPTION:4e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53ebbf306b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Florennois – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/espoir-sportif-fraire-b/
+URL:https://goalio.be/fr/equipe/espoir-sportif-fraire-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

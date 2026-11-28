@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RC Meldert · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rc-meldert/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a00fcc63b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:VC Bekkevoort 1-4 RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/vc-bekkevoort-rc-meldert-2026-11-01/
+URL:https://goalio.be/fr/match/vc-bekkevoort-rc-meldert-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cedf7c4c60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:RC Meldert 1-4 SMS Lubbeek A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/rc-meldert-sms-lubbeek-a-2026-11-07/
+URL:https://goalio.be/fr/match/rc-meldert-sms-lubbeek-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bcd234291d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:KVC Kessel-Lo 2000 B 2-2 RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/kvc-kessel-lo-2000-b-rc-meldert-2026-11-14/
+URL:https://goalio.be/fr/match/kvc-kessel-lo-2000-b-rc-meldert-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aef4f453b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Korbeek Sp. 1-1 RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/korbeek-sp-rc-meldert-2026-11-21/
+URL:https://goalio.be/fr/match/korbeek-sp-rc-meldert-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6921968b4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:RC Meldert – RWL Sport A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/rc-meldert-rwl-sport-a-2026-11-28/
+URL:https://goalio.be/fr/match/rc-meldert-rwl-sport-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7b71003f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Boutersem United A – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b21110a4bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:RC Meldert – SC Aarschot A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ac757bbb4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:RC Meldert – VC Bekkevoort
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c371c297e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:SMS Lubbeek A – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9b14634cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:RD Zoutleeuw A – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73c64fc4c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:RC Meldert – Korbeek Sp.
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e7685710a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T160000Z
+DTEND:20270214T174500Z
+SUMMARY:SC Out-Hoegaarden B – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39b4dd1dfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:RC Meldert – Meensel-Kiezegem
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-429b8dba82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RWL Sport A – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-159a834684@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:RC Meldert – KVC Kessel-Lo 2000 B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-961dfc02cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:SNA Keiberg – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ecf8879f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:RC Meldert – VS Kortenaken
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a1c3be770@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Cr. Vissenaken – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92268ecf5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:RC Meldert – FC Averbode Testelt Okselaar B
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdfc3cc836@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:K. St. Haasrode B – RC Meldert
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08aa170a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RC Meldert – Boutersem United A
+DESCRIPTION:3e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/rc-meldert/
+URL:https://goalio.be/fr/equipe/rc-meldert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

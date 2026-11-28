@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:T.W. Waimes Faymonville · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-756405dc39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:T.W. Waimes Faymonville 2-3 R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/t-w-waimes-faymonville-r-c-s-jalhaytois-4-prov-g-liege-2026-11-01/
+URL:https://goalio.be/fr/match/t-w-waimes-faymonville-r-c-s-jalhaytois-4-pr
+ ov-g-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf24f5bda6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Ent. Lambermont-Rechain B 2-5 T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-ent-lambermont-rechain-b-t-w-waimes-faymonville-2026-11-08/
+URL:https://goalio.be/fr/match/r-ent-lambermont-rechain-b-t-w-waimes-faymon
+ ville-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e19b799921@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:T.W. Waimes Faymonville 3-1 R.F.C. De Goe
+DESCRIPTION:4e provinciale Liège G\nJournée 13\nhttps://goalio.be/fr/matc
+ h/t-w-waimes-faymonville-r-f-c-de-goe-2026-11-15/
+URL:https://goalio.be/fr/match/t-w-waimes-faymonville-r-f-c-de-goe-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b4429d030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R. Spa F.C. – T.W. Waimes Faymonville (remis)
+DESCRIPTION:4e provinciale Liège G\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-spa-f-c-t-w-waimes-faymonville-2026-11-21/
+URL:https://goalio.be/fr/match/r-spa-f-c-t-w-waimes-faymonville-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c48839f96f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:T.W. Waimes Faymonville – R. Baelen F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b945695b09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.C.S. Stavelotain B – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e8b6bb730@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:T.W. Waimes Faymonville – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1795ee176@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:S.R. UN Verviers B – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-097aeb18fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:T.W. Waimes Faymonville – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3c53491d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:FC Ster-Francorchamps – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1880f4d269@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:T.W. Waimes Faymonville – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8fe58976d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62d3c8dec8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:T.W. Waimes Faymonville – Alliance Des Hautes Fagnes
+DESCRIPTION:4e provinciale Liège G\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a368419354@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Jalhaytois – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4601ffbe6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:T.W. Waimes Faymonville – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a944ff8a74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. De Goe – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecd9ffc8ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:T.W. Waimes Faymonville – R. Spa F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/t-w-waimes-faymonville/
+URL:https://goalio.be/fr/equipe/t-w-waimes-faymonville/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

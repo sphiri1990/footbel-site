@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.S. Pierreuse · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8d1c58edad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:J.S. Pierreuse 1-8 Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/j-s-pierreuse-4-prov-c-liege-cite-sports-grace-hollogne-4-prov-c-liege-2
+ 026-11-01/
+URL:https://goalio.be/fr/match/j-s-pierreuse-4-prov-c-liege-cite-sports-gra
+ ce-hollogne-4-prov-c-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-507b4b15a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Rapide Liège 1-0 J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/fc-rapide-liege-j-s-pierreuse-4-prov-c-liege-2026-11-08/
+URL:https://goalio.be/fr/match/fc-rapide-liege-j-s-pierreuse-4-prov-c-liege
+ -2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b43baf514@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:J.S. Pierreuse 9-0 J.S. du Thier-à-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/j-s-pierreuse-4-prov-c-liege-j-s-du-thier-a-liege-2026-11-15/
+URL:https://goalio.be/fr/match/j-s-pierreuse-4-prov-c-liege-j-s-du-thier-a-
+ liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52472121f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Illyrian Blegny B – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/illyrian-blegny-b-j-s-pierreuse-4-prov-c-liege-2026-11-29/
+URL:https://goalio.be/fr/match/illyrian-blegny-b-j-s-pierreuse-4-prov-c-lie
+ ge-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c80b1b9506@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.U.S. Montagnarde – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c1f56ee3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:J.S. Pierreuse – MS Herstal Milmort B
+DESCRIPTION:4e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d87d4bc68a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Entente Sportive Tilleur – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc4999c9c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:J.S. Pierreuse – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23b15b59a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Ans B – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10ece63110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:J.S. Pierreuse – FC Les Oranges de Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b859565783@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T150000Z
+DTEND:20270214T164500Z
+SUMMARY:Engis Football Club – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf4b432a3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:J.S. Pierreuse – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5e6c1c913@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Jsn Alleur – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd0661c83b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:J.S. Pierreuse – Cfc Pontisse Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0127ffad93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77724ffc66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T144500Z
+SUMMARY:Cfc Pontisse Herstal – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 10\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-049f422894@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:J.S. Pierreuse – FC Rapide Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1c84ae6a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. du Thier-à-Liège – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fb6618c67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:J.S. Pierreuse – Illyrian Blegny B
+DESCRIPTION:4e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/j-s-pierreuse-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/j-s-pierreuse-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Mortsel OG B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2d7f9c704b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Tub. Borgerhout 5-3 VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-tub-borgerhout-vc-mortsel-og-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-tub-borgerhout-vc-mortsel-og-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab5d3a64dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T120000Z
+DTEND:20261108T134500Z
+SUMMARY:VC Mortsel OG B 3-2 SC City Pirates Antwerpen B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/vc-mortsel-og-b-sc-city-pirates-antwerpen-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/vc-mortsel-og-b-sc-city-pirates-antwerpe
+ n-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6b8a83fbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T120000Z
+DTEND:20261122T134500Z
+SUMMARY:VC Mortsel OG B 4-3 F.C. Warriors Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/vc-mortsel-og-b-f-c-warriors-antwerpen-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vc-mortsel-og-b-f-c-warriors-antwerpen-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c47dee4162@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Los Incas Antwerpen – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/fc-los-incas-antwerpen-vc-mortsel-og-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/fc-los-incas-antwerpen-vc-mortsel-og-b-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-120afd8086@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T120000Z
+DTEND:20261206T134500Z
+SUMMARY:VC Mortsel OG B – KVC Wilrijk B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-777f23d92e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T120000Z
+DTEND:20261213T134500Z
+SUMMARY:VC Mortsel OG B – K. Wijnegem VC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e6a387ca6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:SV Aartselaar B – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0bb6e783a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:KSC Maccabi – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4235cc84c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T120000Z
+DTEND:20270124T134500Z
+SUMMARY:VC Mortsel OG B – K. Kontich FC B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8042df3c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Verbr. Zwijndrecht B – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d4a7b3162@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T120000Z
+DTEND:20270214T134500Z
+SUMMARY:VC Mortsel OG B – FC Los Incas Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4801266ac1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KVC Wilrijk B – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a851b92449@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T120000Z
+DTEND:20270228T134500Z
+SUMMARY:VC Mortsel OG B – Sporting Club Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7b9a3b42e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:FC Merksem B – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbf5595ef8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T120000Z
+DTEND:20270314T134500Z
+SUMMARY:VC Mortsel OG B – Sporting Club Schoten
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a8f05437d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FC United Borgerhout – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5c4bbffbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SC City Pirates Antwerpen B – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d47cb09534@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:F.C. Warriors Antwerpen – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd09c6d0f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Mortsel OG B – K. Tub. Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/vc-mortsel-og-b/
+URL:https://goalio.be/nl/ploeg/vc-mortsel-og-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

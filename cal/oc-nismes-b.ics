@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OC Nismes B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/oc-nismes-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f03fdf9de8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:JS Bois-Villers 2-0 OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /js-bois-villers-oc-nismes-b-2026-11-01/
+URL:https://goalio.be/fr/match/js-bois-villers-oc-nismes-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99683a0704@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:OC Nismes B 3-0 ARS Ent Floreffe
+DESCRIPTION:3e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /oc-nismes-b-ars-ent-floreffe-2026-11-08/
+URL:https://goalio.be/fr/match/oc-nismes-b-ars-ent-floreffe-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b86a1706f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RCS Florennois A 4-2 OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /rcs-florennois-a-oc-nismes-b-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-florennois-a-oc-nismes-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21b1476975@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:OC Nismes B – JS Taminoise B (remis)
+DESCRIPTION:3e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /oc-nismes-b-js-taminoise-b-2026-11-22/
+URL:https://goalio.be/fr/match/oc-nismes-b-js-taminoise-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d00ca0f4f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RFC Spy B – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /rfc-spy-b-oc-nismes-b-2026-11-28/
+URL:https://goalio.be/fr/match/rfc-spy-b-oc-nismes-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29b1f9031f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:U.S. Flavion-Morialmé B – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2636bb4b3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261211T190000Z
+DTEND:20261211T204500Z
+SUMMARY:OC Nismes B – U St-Gérard A
+DESCRIPTION:3e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5698b8982@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:ES Petigny-Frasnes B – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef46bd4616@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:OC Nismes B – Espoir Sportif Fraire A
+DESCRIPTION:3e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dac6b68888@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Et. Taminoise – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34bd2a0c45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:OC Nismes B – US Thy-Chateau B
+DESCRIPTION:3e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b06acb008@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R Exc FC Moustier B – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0d255700d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:OC Nismes B – FC Malonne 2000 B
+DESCRIPTION:3e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eeab8bc87c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RES Philippeville A – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c96d2e859@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:OC Nismes B – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f146216b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:OC Nismes B – JS Bois-Villers
+DESCRIPTION:3e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11fc7e5429@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:ARS Ent Floreffe – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e14702d05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:OC Nismes B – RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac658d2cd9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:JS Taminoise B – OC Nismes B
+DESCRIPTION:3e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78ba8eb5e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:OC Nismes B – RFC Spy B
+DESCRIPTION:3e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/oc-nismes-b/
+URL:https://goalio.be/fr/equipe/oc-nismes-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

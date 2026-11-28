@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Exc. Fouches · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-exc-fouches/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-122514415e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Ass. Sp. Nothomb-Post B 2-1 R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/ass-sp-nothomb-post-b-r-exc-fouches-2026-10-31/
+URL:https://goalio.be/fr/match/ass-sp-nothomb-post-b-r-exc-fouches-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d9717f799@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RFC Messancy B 4-1 R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/rfc-messancy-b-r-exc-fouches-2026-11-08/
+URL:https://goalio.be/fr/match/rfc-messancy-b-r-exc-fouches-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50144a6303@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RCS Halanzy 1-2 R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/rcs-halanzy-r-exc-fouches-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-halanzy-r-exc-fouches-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7639a43c47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261120T193000Z
+DTEND:20261120T211500Z
+SUMMARY:R. Jeunesse Autelbas – R. Exc. Fouches (remis)
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/r-jeunesse-autelbas-r-exc-fouches-2026-11-20/
+URL:https://goalio.be/fr/match/r-jeunesse-autelbas-r-exc-fouches-2026-11-20
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebe2f66b7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Exc. Fouches – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/r-exc-fouches-rsc-vance-2026-11-29/
+URL:https://goalio.be/fr/match/r-exc-fouches-rsc-vance-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d546b48df1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Exc. Fouches – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42742f7dad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:US Martelangeoise – R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5a02c4052@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Exc. Fouches – RJS Habaysienne
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdbb5edbfe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RES Aubange – R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-379d62f54e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Exc. Fouches – R. Excelsior Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29891e4be9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RAC Saint-Mard A – R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58d706f25d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Exc. Fouches – ROC Meix-Dt-Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f27bb9e8e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:AS Gérouville – R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-898f987d14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Exc. Fouches – Ass. Sp. Nothomb-Post B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af1c60230b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Exc. Fouches – RFC Messancy B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1341d54f2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Exc. Fouches – RCS Halanzy
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-exc-fouches/
+URL:https://goalio.be/fr/equipe/r-exc-fouches/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

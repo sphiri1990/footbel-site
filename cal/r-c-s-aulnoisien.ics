@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. Aulnoisien · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-070a3866e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.C.S. Aulnoisien 2-2 R. Entente Mons Nord
+DESCRIPTION:4e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-c-s-aulnoisien-r-entente-mons-nord-4-prov-c-hainaut-2026-11-01/
+URL:https://goalio.be/fr/match/r-c-s-aulnoisien-r-entente-mons-nord-4-prov-
+ c-hainaut-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57c6356fff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC Borina Quaregnon 5-6 R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/fc-borina-quaregnon-4-prov-c-hainaut-r-c-s-aulnoisien-2026-11-08/
+URL:https://goalio.be/fr/match/fc-borina-quaregnon-4-prov-c-hainaut-r-c-s-a
+ ulnoisien-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee3861533f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.C.S. Aulnoisien 1-4 R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-c-s-aulnoisien-r-a-s-ghlinoise-2026-11-15/
+URL:https://goalio.be/fr/match/r-c-s-aulnoisien-r-a-s-ghlinoise-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ddca5374d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.S.C. Wasmes – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-s-c-wasmes-4-prov-c-hainaut-r-c-s-aulnoisien-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-wasmes-4-prov-c-hainaut-r-c-s-aulnoisi
+ en-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2f338f278@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.C.S. Aulnoisien – A.S. Quiévrain-Wasmuel
+DESCRIPTION:4e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-c-s-aulnoisien-a-s-quievrain-wasmuel-4-prov-c-hainaut-2026-11-29/
+URL:https://goalio.be/fr/match/r-c-s-aulnoisien-a-s-quievrain-wasmuel-4-pro
+ v-c-hainaut-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51a675ce06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.C.S. Aulnoisien – Entente Sportive Elouges Dour
+DESCRIPTION:4e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0716cb65c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.L.C. Hornu – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cf44f32db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.C.S. Aulnoisien – FC Quévy Genly
+DESCRIPTION:4e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34a8a590cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.S.C. Paturageois – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8945593b3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.C.S. Aulnoisien – R. Léopold Club Mesvinois
+DESCRIPTION:4e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37d87ecdfe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. All. F.C. Cuesmes – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee753d81cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.C.S. Aulnoisien – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd2ca480c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Union Sporting Club Jemappes – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-791b238fb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Sainte-Odile Elouges – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d3d1138e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.C.S. Aulnoisien – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2a13290a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Entente Mons Nord – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be1a9759c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.C.S. Aulnoisien – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be0a90028f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.A.S. Ghlinoise – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6afbc6fec3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.C.S. Aulnoisien – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c29a126729@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-aulnoisien/
+URL:https://goalio.be/fr/equipe/r-c-s-aulnoisien/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

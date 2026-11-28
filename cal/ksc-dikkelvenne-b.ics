@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSC Dikkelvenne B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-245b341c50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Genclerbirligi Zele 0-2 KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-genclerbirligi-zele-ksc-dikkelvenne-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-genclerbirligi-zele-ksc-dikkelvenne-b
+ -2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa8b7c9099@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T144500Z
+SUMMARY:KSC Dikkelvenne B 0-3 FC Daknam
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/ksc-dikkelvenne-b-fc-daknam-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/ksc-dikkelvenne-b-fc-daknam-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b905dfe54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T184500Z
+DTEND:20261114T203000Z
+SUMMARY:Jago St.-A'berg 3-0 KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/jago-st-a-berg-ksc-dikkelvenne-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/jago-st-a-berg-ksc-dikkelvenne-b-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04a58fc8fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Eendr Moortsele 4-0 KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/eendr-moortsele-ksc-dikkelvenne-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/eendr-moortsele-ksc-dikkelvenne-b-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3880e29713@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:KSC Dikkelvenne B – VSV Gent B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/ksc-dikkelvenne-b-vsv-gent-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ksc-dikkelvenne-b-vsv-gent-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b68eee76ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:KESA Bottelare – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3238f3e34b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:KSC Dikkelvenne B – KVV Laarne-Kalken B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0df2dbe2ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T130000Z
+DTEND:20270110T144500Z
+SUMMARY:KSC Dikkelvenne B – FC Genclerbirligi Zele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c81164b43c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Daknam – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a152f2d798@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:FC Anatolia Gent – KSC Dikkelvenne B (afgelast)
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbfb0d583a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T130000Z
+DTEND:20270131T144500Z
+SUMMARY:KSC Dikkelvenne B – Eendr Moortsele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6463facf2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KFC Eendr Zele – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2809569a8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VSV Gent B – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13b4914434@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T133000Z
+DTEND:20270307T151500Z
+SUMMARY:KSC Dikkelvenne B – Jago St.-A'berg
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56539f0c3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:FC Smetlede B – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01874c1e13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:KSC Dikkelvenne B – KFV HEDES Heusden-Destelbergen B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-759ed782e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVVE Massemen B – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d172707c14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:KSC Dikkelvenne B – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9e4e21733@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VC Jong Lede – KSC Dikkelvenne B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-835745996a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSC Dikkelvenne B – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/ksc-dikkelvenne-b/
+URL:https://goalio.be/nl/ploeg/ksc-dikkelvenne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

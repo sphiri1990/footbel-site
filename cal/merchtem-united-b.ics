@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Merchtem United B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/merchtem-united-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2cf1fd0feb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:Merchtem United B 0-2 Ritterklub Jette B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/merchtem-united-b-ritterklub-jette-b-2026-10-31/
+URL:https://goalio.be/fr/match/merchtem-united-b-ritterklub-jette-b-2026-10
+ -31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-528999bce9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:Merchtem United B 1-2 Jong FC Opwijk
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/merchtem-united-b-jong-fc-opwijk-2026-11-07/
+URL:https://goalio.be/fr/match/merchtem-united-b-jong-fc-opwijk-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c62e3186a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Merchtem United B 1-5 Emi. Essene B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/merchtem-united-b-emi-essene-b-2026-11-21/
+URL:https://goalio.be/fr/match/merchtem-united-b-emi-essene-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-701704f2c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T153000Z
+DTEND:20261129T171500Z
+SUMMARY:VC Den Boskant Peizegem B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/vc-den-boskant-peizegem-b-merchtem-united-b-2026-11-29/
+URL:https://goalio.be/fr/match/vc-den-boskant-peizegem-b-merchtem-united-b-
+ 2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3bec94ac8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Merchtem United B – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ac76390fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:Merchtem United B – FC Schepdaal B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e657577451@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:Ritterklub Jette B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f38f5c5a0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Merchtem United B – VC Groot-Dilbeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3031d24b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Jong FC Opwijk – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74bd1e05e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Eendr. Hekelgem B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be46f02d34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:Merchtem United B – KFC Meise B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e00eee1dba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:SK Steenhuffel B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6ac4cda09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:Merchtem United B – Anderlecht Sporting Club Brother
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c8920f5e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:VK Liedekerke B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2db715014b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:Merchtem United B – VC Den Boskant Peizegem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24161abe37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Emi. Essene B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56807f8766@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VK Borchtlombeek B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-517250f4b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Merchtem United B – Sp. Eizeringen
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d46e72cec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVC Asse-Terheide B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-b/
+URL:https://goalio.be/fr/equipe/merchtem-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RBW Molse SK · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/rbw-molse-sk/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c7b5404e78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KFC Mol 1-1 RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-mol-rbw-molse-sk-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-mol-rbw-molse-sk-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31e43ad341@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KSV Oud Turnhout 2-5 RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksv-oud-turnhout-rbw-molse-sk-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ksv-oud-turnhout-rbw-molse-sk-2026-11-07
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce4223329c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261113T190000Z
+DTEND:20261113T204500Z
+SUMMARY:RBW Molse SK – KFC Tongerlo
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/rbw-molse-sk-kfc-tongerlo-2026-11-13/
+URL:https://goalio.be/nl/wedstrijd/rbw-molse-sk-kfc-tongerlo-2026-11-13/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a38ba84d08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:RBW Molse SK 2-1 KSK Oosthoven
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/rbw-molse-sk-ksk-oosthoven-2026-11-27/
+URL:https://goalio.be/nl/wedstrijd/rbw-molse-sk-ksk-oosthoven-2026-11-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec754d9441@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KFC Flandria – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b93ced2774@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RBW Molse SK – K Witgoor Sp Dessel B
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a146e30b66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:VC Westerlo Kemphanen – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33fb52fa2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
+SUMMARY:VV-NEXT Laakdal A – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7497c4a0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KSK Oosthoven – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ac5ed4ede@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:RBW Molse SK – KFC Heultje
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-377273d58c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Beekhoek Sp. – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c30574d8f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RBW Molse SK – KFC Mol
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9efb4ca45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:RBW Molse SK – KVV Rauw Sp.
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b1b346584@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Verbr. Alberta – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0db085408f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RBW Molse SK – KSV Oud Turnhout
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51989254c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Tongerlo – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c9b045e93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RBW Molse SK – KFC Flandria
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d25b6d88e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Olen United – RBW Molse SK
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c82bdf2a17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RBW Molse SK – K. Blauwv. Oevel
+DESCRIPTION:4e provinciale Antwerpen G\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/rbw-molse-sk/
+URL:https://goalio.be/nl/ploeg/rbw-molse-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

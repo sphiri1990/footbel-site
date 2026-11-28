@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:S.C. Middelkerke United · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-779c79e64c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:S.C. Middelkerke United 0-3 K. Exc. Zedelgem B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/s-c-middelkerke-united-k-exc-zedelgem-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/s-c-middelkerke-united-k-exc-zedelgem-b-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f25f27fd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:NSVD Handzame 4-0 S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/nsvd-handzame-s-c-middelkerke-united-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/nsvd-handzame-s-c-middelkerke-united-202
+ 6-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cac00b6d40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:S.C. Middelkerke United 6-0 VC Vamos Zandvoorde
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/s-c-middelkerke-united-vc-vamos-zandvoorde-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/s-c-middelkerke-united-vc-vamos-zandvoor
+ de-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce73ac74f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T163000Z
+DTEND:20261121T181500Z
+SUMMARY:VK Zerkegem B 2-0 S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vk-zerkegem-b-s-c-middelkerke-united-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/vk-zerkegem-b-s-c-middelkerke-united-202
+ 6-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d2aa98e0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:S.C. Middelkerke United – FA Nieuwpoort B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/s-c-middelkerke-united-fa-nieuwpoort-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/s-c-middelkerke-united-fa-nieuwpoort-b-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24f588f67c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Beaufort Middelkerke A – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4443fc3ea2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. SV Bredene B – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66d2c7b2f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:S.C. Middelkerke United – NSVD Handzame
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d121d06e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:S.C. Middelkerke United – S.K. Eernegem B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90dd1bcaef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f0de848ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:S.C. Middelkerke United – S.V.D. Kortemark
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bc2ce9c75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:VV Koekelare B – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-895795ff84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Fusion Oostende – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82db50512a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:K. Exc. Zedelgem B – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ed2caf075@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:S.C. Middelkerke United – VK Zerkegem B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef4a2eb137@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:FA Nieuwpoort B – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4521aff07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:S.C. Middelkerke United – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed6a8d75f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:S.C. Middelkerke United – K. Dar. Ruddervoorde B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66ef4b3c47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Vamos Zandvoorde – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/s-c-middelkerke-united/
+URL:https://goalio.be/nl/ploeg/s-c-middelkerke-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

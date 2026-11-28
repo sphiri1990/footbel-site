@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zemst Sp. B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/zemst-sp-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-13aa6cd809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:Zemst Sp. B 10-0 KCVV Elewijt B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/zemst-sp-b-kcvv-elewijt-b-2026-10-31/
+URL:https://goalio.be/fr/match/zemst-sp-b-kcvv-elewijt-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33b3beef8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T163000Z
+DTEND:20261107T181500Z
+SUMMARY:VV Groot Kapelle B 3-2 Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/vv-groot-kapelle-b-zemst-sp-b-2026-11-07/
+URL:https://goalio.be/fr/match/vv-groot-kapelle-b-zemst-sp-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32a2126993@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Zemst Sp. B 1-2 Peutie FC
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/zemst-sp-b-peutie-fc-2026-11-14/
+URL:https://goalio.be/fr/match/zemst-sp-b-peutie-fc-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae9ef9a6ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Zemst Sp. B 1-4 Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/zemst-sp-b-perk-steenokkerzeel-v-1820-b-2026-11-21/
+URL:https://goalio.be/fr/match/zemst-sp-b-perk-steenokkerzeel-v-1820-b-2026
+ -11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce0682a9c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Zemst Sp. B – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86707b0662@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Eppegem B – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed0c6f2a10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KV Woluwe-Zaventem B – Zemst Sp. B (annulé)
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636743bb0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Zemst Sp. B – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52fffd92ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:Zemst Sp. B – K. Sp. Amicii Tange
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de1c374c48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Infinity FC Vilvoorde – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b694550b1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:Zemst Sp. B – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bec589b399@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Peutie FC – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-097c6201ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:Zemst Sp. B – FC Inkad Diegem B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbb3484355@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Perk Steenokkerzeel V. 1820 B – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95d8337fb4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:Zemst Sp. B – SK Laar
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cfb121e10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T150000Z
+DTEND:20270411T164500Z
+SUMMARY:Fenixx Beigem Humbeek B – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd6b9ada98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Zemst Sp. B – KCS Machelen B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7de39a4c3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KCVV Elewijt B – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/zemst-sp-b/
+URL:https://goalio.be/fr/equipe/zemst-sp-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Evergem Center · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-evergem-center/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9854c179fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Kaprijke-Bentille 2-0 KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-kaprijke-bentille-kfc-evergem-center-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-kaprijke-bentille-kfc-evergem-center-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc0e3db5f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Evergem Center 3-4 E Vinkt
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-evergem-center-e-vinkt-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-evergem-center-e-vinkt-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2548ac0228@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T160000Z
+DTEND:20261114T174500Z
+SUMMARY:KVE Aalter B 2-1 KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kve-aalter-b-kfc-evergem-center-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kve-aalter-b-kfc-evergem-center-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37daf8e725@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:VVE Hansbeke A 1-1 KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vve-hansbeke-a-kfc-evergem-center-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vve-hansbeke-a-kfc-evergem-center-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54e4e5291e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KFC Evergem Center – SK Bellem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-evergem-center-sk-bellem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-evergem-center-sk-bellem-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da1867081a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:SK Wachtebeke – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70941f128b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Evergem Center – KSCE Mariakerke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be8314cd7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC Evergem Center – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acc075863d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:E Vinkt – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-622fe617a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.F.C. Goalgetters Sint-Laureins A – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5e9b17570@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KFC Evergem Center – VVE Hansbeke A
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f83ccefa82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFCE Belzele Evergem – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55f3aba64a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KFC Evergem Center – KFC St-Kruis-W
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22a4aa5044@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SK Bellem – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd5302a2c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KFC Evergem Center – KVE Aalter B
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd01dcaae9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VK Knesselare – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eac383ad1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KFC Evergem Center – KVV Zomergem
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecfea83c60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:VV Sp Ursel – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d560d9c002@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Evergem Center – St Muide Gent
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34148d4215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Daring Maria-Aalter – KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4174211f2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Evergem Center – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kfc-evergem-center/
+URL:https://goalio.be/nl/ploeg/kfc-evergem-center/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

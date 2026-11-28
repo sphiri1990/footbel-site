@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Hove Sp. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-hove-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bfff49ece1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K. Hove Sp. 0-4 FCS Mariekerke-Branst A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-hove-sp-fcs-mariekerke-branst-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-hove-sp-fcs-mariekerke-branst-a-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a41abbf51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FCM Hallaar A 4-3 K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/fcm-hallaar-a-k-hove-sp-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fcm-hallaar-a-k-hove-sp-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e506d47cf3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K. Hove Sp. 4-2 RB Elzestraat
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-hove-sp-rb-elzestraat-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-hove-sp-rb-elzestraat-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c10f0bab7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T160000Z
+DTEND:20261121T174500Z
+SUMMARY:KSV Bornem A 3-1 K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksv-bornem-a-k-hove-sp-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ksv-bornem-a-k-hove-sp-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e8d5ad586@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K. Hove Sp. – KV Bonheiden A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-hove-sp-kv-bonheiden-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-hove-sp-kv-bonheiden-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f108fa946d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. Groen Rood Katelijne – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfaaaeb08f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. Hove Sp. – SK Peulis
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e0ec785b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:K. Hove Sp. – SK Rita Berlaar
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed17786bfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Nielse SV – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-304b8c018c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K. Hove Sp. – FCM Hallaar A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e04bd75c8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RB Elzestraat – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5fb42482b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KV Bonheiden A – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddd65bd6a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:K. Hove Sp. – KFC Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83e107809d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FCS Mariekerke-Branst A – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d2805c055@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K. Hove Sp. – VC Leest
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d209c88a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K.S.K. Sint-Amands A – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1011f33ddb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. Hove Sp. – Kessel United
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3e9f49bce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K. Hove Sp. – KSV Bornem A
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da6bb3733@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Volh. Wintam A – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f52ae5e90c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:K. Hove Sp. – K. Groen Rood Katelijne
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11d1f1f72f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSV Schriek – K. Hove Sp.
+DESCRIPTION:3e provinciale Antwerpen A\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-hove-sp/
+URL:https://goalio.be/nl/ploeg/k-hove-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

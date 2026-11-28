@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E.S.F.C. Du Geer · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c818f2a6e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:E.S.F.C. Du Geer 0-2 R.C.S. Verlaine
+DESCRIPTION:D3 FFA B\nJournée 11\nhttps://goalio.be/fr/match/e-s-f-c-du-ge
+ er-r-c-s-verlaine-2026-11-01/
+URL:https://goalio.be/fr/match/e-s-f-c-du-geer-r-c-s-verlaine-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-135cbf6577@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.R.C. Longlier 0-2 E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 12\nhttps://goalio.be/fr/match/r-r-c-longlie
+ r-e-s-f-c-du-geer-2026-11-07/
+URL:https://goalio.be/fr/match/r-r-c-longlier-e-s-f-c-du-geer-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a265cf5216@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T180000Z
+DTEND:20261111T194500Z
+SUMMARY:R.F.C. Messancy 2-1 E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 1\nhttps://goalio.be/fr/match/r-f-c-messancy
+ -e-s-f-c-du-geer-2026-11-11/
+URL:https://goalio.be/fr/match/r-f-c-messancy-e-s-f-c-du-geer-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a90192719f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:E.S.F.C. Du Geer 1-3 R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 13\nhttps://goalio.be/fr/match/e-s-f-c-du-ge
+ er-r-o-c-meix-dt-virton-2026-11-15/
+URL:https://goalio.be/fr/match/e-s-f-c-du-geer-r-o-c-meix-dt-virton-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73fe654f42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.F.C. Malmundaria 1904 2-2 E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 14\nhttps://goalio.be/fr/match/r-f-c-malmund
+ aria-1904-e-s-f-c-du-geer-2026-11-21/
+URL:https://goalio.be/fr/match/r-f-c-malmundaria-1904-e-s-f-c-du-geer-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9f1003911@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:E.S.F.C. Du Geer – Royal Sprimont Banneux
+DESCRIPTION:D3 FFA B\nJournée 15\nhttps://goalio.be/fr/match/e-s-f-c-du-ge
+ er-royal-sprimont-banneux-2026-11-29/
+URL:https://goalio.be/fr/match/e-s-f-c-du-geer-royal-sprimont-banneux-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d32dd2e00e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:E.S.F.C. Du Geer – R.F.C. Messancy
+DESCRIPTION:D3 FFA B\nJournée 16\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f651979b86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.C.S. Libramontois – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 17\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e58b9a82b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:E.S.F.C. Du Geer – R. Stade Waremmien F.C.
+DESCRIPTION:D3 FFA B\nJournée 18\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7447f7452d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:E.S.F.C. Du Geer – R.C.S. Libramontois
+DESCRIPTION:D3 FFA B\nJournée 2\nhttps://goalio.be/fr/equipe/e-s-f-c-du-ge
+ er/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87d06f71ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.S.C. Habay La Neuve – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 19\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac2295fa17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:E.S.F.C. Du Geer – F.C. Ans
+DESCRIPTION:D3 FFA B\nJournée 20\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5836b136c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Aubel F.C. – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 21\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a52df4961@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Union Momalloise – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 22\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48d5b40d66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E.S.F.C. Du Geer – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 23\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4061d26bb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S.C. Tilffois – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 24\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f07a27229@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:E.S.F.C. Du Geer – Et. Elsautoise
+DESCRIPTION:D3 FFA B\nJournée 25\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05625a4f57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Verlaine – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 26\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9e9e8057e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:E.S.F.C. Du Geer – R.R.C. Longlier
+DESCRIPTION:D3 FFA B\nJournée 27\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-506440ac10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.O.C. Meix Dt-Virton – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 28\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72369f33f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:E.S.F.C. Du Geer – R.F.C. Malmundaria 1904
+DESCRIPTION:D3 FFA B\nJournée 29\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-feef6cf950@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Royal Sprimont Banneux – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 30\nhttps://goalio.be/fr/equipe/e-s-f-c-du-g
+ eer/
+URL:https://goalio.be/fr/equipe/e-s-f-c-du-geer/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eendr. Hekelgem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-93441800d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Eendr. Hekelgem B 3-1 FC Schepdaal B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/eendr-hekelgem-b-fc-schepdaal-b-2026-11-07/
+URL:https://goalio.be/fr/match/eendr-hekelgem-b-fc-schepdaal-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8ee0ff10c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Emi. Essene B 0-4 Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/emi-essene-b-eendr-hekelgem-b-2026-11-14/
+URL:https://goalio.be/fr/match/emi-essene-b-eendr-hekelgem-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1303243289@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Eendr. Hekelgem B 2-2 VC Groot-Dilbeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/eendr-hekelgem-b-vc-groot-dilbeek-b-2026-11-21/
+URL:https://goalio.be/fr/match/eendr-hekelgem-b-vc-groot-dilbeek-b-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b7fee60e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:SK Steenhuffel B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/sk-steenhuffel-b-eendr-hekelgem-b-2026-11-28/
+URL:https://goalio.be/fr/match/sk-steenhuffel-b-eendr-hekelgem-b-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8060c7f347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Eendr. Hekelgem B – VC Den Boskant Peizegem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5461a32431@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:VK Liedekerke B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6e69116df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Eendr. Hekelgem B – KFC Meise B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95320113b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KVC Asse-Terheide B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ff7f8a554@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:VC Groot-Dilbeek B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdc5e9f0c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Eendr. Hekelgem B – Emi. Essene B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74bd1e05e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Eendr. Hekelgem B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2580ce8277@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:FC Schepdaal B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7af3bcbb25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VK Borchtlombeek B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5584d1f24b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Eendr. Hekelgem B – Ritterklub Jette B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90f64c2ae0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sp. Eizeringen – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-841afc5638@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T143000Z
+DTEND:20270404T161500Z
+SUMMARY:VC Den Boskant Peizegem B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9c3d7ccca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Eendr. Hekelgem B – SK Steenhuffel B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af21649042@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Anderlecht Sporting Club Brother – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54b3f43821@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Eendr. Hekelgem B – Jong FC Opwijk
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/eendr-hekelgem-b/
+URL:https://goalio.be/fr/equipe/eendr-hekelgem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

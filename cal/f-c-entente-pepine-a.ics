@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Entente Pepine A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fea89159d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:R.U. Limbourg 2-1 F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-u-limbourg-f-c-entente-pepine-a-2026-10-31/
+URL:https://goalio.be/fr/match/r-u-limbourg-f-c-entente-pepine-a-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdbd2e7af5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:F.C. Entente Pepine A 2-0 R.C.S. Bellevaux-Ligneuville
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-entente-pepine-a-r-c-s-bellevaux-ligneuville-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-entente-pepine-a-r-c-s-bellevaux-ligneuv
+ ille-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab952aebd7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. FC Bütgenbach 3-3 F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-fc-butgenbach-f-c-entente-pepine-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-fc-butgenbach-f-c-entente-pepine-a-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7a80cc63a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:F.C. Entente Pepine A – F.C. 1912 Raeren-Eynatten A (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-entente-pepine-a-f-c-1912-raeren-eynatten-a-2026-11-21/
+URL:https://goalio.be/fr/match/f-c-entente-pepine-a-f-c-1912-raeren-eynatte
+ n-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5870a7abe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. FC Sart-Lez-Spa B – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-fc-sart-lez-spa-b-f-c-entente-pepine-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-fc-sart-lez-spa-b-f-c-entente-pepine-a-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fc85328f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Büllingen – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7593129ba5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:F.C. Entente Pepine A – All. Hautes Fagnes A
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5fedb3e93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:F.C. Entente Pepine A – UN. Walhorn
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e590b1f1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.U.S. 1947 Emmels – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3521489378@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Entente Pepine A – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce65b64233@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:R.F.C. Malmundaria 1904 B – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1995cae997@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:F.C. Entente Pepine A – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a06ef994b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:K. FC Eupen 1963 B – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-394ab10247@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Entente Pepine A – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cff217349e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.C.S. Jalhaytois – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f92178455d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:F.C. Entente Pepine A – R.U. Limbourg
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a52bd6d792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.C.S. Bellevaux-Ligneuville – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4e3216be1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:F.C. Entente Pepine A – R. FC Bütgenbach
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2bbcdb4cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c5cb2d323@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Entente Pepine A – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine-a/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

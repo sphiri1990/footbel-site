@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Brasschaat B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-30a5ab6661@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Putte SK 3-2 KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/putte-sk-kfc-brasschaat-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/putte-sk-kfc-brasschaat-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1308c9b619@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T163000Z
+DTEND:20261107T181500Z
+SUMMARY:KFC Brasschaat B 1-4 K. Heibos SV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-brasschaat-b-k-heibos-sv-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-brasschaat-b-k-heibos-sv-b-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0568498f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KSK Ekeren Donk 5-1 KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksk-ekeren-donk-kfc-brasschaat-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksk-ekeren-donk-kfc-brasschaat-b-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9033ff233@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
+SUMMARY:KFC Brasschaat B – K. Kalmthout SK B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-brasschaat-b-k-kalmthout-sk-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-brasschaat-b-k-kalmthout-sk-b-2026-1
+ 1-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bbd8f80dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Excelsior Mariaburg B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b40050097@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:KFC Brasschaat B – Putte SK
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57b200955d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T160000Z
+DTEND:20270109T174500Z
+SUMMARY:K. Heibos SV B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab622bd3c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
+SUMMARY:KFC Brasschaat B – SV Noorse
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8bfdf1466@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T163000Z
+DTEND:20270123T181500Z
+SUMMARY:R. Cappellen FC B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a93d286e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:KFC Brasschaat B – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f050f40b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T163000Z
+DTEND:20270213T181500Z
+SUMMARY:KFC Brasschaat B – Ekeren FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ca8127d3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KSV Wildert – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fae2c59e65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T163000Z
+DTEND:20270227T181500Z
+SUMMARY:KFC Brasschaat B – Zandvliet Sport B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-901d9f0dde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T163000Z
+DTEND:20270306T181500Z
+SUMMARY:K. Gooreind VV B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7558f0033b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:K. Nieuwmoer FC B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84245e7090@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T153000Z
+DTEND:20270403T171500Z
+SUMMARY:KFC Brasschaat B – Excelsior Mariaburg B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-621fef4792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. Kalmthout SK B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4aaec0fc30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:KFC Brasschaat B – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbf45e1f85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Exc. FC Essen – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-brasschaat-b/
+URL:https://goalio.be/nl/ploeg/kfc-brasschaat-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

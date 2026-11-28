@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.E.S. Vaux · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-e-s-vaux/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f310f61d09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R. Wallonia Club Sibret 6-0 R.E.S. Vaux
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 11\nhttps://goalio.be/fr/
+ match/r-wallonia-club-sibret-r-e-s-vaux-2026-10-31/
+URL:https://goalio.be/fr/match/r-wallonia-club-sibret-r-e-s-vaux-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0de195f557@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.E.S. Vaux 1-1 Royal Tenneville Sports
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 12\nhttps://goalio.be/fr/
+ match/r-e-s-vaux-royal-tenneville-sports-2026-11-08/
+URL:https://goalio.be/fr/match/r-e-s-vaux-royal-tenneville-sports-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-730476325a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.E.S. Vaux – R.E.S. Chaumont (remis)
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 14\nhttps://goalio.be/fr/
+ match/r-e-s-vaux-r-e-s-chaumont-2026-11-22/
+URL:https://goalio.be/fr/match/r-e-s-vaux-r-e-s-chaumont-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb906998da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Jeun. Sp. De Tavigny – R.E.S. Vaux
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 15\nhttps://goalio.be/fr/
+ match/jeun-sp-de-tavigny-r-e-s-vaux-2026-11-28/
+URL:https://goalio.be/fr/match/jeun-sp-de-tavigny-r-e-s-vaux-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-336429f16f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RAFC Cobreville – R.E.S. Vaux
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96da358df5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.E.S. Vaux – F.C. Petit-Han
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e1a989015@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T193000Z
+DTEND:20270213T211500Z
+SUMMARY:RLC Bastogne B – R.E.S. Vaux
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eef2c4b6f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.E.S. Vaux – R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6435ee7804@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.E.S. Vaux – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be3f78b92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.F.C. St-Hubert – R.E.S. Vaux
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44ee6c8d7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.E.S. Vaux – R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f389620df0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.U.S. Ste Ode – R.E.S. Vaux
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8d0490da9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.E.S. Vaux – R. Wallonia Club Sibret
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c82f69fa9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Royal Tenneville Sports – R.E.S. Vaux
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-e-s-vaux/
+URL:https://goalio.be/fr/equipe/r-e-s-vaux/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

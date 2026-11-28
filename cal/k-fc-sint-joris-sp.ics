@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Sint-Joris Sp. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-917f6787ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:VV Westkapelle B 0-3 K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vv-westkapelle-b-k-fc-sint-joris-sp-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vv-westkapelle-b-k-fc-sint-joris-sp-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96a8a205c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:V.V. Cercle Beernem B 0-2 K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-cercle-beernem-b-k-fc-sint-joris-sp-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/v-v-cercle-beernem-b-k-fc-sint-joris-sp-
+ 2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35d5b40600@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. FC Sint-Joris Sp. 1-0 K. FC Aarsele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-sint-joris-sp-k-fc-aarsele-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-fc-sint-joris-sp-k-fc-aarsele-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-754b0e8c6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Zeebrugge 0-2 K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/fc-zeebrugge-k-fc-sint-joris-sp-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-zeebrugge-k-fc-sint-joris-sp-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd889a7185@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. FC Sint-Joris Sp. – VK Dudzele
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-sint-joris-sp-vk-dudzele-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-fc-sint-joris-sp-vk-dudzele-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6ca64235b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T184500Z
+DTEND:20261205T203000Z
+SUMMARY:K. FC Varsenare B – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5feecd2619@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:SKD Hertsberge – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b3af811ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. FC Sint-Joris Sp. – K. FC Lissewege
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfb9a0bb7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. FC Heist B – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62218c1431@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. FC Sint-Joris Sp. – K. SK Steenbrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-708b5fd347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T173000Z
+DTEND:20270130T191500Z
+SUMMARY:K. FC Aarsele – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-756d681699@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. FC Sint-Joris Sp. – E. Brugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bcfe286de3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. FC Sint-Joris Sp. – K. VC Wingene B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58f2cc89da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:GL Ruiselede – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0511ff20b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. FC Sint-Joris Sp. – K. FC Varsenare B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2482c8ea7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:VK Dudzele – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39dabeba2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. FC Sint-Joris Sp. – FC Zeebrugge
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bedef0e130@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. FC Sint-Joris Sp. – V.V. Cercle Beernem B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c665138b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Damme – K. FC Sint-Joris Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b22f9ac5cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Sint-Joris Sp. – VV Westkapelle B
+DESCRIPTION:4e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-fc-sint-joris-sp/
+URL:https://goalio.be/nl/ploeg/k-fc-sint-joris-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

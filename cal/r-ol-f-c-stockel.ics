@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Ol. F.C. Stockel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1f706f6d1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R. Ol. F.C. Stockel 6-1 R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 9\nhttps://
+ goalio.be/fr/match/r-ol-f-c-stockel-r-r-c-de-boitsfort-3-prov-b-brabant-wa
+ llon-bruxelles-2026-10-31/
+URL:https://goalio.be/fr/match/r-ol-f-c-stockel-r-r-c-de-boitsfort-3-prov-b
+ -brabant-wallon-bruxelles-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48d83a1c34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Bx Brussels 6-2 R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 10\nhttps:/
+ /goalio.be/fr/match/bx-brussels-r-ol-f-c-stockel-2026-11-08/
+URL:https://goalio.be/fr/match/bx-brussels-r-ol-f-c-stockel-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8fc79d14c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R. Ol. F.C. Stockel 13-0 Racing Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/r-ol-f-c-stockel-racing-anderlecht-2026-11-14/
+URL:https://goalio.be/fr/match/r-ol-f-c-stockel-racing-anderlecht-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2ce188775@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Olympic Wolves Brussels 1-6 R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/olympic-wolves-brussels-r-ol-f-c-stockel-2026-11-22/
+URL:https://goalio.be/fr/match/olympic-wolves-brussels-r-ol-f-c-stockel-202
+ 6-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a949a2dedd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R. Ol. F.C. Stockel – F.E.F. Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/r-ol-f-c-stockel-f-e-f-anderlecht-2026-11-28/
+URL:https://goalio.be/fr/match/r-ol-f-c-stockel-f-e-f-anderlecht-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6197a4dde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R. Ol. F.C. Stockel – Olympic Wolves Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6fd130bc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.E.F. Anderlecht – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-564d75cb92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R. Ol. F.C. Stockel – F.C. Moreda Uccle
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6554def01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:R. Ol. F.C. Stockel – Olympic Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7ab2fbc32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Olympique Club Forestois – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0712390689@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. Ol. F.C. Stockel – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ed76844e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Polonia Bruxelles – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be59500165@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. Ol. F.C. Stockel – R. Un. Auderghem
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-640e4d128a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Black Star F.C. – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac9b096ce4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.R.C. De Boitsfort – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed12eec7a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Ol. F.C. Stockel – Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ef2431008@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Racing Anderlecht – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/r-ol-f-c-stockel/
+URL:https://goalio.be/fr/equipe/r-ol-f-c-stockel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

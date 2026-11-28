@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zwevegem Sport · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/zwevegem-sport/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-744ecaf2d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:K.V.K. Ieper 4-1 Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/k-v-k-iepe
+ r-zwevegem-sport-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-v-k-ieper-zwevegem-sport-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a313ed205f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:Zwevegem Sport 4-0 Eendr Elene-Grotenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/zwevegem-s
+ port-eendr-elene-grotenberge-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/zwevegem-sport-eendr-elene-grotenberge-a
+ -2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f47c650a16@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KVV St-Denijs Sp A 1-0 Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/kvv-st-den
+ ijs-sp-a-zwevegem-sport-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kvv-st-denijs-sp-a-zwevegem-sport-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e469a4d8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Zwevegem Sport 1-1 K. Berchem Sp. 2004 A
+DESCRIPTION:D3 VV A\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/zwevegem-s
+ port-k-berchem-sp-2004-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/zwevegem-sport-k-berchem-sp-2004-a-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af037f772a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-sp-club-
+ blankenberge-a-zwevegem-sport-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-sp-club-blankenberge-a-zwevegem-sport-
+ 2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-825f2ce70d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Zwevegem Sport – KCVV Elewijt A
+DESCRIPTION:D3 VV A\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-139a99c495@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Wambeek Ternat A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-440635aa23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:Zwevegem Sport – Avanti Stekene
+DESCRIPTION:D3 VV A\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f2326e70d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Erpe-Mere United – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcd5ffef82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Olsa Brakel A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-948c207e0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Zwevegem Sport – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2abb10a9ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Gullegem – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d0b099549@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:Zwevegem Sport – KVE Drongen A
+DESCRIPTION:D3 VV A\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fa9e95b3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Eendr Elene-Grotenberge A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1936f4ce69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Zwevegem Sport – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-308b12515c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KCVV Elewijt A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-726fb1d854@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:Zwevegem Sport – K.W.S. Club Lauwe A
+DESCRIPTION:D3 VV A\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6010e84fc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K. Berchem Sp. 2004 A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d1667d789@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:Zwevegem Sport – K.V.K. Ieper
+DESCRIPTION:D3 VV A\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-722d6fe582@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:SC City Pirates Antwerpen A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19ba0e0604@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Zwevegem Sport – KVV St-Denijs Sp A
+DESCRIPTION:D3 VV A\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/zwevegem-sport
+ /
+URL:https://goalio.be/nl/ploeg/zwevegem-sport/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

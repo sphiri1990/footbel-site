@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVV Laarne-Kalken A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-725f96a7cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:KVV Laarne-Kalken A 2-4 VC Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-laarne-kalken-a-vc-zwijnaarde-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kvv-laarne-kalken-a-vc-zwijnaarde-a-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6838487e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KSKDJ Lovendegem 3-1 KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kskdj-lovendegem-kvv-laarne-kalken-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kskdj-lovendegem-kvv-laarne-kalken-a-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2429588c58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:KVV Laarne-Kalken A 1-3 LS Merendree A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-laarne-kalken-a-ls-merendree-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kvv-laarne-kalken-a-ls-merendree-a-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61f79fd47d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T143000Z
+DTEND:20261122T161500Z
+SUMMARY:VC Nazareth-Eke A 4-3 KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vc-nazareth-eke-a-kvv-laarne-kalken-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vc-nazareth-eke-a-kvv-laarne-kalken-a-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f0f1e893@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:KVV Laarne-Kalken A – Zeveren Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-laarne-kalken-a-zeveren-sp-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvv-laarne-kalken-a-zeveren-sp-a-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5d30f0481@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KVVE Massemen A – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-429b23563c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:KVV Laarne-Kalken A – FC Poesele A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2dc7bb817@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:F.C. Kleit A – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53f8d57582@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:KVV Laarne-Kalken A – KSKDJ Lovendegem
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aeb74193d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:KVV Laarne-Kalken A – VC Nazareth-Eke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ded6af64fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FCSJ Sleidinge – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4af79dcc67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:KVV Laarne-Kalken A – FC Assenede
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f41f60517@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:LS Merendree A – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48091ea929@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:KVV Laarne-Kalken A – KSV Melsen
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f95455d59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Oostakker - Azalea – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35ea630bfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:KVV Laarne-Kalken A – KVVHT Zwijnaarde A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1cb4a1da5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Zeveren Sp A – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ed6afe77e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:KVV Laarne-Kalken A – KVVE Massemen A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eaf4dff983@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFAC Waarschoot – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-606c683a64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:KVV Laarne-Kalken A – FC Lembeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a89481399@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Zwijnaarde A – KVV Laarne-Kalken A
+DESCRIPTION:2e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kvv-laarne-kalken-a/
+URL:https://goalio.be/nl/ploeg/kvv-laarne-kalken-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

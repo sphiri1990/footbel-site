@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Heikant Zele B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-910cdef885@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:KFC Heikant Zele B 3-1 FC Smetlede B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-heikant-zele-b-fc-smetlede-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-heikant-zele-b-fc-smetlede-b-2026-10
+ -31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f80905778b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:KESA Bottelare 4-1 KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kesa-bottelare-kfc-heikant-zele-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kesa-bottelare-kfc-heikant-zele-b-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8a5ed486d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T163000Z
+DTEND:20261114T181500Z
+SUMMARY:KFC Heikant Zele B 7-0 FC Genclerbirligi Zele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-heikant-zele-b-fc-genclerbirligi-zele-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-heikant-zele-b-fc-genclerbirligi-zel
+ e-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac7fa19a4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:KVV Laarne-Kalken B 2-2 KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kvv-laarne-kalken-b-kfc-heikant-zele-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kvv-laarne-kalken-b-kfc-heikant-zele-b-2
+ 026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ba71c6045@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
+SUMMARY:KFC Heikant Zele B – KFV HEDES Heusden-Destelbergen B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-heikant-zele-b-kfv-hedes-heusden-destelbergen-b-2026-11
+ -28/
+URL:https://goalio.be/nl/wedstrijd/kfc-heikant-zele-b-kfv-hedes-heusden-des
+ telbergen-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fae510973d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Eendr Moortsele – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa3de18ea4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:KFC Heikant Zele B – VC Jong Lede
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b61c3be8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:KFC Heikant Zele B – FC Daknam
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-799639ba29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:KVVE Massemen B – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8bec7f5b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T163000Z
+DTEND:20270123T181500Z
+SUMMARY:KFC Heikant Zele B – KESA Bottelare
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52edd591b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Genclerbirligi Zele – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18c2ba89a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:KFV HEDES Heusden-Destelbergen B – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d410041d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T163000Z
+DTEND:20270220T181500Z
+SUMMARY:KFC Heikant Zele B – VSV Gent B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ab4e1172b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:FC Smetlede B – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e75a9ead89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T163000Z
+DTEND:20270306T181500Z
+SUMMARY:KFC Heikant Zele B – FC Anatolia Gent (afgelast)
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b6aebf716@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T184500Z
+DTEND:20270313T203000Z
+SUMMARY:Jago St.-A'berg – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b9f7bac49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:KFC Heikant Zele B – KFC Eendr Zele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34419e69db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T153000Z
+DTEND:20270403T171500Z
+SUMMARY:KFC Heikant Zele B – KVV Laarne-Kalken B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d172707c14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:KSC Dikkelvenne B – KFC Heikant Zele B
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3468c3236e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:KFC Heikant Zele B – Eendr Moortsele
+DESCRIPTION:4e provinciale Oost-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kfc-heikant-zele-b/
+URL:https://goalio.be/nl/ploeg/kfc-heikant-zele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

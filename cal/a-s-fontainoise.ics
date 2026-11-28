@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.S. Fontainoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/a-s-fontainoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-557a72e18f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:A.S. Fontainoise 2-4 R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/a-s-fontainoise-r-u-s-club-anderlues-2026-10-31/
+URL:https://goalio.be/fr/match/a-s-fontainoise-r-u-s-club-anderlues-2026-10
+ -31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfcebd31fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Société Royale J.S. Thudinienne 4-2 A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/societe-royale-j-s-thudinienne-a-s-fontainoise-2026-11-08/
+URL:https://goalio.be/fr/match/societe-royale-j-s-thudinienne-a-s-fontainoi
+ se-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0538edc9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:A.S. Fontainoise 1-10 R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/a-s-fontainoise-r-u-s-binche-4-prov-e-hainaut-2026-11-14/
+URL:https://goalio.be/fr/match/a-s-fontainoise-r-u-s-binche-4-prov-e-hainau
+ t-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dce046bb20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:AS Montigny – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/as-montigny-a-s-fontainoise-2026-11-22/
+URL:https://goalio.be/fr/match/as-montigny-a-s-fontainoise-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e72e23ca6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:A.S. Fontainoise – R.C. Gouy
+DESCRIPTION:4e provinciale Hainaut E\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/a-s-fontainoise-r-c-gouy-2026-11-28/
+URL:https://goalio.be/fr/match/a-s-fontainoise-r-c-gouy-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a4e7e7688@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:A.S. Fontainoise – R.F.C. Nalinnois
+DESCRIPTION:4e provinciale Hainaut E\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5daa02c37b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:A.S. Fontainoise – Sporting Club Farciennes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6ccbdeded@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R. Goutroux Sports B – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29175564b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:A.S. Fontainoise – AJS Buvrinnes
+DESCRIPTION:4e provinciale Hainaut E\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89e3bff411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Trazegnies Sports – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf28e61486@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:A.S. Fontainoise – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28662367cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.U.S. Courcelloise – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beb6247faf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Mont-S-March-Collège B – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df0174d921@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:A.S. Fontainoise – Jeunesse Trazegnies
+DESCRIPTION:4e provinciale Hainaut E\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acc6bce466@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.U.S. Club Anderlues – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83c4fd21ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:A.S. Fontainoise – Société Royale J.S. Thudinienne
+DESCRIPTION:4e provinciale Hainaut E\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27d4ffc9f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.U.S. Binche – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19b8027747@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.S. Fontainoise – AS Montigny
+DESCRIPTION:4e provinciale Hainaut E\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a031bfae9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C. Gouy – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/a-s-fontainoise/
+URL:https://goalio.be/fr/equipe/a-s-fontainoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

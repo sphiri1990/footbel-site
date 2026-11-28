@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.L.C. Mesvinois A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-da3f4a5da7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.L.C. Mesvinois A 2-0 R.A.F.C. Cuesmes A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-l-c-mesvinois-a-r-a-f-c-cuesmes-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-l-c-mesvinois-a-r-a-f-c-cuesmes-a-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77193a81e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Renaissance FC Carnières A 1-5 R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/renaissance-fc-carnieres-a-r-l-c-mesvinois-a-2026-11-08/
+URL:https://goalio.be/fr/match/renaissance-fc-carnieres-a-r-l-c-mesvinois-a
+ -2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fda74dea5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.L.C. Mesvinois A 1-2 R.A.E.C. Mons B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-l-c-mesvinois-a-r-a-e-c-mons-b-2026-11-15/
+URL:https://goalio.be/fr/match/r-l-c-mesvinois-a-r-a-e-c-mons-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8394dff94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:C. Ol. Trivières A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/c-ol-trivieres-a-r-l-c-mesvinois-a-2026-11-22/
+URL:https://goalio.be/fr/match/c-ol-trivieres-a-r-l-c-mesvinois-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2200b7c435@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.L.C. Mesvinois A – F.C. Casteau A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-l-c-mesvinois-a-f-c-casteau-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-l-c-mesvinois-a-f-c-casteau-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d11e7a86a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.L.C. Mesvinois A – F.C. AEDEC-Hyon
+DESCRIPTION:2e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b88608b189@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Athènes Haine-Saint-Pierre – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a96d34bc48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:U.S. Neufvilles A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3e4cb5c85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.L.C. Mesvinois A – R. SP B. Frameries A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da66755123@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Snef A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a486aafb6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.L.C. Mesvinois A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29bc6a30a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Quévy Genly A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c2358dc71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.L.C. Mesvinois A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2effc301d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S.C. Paturageois A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbf3794996@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.L.C. Mesvinois A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38b82e3d2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.A.F.C. Cuesmes A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-696a06313e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.L.C. Mesvinois A – Renaissance FC Carnières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2a7d68a8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.A.E.C. Mons B – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93bb6b33a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.L.C. Mesvinois A – C. Ol. Trivières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-614ecb5f1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Casteau A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-mesvinois-a/
+URL:https://goalio.be/fr/equipe/r-l-c-mesvinois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Union Flémalloise A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-74ba4699e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Union Flémalloise A 1-6 R.F.C. Warsage
+DESCRIPTION:1re provinciale Liège\nJournée 11\nhttps://goalio.be/fr/match
+ /r-union-flemalloise-a-r-f-c-warsage-2026-11-01/
+URL:https://goalio.be/fr/match/r-union-flemalloise-a-r-f-c-warsage-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c9956182d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Croatia Wandre A 2-3 R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 12\nhttps://goalio.be/fr/match
+ /r-f-c-croatia-wandre-a-r-union-flemalloise-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-croatia-wandre-a-r-union-flemalloise-a
+ -2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66e7831936@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Union Flémalloise A 0-5 R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 13\nhttps://goalio.be/fr/match
+ /r-union-flemalloise-a-r-etoile-sp-dalhemoise-2026-11-15/
+URL:https://goalio.be/fr/match/r-union-flemalloise-a-r-etoile-sp-dalhemoise
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-681a4812b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – R. Union Flémalloise A (re
+ mis)
+DESCRIPTION:1re provinciale Liège\nJournée 14\nhttps://goalio.be/fr/match
+ /royal-football-club-wallonia-hannut-r-union-flemalloise-a-2026-11-22/
+URL:https://goalio.be/fr/match/royal-football-club-wallonia-hannut-r-union-
+ flemalloise-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c7e77082c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Union Flémalloise A – F.C. Welkenraedt
+DESCRIPTION:1re provinciale Liège\nJournée 15\nhttps://goalio.be/fr/match
+ /r-union-flemalloise-a-f-c-welkenraedt-2026-11-29/
+URL:https://goalio.be/fr/match/r-union-flemalloise-a-f-c-welkenraedt-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-028f022f46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Union Flémalloise A – R.S.C. Beaufays A
+DESCRIPTION:1re provinciale Liège\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8824d91b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:FC. Ster Francorchamps A – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-833af2eb3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Union Flémalloise A – Etoile De Faimes
+DESCRIPTION:1re provinciale Liège\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3cc6bb24d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Herve F.C. – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41a1387908@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Union Flémalloise A – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f641c76f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K.F.C. Weywertz – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10312d283d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Union Flémalloise A – E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5f6df0e47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:JS Fizoise – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14712b90a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Espoir Minerois – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be150287ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Union Flémalloise A – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a083792d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Warsage – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2600bd093@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Union Flémalloise A – R.F.C. Croatia Wandre A
+DESCRIPTION:1re provinciale Liège\nJournée 27\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22907ac58e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 28\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-363c12b057@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Union Flémalloise A – Royal Football Club Wallonia Hannut
+DESCRIPTION:1re provinciale Liège\nJournée 29\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70079aa11a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Welkenraedt – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 30\nhttps://goalio.be/fr/equip
+ e/r-union-flemalloise-a/
+URL:https://goalio.be/fr/equipe/r-union-flemalloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

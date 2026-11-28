@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:V. Hofstade · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/v-hofstade/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e00fada1ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Koninklijke FFF Haren 2-1 V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/koninklijke-fff-haren-v-hofstade-2026-11-01/
+URL:https://goalio.be/fr/match/koninklijke-fff-haren-v-hofstade-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42ca86cddb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:V. Hofstade 3-0 KSC Grimbergen B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/v-hofstade-ksc-grimbergen-b-2026-11-08/
+URL:https://goalio.be/fr/match/v-hofstade-ksc-grimbergen-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dadc0c8ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:SK Steenhuffel A 2-1 V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/sk-steenhuffel-a-v-hofstade-2026-11-14/
+URL:https://goalio.be/fr/match/sk-steenhuffel-a-v-hofstade-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9519f34271@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:V. Hofstade 4-2 VC Den Boskant Peizegem A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/v-hofstade-vc-den-boskant-peizegem-a-2026-11-22/
+URL:https://goalio.be/fr/match/v-hofstade-vc-den-boskant-peizegem-a-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-844e397fae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:BHS United – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/bhs-united-v-hofstade-2026-11-29/
+URL:https://goalio.be/fr/match/bhs-united-v-hofstade-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5948b731f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:V. Hofstade – SK Nossegem B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d14cf936e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Sparta Melsbroek – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f9ddf12ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Vilvoorde City – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f16f27902@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:V. Hofstade – Eendr. Mazenzele Opwijk B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-174f09a8f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T130000Z
+DTEND:20270124T144500Z
+SUMMARY:VC Den Boskant Peizegem A – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-097f91b31f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:V. Hofstade – Londerzeel United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c81fe90d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:V. Hofstade – SK Steenhuffel A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbcf663d76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Inkad Diegem A – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bf995cb0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:V. Hofstade – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfcb022263@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T191500Z
+DTEND:20270306T210000Z
+SUMMARY:VV Groot Kapelle A – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61aa049f6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:V. Hofstade – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e89b6e1e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:KSC Grimbergen B – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a49730a80a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:SK Nossegem B – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-befe6a8ea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:V. Hofstade – K. Del. Londerzeel B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dd0099d11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Zemst Sp. A – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aba44af1b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:V. Hofstade – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/v-hofstade/
+URL:https://goalio.be/fr/equipe/v-hofstade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

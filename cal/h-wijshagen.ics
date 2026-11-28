@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:H. Wijshagen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/h-wijshagen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-822ab3d86b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T164500Z
+DTEND:20261031T183000Z
+SUMMARY:N. Gruitrode B 3-4 H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/n-gruitrode-b-h-wijshagen-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/n-gruitrode-b-h-wijshagen-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1904b3a2bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:H. Wijshagen 1-2 FC Maasland NO B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/h-wijshagen-fc-maasland-no-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/h-wijshagen-fc-maasland-no-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8a5a2521d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:H. Wijshagen 0-2 KSK Meeuwen B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/h-wijshagen-ksk-meeuwen-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/h-wijshagen-ksk-meeuwen-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4174cfa667@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:K. Lindelhoeven VV B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-lindelhoeven-vv-b-h-wijshagen-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-lindelhoeven-vv-b-h-wijshagen-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb23a50783@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:H. Wijshagen – Sp. Lille
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25722ab5d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:FC Eksel B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06ba98eaa9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:H. Wijshagen – Sp. Grote Brogel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa68fe32ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:KRC Peer B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcf23e13f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:KSK Meeuwen B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4b0f58034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:H. Wijshagen – Esperanza Pelt B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b599de18c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T163000Z
+DTEND:20270220T181500Z
+SUMMARY:FC Maasland NO B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57fdc5c5ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:H. Wijshagen – N. Gruitrode B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a868483c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K Peer SV – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7447202e51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:H. Wijshagen – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3d1ada341@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:HO Molenbeersel – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51fbcd24e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Sp. Lille – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5de37c4264@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:H. Wijshagen – K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07631bbc21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:Lutlommel VV B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11939d8595@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:H. Wijshagen – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/h-wijshagen/
+URL:https://goalio.be/nl/ploeg/h-wijshagen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

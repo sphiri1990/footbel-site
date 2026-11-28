@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Breugel-Herkol SV · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-90a3dca45f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. Breugel-Herkol SV 4-1 HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/k-breugel-herkol-sv-ho-molenbeersel-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-breugel-herkol-sv-ho-molenbeersel-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c4d1dbc14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:Esperanza Pelt B 1-3 K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/esperanza-pelt-b-k-breugel-herkol-sv-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/esperanza-pelt-b-k-breugel-herkol-sv-202
+ 6-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1a40c9f08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K. Breugel-Herkol SV 3-1 K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/k-breugel-herkol-sv-k-lindelhoeven-vv-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-breugel-herkol-sv-k-lindelhoeven-vv-b-
+ 2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0b78deccc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Lutlommel VV B 0-4 K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/lutlommel-vv-b-k-breugel-herkol-sv-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/lutlommel-vv-b-k-breugel-herkol-sv-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73e6181c29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. Breugel-Herkol SV – Sp. Grote Brogel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-breugel-herkol-sv-sp-grote-brogel-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-breugel-herkol-sv-sp-grote-brogel-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86ff92d3c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:FC Eksel B – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-569391b9ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K. Breugel-Herkol SV – KRC Peer B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99269ec1c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:FC Maasland NO B – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dbc29dc7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270115T190000Z
+DTEND:20270115T204500Z
+SUMMARY:K. Breugel-Herkol SV – N. Gruitrode B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88c53017fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. Breugel-Herkol SV – Esperanza Pelt B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1399a543d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K Peer SV – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf8d30e0a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Sp. Grote Brogel – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2c2488d3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K. Breugel-Herkol SV – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-559f35ccfb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. Breugel-Herkol SV – Sp. Lille
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5327398fb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:K. Lindelhoeven VV B – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d68c474818@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K. Breugel-Herkol SV – Lutlommel VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-329df959dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K. Breugel-Herkol SV – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6665554546@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:HO Molenbeersel – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30dffa5d0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. Breugel-Herkol SV – KSK Meeuwen B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11939d8595@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:H. Wijshagen – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/k-breugel-herkol-sv/
+URL:https://goalio.be/nl/ploeg/k-breugel-herkol-sv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

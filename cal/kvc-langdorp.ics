@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVC Langdorp · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kvc-langdorp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3d110aff06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KVC Langdorp 15-2 KFC Werchter B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 10\nhttps://goalio.b
+ e/fr/match/kvc-langdorp-kfc-werchter-b-2026-10-31/
+URL:https://goalio.be/fr/match/kvc-langdorp-kfc-werchter-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e68482af1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Tielt-Winge 3000 1-1 KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 11\nhttps://goalio.b
+ e/fr/match/tielt-winge-3000-kvc-langdorp-2026-11-07/
+URL:https://goalio.be/fr/match/tielt-winge-3000-kvc-langdorp-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18f9ff7c49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KVC Langdorp 5-0 SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 12\nhttps://goalio.b
+ e/fr/match/kvc-langdorp-sk-deurne-2026-11-14/
+URL:https://goalio.be/fr/match/kvc-langdorp-sk-deurne-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fad34f3be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T113000Z
+DTEND:20261122T131500Z
+SUMMARY:SC Aarschot B 1-6 KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 13\nhttps://goalio.b
+ e/fr/match/sc-aarschot-b-kvc-langdorp-2026-11-22/
+URL:https://goalio.be/fr/match/sc-aarschot-b-kvc-langdorp-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-439e0305a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KVC Langdorp – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-942b58c5b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KVC Langdorp – SMS Lubbeek B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d8468dfcd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FC Binkom B – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80d5e9984c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVC Langdorp – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-906a0e2cce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Deurne – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52930bae70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KVC Langdorp – RWL Sport B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29962049f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T130000Z
+DTEND:20270228T144500Z
+SUMMARY:KFC Werchter B – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1c28c344f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KVC Langdorp – Sp. Molenbeek
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca4547171c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T184500Z
+DTEND:20270313T203000Z
+SUMMARY:KFC KO Begijnendijk – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52d5a95b08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KVC Langdorp – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2aa4e5b6b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVC Langdorp – SC Aarschot B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a865b7164@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:KAC Betekom B – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a04f90f49f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Boutersem United B – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kvc-langdorp/
+URL:https://goalio.be/fr/equipe/kvc-langdorp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

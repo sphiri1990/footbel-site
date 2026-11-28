@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Genappe B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-genappe-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5da30e4e03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:F.C. Genappe B 2-1 ES. Brainoise A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/f-c-genappe-b-es-brainoise-a-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-genappe-b-es-brainoise-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc0ae83648@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC. Walhain A 2-0 F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/fc-walhain-a-f-c-genappe-b-2026-11-08/
+URL:https://goalio.be/fr/match/fc-walhain-a-f-c-genappe-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f21596acec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Grez-Doiceau A 4-2 F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/rfc-grez-doiceau-a-f-c-genappe-b-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-grez-doiceau-a-f-c-genappe-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1206e4010a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:F.C. Genappe B 1-3 RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/match/f-c-genappe-b-re-stephanois-a-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-genappe-b-re-stephanois-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-626078838d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Léopold FC. B – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/match/r-leopold-fc-b-f-c-genappe-b-2026-11-29/
+URL:https://goalio.be/fr/match/r-leopold-fc-b-f-c-genappe-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98fff99832@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:ROS Ottignies-LLN A – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f14d6bc8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Genappe B – CS Biergeois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0962dda6c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RFC Orp-Noduwez B – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-503999886e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Genappe B – Ol. Clabecq A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8959bd0b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.R.C. De Boitsfort – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-515c0f86b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Genappe B – R. Union Rixensartoise A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1a259798e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RC Villers la Ville A – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-965c80a10a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Genappe B – SC Beauvechain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c24d3b3950@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R. Union Lasne Ohain – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20434f06d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Genappe B – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7f85eaa21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:ES. Brainoise A – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-215406dbf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Genappe B – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8797c974e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Genappe B – RFC Grez-Doiceau A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78367879af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RE Stéphanois A – F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6d0ada2aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Genappe B – R. Léopold FC. B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/f-c-genappe-b/
+URL:https://goalio.be/fr/equipe/f-c-genappe-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

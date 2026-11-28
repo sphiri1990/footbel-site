@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Lesve-Arbre · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-lesve-arbre/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e7365404cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Lesve-Arbre 5-6 JS Falisolle-Aisemont A
+DESCRIPTION:4e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /fc-lesve-arbre-js-falisolle-aisemont-a-2026-11-01/
+URL:https://goalio.be/fr/match/fc-lesve-arbre-js-falisolle-aisemont-a-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3bea89faa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Lesve-Arbre 0-5 New Entente Foot Moignele
+DESCRIPTION:4e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /fc-lesve-arbre-new-entente-foot-moignele-2026-11-15/
+URL:https://goalio.be/fr/match/fc-lesve-arbre-new-entente-foot-moignele-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f53de3c3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RCS Profondeville B – FC Lesve-Arbre (remis)
+DESCRIPTION:4e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /rcs-profondeville-b-fc-lesve-arbre-2026-11-22/
+URL:https://goalio.be/fr/match/rcs-profondeville-b-fc-lesve-arbre-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac3350d2e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Lesve-Arbre – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ad37b80a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:SFC Onoz – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d75ddba1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Lesve-Arbre – Bonneville SP B
+DESCRIPTION:4e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-986e51785b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:S Flawinne FC B – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-773713e4f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:SP Salzinnes Namur – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9881fc6486@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Lesve-Arbre – SC Mazycien B
+DESCRIPTION:4e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c315650cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sp Exc Jemeppe B – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a33bafd59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Lesve-Arbre – Union Bossière Gembloux B
+DESCRIPTION:4e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab45343f14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:US Auvelais B – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0001537f3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Lesve-Arbre – WA Sauvenière B
+DESCRIPTION:4e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-568a97e50f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:JS Falisolle-Aisemont A – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f22a35ed7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Lesve-Arbre – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b20adbb9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:New Entente Foot Moignele – FC Lesve-Arbre
+DESCRIPTION:4e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/fc-lesve-arbre/
+URL:https://goalio.be/fr/equipe/fc-lesve-arbre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

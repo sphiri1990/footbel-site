@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Francs Borains · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/francs-borains/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8980b973c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T150000Z
+DTEND:20261031T164500Z
+SUMMARY:Beerschot VA 3-0 Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 9\nhttps://goalio.be/fr/match/b
+ eerschot-va-francs-borains-2026-10-31/
+URL:https://goalio.be/fr/match/beerschot-va-francs-borains-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6e5872763@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261104T190000Z
+DTEND:20261104T204500Z
+SUMMARY:Francs Borains 1-0 Dender
+DESCRIPTION:Challenger Pro League\nJournée 8\nhttps://goalio.be/fr/match/f
+ rancs-borains-dender-2026-11-04/
+URL:https://goalio.be/fr/match/francs-borains-dender-2026-11-04/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-286bc8aef5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T150000Z
+DTEND:20261107T164500Z
+SUMMARY:Francs Borains 1-0 Seraing United
+DESCRIPTION:Challenger Pro League\nJournée 10\nhttps://goalio.be/fr/match/
+ francs-borains-seraing-united-2026-11-07/
+URL:https://goalio.be/fr/match/francs-borains-seraing-united-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49172e9305@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T181500Z
+DTEND:20261122T200000Z
+SUMMARY:KAA Gent II 2-0 Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 11\nhttps://goalio.be/fr/match/
+ kaa-gent-ii-francs-borains-2026-11-22/
+URL:https://goalio.be/fr/match/kaa-gent-ii-francs-borains-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a8b719151@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:Francs Borains 2-2 AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 12\nhttps://goalio.be/fr/match/
+ francs-borains-as-eupen-2026-11-27/
+URL:https://goalio.be/fr/match/francs-borains-as-eupen-2026-11-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e5ece93ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:KRC Genk II – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 13\nhttps://goalio.be/fr/match/
+ krc-genk-ii-francs-borains-2026-12-05/
+URL:https://goalio.be/fr/match/krc-genk-ii-francs-borains-2026-12-05/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffda08d7b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Francs Borains – Patro Eisden
+DESCRIPTION:Challenger Pro League\nJournée 14\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f72155bbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Club Brugge II – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 15\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-606fde2ddd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T150000Z
+DTEND:20270117T164500Z
+SUMMARY:Francs Borains – K. Lierse S.K.
+DESCRIPTION:Challenger Pro League\nJournée 16\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba65f42f5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Sporting Hasselt – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 17\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68c1f45b47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Francs Borains – Beerschot VA
+DESCRIPTION:Challenger Pro League\nJournée 18\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1547e0412@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Seraing United – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 19\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-175ae2c97e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Francs Borains – Liège
+DESCRIPTION:Challenger Pro League\nJournée 20\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99a2a3e4bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Francs Borains – KAA Gent II
+DESCRIPTION:Challenger Pro League\nJournée 21\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4b46bdc29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Lokeren-Temse – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 22\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e504604afe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Francs Borains – Club Brugge II
+DESCRIPTION:Challenger Pro League\nJournée 23\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56ff863d62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Dender – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 24\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a03634891d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Patro Eisden – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 25\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c3220d296@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Francs Borains – KRC Genk II
+DESCRIPTION:Challenger Pro League\nJournée 26\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efa6faa687@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:AS Eupen – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 27\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e50584dfbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T180000Z
+DTEND:20270424T194500Z
+SUMMARY:Francs Borains – Excelsior Virton
+DESCRIPTION:Challenger Pro League\nJournée 29\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2aae81350a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T180000Z
+DTEND:20270501T194500Z
+SUMMARY:RSC Anderlecht II – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 30\nhttps://goalio.be/fr/equipe
+ /francs-borains/
+URL:https://goalio.be/fr/equipe/francs-borains/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

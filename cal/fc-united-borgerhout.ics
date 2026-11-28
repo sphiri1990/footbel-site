@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC United Borgerhout · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fc6ae53e11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Sporting Club Schoten 3-1 FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/sporting-club-schoten-fc-united-borgerhout-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/sporting-club-schoten-fc-united-borgerho
+ ut-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58fe316d20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:FC United Borgerhout 2-5 K. Tub. Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/fc-united-borgerhout-k-tub-borgerhout-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-united-borgerhout-k-tub-borgerhout-20
+ 26-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecbce3ffed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:KSC Maccabi 4-0 FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/ksc-maccabi-fc-united-borgerhout-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/ksc-maccabi-fc-united-borgerhout-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b86c3b3e7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T191500Z
+SUMMARY:FC Merksem B 8-3 FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/fc-merksem-b-fc-united-borgerhout-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-merksem-b-fc-united-borgerhout-2026-1
+ 1-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7defc648f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:FC United Borgerhout – Verbr. Zwijndrecht B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/fc-united-borgerhout-verbr-zwijndrecht-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/fc-united-borgerhout-verbr-zwijndrecht-b
+ -2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52fbabdd4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Sporting Club Antwerpen – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2afe039a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:FC United Borgerhout – SV Aartselaar B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45bbddad6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:FC United Borgerhout – Sporting Club Schoten
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e2c839839@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K. Tub. Borgerhout – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4121f67556@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:SC City Pirates Antwerpen B – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f170eca90f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:FC United Borgerhout – FC Merksem B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4395f6985f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:F.C. Warriors Antwerpen – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40345a772c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Verbr. Zwijndrecht B – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e817bfcd5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:FC United Borgerhout – KSC Maccabi
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6611b19106@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:K. Wijnegem VC B – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a8f05437d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FC United Borgerhout – VC Mortsel OG B
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e43c7267b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KVC Wilrijk B – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6aa2cec790@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:FC United Borgerhout – FC Los Incas Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd8d6e6126@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:K. Kontich FC B – FC United Borgerhout
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-353901ebdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC United Borgerhout – Sporting Club Antwerpen
+DESCRIPTION:4e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/fc-united-borgerhout/
+URL:https://goalio.be/nl/ploeg/fc-united-borgerhout/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

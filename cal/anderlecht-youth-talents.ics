@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anderlecht Youth Talents · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-76cbe5c9b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Anderlecht Youth Talents 1-3 BX Brussels A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 11\nhttps://
+ goalio.be/fr/match/anderlecht-youth-talents-bx-brussels-a-2026-11-01/
+URL:https://goalio.be/fr/match/anderlecht-youth-talents-bx-brussels-a-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ae52ab1cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RRC Etterbeek A 5-0 Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 12\nhttps://
+ goalio.be/fr/match/rrc-etterbeek-a-anderlecht-youth-talents-2026-11-08/
+URL:https://goalio.be/fr/match/rrc-etterbeek-a-anderlecht-youth-talents-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a440a36695@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Anderlecht Youth Talents 0-2 R. Union Lasne Ohain
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 13\nhttps://
+ goalio.be/fr/match/anderlecht-youth-talents-r-union-lasne-ohain-2026-11-15
+ /
+URL:https://goalio.be/fr/match/anderlecht-youth-talents-r-union-lasne-ohain
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8402d9a2ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:US Rebecquoise A 6-2 Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 14\nhttps://
+ goalio.be/fr/match/us-rebecquoise-a-anderlecht-youth-talents-2026-11-22/
+URL:https://goalio.be/fr/match/us-rebecquoise-a-anderlecht-youth-talents-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49a6ab2229@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Anderlecht Youth Talents – RFC Orp-Noduwez A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 15\nhttps://
+ goalio.be/fr/match/anderlecht-youth-talents-rfc-orp-noduwez-a-2026-11-29/
+URL:https://goalio.be/fr/match/anderlecht-youth-talents-rfc-orp-noduwez-a-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5aed9c5fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Anderlecht Youth Talents – ROFC Stockel A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 16\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7452191a63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RAS Saintoise A – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 17\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb6530870c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Anderlecht Youth Talents – FC Suryoyés Bruxellois A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 18\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a9fa0af64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:RSD Jette B – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 19\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2f69e1c9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Anderlecht Youth Talents – R. La Hulpe SC.
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 20\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6000708ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RRC Waterloo A – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 21\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe3da25550@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RU Auderghem A – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 22\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85ed72f92e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Anderlecht Youth Talents – R. US Ophain A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 23\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6963c2f59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Genappe – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 24\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc9170d716@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Anderlecht Youth Talents – R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 25\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-689f20b8a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:BX Brussels A – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 26\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc0330015a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Anderlecht Youth Talents – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 27\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88cd9542a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Union Lasne Ohain – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 28\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c14e4aaf63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Anderlecht Youth Talents – US Rebecquoise A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 29\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8be34bd2b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RFC Orp-Noduwez A – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 30\nhttps://
+ goalio.be/fr/equipe/anderlecht-youth-talents/
+URL:https://goalio.be/fr/equipe/anderlecht-youth-talents/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

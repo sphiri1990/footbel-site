@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK Grembergen B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f8e3b64ab6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:KSK Grembergen B 4-2 SVE Bazel
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-grembergen-b-sve-bazel-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ksk-grembergen-b-sve-bazel-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e5dc3e680@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:FC Bosdam Beveren 12-1 KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/fc-bosdam-beveren-ksk-grembergen-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-bosdam-beveren-ksk-grembergen-b-2026-
+ 11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-107a27b516@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:KSK Grembergen B 2-1 FC Hoogeinde
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-grembergen-b-fc-hoogeinde-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/ksk-grembergen-b-fc-hoogeinde-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fea9e96104@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:PD Kruibeke 1-1 KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/pd-kruibeke-ksk-grembergen-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/pd-kruibeke-ksk-grembergen-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9ffba1f0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:KSK Grembergen B – KSK Klinge
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/ksk-grembergen-b-ksk-klinge-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/ksk-grembergen-b-ksk-klinge-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06c2b3fffc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SVH Waasmunster A – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c884bb2045@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:KSK Grembergen B – Sp. Burcht FC
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ea8923440@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KSK Kallo – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-113da34a40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:KSK Grembergen B – Sportkring Kemzeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4fc19d2b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:KSK Grembergen B – FC Bosdam Beveren
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ef8daa101@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T143000Z
+DTEND:20270131T161500Z
+SUMMARY:KFC Moerbeke – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d7ac8417b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KSK Klinge – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bdc7c92f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:KSK Grembergen B – SVH Waasmunster A
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd92843188@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:FC Sint-Niklaas – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b633a07e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:KSK Grembergen B – HRS Haasdonk B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc4d476478@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Hoogeinde – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6929712122@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:KSK Grembergen B – PD Kruibeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39ad40da18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:KSK Grembergen B – KVKS Melsele B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd582506aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SVE Bazel – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-937eb5b477@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:KSK Grembergen B – KFCH Sinaai
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1878b77a4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VKS Hamme-Zogge – KSK Grembergen B
+DESCRIPTION:3e provinciale Oost-Vlaanderen E\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/ksk-grembergen-b/
+URL:https://goalio.be/nl/ploeg/ksk-grembergen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

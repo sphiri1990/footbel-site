@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.E.S. Witry-Menufontaine · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c64b438935@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.F.C. Compogne Bertogne 4-0 R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 11\nhttps://goalio.be/fr/
+ match/r-f-c-compogne-bertogne-r-e-s-witry-menufontaine-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-compogne-bertogne-r-e-s-witry-menufont
+ aine-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74442094bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.E.S. Witry-Menufontaine 0-1 R.U.S. Ste Ode
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 12\nhttps://goalio.be/fr/
+ match/r-e-s-witry-menufontaine-r-u-s-ste-ode-2026-11-08/
+URL:https://goalio.be/fr/match/r-e-s-witry-menufontaine-r-u-s-ste-ode-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3933848b3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R. Wallonia Club Sibret 3-0 R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 13\nhttps://goalio.be/fr/
+ match/r-wallonia-club-sibret-r-e-s-witry-menufontaine-2026-11-14/
+URL:https://goalio.be/fr/match/r-wallonia-club-sibret-r-e-s-witry-menufonta
+ ine-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-280cf57d6d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Royal Tenneville Sports – R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 15\nhttps://goalio.be/fr/
+ match/royal-tenneville-sports-r-e-s-witry-menufontaine-2026-11-28/
+URL:https://goalio.be/fr/match/royal-tenneville-sports-r-e-s-witry-menufont
+ aine-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8534de3034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Jeun. Sp. De Tavigny – R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8cb3d342dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.E.S. Witry-Menufontaine – R.E.S. Chaumont
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eace7a5729@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RAFC Cobreville – R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-924b447f82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.E.S. Witry-Menufontaine – F.C. Petit-Han
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 19\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f1ee581d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T193000Z
+DTEND:20270227T211500Z
+SUMMARY:RLC Bastogne B – R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-787bbcfa22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.E.S. Witry-Menufontaine – R.U.S. Givry
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44ee6c8d7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.E.S. Vaux – R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06a3dc10e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.E.S. Witry-Menufontaine – R.F.C. St-Hubert
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3ff772e8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.E.S. Witry-Menufontaine – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3963c71993@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.U.S. Ste Ode – R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2182e32e31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.E.S. Witry-Menufontaine – R. Wallonia Club Sibret
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-e-s-witry-menufontaine/
+URL:https://goalio.be/fr/equipe/r-e-s-witry-menufontaine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

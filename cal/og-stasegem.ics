@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OG Stasegem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/og-stasegem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-daf19a7912@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:KFC Doomkerke 0-3 OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kfc-doomkerke-og-stasegem-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-doomkerke-og-stasegem-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f05f6007e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T173000Z
+DTEND:20261107T191500Z
+SUMMARY:Jong Helkijn 0-2 OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/jong-helkijn-og-stasegem-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/jong-helkijn-og-stasegem-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b69d404c73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:OG Stasegem 3-0 Jong Anzegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/og-stasegem-jong-anzegem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/og-stasegem-jong-anzegem-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b711366a0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:Bl. Otegem 2-2 OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/bl-otegem-og-stasegem-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/bl-otegem-og-stasegem-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30d9fd85c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:OG Stasegem – K. Z. Dentergem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/og-stasegem-k-z-dentergem-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/og-stasegem-k-z-dentergem-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5e91da26b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K. dNS Heule A – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f87b6784@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:F.C.E. Kuurne A – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5b598e5e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:OG Stasegem – K. SKV Zwevezele
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa22c91099@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:K. VC Deerlijk Sport – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d72c32499@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:OG Stasegem – WS Bellegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fff17afa56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:Jong Anzegem – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22fc31c560@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:OG Stasegem – Hulste Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4f8e6e179@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:SC Oostrozebeke – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c469a663f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:OG Stasegem – V.V. Tielt
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-124003485f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:KSV Kortrijk – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4caacb5191@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:OG Stasegem – K. dNS Heule A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af655f13d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Z. Dentergem – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dda556ced4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:OG Stasegem – Bl. Otegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-930837ad9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:OG Stasegem – Jong Helkijn
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce61e119e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:Dosko Kanegem – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f5146b15e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:OG Stasegem – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/og-stasegem/
+URL:https://goalio.be/nl/ploeg/og-stasegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

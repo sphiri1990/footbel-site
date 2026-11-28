@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Gerpinnes A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-eaabbfd483@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:F.C. Gerpinnes A 2-3 F.C. Etoiles d'Ere A
+DESCRIPTION:1re provinciale Hainaut\nJournée 11\nhttps://goalio.be/fr/matc
+ h/f-c-gerpinnes-a-f-c-etoiles-d-ere-a-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-gerpinnes-a-f-c-etoiles-d-ere-a-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b42eadd19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:A.C. Le Roeulx A 1-1 F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 12\nhttps://goalio.be/fr/matc
+ h/a-c-le-roeulx-a-f-c-gerpinnes-a-2026-11-08/
+URL:https://goalio.be/fr/match/a-c-le-roeulx-a-f-c-gerpinnes-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a51c4808e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.F.C. Ellezelles A 4-0 F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-f-c-ellezelles-a-f-c-gerpinnes-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-ellezelles-a-f-c-gerpinnes-a-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2a1e9e383@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:F.C. Gerpinnes A – R.F.C. Houdinois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-gerpinnes-a-r-f-c-houdinois-a-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-gerpinnes-a-r-f-c-houdinois-a-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8cfbfc383d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Erpion-LL Eau d'Heure A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 15\nhttps://goalio.be/fr/matc
+ h/erpion-ll-eau-d-heure-a-f-c-gerpinnes-a-2026-11-29/
+URL:https://goalio.be/fr/match/erpion-ll-eau-d-heure-a-f-c-gerpinnes-a-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1592233e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R. Gosselies Sports A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18914dcc3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Gerpinnes A – Royal Tournai Football Club A
+DESCRIPTION:1re provinciale Hainaut\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31561f8fbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R.E.S. Frasnoise A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7e1e4ceee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Gerpinnes A – R.F.C.R. Symphorinois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78ec5c4696@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.S.C. Naastois A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e8a877c93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Gerpinnes A – Entente Acren Lessines B
+DESCRIPTION:1re provinciale Hainaut\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f72cf4161c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.A.S. Pays Blanc Antoing A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f103c341e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Gerpinnes A – R.F.C. Luingnois A
+DESCRIPTION:1re provinciale Hainaut\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b099be55e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:F.C. Enghiennois A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d5d4a3c51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Gerpinnes A – R.U.F.C. Ransartoise A
+DESCRIPTION:1re provinciale Hainaut\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ac6cd9807@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Etoiles d'Ere A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8760f2326f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Gerpinnes A – A.C. Le Roeulx A
+DESCRIPTION:1re provinciale Hainaut\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8af2382db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Gerpinnes A – R.F.C. Ellezelles A
+DESCRIPTION:1re provinciale Hainaut\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afdf6a39f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Houdinois A – F.C. Gerpinnes A
+DESCRIPTION:1re provinciale Hainaut\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44c22387ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Gerpinnes A – Erpion-LL Eau d'Heure A
+DESCRIPTION:1re provinciale Hainaut\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-gerpinnes-a/
+URL:https://goalio.be/fr/equipe/f-c-gerpinnes-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Sottegem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/sv-sottegem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bd91fa6b3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:W Idegem 4-3 SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/w-idegem-sv-sottegem-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/w-idegem-sv-sottegem-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06d1fb68b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:SV Sottegem B 1-3 FC Zegelsem
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/sv-sottegem-b-fc-zegelsem-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/sv-sottegem-b-fc-zegelsem-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fd7772720@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261120T183000Z
+DTEND:20261120T201500Z
+SUMMARY:EC Oudenhove B 3-1 SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/ec-oudenhove-b-sv-sottegem-b-2026-11-20/
+URL:https://goalio.be/nl/wedstrijd/ec-oudenhove-b-sv-sottegem-b-2026-11-20/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d430b3c8ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:SV Sottegem B – SK Opbrakel
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/sv-sottegem-b-sk-opbrakel-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/sv-sottegem-b-sk-opbrakel-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-475c9b6a49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:WK St-Goriks – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e69f2fa678@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:SV Sottegem B – FC Velzeke
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d51122a411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:SV Sottegem B – W Idegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e84cf5e108@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Zegelsem – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93625e7aa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFCB Lierde-Everbeek B – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c77c8ffc00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SV Sottegem B – EC Oudenhove B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb3d923007@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Olsa Nederbrakel – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b905701886@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SV Sottegem B – VCE Deftinge B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15d26993b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SK Opbrakel – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0834336411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:St Michelbeke B – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-196eb6f974@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SV Sottegem B – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d9834b208@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Racing Strijpen – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5fd8cdbabb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SV Sottegem B – K.S.K. United Geraardsbergen
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3619a8ed70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T174500Z
+DTEND:20270417T193000Z
+SUMMARY:KFC Voorde-Appelterre B – SV Sottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f49bcae3ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SV Sottegem B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/sv-sottegem-b/
+URL:https://goalio.be/nl/ploeg/sv-sottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

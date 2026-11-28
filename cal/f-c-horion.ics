@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Horion · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-horion/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-67f19f14c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Horion 1-4 R.F.C. Warnant
+DESCRIPTION:4e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/f-c-horion-r-f-c-warnant-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-horion-r-f-c-warnant-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1369b4014a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Kemexhe Crisnee 0-5 F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/j-s-kemexhe-crisnee-4-prov-a-liege-f-c-horion-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-kemexhe-crisnee-4-prov-a-liege-f-c-horio
+ n-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6d07f669f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Horion – Entente Amay B (remis)
+DESCRIPTION:4e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-horion-entente-amay-b-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-horion-entente-amay-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2420e0f96e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T131500Z
+DTEND:20261129T150000Z
+SUMMARY:Patro Lensois B – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/patro-lensois-b-f-c-horion-2026-11-29/
+URL:https://goalio.be/fr/match/patro-lensois-b-f-c-horion-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d19367605@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10fd1fdeb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Horion – Jeunesses Oleyennes Reunies
+DESCRIPTION:4e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8068cf77f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.F.C. Jehaytois – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97e27ac1cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:F.C. Horion – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af19a5288a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Entente Sportive Donceel B – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76da19debc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:F.C. Horion – F.C. Entité Wasseiges
+DESCRIPTION:4e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bac472170c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Vaux-Borset – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d80abed564@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Horion – R. Couthuin Sports
+DESCRIPTION:4e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-070807bd85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:E.H. Braives B – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b39ab8da8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Horion – R. Oreye Union
+DESCRIPTION:4e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d54dc4e3b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. Warnant – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea46426cdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Horion – J.S. Kemexhe Crisnee
+DESCRIPTION:4e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fad7e714a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Amay B – F.C. Horion
+DESCRIPTION:4e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7083c98f61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Horion – Patro Lensois B
+DESCRIPTION:4e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-horion/
+URL:https://goalio.be/fr/equipe/f-c-horion/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

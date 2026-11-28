@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Ol. Wijgmaal A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-90d86b2af1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:K. Ol. Wijgmaal A 6-1 K. St. Drieslinter A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/k-ol-wijgmaal-a-k-st-drieslinter-a-2026-11-01/
+URL:https://goalio.be/fr/match/k-ol-wijgmaal-a-k-st-drieslinter-a-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-638aaa10ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. Ol. Wijgmaal A – KV Woluwe-Zaventem A (annulé)
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b439e2c030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:HO Bierbeek B 3-3 K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/ho-bierbeek-b-k-ol-wijgmaal-a-2026-11-14/
+URL:https://goalio.be/fr/match/ho-bierbeek-b-k-ol-wijgmaal-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df425747e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K. Ol. Wijgmaal A 3-1 HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/k-ol-wijgmaal-a-ho-veltem-a-2026-11-22/
+URL:https://goalio.be/fr/match/k-ol-wijgmaal-a-ho-veltem-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb7195e73d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Football Club Kortenberg United A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/football-club-kortenberg-united-a-k-ol-wijgmaal-a-2026-11-29/
+URL:https://goalio.be/fr/match/football-club-kortenberg-united-a-k-ol-wijgm
+ aal-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7612cd9a68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:K. Ol. Wijgmaal A – K. St. Haasrode A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc3e23cb8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. Ol. Wijgmaal A – FC Moorsel A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf784ec712@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. St. Drieslinter A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79249949c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:K. Ol. Wijgmaal A – K. Eur. 90 Kraainem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbc02269db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T153000Z
+DTEND:20270123T171500Z
+SUMMARY:KV Woluwe-Zaventem A – K. Ol. Wijgmaal A (annulé)
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52fcec5858@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K. Ol. Wijgmaal A – HO Bierbeek B
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d4654a9a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Binkom A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bba83566a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. Ol. Wijgmaal A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-684546d1bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:SK Nossegem A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d703b3149@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Ol. Wijgmaal A – Koninklijke Haacht United A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1d8fc883a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVC Sterrebeek A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-849172f316@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Ol. Wijgmaal A – Football Club Kortenberg United A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceb2f969e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:HO Veltem A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4122bd2d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. St. Haasrode A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a90f6a17f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Ol. Wijgmaal A – St. Meerbeek
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9402144aa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Bertem-Leefdaal A – K. Ol. Wijgmaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/k-ol-wijgmaal-a/
+URL:https://goalio.be/fr/equipe/k-ol-wijgmaal-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SKL Doorslaar B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3fbfc3e5fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:SKL Doorslaar B 4-3 KFCHO Kalken B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/skl-doorslaar-b-kfcho-kalken-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/skl-doorslaar-b-kfcho-kalken-b-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-491a90c174@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:SKL Doorslaar B 1-4 KVVS Sersk-Schellebelle B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/skl-doorslaar-b-kvvs-sersk-schellebelle-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/skl-doorslaar-b-kvvs-sersk-schellebelle-
+ b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3c7e61f66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:VSV Gent A 1-1 SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vsv-gent-a-skl-doorslaar-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vsv-gent-a-skl-doorslaar-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c22cd4fc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:SKL Doorslaar B 1-5 KVV Windeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/skl-doorslaar-b-kvv-windeke-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/skl-doorslaar-b-kvv-windeke-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51127dc862@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FCDKG Beervelde – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fcdkg-beervelde-skl-doorslaar-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fcdkg-beervelde-skl-doorslaar-b-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36a5622b02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:SKL Doorslaar B – KFV HEDES Heusden-Destelbergen A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46fc859a75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:SKL Doorslaar B – KVC Melle
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5241485395@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFCHO Kalken B – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a7e76a796@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SKL Doorslaar B – VW Gijzel-Oosterzele
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6e66eebef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVVS Sersk-Schellebelle B – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afae2b0343@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SKL Doorslaar B – VSV Gent A
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b53d4f760f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:SK Wichelen – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a04c51ff30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SKL Doorslaar B – KFC Edeboys
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12cd412fea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FCT Melle – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8759fdc0a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SKL Doorslaar B – FCSKV Overmere
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2dda36a79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SK Lochristi – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87ddbeec6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SKL Doorslaar B – FCDKG Beervelde
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-584e76e108@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVV Windeke – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9734b604e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFV HEDES Heusden-Destelbergen A – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd77b0a295@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SKL Doorslaar B – KFCJ Schoonaarde B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-111586bfbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.S.K. Oudegem A – SKL Doorslaar B
+DESCRIPTION:3e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/skl-doorslaar-b/
+URL:https://goalio.be/nl/ploeg/skl-doorslaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

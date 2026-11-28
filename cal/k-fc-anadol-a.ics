@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Anadol A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bddd0a5030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. FC Anadol A 2-3 K. St. Elen A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 10\nhttps://goalio.be/nl/wedst
+ rijd/k-fc-anadol-a-k-st-elen-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-fc-anadol-a-k-st-elen-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad3f7606ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:FC Landen A 0-2 K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 11\nhttps://goalio.be/nl/wedst
+ rijd/fc-landen-a-k-fc-anadol-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-landen-a-k-fc-anadol-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cc0d1de70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K. FC Anadol A 1-0 Park Houthalen A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 12\nhttps://goalio.be/nl/wedst
+ rijd/k-fc-anadol-a-park-houthalen-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-fc-anadol-a-park-houthalen-a-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3aa5838830@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K. FC Anadol A 2-2 Kortessemse VV A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 13\nhttps://goalio.be/nl/wedst
+ rijd/k-fc-anadol-a-kortessemse-vv-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-fc-anadol-a-kortessemse-vv-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49140507de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Vlijtingen VV – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 14\nhttps://goalio.be/nl/wedst
+ rijd/vlijtingen-vv-k-fc-anadol-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vlijtingen-vv-k-fc-anadol-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0928f72c91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. FC Anadol A – Kadijk SK A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 15\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e2f904432@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:W. Koersel A – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 16\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07660ed382@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. FC Anadol A – Torpedo Hasselt A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 17\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4375b54958@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Turkse Rangers – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 18\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffb48739c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. FC Anadol A – Herk-De-Stad FC A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 19\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0272a5917@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Kortessemse VV A – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 20\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a416f100d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Park Houthalen A – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 21\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7177e2260e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. FC Anadol A – FC Landen A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 22\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5323fd1ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:K. St. Elen A – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 23\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da5b9c2e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. FC Anadol A – K. Velm VV A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 24\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cc654b766@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Zonhoven United A – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 25\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b317b1a9ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. FC Anadol A – Vlijtingen VV
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 26\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffdbee42fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Helson Helchteren A – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 27\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77222ff864@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. FC Anadol A – VV Hoeselt A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 28\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-105e23560a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Kadijk SK A – K. FC Anadol A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 29\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89e360c751@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Anadol A – K. Lindelhoeven VV A
+DESCRIPTION:1e provinciale Limburg\nSpeeldag 30\nhttps://goalio.be/nl/ploeg
+ /k-fc-anadol-a/
+URL:https://goalio.be/nl/ploeg/k-fc-anadol-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

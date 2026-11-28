@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entente Sportive Tilleur · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7b02523215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Entente Sportive Tilleur 5-0 R. Ougrée FC.
+DESCRIPTION:3e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/entente-sportive-tilleur-r-ougree-fc-2026-11-01/
+URL:https://goalio.be/fr/match/entente-sportive-tilleur-r-ougree-fc-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6745e341e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Hognouloise 2-0 Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/j-s-hognouloise-entente-sportive-tilleur-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-hognouloise-entente-sportive-tilleur-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67db563d3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:Entente Sportive Tilleur 5-1 R.S.C. Beaufays B
+DESCRIPTION:3e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/entente-sportive-tilleur-r-s-c-beaufays-b-2026-11-15/
+URL:https://goalio.be/fr/match/entente-sportive-tilleur-r-s-c-beaufays-b-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8198d8510@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.U.S. Gold Star Liège – Entente Sportive Tilleur (remis)
+DESCRIPTION:3e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-u-s-gold-star-liege-entente-sportive-tilleur-2026-11-22/
+URL:https://goalio.be/fr/match/r-u-s-gold-star-liege-entente-sportive-tille
+ ur-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79bfd01380@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Entente Sportive Tilleur – All. Fexhe Et Slins - Fragnee
+DESCRIPTION:3e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/entente-sportive-tilleur-all-fexhe-et-slins-fragnee-2026-11-29/
+URL:https://goalio.be/fr/match/entente-sportive-tilleur-all-fexhe-et-slins-
+ fragnee-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-000dd25736@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Entente Sportive Tilleur – Illyrian Blegny
+DESCRIPTION:3e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c738c1b545@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:S.C. Oneutois – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a3e7dcc3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Seraing Athletique R.F.C. – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bed1d9a7cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Entente Sportive Tilleur – Jeunesse Sportive Grivegnee
+DESCRIPTION:3e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7a417ad74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T143000Z
+DTEND:20270124T161500Z
+SUMMARY:R. Union Flémalloise B – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80b780a372@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Entente Sportive Tilleur – C.S. Juprelle
+DESCRIPTION:3e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8808156bd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T150000Z
+DTEND:20270214T164500Z
+SUMMARY:R.C.S. Sart Tilman – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47382a3227@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Entente Sportive Tilleur – J.S. Pierreuse
+DESCRIPTION:3e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5ede54ab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Harzé F.C. – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e617340d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Entente Sportive Tilleur – F.C. Jupille
+DESCRIPTION:3e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d97a75361@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Ougrée FC. – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fac5b7b47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Entente Sportive Tilleur – J.S. Hognouloise
+DESCRIPTION:3e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b84cc3a8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:R.S.C. Beaufays B – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7809889462@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Sportive Tilleur – R.U.S. Gold Star Liège
+DESCRIPTION:3e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d1af92d62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:All. Fexhe Et Slins - Fragnee – Entente Sportive Tilleur
+DESCRIPTION:3e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/entente-sportive-tilleur/
+URL:https://goalio.be/fr/equipe/entente-sportive-tilleur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Rumes-La-Glanerie · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5a5b4c2c2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie 1-1 SB Stade Mouscronnois B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/f-c-rumes-la-glanerie-sb-stade-mouscronnois-b-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-rumes-la-glanerie-sb-stade-mouscronnois-
+ b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40ad0028a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.F.C. Molenbaix B 5-0 F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-molenbaix-b-f-c-rumes-la-glanerie-2026-11-07/
+URL:https://goalio.be/fr/match/r-f-c-molenbaix-b-f-c-rumes-la-glanerie-2026
+ -11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0a7e66995@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie 2-3 Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-rumes-la-glanerie-ren-u-s-tournaisienne-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-rumes-la-glanerie-ren-u-s-tournaisienne-
+ a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69a0230f69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Ent. Velaines Enclusienne A – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/ent-velaines-enclusienne-a-f-c-rumes-la-glanerie-2026-11-21/
+URL:https://goalio.be/fr/match/ent-velaines-enclusienne-a-f-c-rumes-la-glan
+ erie-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28c38c8037@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie – F.C. Esplechin
+DESCRIPTION:3e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-rumes-la-glanerie-f-c-esplechin-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-rumes-la-glanerie-f-c-esplechin-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a21abd041@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c41d14bcb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:F.C. Bleharies – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecee7fbb9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Rumes-La-Glanerie – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f635f3a2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:S.C. De Nechin – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-832c04925e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Rumes-La-Glanerie – A.S. Obigies B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2530a31de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Brunehaut A – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c1790a12a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Rumes-La-Glanerie – R.F.C. Herinnes
+DESCRIPTION:3e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe7a501983@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:A.C. Estaimbourg – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b44f8d1eb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Rumes-La-Glanerie – R.S.C. Templeuvois A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-890dd74000@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.A.S. Risquons-Tout Mouscron A – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c4a4dad4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SB Stade Mouscronnois B – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c28489b24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Rumes-La-Glanerie – R.F.C. Molenbaix B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfb7b36ea2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Ren. U.S. Tournaisienne A – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27e5cb6aff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Rumes-La-Glanerie – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29a866b5f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Esplechin – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-rumes-la-glanerie/
+URL:https://goalio.be/fr/equipe/f-c-rumes-la-glanerie/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

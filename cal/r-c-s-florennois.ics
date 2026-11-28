@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. Florennois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-florennois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6ea298f0d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RFC Somzée B 2-0 R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rfc-somzee-b-r-c-s-florennois-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-somzee-b-r-c-s-florennois-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df0bcf36e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Espoir Sportif Fraire B 0-0 R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /espoir-sportif-fraire-b-r-c-s-florennois-2026-11-15/
+URL:https://goalio.be/fr/match/espoir-sportif-fraire-b-r-c-s-florennois-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99fb31639a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.C.S. Florennois – R Ham FC B (remis)
+DESCRIPTION:4e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /r-c-s-florennois-r-ham-fc-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-c-s-florennois-r-ham-fc-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-797c4e4046@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Celtic Denée Foot – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4836ca843@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.C.S. Florennois – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5f9134392@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da04502c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.C.S. Florennois – U St-Gérard B
+DESCRIPTION:4e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-865bac4080@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FCE Tarciennois B – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-195b0cf793@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.C.S. Florennois – US Auvelais A
+DESCRIPTION:4e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4554343c26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RFC Bioul 81 B – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98f0c97fac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. Florennois – JS Falisolle-Aisemont B
+DESCRIPTION:4e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ec61ad294@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Mesnilois – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1f1733898@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. Florennois – RFC Somzée B
+DESCRIPTION:4e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-011af78f93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R Ham FC B – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53ebbf306b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Florennois – Espoir Sportif Fraire B
+DESCRIPTION:4e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-c-s-florennois/
+URL:https://goalio.be/fr/equipe/r-c-s-florennois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.L.C. Hornu · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-l-c-hornu/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b5d50ec746@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Union Sporting Club Jemappes 3-1 R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/union-sporting-club-jemappes-4-prov-c-hainaut-r-l-c-hornu-2026-11-01/
+URL:https://goalio.be/fr/match/union-sporting-club-jemappes-4-prov-c-hainau
+ t-r-l-c-hornu-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-855926d22d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.L.C. Hornu 0-1 FC Quévy Genly
+DESCRIPTION:4e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-l-c-hornu-fc-quevy-genly-2026-11-08/
+URL:https://goalio.be/fr/match/r-l-c-hornu-fc-quevy-genly-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d096ae0aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.C. Paturageois 5-0 R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-s-c-paturageois-r-l-c-hornu-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-c-paturageois-r-l-c-hornu-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49684be426@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.L.C. Hornu – R. Léopold Club Mesvinois
+DESCRIPTION:4e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-l-c-hornu-r-leopold-club-mesvinois-2026-11-22/
+URL:https://goalio.be/fr/match/r-l-c-hornu-r-leopold-club-mesvinois-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecd3807940@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. All. F.C. Cuesmes – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-all-f-c-cuesmes-r-l-c-hornu-2026-11-29/
+URL:https://goalio.be/fr/match/r-all-f-c-cuesmes-r-l-c-hornu-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1034743184@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Olympique Club Ghlin – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0716cb65c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.L.C. Hornu – R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4518b5a80d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:FC Sainte-Odile Elouges – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df4ba7112f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.L.C. Hornu – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec2571476e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Entente Mons Nord – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dc3951a47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.L.C. Hornu – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-adf9918809@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.A.S. Ghlinoise – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5d2a85ea0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.L.C. Hornu – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a779f6c7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc45fd5242@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.L.C. Hornu – Entente Sportive Elouges Dour
+DESCRIPTION:4e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68d7430fe0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.L.C. Hornu – Union Sporting Club Jemappes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75d7e0ed07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:FC Quévy Genly – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea84054622@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.L.C. Hornu – R.S.C. Paturageois
+DESCRIPTION:4e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b4e6968f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Léopold Club Mesvinois – R.L.C. Hornu
+DESCRIPTION:4e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dbe4ced3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.L.C. Hornu – R. All. F.C. Cuesmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-l-c-hornu/
+URL:https://goalio.be/fr/equipe/r-l-c-hornu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

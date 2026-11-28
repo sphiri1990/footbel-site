@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Opitter FC · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/opitter-fc/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-97ee665a4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SLW Maaseik A 4-0 Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/slw-maaseik-a-opitter-fc-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/slw-maaseik-a-opitter-fc-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-890949ccf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Winterslag 3-1 Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-winterslag-opitter-fc-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-winterslag-opitter-fc-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abf411bb63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Opitter FC 7-2 Sp. Ellikom
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/opitter-fc-sp-ellikom-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/opitter-fc-sp-ellikom-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-737ce70748@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:VC Kesselt 5-0 Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/vc-kesselt-opitter-fc-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/vc-kesselt-opitter-fc-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ac4fc36f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:Opitter FC – Umitspor Maasmechelen A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/opitter-fc-umitspor-maasmechelen-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/opitter-fc-umitspor-maasmechelen-a-2026-
+ 11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-151adbb401@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:E. Mechelen a/d Maas B – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d302aab90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Opitter FC – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e32a222b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:As-Niel Utd. A – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9179797ba7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Boorsem Sport B – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff675ead45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Opitter FC – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8548a0b94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Umitspor Maasmechelen A – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c02e60122@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Opitter FC – K. Waterloos-Voorshoven VV
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66ad653dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Genk VV A – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcf4fabacf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Opitter FC – SLW Maaseik A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-472a5765a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Opitter FC – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a375073d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Neeroeteren FC A – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ffec65792@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Opitter FC – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94a318b2a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Sp. Ellikom – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afd155647b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Opitter FC – E. Mechelen a/d Maas B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ec76166ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:FC Veldwezelt – Opitter FC
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c4b2bf761@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Opitter FC – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/opitter-fc/
+URL:https://goalio.be/nl/ploeg/opitter-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

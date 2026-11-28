@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royal Sporting Club De Wandre · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2cd95ddca5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Royal Sporting Club De Wandre 2-3 R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/royal-sporting-club-de-wandre-r-avenir-fouron-f-c-2026-11-01/
+URL:https://goalio.be/fr/match/royal-sporting-club-de-wandre-r-avenir-fouro
+ n-f-c-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-060f384762@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Ms Herstal Milmort 5-1 Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/ms-herstal-milmort-royal-sporting-club-de-wandre-2026-11-08/
+URL:https://goalio.be/fr/match/ms-herstal-milmort-royal-sporting-club-de-wa
+ ndre-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cad76ea60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Royal Sporting Club De Wandre 0-1 R.U.S. Glontoise
+DESCRIPTION:4e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/royal-sporting-club-de-wandre-r-u-s-glontoise-2026-11-15/
+URL:https://goalio.be/fr/match/royal-sporting-club-de-wandre-r-u-s-glontois
+ e-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-359a0c29ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Oupeye FC – Royal Sporting Club De Wandre (remis)
+DESCRIPTION:4e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-oupeye-fc-4-prov-d-liege-royal-sporting-club-de-wandre-2026-11-22/
+URL:https://goalio.be/fr/match/r-oupeye-fc-4-prov-d-liege-royal-sporting-cl
+ ub-de-wandre-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a54b3eb9aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Royal Sporting Club De Wandre – A.S. Hermalienne
+DESCRIPTION:4e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/royal-sporting-club-de-wandre-a-s-hermalienne-4-prov-d-liege-2026-11-29/
+URL:https://goalio.be/fr/match/royal-sporting-club-de-wandre-a-s-hermalienn
+ e-4-prov-d-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18a33afbd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:All. Fexhe Et Slins - Fragnee – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0467089801@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Royal Sporting Club De Wandre – R.F.C. Croatia Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2df5ec2ad5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.A.S. Houtain – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a67073c9a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Royal Sporting Club De Wandre – R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f69a176f54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Tilleur – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7bcc7f086@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Union Roclenge-Wonck – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c1ec9ea8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Royal Sporting Club De Wandre – Football Club Othee
+DESCRIPTION:4e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d9be0110d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:J.S. du Thier-à-Liège – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dbe6d033d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Avenir Fouron F.C. – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-645afa6ba8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Royal Sporting Club De Wandre – Ms Herstal Milmort
+DESCRIPTION:4e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d804f85c15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.U.S. Glontoise – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2954fe7fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Royal Sporting Club De Wandre – R. Oupeye FC
+DESCRIPTION:4e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b5083ed04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.S. Hermalienne – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/royal-sporting-club-de-wandre/
+URL:https://goalio.be/fr/equipe/royal-sporting-club-de-wandre/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

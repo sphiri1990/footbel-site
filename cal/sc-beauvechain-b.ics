@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SC Beauvechain B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sc-beauvechain-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-89f6d4cb09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:SC Beauvechain B 3-1 ROS Ottignies-LLN B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 11\nhttps:/
+ /goalio.be/fr/match/sc-beauvechain-b-ros-ottignies-lln-b-2026-11-01/
+URL:https://goalio.be/fr/match/sc-beauvechain-b-ros-ottignies-lln-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03a6d2de75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:CS Biergeois B 2-3 SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 12\nhttps:/
+ /goalio.be/fr/match/cs-biergeois-b-sc-beauvechain-b-2026-11-07/
+URL:https://goalio.be/fr/match/cs-biergeois-b-sc-beauvechain-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98c731005c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:SC Beauvechain B 3-3 RCS Nivellois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 13\nhttps:/
+ /goalio.be/fr/match/sc-beauvechain-b-rcs-nivellois-b-2026-11-15/
+URL:https://goalio.be/fr/match/sc-beauvechain-b-rcs-nivellois-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b738703b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T131500Z
+DTEND:20261122T150000Z
+SUMMARY:FC. Walhain B 2-0 SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 14\nhttps:/
+ /goalio.be/fr/match/fc-walhain-b-sc-beauvechain-b-2026-11-22/
+URL:https://goalio.be/fr/match/fc-walhain-b-sc-beauvechain-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8997201d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:SC Beauvechain B – RE Stéphanois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51021e5a8f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T184500Z
+SUMMARY:R.F.C. Grez-Doiceau – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a414942ac2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:A.S.E. De Chastre – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c078aae909@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SC Beauvechain B – RC Melin
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89ef416ef0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:SR. Incourt – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2402214b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SC Beauvechain B – All. Huppaytoise
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5747a27dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:FC. Ronvau Chaumont – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10d27c0938@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SC Beauvechain B – R. Wavre Limal B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd5262b2c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.A.S. Jodoigne – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-298ceeaaba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SC Beauvechain B – SC Perwez
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bd3a0f6d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:ROS Ottignies-LLN B – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46c01c78e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SC Beauvechain B – CS Biergeois B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5726f1024@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RCS Nivellois B – SC Beauvechain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eea735ac6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SC Beauvechain B – FC. Walhain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles D\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/sc-beauvechain-b/
+URL:https://goalio.be/fr/equipe/sc-beauvechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

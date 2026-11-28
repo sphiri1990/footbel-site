@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Cappellen FC B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f3b0a1cbf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:R. Cappellen FC B 1-2 SV Noorse
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/r-cappellen-fc-b-sv-noorse-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/r-cappellen-fc-b-sv-noorse-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-372979cba0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KSV Wildert 1-0 R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksv-wildert-r-cappellen-fc-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ksv-wildert-r-cappellen-fc-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a611d4138@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T163000Z
+DTEND:20261114T181500Z
+SUMMARY:R. Cappellen FC B 3-0 Ekeren FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/r-cappellen-fc-b-ekeren-fc-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/r-cappellen-fc-b-ekeren-fc-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e8923861@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T163000Z
+DTEND:20261121T181500Z
+SUMMARY:R. Cappellen FC B 1-4 K. Heibos SV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/r-cappellen-fc-b-k-heibos-sv-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/r-cappellen-fc-b-k-heibos-sv-b-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6216937af8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:R. Cappellen FC B – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-015540cb9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KSOC Maria Ter Heide – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58e393346c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:K. Kalmthout SK B – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2815b55b6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
+SUMMARY:R. Cappellen FC B – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8bfdf1466@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T163000Z
+DTEND:20270123T181500Z
+SUMMARY:R. Cappellen FC B – KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3ce79ef5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Putte SK – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-985c5bbee2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Zandvliet Sport B – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b121d168e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T163000Z
+DTEND:20270227T181500Z
+SUMMARY:R. Cappellen FC B – KSV Wildert
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c821dfd062@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:Ekeren FC B – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2eb478465@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T163000Z
+DTEND:20270313T181500Z
+SUMMARY:R. Cappellen FC B – K. Nieuwmoer FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-350cc70f57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:K. Heibos SV B – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-031bacb799@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T153000Z
+DTEND:20270403T171500Z
+SUMMARY:R. Cappellen FC B – Exc. FC Essen
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f9048dc27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T153000Z
+DTEND:20270410T171500Z
+SUMMARY:K. Gooreind VV B – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-781a0b342b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:R. Cappellen FC B – Excelsior Mariaburg B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89958a329f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SV Noorse – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/r-cappellen-fc-b/
+URL:https://goalio.be/nl/ploeg/r-cappellen-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

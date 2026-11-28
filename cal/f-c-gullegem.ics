@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Gullegem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/f-c-gullegem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6c1600784f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:F.C. Gullegem 3-0 Avanti Stekene
+DESCRIPTION:D3 VV A\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/f-c-gulleg
+ em-avanti-stekene-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/f-c-gullegem-avanti-stekene-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9dd969aef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Wambeek Ternat A 0-4 F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/kfc-wambee
+ k-ternat-a-f-c-gullegem-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-wambeek-ternat-a-f-c-gullegem-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9bf4bb9e2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:F.C. Gullegem 2-1 Erpe-Mere United
+DESCRIPTION:D3 VV A\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/f-c-gulleg
+ em-erpe-mere-united-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/f-c-gullegem-erpe-mere-united-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97c8b4feb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:K. SV Rumbeke 3-1 F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-sv-rumbe
+ ke-f-c-gullegem-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-sv-rumbeke-f-c-gullegem-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdbbb97de0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:F.C. Gullegem – SC City Pirates Antwerpen A
+DESCRIPTION:D3 VV A\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/f-c-gulleg
+ em-sc-city-pirates-antwerpen-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/f-c-gullegem-sc-city-pirates-antwerpen-a
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a8163030f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K.W.S. Club Lauwe A – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56cf8bbdc6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Gullegem – Eendr Elene-Grotenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19ef68adad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:K. Berchem Sp. 2004 A – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d706a2f26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Gullegem – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d430eae4d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Gullegem – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96274a52c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KVE Drongen A – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2abb10a9ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Gullegem – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04f83679d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Erpe-Mere United – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-527fcbc50f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. Gullegem – KVV St-Denijs Sp A
+DESCRIPTION:D3 VV A\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66133f58bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K.V.K. Ieper – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77d97c5457@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Gullegem – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff1de16782@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:SC City Pirates Antwerpen A – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-885a481806@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:F.C. Gullegem – K.W.S. Club Lauwe A
+DESCRIPTION:D3 VV A\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15e3df9f7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Olsa Brakel A – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd9054a90b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Gullegem – KCVV Elewijt A
+DESCRIPTION:D3 VV A\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59d9d41e2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Avanti Stekene – F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/f-c-gullegem/
+URL:https://goalio.be/nl/ploeg/f-c-gullegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

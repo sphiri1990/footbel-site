@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Trois-Frontières · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-lieg
+ e/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a111d9574e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Trois-Frontières 8-0 R. Cornesse F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 11\nhttps://goalio.be/fr/matc
+ h/f-c-trois-frontieres-4-prov-f-liege-r-cornesse-f-c-4-prov-f-liege-2026-1
+ 1-01/
+URL:https://goalio.be/fr/match/f-c-trois-frontieres-4-prov-f-liege-r-cornes
+ se-f-c-4-prov-f-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38b22728d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Entente Pepine 2-5 F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-entente-pepine-f-c-trois-frontieres-4-prov-f-liege-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-entente-pepine-f-c-trois-frontieres-4-pr
+ ov-f-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8b1ed934a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Trois-Frontières 4-0 Union Aubeloise
+DESCRIPTION:4e provinciale Liège F\nJournée 13\nhttps://goalio.be/fr/matc
+ h/f-c-trois-frontieres-4-prov-f-liege-union-aubeloise-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-trois-frontieres-4-prov-f-liege-union-au
+ beloise-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50cabf8919@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Skill Racing Union Verviers – F.C. Trois-Frontières (remis)
+DESCRIPTION:4e provinciale Liège F\nJournée 14\nhttps://goalio.be/fr/matc
+ h/skill-racing-union-verviers-f-c-trois-frontieres-4-prov-f-liege-2026-11-
+ 22/
+URL:https://goalio.be/fr/match/skill-racing-union-verviers-f-c-trois-fronti
+ eres-4-prov-f-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eb8ee1343@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Trois-Frontières – R. ST F.C. Andrimont B
+DESCRIPTION:4e provinciale Liège F\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-trois-frontieres-4-prov-f-liege-r-st-f-c-andrimont-b-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-trois-frontieres-4-prov-f-liege-r-st-f-c
+ -andrimont-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfd5d43011@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Trois-Frontières – R. Battice F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5a2b55db7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Trois-Frontières – R. Herve F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56943a1d03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Alliance Melen-Micheroux – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3954052e2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:F.C. Trois-Frontières – R.A.F. Franchimontois
+DESCRIPTION:4e provinciale Liège F\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e73891dec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Queue du Bois – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75e5e617e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Trois-Frontières – A.C. Soiron
+DESCRIPTION:4e provinciale Liège F\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-900a015db8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R.F.C. Charneux – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50c45a16b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Trois-Frontières – R.C.S. Bollandois
+DESCRIPTION:4e provinciale Liège F\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebd7b9e86f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Cornesse F.C. – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6a3716fa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Trois-Frontières – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c47b7f389@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Union Aubeloise – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4553bc0e90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Trois-Frontières – Skill Racing Union Verviers
+DESCRIPTION:4e provinciale Liège F\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9a1b772c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. ST F.C. Andrimont B – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-trois-frontieres-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/f-c-trois-frontieres-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

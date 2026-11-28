@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sp. Kolmont · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/sp-kolmont/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ae4c9dad9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:HIH Hoepertingen A 2-1 Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/hih-hoepertingen-a-sp-kolmont-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/hih-hoepertingen-a-sp-kolmont-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07018c6732@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Sp. Kolmont 0-8 KMR Biesen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/sp-kolmont-kmr-biesen-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/sp-kolmont-kmr-biesen-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57c6e10fab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:V. 's Herenelderen A 1-1 Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/v-s-herenelderen-a-sp-kolmont-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/v-s-herenelderen-a-sp-kolmont-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef19414e5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:WS Linkhout A 6-0 Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/ws-linkhout-a-sp-kolmont-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ws-linkhout-a-sp-kolmont-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03952ba43f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:Sp. Kolmont – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/sp-kolmont-rdk-gravelo-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/sp-kolmont-rdk-gravelo-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62cf9c1a39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Vliermaal – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-339cc03190@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Sp. Kolmont – HIH Hoepertingen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61cf05a436@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:KMR Biesen A – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3401c05d82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Sp. Kolmont – FC Diepenbeek A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a162fda58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VV Lummen A – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b0bf207f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Sp. Kolmont – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56cec3216f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Sp. Kolmont – K. Zw. FC Wiemismeer Zutend A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1828c3fa92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E. Mech Bovelingen Opheers – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-153c37fe49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Sp. Kolmont – Lanaken VV A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c16f8b6f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Juve Hasselt A – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ef3a17484@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Sp. Kolmont – V. 's Herenelderen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b30fb5215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:UNICO Tongeren A – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7be37328b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Sp. Kolmont – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85e094e4bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RDK Gravelo – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bda17e5e8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:Sp. Kolmont – WS Linkhout A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e61840f1e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Moelingen – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/sp-kolmont/
+URL:https://goalio.be/nl/ploeg/sp-kolmont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

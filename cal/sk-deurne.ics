@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Deurne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sk-deurne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-47eeb25ed7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SK Deurne 2-3 KAC Betekom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-deurne-kac-betekom-b-2026-11-01/
+URL:https://goalio.be/fr/match/sk-deurne-kac-betekom-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a259611b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:SK Deurne 2-1 FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-deurne-fc-binkom-b-2026-11-08/
+URL:https://goalio.be/fr/match/sk-deurne-fc-binkom-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18f9ff7c49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KVC Langdorp 5-0 SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 12\nhttps://goalio.b
+ e/fr/match/kvc-langdorp-sk-deurne-2026-11-14/
+URL:https://goalio.be/fr/match/kvc-langdorp-sk-deurne-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e70aa415d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:SK Deurne 0-3 Sp. Molenbeek
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 13\nhttps://goalio.b
+ e/fr/match/sk-deurne-sp-molenbeek-2026-11-22/
+URL:https://goalio.be/fr/match/sk-deurne-sp-molenbeek-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdf3f88135@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:SMS Lubbeek B – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 14\nhttps://goalio.b
+ e/fr/match/sms-lubbeek-b-sk-deurne-2026-11-28/
+URL:https://goalio.be/fr/match/sms-lubbeek-b-sk-deurne-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-897a8f140b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SK Deurne – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44ef06da8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:KAC Betekom B – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6efb98ab3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:SK Deurne – Boutersem United B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a1d77fd5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:FC Binkom B – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-906a0e2cce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Deurne – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccf663cd24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T144500Z
+SUMMARY:KFC Werchter B – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54891e423f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Deurne – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2abf7e72f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Sparta Schaffen – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2532e0387d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Deurne – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b182427f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Deurne – SMS Lubbeek B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73222ff40b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Sp. Molenbeek – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77bad6ad0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RC Butsel – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70306f3577@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Deurne – SC Aarschot B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa7294824a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RWL Sport B – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/sk-deurne/
+URL:https://goalio.be/fr/equipe/sk-deurne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

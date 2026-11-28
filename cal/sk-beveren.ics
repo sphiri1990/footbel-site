@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Beveren · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sk-beveren/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d1be4a61ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T194500Z
+DTEND:20261031T213000Z
+SUMMARY:SK Beveren 1-2 Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/sk-
+ beveren-union-st-gilloise-2026-10-31/
+URL:https://goalio.be/fr/match/sk-beveren-union-st-gilloise-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-478d52f1b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261106T194500Z
+DTEND:20261106T213000Z
+SUMMARY:Standard Liège 3-0 SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/sta
+ ndard-liege-sk-beveren-2026-11-06/
+URL:https://goalio.be/fr/match/standard-liege-sk-beveren-2026-11-06/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4c14a0dbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T123000Z
+DTEND:20261122T141500Z
+SUMMARY:SK Beveren 1-0 Gent
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/sk-
+ beveren-gent-2026-11-22/
+URL:https://goalio.be/fr/match/sk-beveren-gent-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-105f5ca97e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T194500Z
+DTEND:20261128T213000Z
+SUMMARY:Charleroi – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/cha
+ rleroi-sk-beveren-2026-11-28/
+URL:https://goalio.be/fr/match/charleroi-sk-beveren-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5891e96df5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T194500Z
+DTEND:20261212T213000Z
+SUMMARY:SK Beveren – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-746133db70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T150000Z
+DTEND:20261219T164500Z
+SUMMARY:SK Beveren – KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17b14761ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261226T194500Z
+DTEND:20261226T213000Z
+SUMMARY:RAAL La Louvière – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b30fca012c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270115T194500Z
+DTEND:20270115T213000Z
+SUMMARY:SK Beveren – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc85a4e0cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Union Saint-Gilloise – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d418d52d93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:SK Beveren – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfccc0cd6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Gent – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-621a0a2241@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:SK Beveren – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cf60d3513@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:KV Mechelen – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e95cab3b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:SK Beveren – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85fdacc6af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Club Brugge KV – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c4a8cbad6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:SK Beveren – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b9f7c7674@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Sint-Truiden – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df57cf2641@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:SK Beveren – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72ce1ecf65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Anderlecht – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4dd2438cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:SK Beveren – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fda469245@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:OH Leuven – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-691f9f01d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:SK Beveren – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43fb4b3ce9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Lommel United – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d60212d6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Cercle Brugge – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c11773744@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:SK Beveren – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/sk
+ -beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15cc911000@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261204T193000Z
+DTEND:20261204T211500Z
+SUMMARY:Club Brugge KV – SK Beveren
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/sk-beveren/
+URL:https://goalio.be/fr/equipe/sk-beveren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

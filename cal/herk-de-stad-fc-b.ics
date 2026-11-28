@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Herk-De-Stad FC B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9de180a3ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:WS Schoonbeek-Bilzen B 4-2 Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/ws-schoonbeek-bilzen-b-herk-de-stad-fc-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ws-schoonbeek-bilzen-b-herk-de-stad-fc-b
+ -2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8e6672484@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Herk-De-Stad FC B 4-1 Daring Huvo Jeuk A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/herk-de-stad-fc-b-daring-huvo-jeuk-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/herk-de-stad-fc-b-daring-huvo-jeuk-a-202
+ 6-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0643cd7612@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T173000Z
+DTEND:20261114T191500Z
+SUMMARY:RC Hades Kiewit B 2-1 Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/rc-hades-kiewit-b-herk-de-stad-fc-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/rc-hades-kiewit-b-herk-de-stad-fc-b-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f18a698c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Herk-De-Stad FC B – Zutendaal VV A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/herk-de-stad-fc-b-zutendaal-vv-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/herk-de-stad-fc-b-zutendaal-vv-a-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64f32c34cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:VV Nieuwerkerken – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/vv-nieuwerkerken-herk-de-stad-fc-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vv-nieuwerkerken-herk-de-stad-fc-b-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f90a1cde3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Herk-De-Stad FC B – E. Stevoort
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f962df46b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Halveweg Zonhoven – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0c1f67a25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Herk-De-Stad FC B – KMR Biesen B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e04bf3abb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Zonhoven United B – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4228df68a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Herk Sport A – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2230779033@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Herk-De-Stad FC B – VV Nieuwerkerken
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8088980088@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Habo-Borgloon A – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f45405832@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Herk-De-Stad FC B – Belisia Bilzen SV B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aef232c40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Daring Huvo Jeuk A – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3397d1065@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Herk-De-Stad FC B – SK Munsterbilzen
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c811093abc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:E. Stevoort – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-397ca9c1f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Herk-De-Stad FC B – Torpedo Hasselt B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de88bcb104@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Zutendaal VV A – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b39ee97613@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Herk-De-Stad FC B – WS Schoonbeek-Bilzen B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03eac9191a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Godsheide VV – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0062666ed2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Herk-De-Stad FC B – RC Hades Kiewit B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/herk-de-stad-fc-b/
+URL:https://goalio.be/nl/ploeg/herk-de-stad-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

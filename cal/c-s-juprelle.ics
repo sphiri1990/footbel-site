@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:C.S. Juprelle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/c-s-juprelle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f72d61eeec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Royale Union Hutoise B 0-1 C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/royale-union-hutoise-b-c-s-juprelle-2026-10-31/
+URL:https://goalio.be/fr/match/royale-union-hutoise-b-c-s-juprelle-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94627be06e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:C.S. Juprelle 1-0 R.F.C. Vyle-Tharoul
+DESCRIPTION:2e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/c-s-juprelle-r-f-c-vyle-tharoul-2026-11-08/
+URL:https://goalio.be/fr/match/c-s-juprelle-r-f-c-vyle-tharoul-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66395063d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A 2-2 C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-e-s-templiers-nandrin-a-c-s-juprelle-2026-11-14/
+URL:https://goalio.be/fr/match/r-e-s-templiers-nandrin-a-c-s-juprelle-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad57d71a58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:C.S. Juprelle – Patro Lensois A (remis)
+DESCRIPTION:2e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/c-s-juprelle-patro-lensois-a-2026-11-22/
+URL:https://goalio.be/fr/match/c-s-juprelle-patro-lensois-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ffa13c7ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:E.H. Braives – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/e-h-braives-c-s-juprelle-2026-11-29/
+URL:https://goalio.be/fr/match/e-h-braives-c-s-juprelle-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1283f086b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:E.S. Wanze/Bas-Oha – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d98633368e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:C.S. Juprelle – RFC. Jehaytois A
+DESCRIPTION:2e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b797c00ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:J.S. Kemexhe Crisnee – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9daf6be0c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:C.S. Juprelle – R.R.C. Hamoir
+DESCRIPTION:2e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e227c1aa0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:C.S. Burdinnois – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16065627b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:C.S. Juprelle – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe2aa0d1e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:R.C.S. Verlaine – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e2aeeb31a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:C.S. Juprelle – Seraing Athl R. FC A
+DESCRIPTION:2e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f55368f34a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Jeunesses Oleyennes Reunies – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-902562d2e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:C.S. Juprelle – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f5ad819d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:C.S. Juprelle – Royale Union Hutoise B
+DESCRIPTION:2e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82e3fbd910@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Vyle-Tharoul – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71d9859888@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:C.S. Juprelle – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-449582ca79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Patro Lensois A – C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-849eb9167c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:C.S. Juprelle – E.H. Braives
+DESCRIPTION:2e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/c-s-juprelle/
+URL:https://goalio.be/fr/equipe/c-s-juprelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

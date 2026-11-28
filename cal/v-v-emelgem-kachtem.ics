@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:V.V. Emelgem-Kachtem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e01495cb06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:K. Dosko Beveren 0-2 V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-dosko-beveren-v-v-emelgem-kachtem-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-dosko-beveren-v-v-emelgem-kachtem-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e67023e94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:V.V. Emelgem-Kachtem 1-3 SV Moorslede
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-emelgem-kachtem-sv-moorslede-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/v-v-emelgem-kachtem-sv-moorslede-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f346126b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:SC Zonnebeke A 3-0 V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/sc-zonnebeke-a-v-v-emelgem-kachtem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sc-zonnebeke-a-v-v-emelgem-kachtem-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba2925d0de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:K. FC. Meulebeke 2-0 V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-meulebeke-v-v-emelgem-kachtem-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-fc-meulebeke-v-v-emelgem-kachtem-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e61cd110e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – GD Ingooigem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-emelgem-kachtem-gd-ingooigem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/v-v-emelgem-kachtem-gd-ingooigem-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45590980c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. SK Geluwe – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1058cdb3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – K. Dosko Beveren
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4aa438a1e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:SV Moorslede – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1beecd7881@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – K. VK Avelgem A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63d035921e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K.S.V. Pittem – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1e103c432@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – R.J.H. Comines A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1e49e2ab7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – K.S.K Vlamertinge A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-760e421d66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. SV Moorsele A – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-051ff81b7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8d1cf19f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:K. FC Lendelede Sport – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fd9276095@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – SC Zonnebeke A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0cafc8c8c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Nieuwkerke – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f860421e34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:V.V. Emelgem-Kachtem – K. SK Geluwe
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f5c29186c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:GD Ingooigem – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-392f70abc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:V.V. Emelgem-Kachtem – K. FC. Meulebeke
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-920495b99f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Poperinge – V.V. Emelgem-Kachtem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/v-v-emelgem-kachtem/
+URL:https://goalio.be/nl/ploeg/v-v-emelgem-kachtem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

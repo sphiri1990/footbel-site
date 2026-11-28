@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ES Meix-Le-Tige · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/es-meix-le-tige/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9c780e293b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:UN R. St-Louis-St-Léger 10-2 ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/un-r-st-louis-st-leger-es-meix-le-tige-2026-11-01/
+URL:https://goalio.be/fr/match/un-r-st-louis-st-leger-es-meix-le-tige-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c40ae764d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:ES Meix-Le-Tige 0-5 ES Châtillon
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/es-meix-le-tige-es-chatillon-2026-11-08/
+URL:https://goalio.be/fr/match/es-meix-le-tige-es-chatillon-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50ae76e66a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:CS Toernich 0-5 ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/cs-toernich-es-meix-le-tige-2026-11-15/
+URL:https://goalio.be/fr/match/cs-toernich-es-meix-le-tige-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18bed71fed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:ES Meix-Le-Tige – R.S.C. Athusien (remis)
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/es-meix-le-tige-r-s-c-athusien-2026-11-22/
+URL:https://goalio.be/fr/match/es-meix-le-tige-r-s-c-athusien-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6c3708266@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Ethe-Belmont FC – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/ethe-belmont-fc-es-meix-le-tige-2026-11-29/
+URL:https://goalio.be/fr/match/ethe-belmont-fc-es-meix-le-tige-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-283d8fc7c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:US Waltzing-Bonnert – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fcf8091f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RAC Saint-Mard B – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2260ba8d99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:ES Meix-Le-Tige – RUS Etalle
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ace87f443@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:ES Meix-Le-Tige – R.S.C. Rachecourt
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b5bc81d88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RSC Tontelange – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1245ff27a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:ES Meix-Le-Tige – R. Ecl. Sp. Signeulx
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb86e715ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Jeun. Freylangeoise – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f234f72206@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:ES Meix-Le-Tige – UN R. St-Louis-St-Léger
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55cd18b2f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:ES Châtillon – ES Meix-Le-Tige
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-235a2bbf50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ES Meix-Le-Tige – CS Toernich
+DESCRIPTION:3e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/es-meix-le-tige/
+URL:https://goalio.be/fr/equipe/es-meix-le-tige/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.A.S. Pays Blanc Antoing B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-96f4883f5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B 1-4 A.C. Estaimbourg A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-a-s-pays-blanc-antoing-b-a-c-estaimbourg-a-2026-10-31/
+URL:https://goalio.be/fr/match/r-a-s-pays-blanc-antoing-b-a-c-estaimbourg-a
+ -2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5709d99f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.U.S. Beloeil A 2-1 R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-u-s-beloeil-a-r-a-s-pays-blanc-antoing-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-beloeil-a-r-a-s-pays-blanc-antoing-b-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f06188d9d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B 1-1 CS Pays Vert Ostiches-Ath B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-a-s-pays-blanc-antoing-b-cs-pays-vert-ostiches-ath-b-2026-11-14/
+URL:https://goalio.be/fr/match/r-a-s-pays-blanc-antoing-b-cs-pays-vert-osti
+ ches-ath-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6009818a78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:J.S. Isièroise A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/j-s-isieroise-a-r-a-s-pays-blanc-antoing-b-2026-11-22/
+URL:https://goalio.be/fr/match/j-s-isieroise-a-r-a-s-pays-blanc-antoing-b-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b8d61544c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – Péruwelz FC A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-a-s-pays-blanc-antoing-b-peruwelz-fc-a-2026-11-28/
+URL:https://goalio.be/fr/match/r-a-s-pays-blanc-antoing-b-peruwelz-fc-a-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b66220c6be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:R.F.C. Luingnois B – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06d0c7c6c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – F.C. Enghiennois B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ccb44249b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:J.S. Meslin-Grand Marais A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6571e7f80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – A.C. Anvaing A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f62c7ca517@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:DR Rongy A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-076b54eba5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – ASS. Montkainoise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14015add90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.U.S. Herseautoise A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aec31caf82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – A.S. Obigies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30b589ecb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Wiersien A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23f80562d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – R.U.S. Hensies A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c120160cc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:A.C. Estaimbourg A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d23f9da0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – R.U.S. Beloeil A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fc3c27df3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:CS Pays Vert Ostiches-Ath B – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f260346f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.A.S. Pays Blanc Antoing B – J.S. Isièroise A
+DESCRIPTION:2e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c195a45519@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Péruwelz FC A – R.A.S. Pays Blanc Antoing B
+DESCRIPTION:2e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-a-s-pays-blanc-antoing-b/
+URL:https://goalio.be/fr/equipe/r-a-s-pays-blanc-antoing-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

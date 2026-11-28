@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.V.V. Vlug & Vrij Stokkem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0ed0881bf4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T160000Z
+DTEND:20261031T174500Z
+SUMMARY:As-Niel Utd. B 3-3 K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/as-niel-utd-b-k-v-v-vlug-vrij-stokkem-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/as-niel-utd-b-k-v-v-vlug-vrij-stokkem-b-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0145115a1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261104T190000Z
+DTEND:20261104T204500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B 3-1 Bokrijk Sport
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-v-v-vlug-vrij-stokkem-b-bokrijk-sport-2026-11-04/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-vlug-vrij-stokkem-b-bokrijk-sport-
+ 2026-11-04/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e447e43d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Sporting Calcio Genk – K.V.V. Vlug & Vrij Stokkem B (uitgesteld)
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/sporting-calcio-genk-k-v-v-vlug-vrij-stokkem-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sporting-calcio-genk-k-v-v-vlug-vrij-sto
+ kkem-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-091f680a20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:LS Leut – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/ls-leut-k-v-v-vlug-vrij-stokkem-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ls-leut-k-v-v-vlug-vrij-stokkem-b-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05eaa871c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T120000Z
+DTEND:20261129T134500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – Lanklaar VV
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-v-v-vlug-vrij-stokkem-b-lanklaar-vv-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-vlug-vrij-stokkem-b-lanklaar-vv-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-283c8329ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:Park Houthalen B – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab5bd98865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T120000Z
+DTEND:20261213T134500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – As-Niel Utd. B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93648a09e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:Bokrijk Sport – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57b75fa7a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T120000Z
+DTEND:20270117T134500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – SSD Opoeteren
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb79342ab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Future Football Stars Genk – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f9acfd473@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T120000Z
+DTEND:20270131T134500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – Umitspor Maasmechelen B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e81b60c990@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T120000Z
+DTEND:20270214T134500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – Genk VV B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6018b455f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Neeroeteren FC B – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce5433ad47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:K. St. Elen B – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d23c7af9e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T120000Z
+DTEND:20270314T134500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – Sporting Calcio Genk
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd3a9e54d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:E. Louwel B – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-506bb574f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T110000Z
+DTEND:20270404T124500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – Park Houthalen B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8c15b3bff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Lanklaar VV – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19a9d8c58d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T110000Z
+DTEND:20270418T124500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem B – LS Leut
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fee4a9ccf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SLW Maaseik B – K.V.V. Vlug & Vrij Stokkem B
+DESCRIPTION:4e provinciale Limburg E\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-b/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

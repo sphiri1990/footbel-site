@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC. Walhain A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-walhain-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-126754ec1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RFC Grez-Doiceau A 5-1 FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/rfc-grez-doiceau-a-fc-walhain-a-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-grez-doiceau-a-fc-walhain-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc0ae83648@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC. Walhain A 2-0 F.C. Genappe B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/fc-walhain-a-f-c-genappe-b-2026-11-08/
+URL:https://goalio.be/fr/match/fc-walhain-a-f-c-genappe-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-941a3d4706@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RE Stéphanois A 1-2 FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/re-stephanois-a-fc-walhain-a-2026-11-15/
+URL:https://goalio.be/fr/match/re-stephanois-a-fc-walhain-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b026636b29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC. Walhain A 3-1 R. Léopold FC. B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/match/fc-walhain-a-r-leopold-fc-b-2026-11-22/
+URL:https://goalio.be/fr/match/fc-walhain-a-r-leopold-fc-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc58f99d54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:ROS Ottignies-LLN A – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/match/ros-ottignies-lln-a-fc-walhain-a-2026-11-29/
+URL:https://goalio.be/fr/match/ros-ottignies-lln-a-fc-walhain-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eedf3a1372@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:CS Biergeois A – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-361b5fc18e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:FC. Walhain A – RFC Orp-Noduwez B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e6e890d09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Ol. Clabecq A – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ff4da4d1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC. Walhain A – R.R.C. De Boitsfort
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41c65a5a0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Union Rixensartoise A – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-914d804820@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC. Walhain A – RC Villers la Ville A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c483e7369@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SC Beauvechain A – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2b7de1987@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC. Walhain A – R. Union Lasne Ohain
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e13a1cae34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RU Tubize Braine-le-Comte B – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0a5b675ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC. Walhain A – ES. Brainoise A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8911f4b05c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC. Walhain A – RFC Grez-Doiceau A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-215406dbf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Genappe B – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cec2a717e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC. Walhain A – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c7708964d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Léopold FC. B – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-376e9cb6c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC. Walhain A – ROS Ottignies-LLN A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/fc-walhain-a/
+URL:https://goalio.be/fr/equipe/fc-walhain-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

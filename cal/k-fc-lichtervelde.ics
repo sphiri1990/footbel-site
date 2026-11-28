@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Lichtervelde · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c33fa2c284@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:K.S.V. Oostkamp B 1-2 K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-v-oostkamp-b-k-fc-lichtervelde-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-s-v-oostkamp-b-k-fc-lichtervelde-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c07b080e5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:K. FC Lichtervelde 1-4 K. SK Wenduine
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lichtervelde-k-sk-wenduine-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lichtervelde-k-sk-wenduine-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fe5c41bd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:VV Westkapelle A 1-0 K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vv-westkapelle-a-k-fc-lichtervelde-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/vv-westkapelle-a-k-fc-lichtervelde-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c4b9fa6e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:S.K. Eernegem A 7-0 K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/s-k-eernegem-a-k-fc-lichtervelde-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/s-k-eernegem-a-k-fc-lichtervelde-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c28ef9480@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. FC Lichtervelde – KV Koksijde Oostduinkerke A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-fc-lichtervelde-kv-koksijde-oostduinkerke-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-fc-lichtervelde-kv-koksijde-oostduinke
+ rke-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-437539cde8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FA Nieuwpoort A – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-439824542b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. FC Lichtervelde – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-127420a96c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. FC Lichtervelde – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a92951a490@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. SK Wenduine – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc7b592b28@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K. SV Jabbeke B – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-677bed2698@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:K. FC Lichtervelde – S.K. Eernegem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b756ff3d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. VV Aartrijke – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef5ec65a4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. FC Lichtervelde – K. Sp. Club Blankenberge B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ef1eb7d1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KV Koksijde Oostduinkerke A – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-933550c53b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. FC Lichtervelde – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78fcd30115@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K.S.K. Snaaskerke – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5217056045@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. FC Lichtervelde – FC Veldegem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a55a2b857@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. EG Gistel – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-794056b29b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:K. FC Lichtervelde – SV Loppem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcc7466b09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:V.V. Cercle Beernem A – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe08244303@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Lichtervelde – FA Nieuwpoort A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-fc-lichtervelde/
+URL:https://goalio.be/nl/ploeg/k-fc-lichtervelde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Meise A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kfc-meise-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9678bed227@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFC Meise A 1-1 FC Herne A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/kfc-meise-a-fc-herne-a-2026-11-01/
+URL:https://goalio.be/fr/match/kfc-meise-a-fc-herne-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90dbf6efc3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Rhodienne-De Hoek A 4-0 KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kfc-rhodienne-de-hoek-a-kfc-meise-a-2026-11-08/
+URL:https://goalio.be/fr/match/kfc-rhodienne-de-hoek-a-kfc-meise-a-2026-11-
+ 08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52053f2687@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Meise A 3-1 FC Galmaarden A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/kfc-meise-a-fc-galmaarden-a-2026-11-15/
+URL:https://goalio.be/fr/match/kfc-meise-a-fc-galmaarden-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be6d97bada@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KFC Meise A 1-0 VK Liedekerke A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/kfc-meise-a-vk-liedekerke-a-2026-11-22/
+URL:https://goalio.be/fr/match/kfc-meise-a-vk-liedekerke-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71c3b5e262@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Eendr. Hekelgem A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/eendr-hekelgem-a-kfc-meise-a-2026-11-28/
+URL:https://goalio.be/fr/match/eendr-hekelgem-a-kfc-meise-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-faa2e0ad4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFC Meise A – K. Del. Londerzeel A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6753fdc9e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Eppegem A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-984fa10971@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:T. Relegem – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e05f058517@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Meise A – Perk Steenokkerzeel V. 1820 A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be677fa99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Meise A – KFC Lennik A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f68782f095@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Leeuw Brucom A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e065191029@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KFC Meise A – Eendr. Hekelgem A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-102e73edc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:NOVA Asse-Mollem A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13cbe842c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFC Meise A – KFC Rhodienne-De Hoek A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b6ac3640e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Galmaarden A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fce1cc8ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KFC Meise A – L. Teralfene A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-497c27928d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:VK Liedekerke A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f4e5b6058@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KFC Meise A – FC Schepdaal A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d1ff4afae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. Del. Londerzeel A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7530e78e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Meise A – KCS Machelen A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00c300eecd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Herne A – KFC Meise A
+DESCRIPTION:2e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kfc-meise-a/
+URL:https://goalio.be/fr/equipe/kfc-meise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

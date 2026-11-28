@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Eendr. Wervik B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5ca1579508@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T173000Z
+DTEND:20261107T191500Z
+SUMMARY:K. Eendr. Wervik B 5-2 K. SV De Ruiter Roes. B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-eendr-wervik-b-k-sv-de-ruiter-roes-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-eendr-wervik-b-k-sv-de-ruiter-roes-b-2
+ 026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f75309f5ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:K. SV Moorsele B 7-1 K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-moorsele-b-k-eendr-wervik-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-sv-moorsele-b-k-eendr-wervik-b-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8945256bf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T191500Z
+SUMMARY:K. Eendr. Wervik B 1-5 SC Zonnebeke B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-eendr-wervik-b-sc-zonnebeke-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-eendr-wervik-b-sc-zonnebeke-b-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d922558735@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:S.V. Wevelgem City B – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/s-v-wevelgem-city-b-k-eendr-wervik-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/s-v-wevelgem-city-b-k-eendr-wervik-b-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19ba3a1338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T173000Z
+DTEND:20261205T191500Z
+SUMMARY:K. Eendr. Wervik B – K.S.K Vlamertinge B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82526900f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T173000Z
+DTEND:20270109T191500Z
+SUMMARY:K. Eendr. Wervik B – SK Reningelst
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-742dd37e41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T173000Z
+DTEND:20270116T191500Z
+SUMMARY:K. Eendr. Wervik B – R.J.H. Comines B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0865de3f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. SV De Ruiter Roes. B – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afdb208858@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T173000Z
+DTEND:20270130T191500Z
+SUMMARY:K. Eendr. Wervik B – RW Hollebeke
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbc6bf549a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Westouter – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca5f96d21b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T173000Z
+DTEND:20270220T191500Z
+SUMMARY:K. Eendr. Wervik B – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecf225fd3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:F.C. Passendale – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3992135366@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:FC Dadizele Sport B – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99b4db418a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T173000Z
+DTEND:20270313T191500Z
+SUMMARY:K. Eendr. Wervik B – GS Voormezele
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d94f77275@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T181500Z
+DTEND:20270320T200000Z
+SUMMARY:SC Zonnebeke B – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab8de871fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T163000Z
+DTEND:20270403T181500Z
+SUMMARY:K. Eendr. Wervik B – S.V. Wevelgem City B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-274b22e3e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:SK Zillebeke – K. Eendr. Wervik B (afgelast)
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a61d42500a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T163000Z
+DTEND:20270417T181500Z
+SUMMARY:K. Eendr. Wervik B – US Ploegsteert
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9977d8ba7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.S.K Vlamertinge B – K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-eendr-wervik-b/
+URL:https://goalio.be/nl/ploeg/k-eendr-wervik-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

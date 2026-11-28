@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RCS Profondeville B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rcs-profondeville-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3b134eea65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Bonneville SP B 3-3 RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /bonneville-sp-b-rcs-profondeville-b-2026-11-01/
+URL:https://goalio.be/fr/match/bonneville-sp-b-rcs-profondeville-b-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-447fd2f24a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:SP Salzinnes Namur 2-0 RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /sp-salzinnes-namur-rcs-profondeville-b-2026-11-14/
+URL:https://goalio.be/fr/match/sp-salzinnes-namur-rcs-profondeville-b-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f53de3c3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RCS Profondeville B – FC Lesve-Arbre (remis)
+DESCRIPTION:4e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /rcs-profondeville-b-fc-lesve-arbre-2026-11-22/
+URL:https://goalio.be/fr/match/rcs-profondeville-b-fc-lesve-arbre-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5b276b3a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SC Mazycien B – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bba3eb152@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RCS Profondeville B – Sp Exc Jemeppe B
+DESCRIPTION:4e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de1881f2f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Union Bossière Gembloux B – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c61baf0d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RCS Profondeville B – US Auvelais B
+DESCRIPTION:4e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a9e6a54a41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:WA Sauvenière B – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38480bde5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RCS Profondeville B – JS Falisolle-Aisemont A
+DESCRIPTION:4e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cd1f4890f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RCS Profondeville B – S Flawinne FC B
+DESCRIPTION:4e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa8a19d0db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:New Entente Foot Moignele – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b6be4ff41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RCS Profondeville B – R Ham FC A
+DESCRIPTION:4e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be82e289e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:SFC Onoz – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-743a18db89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RCS Profondeville B – Bonneville SP B
+DESCRIPTION:4e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f22a35ed7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Lesve-Arbre – RCS Profondeville B
+DESCRIPTION:4e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a42a99c12b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RCS Profondeville B – SP Salzinnes Namur
+DESCRIPTION:4e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rcs-profondeville-b/
+URL:https://goalio.be/fr/equipe/rcs-profondeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

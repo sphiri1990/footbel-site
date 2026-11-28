@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Alliance Melen-Micheroux · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-
+ f-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8b4b8c407c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T130000Z
+DTEND:20261101T144500Z
+SUMMARY:R. Alliance Melen-Micheroux 2-2 Union Aubeloise
+DESCRIPTION:4e provinciale Liège F\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-alliance-melen-micheroux-4-prov-f-liege-union-aubeloise-2026-11-01/
+URL:https://goalio.be/fr/match/r-alliance-melen-micheroux-4-prov-f-liege-un
+ ion-aubeloise-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbdb9e7767@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Skill Racing Union Verviers 0-2 R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 12\nhttps://goalio.be/fr/matc
+ h/skill-racing-union-verviers-r-alliance-melen-micheroux-4-prov-f-liege-20
+ 26-11-08/
+URL:https://goalio.be/fr/match/skill-racing-union-verviers-r-alliance-melen
+ -micheroux-4-prov-f-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94aa8537b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:R. Alliance Melen-Micheroux 5-2 R. ST F.C. Andrimont B
+DESCRIPTION:4e provinciale Liège F\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-alliance-melen-micheroux-4-prov-f-liege-r-st-f-c-andrimont-b-2026-11-1
+ 5/
+URL:https://goalio.be/fr/match/r-alliance-melen-micheroux-4-prov-f-liege-r-
+ st-f-c-andrimont-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b19b32bb7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Battice F.C. – R. Alliance Melen-Micheroux (remis)
+DESCRIPTION:4e provinciale Liège F\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-battice-f-c-r-alliance-melen-micheroux-4-prov-f-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-battice-f-c-r-alliance-melen-micheroux-4-p
+ rov-f-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f457c6f5c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T130000Z
+DTEND:20261206T144500Z
+SUMMARY:R. Alliance Melen-Micheroux – R. Herve F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-291f4d87b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.A.F. Franchimontois – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56943a1d03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Alliance Melen-Micheroux – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce8106e6fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.F.C. Queue du Bois – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2044fefdd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T130000Z
+DTEND:20270131T144500Z
+SUMMARY:R. Alliance Melen-Micheroux – A.C. Soiron
+DESCRIPTION:4e provinciale Liège F\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa6f3a8347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:R.F.C. Charneux – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7283496d21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T133000Z
+DTEND:20270221T151500Z
+SUMMARY:R. Alliance Melen-Micheroux – R.C.S. Bollandois
+DESCRIPTION:4e provinciale Liège F\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfba86160c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Cornesse F.C. – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b4cf6233a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Alliance Melen-Micheroux – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38a7424545@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T174500Z
+DTEND:20270320T193000Z
+SUMMARY:Union Aubeloise – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d97ba8d616@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:R. Alliance Melen-Micheroux – Skill Racing Union Verviers
+DESCRIPTION:4e provinciale Liège F\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ace364be7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:R. ST F.C. Andrimont B – R. Alliance Melen-Micheroux
+DESCRIPTION:4e provinciale Liège F\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32b8096ce4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:R. Alliance Melen-Micheroux – R. Battice F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-alliance-melen-micheroux-4-prov-f-liege/
+URL:https://goalio.be/fr/equipe/r-alliance-melen-micheroux-4-prov-f-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

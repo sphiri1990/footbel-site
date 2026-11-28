@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Boussu-Lez-Walcourt · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2bef028e56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R. Exc. Cl. Beaumontois 1-3 F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-exc-cl-beaumontois-f-c-boussu-lez-walcourt-2026-10-31/
+URL:https://goalio.be/fr/match/r-exc-cl-beaumontois-f-c-boussu-lez-walcourt
+ -2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08f2356256@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt 2-1 R.F.C. La Buissière
+DESCRIPTION:4e provinciale Hainaut G\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/f-c-boussu-lez-walcourt-r-f-c-la-buissiere-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-boussu-lez-walcourt-r-f-c-la-buissiere-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4819d73215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:J.S. Jamioulx B 1-2 F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/j-s-jamioulx-b-f-c-boussu-lez-walcourt-2026-11-15/
+URL:https://goalio.be/fr/match/j-s-jamioulx-b-f-c-boussu-lez-walcourt-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a05d97ef64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Renaissance US Grand-Reng – F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/renaissance-us-grand-reng-f-c-boussu-lez-walcourt-2026-11-22/
+URL:https://goalio.be/fr/match/renaissance-us-grand-reng-f-c-boussu-lez-wal
+ court-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70d2899f2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – R.R.F.C. Gozee
+DESCRIPTION:4e provinciale Hainaut G\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-boussu-lez-walcourt-r-r-f-c-gozee-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-boussu-lez-walcourt-r-r-f-c-gozee-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-501a419be5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – Jeunesse Sportive Erpion
+DESCRIPTION:4e provinciale Hainaut G\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-379d80b7b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:J.S. Froidchapelloise B – F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ccd6a1f6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – R.R.C. De Rance
+DESCRIPTION:4e provinciale Hainaut G\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7747210be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:U.S. Solrezienne – F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72a34287a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e77076e0f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Royal Baileux Chimay Sport – F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02e82fc9d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – U.S. Merbesars
+DESCRIPTION:4e provinciale Hainaut G\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd5c5f46d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Sivry Sports – F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32abaa5338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b303d6309c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – R. Exc. Cl. Beaumontois
+DESCRIPTION:4e provinciale Hainaut G\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8407fa04d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. La Buissière – F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89089ff851@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – J.S. Jamioulx B
+DESCRIPTION:4e provinciale Hainaut G\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65f489def4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – Renaissance US Grand-Reng
+DESCRIPTION:4e provinciale Hainaut G\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f760eb41af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.R.F.C. Gozee – F.C. Boussu-Lez-Walcourt
+DESCRIPTION:4e provinciale Hainaut G\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-boussu-lez-walcourt/
+URL:https://goalio.be/fr/equipe/f-c-boussu-lez-walcourt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

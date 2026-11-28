@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSOC Maria Ter Heide · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1ad34447ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KSOC Maria Ter Heide 1-3 KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/ksoc-maria-ter-heide-ksk-ekeren-donk-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/ksoc-maria-ter-heide-ksk-ekeren-donk-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87358ff0a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:Ekeren FC B 4-1 KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ekeren-fc-b-ksoc-maria-ter-heide-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/ekeren-fc-b-ksoc-maria-ter-heide-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5f92aefa92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T140000Z
+DTEND:20261111T154500Z
+SUMMARY:KSOC Maria Ter Heide 1-3 K. Nieuwmoer FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 5\nhttps://goalio.be/nl/we
+ dstrijd/ksoc-maria-ter-heide-k-nieuwmoer-fc-b-2026-11-11/
+URL:https://goalio.be/nl/wedstrijd/ksoc-maria-ter-heide-k-nieuwmoer-fc-b-20
+ 26-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cafcbd6e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KSOC Maria Ter Heide 3-0 Putte SK
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/ksoc-maria-ter-heide-putte-sk-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/ksoc-maria-ter-heide-putte-sk-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0abc33c17d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Excelsior Mariaburg B 2-4 KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/excelsior-mariaburg-b-ksoc-maria-ter-heide-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/excelsior-mariaburg-b-ksoc-maria-ter-hei
+ de-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42acf57227@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KSOC Maria Ter Heide – Zandvliet Sport B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/ksoc-maria-ter-heide-zandvliet-sport-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ksoc-maria-ter-heide-zandvliet-sport-b-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4030de8579@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:K. Kalmthout SK B – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-015540cb9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KSOC Maria Ter Heide – R. Cappellen FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08b1089177@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:K. Nieuwmoer FC B – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74884c3ad1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KSOC Maria Ter Heide – Ekeren FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58129bf6ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KSOC Maria Ter Heide – Excelsior Mariaburg B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a93d286e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:KFC Brasschaat B – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81ae206290@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KSOC Maria Ter Heide – KSV Wildert
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-062e1ebb1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Putte SK – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56650b17c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KSOC Maria Ter Heide – K. Heibos SV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8222fb23aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KSOC Maria Ter Heide – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75d7bb6b86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Zandvliet Sport B – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61072a32e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KSOC Maria Ter Heide – K. Kalmthout SK B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b76ead246@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Exc. FC Essen – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41fd42e961@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KSOC Maria Ter Heide – SV Noorse
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c5a4039bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSK Ekeren Donk – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/ksoc-maria-ter-heide/
+URL:https://goalio.be/nl/ploeg/ksoc-maria-ter-heide/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

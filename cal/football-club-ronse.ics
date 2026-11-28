@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Football Club Ronse · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/football-club-ronse/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d1a02017fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KSV Maarkedal B 5-1 Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/ksv-maarkedal-b-football-club-ronse-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ksv-maarkedal-b-football-club-ronse-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32a8a9ab04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:VC Zwijnaarde B 7-2 Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/vc-zwijnaarde-b-football-club-ronse-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vc-zwijnaarde-b-football-club-ronse-2026
+ -11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-848c8fa408@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club Ronse 3-1 VCE Huise-Ouwegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/football-club-ronse-vce-huise-ouwegem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/football-club-ronse-vce-huise-ouwegem-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47d5a3404e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T160000Z
+DTEND:20261121T174500Z
+SUMMARY:SK Vlaamse Ardennen B 1-4 Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sk-vlaamse-ardennen-b-football-club-ronse-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/sk-vlaamse-ardennen-b-football-club-rons
+ e-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df1990922b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Football Club Ronse – KFC Kluisbergen
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/football-club-ronse-kfc-kluisbergen-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/football-club-ronse-kfc-kluisbergen-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38d975d536@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:JV De Pinte B – Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-411cc56bc6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:K. WIK Eine B – Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-842ad78cae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Football Club Ronse – VV Volkegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54225b11c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Gavere-Asper B – Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85598d946f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Football Club Ronse – KSC Dikkelvenne A
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81d39a9e89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:VCE Huise-Ouwegem – Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69665add04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Football Club Ronse – KVVHT Zwijnaarde B
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49d4431360@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Football Club Ronse – KSK Zingem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d26a2a7bf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:VC Nazareth-Eke B – Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c4e9c914e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Football Club Ronse – JV De Pinte B
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bbddd3970@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T151500Z
+SUMMARY:KFC Kluisbergen – Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fa240354d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Football Club Ronse – SK Vlaamse Ardennen B
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f9a7aef04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Football Club Ronse – VC Zwijnaarde B
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9acd6b2ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KFC Petegem a Schelde – Football Club Ronse
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4591ea2b51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Football Club Ronse – KSV Maarkedal B
+DESCRIPTION:4e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/football-club-ronse/
+URL:https://goalio.be/nl/ploeg/football-club-ronse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

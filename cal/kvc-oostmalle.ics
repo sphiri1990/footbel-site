@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVC Oostmalle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvc-oostmalle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6803a53116@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:Minderhout VV A 9-2 KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/minderhout-vv-a-kvc-oostmalle-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/minderhout-vv-a-kvc-oostmalle-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0cab10895@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KVC Oostmalle 1-2 KFC Ezaart Sp.
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kvc-oostmalle-kfc-ezaart-sp-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kvc-oostmalle-kfc-ezaart-sp-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a30c8d58ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K. Vrijh. Herselt 0-0 KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-vrijh-herselt-kvc-oostmalle-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-vrijh-herselt-kvc-oostmalle-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45f560d4ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KVC Oostmalle 2-0 K.F.C. Arendonk Sport
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kvc-oostmalle-k-f-c-arendonk-sport-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kvc-oostmalle-k-f-c-arendonk-sport-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0310187da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Vosselaar VV – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/vosselaar-vv-kvc-oostmalle-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/vosselaar-vv-kvc-oostmalle-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0dbd3aac6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KVC Oostmalle – KFC Dessel Sp. B
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49915af772@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KFC Lentezon Beerse – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a180a76f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KVC Oostmalle – K. Noordstar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2495ae1bc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KSK Weelde – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9bf3e01e49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K.F.C. Arendonk Sport – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e967ae471a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KVC Oostmalle – K. Vrijh. Herselt
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-838a6314a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KVC Oostmalle – KVC Lille United B
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95210e0feb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Ezaart Sp. – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-245d26d3c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KVC Oostmalle – Minderhout VV A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba318c0b7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KVC Booischot – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0609b19030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVC Oostmalle – KSKS Herentals
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f609272b39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K.F.C. Putte A – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e30d2b52d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Dessel Sp. B – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b59e6e0b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KVC Oostmalle – Vosselaar VV
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30581c91d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. Eendr. Zoersel A – KVC Oostmalle
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4a309bc8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVC Oostmalle – KVV OG Vorselaar A
+DESCRIPTION:2e provinciale Antwerpen B\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kvc-oostmalle/
+URL:https://goalio.be/nl/ploeg/kvc-oostmalle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

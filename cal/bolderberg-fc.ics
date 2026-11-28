@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bolderberg FC · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/bolderberg-fc/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d2cf895242@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Bolderberg FC 1-1 VV Lummen B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/bolderberg-fc-vv-lummen-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/bolderberg-fc-vv-lummen-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a424840ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Bolderberg FC 1-7 Beringen F.C.
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/bolderberg-fc-beringen-f-c-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/bolderberg-fc-beringen-f-c-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd564c412c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:MD Halen 0-1 Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/md-halen-bolderberg-fc-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/md-halen-bolderberg-fc-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd0b28c578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Bolderberg FC 1-5 KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/bolderberg-fc-kfc-ham-united-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/bolderberg-fc-kfc-ham-united-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-092a50688f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Bolderberg FC – WS Linkhout B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5949f47390@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Bolderberg FC – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc2a42e1b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:VV Lummen B – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6d760e6b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Bolderberg FC – KVV Heusden-Zolder B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e78e653e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Beringen F.C. – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11b382410b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Bolderberg FC – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9deb00450e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:FC Paal-Tervant B – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aaa6a0e69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Bolderberg FC – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab370b11de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. FC Anadol B – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ac926ad47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Bolderberg FC – Verbroedering Loksbergen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62e2c28ca7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. ESK Leopoldsburg B – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4724803bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Ham United – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbe7d60e8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:WS Linkhout B – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69858b5fd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Bolderberg FC – Turkse FC B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c75eeb73d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HSC Beringen – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/bolderberg-fc/
+URL:https://goalio.be/nl/ploeg/bolderberg-fc/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

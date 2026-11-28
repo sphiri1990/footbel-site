@@ -1,0 +1,283 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSD Jette A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rsd-jette-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-a6b7fd4b1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Crossing Schaerbeek 5-0 RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/crossing-schaer
+ beek-d2-ffa-rsd-jette-a-2026-11-01/
+URL:https://goalio.be/fr/match/crossing-schaerbeek-d2-ffa-rsd-jette-a-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0047e33a00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RSD Jette A 2-2 U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/rsd-jette-a-u-s
+ t-ghisl-tertre-hautr-a-2026-11-08/
+URL:https://goalio.be/fr/match/rsd-jette-a-u-st-ghisl-tertre-hautr-a-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-908abbdd87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:K.A.S. Eupen B 3-0 RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/k-a-s-eupen-b-r
+ sd-jette-a-2026-11-15/
+URL:https://goalio.be/fr/match/k-a-s-eupen-b-rsd-jette-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7b8c0192a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSD Jette A 1-0 R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/rsd-jette-a-r-u
+ -s-binche-2026-11-22/
+URL:https://goalio.be/fr/match/rsd-jette-a-r-u-s-binche-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f37df407c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:SB Stade Mouscronnois A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/sb-stade-mouscr
+ onnois-a-rsd-jette-a-2026-11-28/
+URL:https://goalio.be/fr/match/sb-stade-mouscronnois-a-rsd-jette-a-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b42e72413c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RSD Jette A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-295b336b33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Aywaille F.C. A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ef7750d1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:C.S. Entité Manageoise – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0e103edc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:RSD Jette A – FC Ganshoren
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e628de3c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:F.C. UN Richelle A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd6a2f3024@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RSD Jette A – Royale Union Hutoise
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a968bb2cc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Stade Vervietois – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75fd8c3a3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:RSD Jette A – Royal Stockay Saint-Georges S/M
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c2560fd32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RCS Brainois A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bca8ee0f21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSD Jette A – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f8e8badc5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RSD Jette A – Entente Acren Lessines
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c84653865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-470d4961a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RSD Jette A – Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75783caa32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a775266b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T144500Z
+SUMMARY:RSD Jette A – K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8668061034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.U.S. Binche – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31e94812c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RSD Jette A – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0511133363@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Un. La Calamine – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a16f5b235b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSD Jette A – R. Aywaille F.C. A
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/rsd-jette-a/
+URL:https://goalio.be/fr/equipe/rsd-jette-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

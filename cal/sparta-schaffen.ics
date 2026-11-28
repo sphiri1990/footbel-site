@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sparta Schaffen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sparta-schaffen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f1771e7826@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Tielt-Winge 3000 4-2 Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 10\nhttps://goalio.b
+ e/fr/match/tielt-winge-3000-sparta-schaffen-2026-10-31/
+URL:https://goalio.be/fr/match/tielt-winge-3000-sparta-schaffen-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-714b57075f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Sparta Schaffen 5-5 RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 11\nhttps://goalio.b
+ e/fr/match/sparta-schaffen-rc-butsel-2026-11-07/
+URL:https://goalio.be/fr/match/sparta-schaffen-rc-butsel-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e562536b4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Binkom B 0-0 Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-binkom-b-sparta-schaffen-2026-11-14/
+URL:https://goalio.be/fr/match/fc-binkom-b-sparta-schaffen-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51bd4746e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:Sparta Schaffen – KFC Werchter B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 14\nhttps://goalio.b
+ e/fr/match/sparta-schaffen-kfc-werchter-b-2026-11-28/
+URL:https://goalio.be/fr/match/sparta-schaffen-kfc-werchter-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2887e969f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RWL Sport B – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a845f6313@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Sparta Schaffen – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42d12e34ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:RC Butsel – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5de177aa10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Sparta Schaffen – Sp. Molenbeek
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b61b6fc06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T184500Z
+DTEND:20270123T203000Z
+SUMMARY:KFC KO Begijnendijk – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0fadafadd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Sparta Schaffen – SMS Lubbeek B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-652d369759@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Sparta Schaffen – KAC Betekom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d15467b9fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T120000Z
+DTEND:20270221T134500Z
+SUMMARY:SC Aarschot B – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2abf7e72f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Sparta Schaffen – SK Deurne
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d4c8d9475@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Boutersem United B – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d9a4dc976@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Sparta Schaffen – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52d5a95b08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KVC Langdorp – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e029ef80a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Sparta Schaffen – RWL Sport B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ece68becbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T134500Z
+SUMMARY:KFC Werchter B – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sparta-schaffen/
+URL:https://goalio.be/fr/equipe/sparta-schaffen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

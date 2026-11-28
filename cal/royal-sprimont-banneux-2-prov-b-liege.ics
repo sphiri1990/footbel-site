@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royal Sprimont Banneux · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-li
+ ege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5e4afeb95a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Royal Sprimont Banneux 2-3 U.C.E. de Liège
+DESCRIPTION:2e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/royal-sprimont-banneux-2-prov-b-liege-u-c-e-de-liege-2026-11-01/
+URL:https://goalio.be/fr/match/royal-sprimont-banneux-2-prov-b-liege-u-c-e-
+ de-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89b5cdb690@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Cfc Pontisse Herstal 2-1 Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/cfc-pontisse-herstal-royal-sprimont-banneux-2-prov-b-liege-2026-11-08/
+URL:https://goalio.be/fr/match/cfc-pontisse-herstal-royal-sprimont-banneux-
+ 2-prov-b-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76322b99aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Aubel F.C. 1-4 Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-aubel-f-c-2-prov-b-liege-royal-sprimont-banneux-2-prov-b-liege-2026-11
+ -15/
+URL:https://goalio.be/fr/match/r-aubel-f-c-2-prov-b-liege-royal-sprimont-ba
+ nneux-2-prov-b-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f376f9eb5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Royal Sprimont Banneux – R. Cornesse F.C. (remis)
+DESCRIPTION:2e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/royal-sprimont-banneux-2-prov-b-liege-r-cornesse-f-c-2026-11-22/
+URL:https://goalio.be/fr/match/royal-sprimont-banneux-2-prov-b-liege-r-corn
+ esse-f-c-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c087c4c367@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Alliance Melen-Micheroux – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-alliance-melen-micheroux-royal-sprimont-banneux-2-prov-b-liege-2026-11
+ -29/
+URL:https://goalio.be/fr/match/r-alliance-melen-micheroux-royal-sprimont-ba
+ nneux-2-prov-b-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-423d4dcf75@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.A.C. Hombourg – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3f02a8d8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Royal Sprimont Banneux – R. Ent. Blegnytoise
+DESCRIPTION:2e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ca4de6f93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Aywaille F.C. – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-209c00ed22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Royal Sprimont Banneux – Entente Jeunesse Fleron
+DESCRIPTION:2e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53a8b97428@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Football Club de Trooz – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6235e1e8c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Royal Sprimont Banneux – F.C.R. Vise United
+DESCRIPTION:2e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d36427ef22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.S.C. Saive – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83d113b2fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Royal Sprimont Banneux – R.A.S. Houtain
+DESCRIPTION:2e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fc44f39de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Herstal – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbbf162db3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Royal Sprimont Banneux – RFC Un. La Calamine
+DESCRIPTION:2e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c89e5dd40e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:U.C.E. de Liège – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-589e4bc193@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Royal Sprimont Banneux – Cfc Pontisse Herstal
+DESCRIPTION:2e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5db8054f18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Royal Sprimont Banneux – R. Aubel F.C.
+DESCRIPTION:2e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-952a2074ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Cornesse F.C. – Royal Sprimont Banneux
+DESCRIPTION:2e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0ee9cfd58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Royal Sprimont Banneux – R. Alliance Melen-Micheroux
+DESCRIPTION:2e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/royal-sprimont-banneux-2-prov-b-liege/
+URL:https://goalio.be/fr/equipe/royal-sprimont-banneux-2-prov-b-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

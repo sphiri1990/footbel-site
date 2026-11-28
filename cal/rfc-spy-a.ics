@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Spy A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-spy-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-34ca721726@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RFC Spy A 2-3 RCS Condruzien A
+DESCRIPTION:1re provinciale Namur\nJournée 11\nhttps://goalio.be/fr/match/
+ rfc-spy-a-rcs-condruzien-a-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-spy-a-rcs-condruzien-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-368ec28b53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:RUS Loyers A 5-1 RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 12\nhttps://goalio.be/fr/match/
+ rus-loyers-a-rfc-spy-a-2026-11-07/
+URL:https://goalio.be/fr/match/rus-loyers-a-rfc-spy-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7eca7cae1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Spy A 2-1 FC Ligny A
+DESCRIPTION:1re provinciale Namur\nJournée 13\nhttps://goalio.be/fr/match/
+ rfc-spy-a-fc-ligny-a-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-spy-a-fc-ligny-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b596cf342c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RFC Grand-Leez A – RFC Spy A (remis)
+DESCRIPTION:1re provinciale Namur\nJournée 14\nhttps://goalio.be/fr/match/
+ rfc-grand-leez-a-rfc-spy-a-2026-11-22/
+URL:https://goalio.be/fr/match/rfc-grand-leez-a-rfc-spy-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e50d8ccb2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RFC Spy A – FC Naninnois A
+DESCRIPTION:1re provinciale Namur\nJournée 15\nhttps://goalio.be/fr/match/
+ rfc-spy-a-fc-naninnois-a-2026-11-29/
+URL:https://goalio.be/fr/match/rfc-spy-a-fc-naninnois-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eeb77617cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RFC Spy A – Union Bossière Gembloux A
+DESCRIPTION:1re provinciale Namur\nJournée 16\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1381663b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.U.S. Dinantaise A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 17\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b14162f3bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RFC Spy A – JS Taminoise A
+DESCRIPTION:1re provinciale Namur\nJournée 18\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e7b138a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Chevetogne Foot A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 19\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c46fb1ef6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:US Beauraing 61 A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 20\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7309412402@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RFC Spy A – AC Lustin A
+DESCRIPTION:1re provinciale Namur\nJournée 21\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf48e7fc09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:OC Nismes A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 22\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77b8d4ef06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RFC Spy A – R St Gedinnois A
+DESCRIPTION:1re provinciale Namur\nJournée 23\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0feea3ac0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Meux B – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 24\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8e3e86613@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Spy A – RJ Aischoise A
+DESCRIPTION:1re provinciale Namur\nJournée 25\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de78d1e155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RCS Condruzien A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 26\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97f04995de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RFC Spy A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 27\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-992f6f616c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Ligny A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 28\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1de5a43942@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Spy A – RFC Grand-Leez A
+DESCRIPTION:1re provinciale Namur\nJournée 29\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6467cb7001@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Naninnois A – RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 30\nhttps://goalio.be/fr/equipe
+ /rfc-spy-a/
+URL:https://goalio.be/fr/equipe/rfc-spy-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

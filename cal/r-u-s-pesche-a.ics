@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.U.S Pesche A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-041b558bbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:ARS Ent Floreffe 1-2 R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /ars-ent-floreffe-r-u-s-pesche-a-2026-11-01/
+URL:https://goalio.be/fr/match/ars-ent-floreffe-r-u-s-pesche-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ed0c9e7c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.U.S Pesche A 1-1 RCS Florennois A
+DESCRIPTION:3e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /r-u-s-pesche-a-rcs-florennois-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-u-s-pesche-a-rcs-florennois-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84a4fb23af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:JS Taminoise B 0-3 R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /js-taminoise-b-r-u-s-pesche-a-2026-11-15/
+URL:https://goalio.be/fr/match/js-taminoise-b-r-u-s-pesche-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d9f27a542@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.U.S Pesche A – RFC Spy B (remis)
+DESCRIPTION:3e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/match
+ /r-u-s-pesche-a-rfc-spy-b-2026-11-21/
+URL:https://goalio.be/fr/match/r-u-s-pesche-a-rfc-spy-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2596d99eed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:U.S. Flavion-Morialmé B – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/match
+ /u-s-flavion-morialme-b-r-u-s-pesche-a-2026-11-29/
+URL:https://goalio.be/fr/match/u-s-flavion-morialme-b-r-u-s-pesche-a-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5655152b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:U St-Gérard A – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d796540d13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.U.S Pesche A – ES Petigny-Frasnes B
+DESCRIPTION:3e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33d13ed8db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:Espoir Sportif Fraire A – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35acfcee7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.U.S Pesche A – Et. Taminoise
+DESCRIPTION:3e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f376475eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:US Thy-Chateau B – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a31d0c8a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.U.S Pesche A – R Exc FC Moustier B
+DESCRIPTION:3e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1be9ef32aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:FC Malonne 2000 B – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-399e441834@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.U.S Pesche A – RES Philippeville A
+DESCRIPTION:3e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48cc6539c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R.U.S Pesche A – JS Bois-Villers
+DESCRIPTION:3e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c96d2e859@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:OC Nismes B – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f98682cfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R.U.S Pesche A – ARS Ent Floreffe
+DESCRIPTION:3e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3183ad3b6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RCS Florennois A – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 27\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d551b46f07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R.U.S Pesche A – JS Taminoise B
+DESCRIPTION:3e provinciale Namur A\nJournée 28\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26605d7c09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Spy B – R.U.S Pesche A
+DESCRIPTION:3e provinciale Namur A\nJournée 29\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5efe655ef3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.U.S Pesche A – U.S. Flavion-Morialmé B
+DESCRIPTION:3e provinciale Namur A\nJournée 30\nhttps://goalio.be/fr/equip
+ e/r-u-s-pesche-a/
+URL:https://goalio.be/fr/equipe/r-u-s-pesche-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

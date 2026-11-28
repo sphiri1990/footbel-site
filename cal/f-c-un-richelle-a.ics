@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. UN Richelle A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bbc721e994@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Aywaille F.C. A 2-1 F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/r-aywaille-f-c-
+ a-f-c-un-richelle-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-aywaille-f-c-a-f-c-un-richelle-a-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03f41dff31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:F.C. UN Richelle A 0-2 C.S. Entité Manageoise
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/f-c-un-richelle
+ -a-c-s-entite-manageoise-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-un-richelle-a-c-s-entite-manageoise-2026
+ -11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af7c8fd567@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Ganshoren 0-2 F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/fc-ganshoren-f-
+ c-un-richelle-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-ganshoren-f-c-un-richelle-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-090f172240@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:F.C. UN Richelle A – Entente Acren Lessines
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/f-c-un-richelle
+ -a-entente-acren-lessines-2026-11-21/
+URL:https://goalio.be/fr/match/f-c-un-richelle-a-entente-acren-lessines-202
+ 6-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-33b831e458@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:F.C. UN Richelle A – Royale Union Hutoise
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/f-c-un-richelle
+ -a-royale-union-hutoise-2026-11-28/
+URL:https://goalio.be/fr/match/f-c-un-richelle-a-royale-union-hutoise-2026-
+ 11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ef96f9364@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Stade Vervietois – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aa723fd7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:F.C. UN Richelle A – Royal Stockay Saint-Georges S/M
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eec4c53df7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C. UN Richelle A – RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fb1d078ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Union Namur A – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e628de3c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:F.C. UN Richelle A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfca6291d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bacea1c5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. UN Richelle A – Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34de54980f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45557cce47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. UN Richelle A – K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-baf0f35fb4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.U.S. Binche – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e6779a01f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:F.C. UN Richelle A – SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1524dca07c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:RFC Un. La Calamine – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-959657b4ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. UN Richelle A – R. Aywaille F.C. A
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-779a6b13df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:C.S. Entité Manageoise – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2efedffbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T144500Z
+SUMMARY:F.C. UN Richelle A – FC Ganshoren
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76b2118d09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Entente Acren Lessines – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1cdc914e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Royale Union Hutoise – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c6344e76e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. UN Richelle A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4fa68a46d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/f-c-un-richell
+ e-a/
+URL:https://goalio.be/fr/equipe/f-c-un-richelle-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

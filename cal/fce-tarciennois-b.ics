@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FCE Tarciennois B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fce-tarciennois-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-594ad1ff32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RFC Bioul 81 B 4-2 FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /rfc-bioul-81-b-fce-tarciennois-b-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-bioul-81-b-fce-tarciennois-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46506d4a47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FCE Tarciennois B – US Auvelais A (remis)
+DESCRIPTION:4e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /fce-tarciennois-b-us-auvelais-a-2026-11-22/
+URL:https://goalio.be/fr/match/fce-tarciennois-b-us-auvelais-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-775da83f10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:JS Falisolle-Aisemont B – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e686e1e34b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:FCE Tarciennois B – FC Mesnilois
+DESCRIPTION:4e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e3b8c39c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RFC Somzée B – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-814f75b0f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FCE Tarciennois B – R Ham FC B
+DESCRIPTION:4e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-968b3a4a43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Espoir Sportif Fraire B – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-865bac4080@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FCE Tarciennois B – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e02bef1607@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Celtic Denée Foot – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 20\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-966d6f7875@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FCE Tarciennois B – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d2f90e4f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3bab093623@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FCE Tarciennois B – U St-Gérard B
+DESCRIPTION:4e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bab5ec3fa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:US Auvelais A – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7edeba9be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FCE Tarciennois B – RFC Bioul 81 B
+DESCRIPTION:4e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/fce-tarciennois-b/
+URL:https://goalio.be/fr/equipe/fce-tarciennois-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

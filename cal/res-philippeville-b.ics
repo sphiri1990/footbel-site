@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RES Philippeville B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/res-philippeville-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1e80aa46d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:E Sp Viroin-Olloy 0-13 RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /e-sp-viroin-olloy-res-philippeville-b-2026-11-01/
+URL:https://goalio.be/fr/match/e-sp-viroin-olloy-res-philippeville-b-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07eb010c10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire B 2-0 RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /es-couvin-mariemb-fraire-b-res-philippeville-b-2026-11-14/
+URL:https://goalio.be/fr/match/es-couvin-mariemb-fraire-b-res-philippeville
+ -b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ca5937e17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RES Philippeville B – Ent. Dionaise (remis)
+DESCRIPTION:4e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /res-philippeville-b-ent-dionaise-2026-11-21/
+URL:https://goalio.be/fr/match/res-philippeville-b-ent-dionaise-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50402fda3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Sporting Club Graide – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43b334c9d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RES Philippeville B – R.U.S Pesche B
+DESCRIPTION:4e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-353e4e9c7d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RFC Surice B – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2b40b0a83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:RES Philippeville B – US Viroin-Treignes
+DESCRIPTION:4e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d51d7b5e00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:St Cl Feschaux – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-034546187e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:RES Philippeville B – ES Des Frontières
+DESCRIPTION:4e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93fc88050a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RES Philippeville B – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6977ab430f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RUS Pondrome B – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d06d685f29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Rienne Sp – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38e20b37ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RES Philippeville B – E Sp Viroin-Olloy
+DESCRIPTION:4e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cfc45807e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Ent. Dionaise – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dafd8b1513@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RES Philippeville B – ES Couvin-Mariemb Fraire B
+DESCRIPTION:4e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/res-philippeville-b/
+URL:https://goalio.be/fr/equipe/res-philippeville-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

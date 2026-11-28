@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VC Bertem-Leefdaal B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-08ffe2b81b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:KV Tremelo 5-3 VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/kv-tremelo-vc-bertem-leefdaal-b-2026-10-31/
+URL:https://goalio.be/fr/match/kv-tremelo-vc-bertem-leefdaal-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce031fdfa8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:VC Bertem-Leefdaal B 1-4 Sp. Rotselaar B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/vc-bertem-leefdaal-b-sp-rotselaar-b-2026-11-07/
+URL:https://goalio.be/fr/match/vc-bertem-leefdaal-b-sp-rotselaar-b-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa31c35188@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Sporting Kampenhout B – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/sporting-kampenhout-b-vc-bertem-leefdaal-b-2026-11-14/
+URL:https://goalio.be/fr/match/sporting-kampenhout-b-vc-bertem-leefdaal-b-2
+ 026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3df4fd9d1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:VC Bertem-Leefdaal B 3-2 VK Berg-Op
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/vc-bertem-leefdaal-b-vk-berg-op-2026-11-21/
+URL:https://goalio.be/fr/match/vc-bertem-leefdaal-b-vk-berg-op-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81cfc68bcf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Sp. Erps-Kwerps – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/sp-erps-kwerps-vc-bertem-leefdaal-b-2026-11-29/
+URL:https://goalio.be/fr/match/sp-erps-kwerps-vc-bertem-leefdaal-b-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b46ec8a35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:VC Bertem-Leefdaal B – OHR Huldenberg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edbcb23ccd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Baal A – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afb55991c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:K. Ol. Wijgmaal B – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fc72d4a98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:VC Bertem-Leefdaal B – KFC Herent B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-708b91359a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VK Berg-Op – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-955208dad9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:VC Bertem-Leefdaal B – SK Plenke Werchter
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a8a2be7932@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:VC Bertem-Leefdaal B – Sporting Kampenhout B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2dfefe8b53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Gr. Vossem A – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53ac21e8b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:VC Bertem-Leefdaal B – Sp. Erps-Kwerps
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e05273c7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Rap. Wezemaal – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3716c82d0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:VC Bertem-Leefdaal B – KV Tremelo
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08784ad830@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:Sp. Rotselaar B – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-216cea4514@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:OHR Huldenberg B – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c7a8b51e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:VC Bertem-Leefdaal B – KNV Keerbergen
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b71b3b571@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Eendr. Eizer – VC Bertem-Leefdaal B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f645d73700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Bertem-Leefdaal B – KV Tervuren-Duisburg B
+DESCRIPTION:3e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vc-bertem-leefdaal-b/
+URL:https://goalio.be/fr/equipe/vc-bertem-leefdaal-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

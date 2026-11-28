@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Sougne-Remouch. Sp. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-6b35c05968@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.S.C. Tilffois 0-3 R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-s-c-tilffois-4-prov-b-liege-r-sougne-remouch-sp-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-c-tilffois-4-prov-b-liege-r-sougne-remou
+ ch-sp-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2af0cbba6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Sougne-Remouch. Sp. 4-2 R. Fraiture F.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-sougne-remouch-sp-r-fraiture-f-c-2026-11-08/
+URL:https://goalio.be/fr/match/r-sougne-remouch-sp-r-fraiture-f-c-2026-11-0
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d65bf4bd13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:RCS Xhorisien 4-5 R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 13\nhttps://goalio.be/fr/matc
+ h/rcs-xhorisien-4-prov-b-liege-r-sougne-remouch-sp-2026-11-15/
+URL:https://goalio.be/fr/match/rcs-xhorisien-4-prov-b-liege-r-sougne-remouc
+ h-sp-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f28da2b7d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Sougne-Remouch. Sp. – R.S.C. Modave (remis)
+DESCRIPTION:4e provinciale Liège B\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-sougne-remouch-sp-r-s-c-modave-2026-11-22/
+URL:https://goalio.be/fr/match/r-sougne-remouch-sp-r-s-c-modave-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a1df399d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:U.S. Ferrières – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 15\nhttps://goalio.be/fr/matc
+ h/u-s-ferrieres-r-sougne-remouch-sp-2026-11-29/
+URL:https://goalio.be/fr/match/u-s-ferrieres-r-sougne-remouch-sp-2026-11-29
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb60ffcf71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:C.S. D'Ocquier – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4b0f4f19b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Sougne-Remouch. Sp. – R. Fraiture SP B
+DESCRIPTION:4e provinciale Liège B\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ed83a1e61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Apicoles Tilffois – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bba3bf7d6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R. Sougne-Remouch. Sp. – Groupe De Poulseur
+DESCRIPTION:4e provinciale Liège B\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac59851c10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R. Harzé F.C. B – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7c63d2bfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Sougne-Remouch. Sp. – R. All. Clavinoise S.C.
+DESCRIPTION:4e provinciale Liège B\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d74d641709@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Sougne-Remouch. Sp. – R. Marchin Sport B
+DESCRIPTION:4e provinciale Liège B\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf24353dc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Sougne-Remouch. Sp. – Jeunesse MSN Tilleur B
+DESCRIPTION:4e provinciale Liège B\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71920f6a29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Celtic Chaudfontaine FC – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c3495f643@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Sougne-Remouch. Sp. – R.S.C. Tilffois
+DESCRIPTION:4e provinciale Liège B\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d7f7681f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Fraiture F.C. – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-434b465e1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Sougne-Remouch. Sp. – RCS Xhorisien
+DESCRIPTION:4e provinciale Liège B\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04c0921939@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.S.C. Modave – R. Sougne-Remouch. Sp.
+DESCRIPTION:4e provinciale Liège B\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7d9244161@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Sougne-Remouch. Sp. – U.S. Ferrières
+DESCRIPTION:4e provinciale Liège B\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-sougne-remouch-sp/
+URL:https://goalio.be/fr/equipe/r-sougne-remouch-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

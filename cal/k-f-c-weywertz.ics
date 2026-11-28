@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.F.C. Weywertz · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-f-c-weywertz/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bb8cf1e18a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K.F.C. Weywertz 2-0 R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 11\nhttps://goalio.be/fr/match
+ /k-f-c-weywertz-r-etoile-sp-dalhemoise-2026-11-01/
+URL:https://goalio.be/fr/match/k-f-c-weywertz-r-etoile-sp-dalhemoise-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-baa7bbb0ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Royal Football Club Wallonia Hannut 3-0 K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 12\nhttps://goalio.be/fr/match
+ /royal-football-club-wallonia-hannut-k-f-c-weywertz-2026-11-08/
+URL:https://goalio.be/fr/match/royal-football-club-wallonia-hannut-k-f-c-we
+ ywertz-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3ebdccc90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:K.F.C. Weywertz 3-0 F.C. Welkenraedt
+DESCRIPTION:1re provinciale Liège\nJournée 13\nhttps://goalio.be/fr/match
+ /k-f-c-weywertz-f-c-welkenraedt-2026-11-15/
+URL:https://goalio.be/fr/match/k-f-c-weywertz-f-c-welkenraedt-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c84386af65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.S.C. Beaufays A – K.F.C. Weywertz (remis)
+DESCRIPTION:1re provinciale Liège\nJournée 14\nhttps://goalio.be/fr/match
+ /r-s-c-beaufays-a-k-f-c-weywertz-2026-11-21/
+URL:https://goalio.be/fr/match/r-s-c-beaufays-a-k-f-c-weywertz-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d39009e15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K.F.C. Weywertz – FC. Ster Francorchamps A
+DESCRIPTION:1re provinciale Liège\nJournée 15\nhttps://goalio.be/fr/match
+ /k-f-c-weywertz-fc-ster-francorchamps-a-2026-11-29/
+URL:https://goalio.be/fr/match/k-f-c-weywertz-fc-ster-francorchamps-a-2026-
+ 11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79ecf5c93e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:K.F.C. Weywertz – Etoile De Faimes
+DESCRIPTION:1re provinciale Liège\nJournée 16\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48ec314879@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Herve F.C. – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 17\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3329749ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:K.F.C. Weywertz – RCS Xhorisien
+DESCRIPTION:1re provinciale Liège\nJournée 18\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02d9ba3da2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:JS Fizoise – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 19\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9093b6d808@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 20\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f641c76f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:K.F.C. Weywertz – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 21\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-126b37e319@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Espoir Minerois – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 22\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e4246ecb7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.F.C. Weywertz – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 23\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2006e49301@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Warsage – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 24\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1b9c4ef1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K.F.C. Weywertz – R.F.C. Croatia Wandre A
+DESCRIPTION:1re provinciale Liège\nJournée 25\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30e6ee37e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 26\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90f899e03d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K.F.C. Weywertz – Royal Football Club Wallonia Hannut
+DESCRIPTION:1re provinciale Liège\nJournée 27\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcd451770a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Welkenraedt – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 28\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ce64b4e41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.F.C. Weywertz – R.S.C. Beaufays A
+DESCRIPTION:1re provinciale Liège\nJournée 29\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3647b0e91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC. Ster Francorchamps A – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 30\nhttps://goalio.be/fr/equip
+ e/k-f-c-weywertz/
+URL:https://goalio.be/fr/equipe/k-f-c-weywertz/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

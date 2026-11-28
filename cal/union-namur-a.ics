@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Union Namur A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/union-namur-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ddfb5e1987@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A 1-1 Union Namur A
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/u-st-ghisl-tert
+ re-hautr-a-union-namur-a-2026-11-01/
+URL:https://goalio.be/fr/match/u-st-ghisl-tertre-hautr-a-union-namur-a-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-470553e576@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Union Namur A 1-3 K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/union-namur-a-k
+ -a-s-eupen-b-2026-11-08/
+URL:https://goalio.be/fr/match/union-namur-a-k-a-s-eupen-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70978cd003@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.U.S. Binche 2-0 Union Namur A
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/r-u-s-binche-un
+ ion-namur-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-u-s-binche-union-namur-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4d90ed289@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Union Namur A 0-0 SB Stade Mouscronnois A
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/union-namur-a-s
+ b-stade-mouscronnois-a-2026-11-22/
+URL:https://goalio.be/fr/match/union-namur-a-sb-stade-mouscronnois-a-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e37cec0ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:RFC Un. La Calamine – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/rfc-un-la-calam
+ ine-union-namur-a-2026-11-28/
+URL:https://goalio.be/fr/match/rfc-un-la-calamine-union-namur-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58d974937d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Union Namur A – R. Aywaille F.C. A
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e992917305@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:C.S. Entité Manageoise – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe76197b11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:FC Ganshoren – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fb1d078ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Union Namur A – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09d66cf8a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Royale Union Hutoise – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-437c804ea5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Union Namur A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a4f1df688@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9da57d29ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T133000Z
+DTEND:20270207T151500Z
+SUMMARY:Union Namur A – RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab26e42558@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Union Namur A – Entente Acren Lessines
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bca8ee0f21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSD Jette A – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e55f5084@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Union Namur A – CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-507a78cbd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Crossing Schaerbeek – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02876e8acd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:Union Namur A – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d7e73154a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K.A.S. Eupen B – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17a5439145@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T190000Z
+DTEND:20270327T204500Z
+SUMMARY:Union Namur A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7d325b0dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:SB Stade Mouscronnois A – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2c75a85f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Union Namur A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2c4b4b5b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Aywaille F.C. A – Union Namur A
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f976b6952e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Namur A – C.S. Entité Manageoise
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/union-namur-a/
+URL:https://goalio.be/fr/equipe/union-namur-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

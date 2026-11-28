@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSC Ixelles · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rsc-ixelles/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-eb1f80877b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T193000Z
+DTEND:20261031T211500Z
+SUMMARY:RSC Ixelles 0-2 FC M. Uccle A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 10\nhttps:/
+ /goalio.be/fr/match/rsc-ixelles-fc-m-uccle-a-2026-10-31/
+URL:https://goalio.be/fr/match/rsc-ixelles-fc-m-uccle-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88cbb8d680@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:A.S.A. Molenbeek A 2-0 RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/a-s-a-molenbeek-a-rsc-ixelles-2026-11-08/
+URL:https://goalio.be/fr/match/a-s-a-molenbeek-a-rsc-ixelles-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e529dd18de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Saint-Josse 0-6 RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/fc-saint-josse-rsc-ixelles-2026-11-15/
+URL:https://goalio.be/fr/match/fc-saint-josse-rsc-ixelles-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4769236d31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:RSC Ixelles 0-1 Aca. Jeun. Molenbeek A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/match/rsc-ixelles-aca-jeun-molenbeek-a-2026-11-21/
+URL:https://goalio.be/fr/match/rsc-ixelles-aca-jeun-molenbeek-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2aa78203fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RRC Etterbeek B – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/match/rrc-etterbeek-b-rsc-ixelles-2026-11-29/
+URL:https://goalio.be/fr/match/rrc-etterbeek-b-rsc-ixelles-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be189c82b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC. Forest – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7184f17d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:RSC Ixelles – Berchem Brussels FC A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14811a5f02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:FC Amicii Bxl Jette – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-318e59d91e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:RSC Ixelles – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2a1953bef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:AS Brussels City A – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c0b7d0203@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T193000Z
+DTEND:20270130T211500Z
+SUMMARY:RSC Ixelles – Crossing Schaerbeek B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c0ff7b853@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sporting Bruxelles B – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6261bcc940@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T193000Z
+DTEND:20270220T211500Z
+SUMMARY:RSC Ixelles – Olympique Club Forestois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1274f825fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Ren. Sp. Forestoise – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc1f6145c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T193000Z
+DTEND:20270313T211500Z
+SUMMARY:RSC Ixelles – Racing White Woluwe
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-861b18830d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC M. Uccle A – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0f1e207f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T183000Z
+DTEND:20270403T201500Z
+SUMMARY:RSC Ixelles – A.S.A. Molenbeek A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ff75d78fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T183000Z
+DTEND:20270410T201500Z
+SUMMARY:RSC Ixelles – FC Saint-Josse
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65e28e99b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Aca. Jeun. Molenbeek A – RSC Ixelles
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6b6854c29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSC Ixelles – RRC Etterbeek B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/rsc-ixelles/
+URL:https://goalio.be/fr/equipe/rsc-ixelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

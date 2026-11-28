@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Houmartois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-houmartois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c5afd6142e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RFC Houmartois 1-2 R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 11\nhttps://goalio.be/fr/
+ match/rfc-houmartois-r-c-s-de-la-salm-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-houmartois-r-c-s-de-la-salm-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-988d30bfde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:ES Harre-Manhay B 3-1 RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 12\nhttps://goalio.be/fr/
+ match/es-harre-manhay-b-rfc-houmartois-2026-11-07/
+URL:https://goalio.be/fr/match/es-harre-manhay-b-rfc-houmartois-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68874b4746@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RFC Houmartois 2-0 RES Melreux-Hotton B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 13\nhttps://goalio.be/fr/
+ match/rfc-houmartois-res-melreux-hotton-b-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-houmartois-res-melreux-hotton-b-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70b1364215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Montleban – RFC Houmartois (remis)
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 14\nhttps://goalio.be/fr/
+ match/fc-montleban-rfc-houmartois-2026-11-22/
+URL:https://goalio.be/fr/match/fc-montleban-rfc-houmartois-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1b89dcb2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RFC Houmartois – CS Odeigne
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 15\nhttps://goalio.be/fr/
+ match/rfc-houmartois-cs-odeigne-2026-11-29/
+URL:https://goalio.be/fr/match/rfc-houmartois-cs-odeigne-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fce54ae8a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RFC Houmartois – FC Petit-Han A
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14563cbb37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:US Halthier B – RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb0cbb4c37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Houmartois – RJR Aye FC B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94ffc57238@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T173000Z
+DTEND:20270220T191500Z
+SUMMARY:RE Roy-Lignières-Grimbiemont B – RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f15dab564@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RSC Rendeux – RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a774fa0c17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Houmartois – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e86a27bbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RFC Houmartois – UF Waha-Marche
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d0fff0651@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.C.S. De La Salm – RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca394335cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Houmartois – ES Harre-Manhay B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-238981c0e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RES Melreux-Hotton B – RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rfc-houmartois/
+URL:https://goalio.be/fr/equipe/rfc-houmartois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Godsheide VV · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/godsheide-vv/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-36a9d89c07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Godsheide VV 4-0 Halveweg Zonhoven
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/godsheide-vv-halveweg-zonhoven-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/godsheide-vv-halveweg-zonhoven-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-149cab5780@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Godsheide VV 4-1 WS Schoonbeek-Bilzen B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/godsheide-vv-ws-schoonbeek-bilzen-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/godsheide-vv-ws-schoonbeek-bilzen-b-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5d0d6749f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Zutendaal VV A 5-2 Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/zutendaal-vv-a-godsheide-vv-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/zutendaal-vv-a-godsheide-vv-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28741c35f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Godsheide VV 2-3 E. Stevoort
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/godsheide-vv-e-stevoort-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/godsheide-vv-e-stevoort-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8411c45be2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Habo-Borgloon A – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/f-c-habo-borgloon-a-godsheide-vv-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/f-c-habo-borgloon-a-godsheide-vv-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4e89fd6a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Godsheide VV – RC Hades Kiewit B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-229135b2e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Godsheide VV – Herk Sport A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac719cf2ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:Halveweg Zonhoven – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-041804eae8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Godsheide VV – VV Nieuwerkerken
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e89ea20c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:WS Schoonbeek-Bilzen B – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d5fa3367c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Godsheide VV – Zutendaal VV A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09a2b9141f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Torpedo Hasselt B – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5a25c1242@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Godsheide VV – Daring Huvo Jeuk A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-143c5770e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Belisia Bilzen SV B – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49ab136ed2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Godsheide VV – Zonhoven United B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a0b9ecd71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:KMR Biesen B – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7319affbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Godsheide VV – F.C. Habo-Borgloon A
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5904ef1e6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:E. Stevoort – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c80289e700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:RC Hades Kiewit B – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03eac9191a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Godsheide VV – Herk-De-Stad FC B
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8b2750953@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Munsterbilzen – Godsheide VV
+DESCRIPTION:3e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/godsheide-vv/
+URL:https://goalio.be/nl/ploeg/godsheide-vv/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

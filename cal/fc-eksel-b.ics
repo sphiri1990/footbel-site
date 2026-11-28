@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Eksel B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-eksel-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-07594ea725@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Sp. Lille 2-2 FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/sp-lille-fc-eksel-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/sp-lille-fc-eksel-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06fc8020e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:KSK Meeuwen B 1-4 FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/ksk-meeuwen-b-fc-eksel-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/ksk-meeuwen-b-fc-eksel-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2953933abc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:FC Eksel B 2-2 K. Lindelhoeven VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-eksel-b-k-lindelhoeven-vv-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-eksel-b-k-lindelhoeven-vv-b-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3be2dc8da3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T164500Z
+DTEND:20261128T183000Z
+SUMMARY:N. Gruitrode B – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/n-gruitrode-b-fc-eksel-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/n-gruitrode-b-fc-eksel-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86ff92d3c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:FC Eksel B – K. Breugel-Herkol SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25722ab5d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:FC Eksel B – H. Wijshagen
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c899bbfade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:HO Molenbeersel – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48b2f624bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Sp. Grote Brogel – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff2b55ffa9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:FC Eksel B – K Peer SV
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-152097ba93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:KRC Peer B – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-943cd62319@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:FC Eksel B – N. Gruitrode B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2c2488d3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K. Breugel-Herkol SV – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9928d72b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:FC Eksel B – Lutlommel VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e8485a72a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T163000Z
+DTEND:20270306T181500Z
+SUMMARY:FC Maasland NO B – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67a1cc811e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:FC Eksel B – Esperanza Pelt B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a0e34fa8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:Hechtel FC B – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be4902507f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:FC Eksel B – KSK Meeuwen B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1aced1f0ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:K. Lindelhoeven VV B – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5f8565169@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Eksel B – Sp. Lille
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/fc-eksel-b/
+URL:https://goalio.be/nl/ploeg/fc-eksel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

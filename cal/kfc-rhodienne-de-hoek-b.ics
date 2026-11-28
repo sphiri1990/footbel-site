@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Rhodienne-De Hoek B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-10d15db36f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KV Zuun A 3-0 KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/kv-zuun-a-kfc-rhodienne-de-hoek-b-2026-11-01/
+URL:https://goalio.be/fr/match/kv-zuun-a-kfc-rhodienne-de-hoek-b-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fc88fd167@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B 3-4 KFC Wambeek Ternat B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kfc-rhodienne-de-hoek-b-kfc-wambeek-ternat-b-2026-11-07/
+URL:https://goalio.be/fr/match/kfc-rhodienne-de-hoek-b-kfc-wambeek-ternat-b
+ -2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36cb0ada55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:SK Oetingen VC A 2-2 KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/sk-oetingen-vc-a-kfc-rhodienne-de-hoek-b-2026-11-15/
+URL:https://goalio.be/fr/match/sk-oetingen-vc-a-kfc-rhodienne-de-hoek-b-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-880e1ccaca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B 3-1 KVC Asse-Terheide A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/kfc-rhodienne-de-hoek-b-kvc-asse-terheide-a-2026-11-21/
+URL:https://goalio.be/fr/match/kfc-rhodienne-de-hoek-b-kvc-asse-terheide-a-
+ 2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bee57996f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Leeuw Brucom B – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/leeuw-brucom-b-kfc-rhodienne-de-hoek-b-2026-11-28/
+URL:https://goalio.be/fr/match/leeuw-brucom-b-kfc-rhodienne-de-hoek-b-2026-
+ 11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a4cb64e91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B – NOVA Asse-Mollem B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-397867d5da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T191500Z
+DTEND:20261212T210000Z
+SUMMARY:Ritterklub Jette A – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57098c30d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B – VK Borchtlombeek A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b02e201df1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:VC Groot-Dilbeek A – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07763c5c9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Dworp – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79b3efca50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B – Leeuw Brucom B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a0d6d1254@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T184500Z
+DTEND:20270213T203000Z
+SUMMARY:BOKA United B – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-614ee9aab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B – KVK Wemmel B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7955e8b39b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KFC Wambeek Ternat B – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2505cbb55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B – L. Teralfene B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d44afaf9a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:NOVA Asse-Mollem B – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dae29726a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KFC Rhodienne-De Hoek B – KFC Av. Lembeek A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18d098a53f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KVC Asse-Terheide A – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-922ed3d310@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Rhodienne-De Hoek B – KV Zuun A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9db1bd6d24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:Emi. Essene A – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca360746e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Rhodienne-De Hoek B – SK Oetingen VC A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kfc-rhodienne-de-hoek-b/
+URL:https://goalio.be/fr/equipe/kfc-rhodienne-de-hoek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

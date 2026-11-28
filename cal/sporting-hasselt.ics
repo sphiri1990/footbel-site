@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Hasselt · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sporting-hasselt/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f4089e7879@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Club Brugge II 3-4 Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 9\nhttps://goalio.be/fr/match/c
+ lub-brugge-ii-sporting-hasselt-2026-10-31/
+URL:https://goalio.be/fr/match/club-brugge-ii-sporting-hasselt-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34e7631c10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261106T190000Z
+DTEND:20261106T204500Z
+SUMMARY:Sporting Hasselt 1-2 Patro Eisden
+DESCRIPTION:Challenger Pro League\nJournée 10\nhttps://goalio.be/fr/match/
+ sporting-hasselt-patro-eisden-2026-11-06/
+URL:https://goalio.be/fr/match/sporting-hasselt-patro-eisden-2026-11-06/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4030bcf2fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:AS Eupen 1-1 Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 11\nhttps://goalio.be/fr/match/
+ as-eupen-sporting-hasselt-2026-11-21/
+URL:https://goalio.be/fr/match/as-eupen-sporting-hasselt-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50fb129e3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T181500Z
+DTEND:20261129T200000Z
+SUMMARY:Sporting Hasselt – Liège
+DESCRIPTION:Challenger Pro League\nJournée 12\nhttps://goalio.be/fr/match/
+ sporting-hasselt-liege-2026-11-29/
+URL:https://goalio.be/fr/match/sporting-hasselt-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6372841b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:K. Lierse S.K. – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 13\nhttps://goalio.be/fr/match/
+ k-lierse-s-k-sporting-hasselt-2026-12-05/
+URL:https://goalio.be/fr/match/k-lierse-s-k-sporting-hasselt-2026-12-05/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e36e2508a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T150000Z
+DTEND:20261212T164500Z
+SUMMARY:Sporting Hasselt – RSC Anderlecht II
+DESCRIPTION:Challenger Pro League\nJournée 14\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74ee1fa4d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T150000Z
+DTEND:20261220T164500Z
+SUMMARY:Sporting Hasselt – Lokeren-Temse
+DESCRIPTION:Challenger Pro League\nJournée 15\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba65f42f5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Sporting Hasselt – Francs Borains
+DESCRIPTION:Challenger Pro League\nJournée 17\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a37fb16e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:KAA Gent II – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 18\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba1061a689@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:Patro Eisden – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 19\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6646597593@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Sporting Hasselt – Seraing United
+DESCRIPTION:Challenger Pro League\nJournée 20\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b58982e5bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Liège – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 21\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77215d3281@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Sporting Hasselt – KRC Genk II
+DESCRIPTION:Challenger Pro League\nJournée 22\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0786edc885@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:RSC Anderlecht II – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 23\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93fb5d2921@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Sporting Hasselt – AS Eupen
+DESCRIPTION:Challenger Pro League\nJournée 24\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ff30de7b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Sporting Hasselt – Excelsior Virton
+DESCRIPTION:Challenger Pro League\nJournée 25\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a744f267cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Dender – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 26\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68c089e783@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Sporting Hasselt – K. Lierse S.K.
+DESCRIPTION:Challenger Pro League\nJournée 27\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5a1834aa4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Lokeren-Temse – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 28\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46d1608727@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T180000Z
+DTEND:20270424T194500Z
+SUMMARY:Sporting Hasselt – Club Brugge II
+DESCRIPTION:Challenger Pro League\nJournée 29\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca6221f5fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T180000Z
+DTEND:20270501T194500Z
+SUMMARY:Beerschot VA – Sporting Hasselt
+DESCRIPTION:Challenger Pro League\nJournée 30\nhttps://goalio.be/fr/equipe
+ /sporting-hasselt/
+URL:https://goalio.be/fr/equipe/sporting-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

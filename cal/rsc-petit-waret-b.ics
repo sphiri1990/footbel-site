@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSC Petit-Waret B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ebaa904841@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RSC Petit-Waret B 3-2 RUS Assessoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 11\nhttps://goalio.be/fr/match
+ /rsc-petit-waret-b-rus-assessoise-b-2026-11-01/
+URL:https://goalio.be/fr/match/rsc-petit-waret-b-rus-assessoise-b-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4227d78962@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R Ent Wartet FC 3-0 RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 12\nhttps://goalio.be/fr/match
+ /r-ent-wartet-fc-rsc-petit-waret-b-2026-11-14/
+URL:https://goalio.be/fr/match/r-ent-wartet-fc-rsc-petit-waret-b-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f16bdfab4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSC Petit-Waret B – J Tavietoise B (remis)
+DESCRIPTION:4e provinciale Namur D\nJournée 13\nhttps://goalio.be/fr/match
+ /rsc-petit-waret-b-j-tavietoise-b-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-petit-waret-b-j-tavietoise-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87378c640d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC St-Martin Pessoux – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d162ddc0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RSC Petit-Waret B – RCS Faulx-les-Tombes A
+DESCRIPTION:4e provinciale Namur D\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3b8f950ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RSC Oheytois B – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f2e614ea5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RSC Petit-Waret B – Andoy Wierde FC
+DESCRIPTION:4e provinciale Namur D\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2aff925fe4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RSC Petit-Waret B – RAC Leuze-Longchamps B
+DESCRIPTION:4e provinciale Namur D\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efddb63866@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:ES Jamboise B – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8fae84a9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSC Petit-Waret B – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-761aa303f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acdbd27d80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RSC Petit-Waret B – E.S. Boninne
+DESCRIPTION:4e provinciale Namur D\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8f163e388@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Assessoise B – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e0b8023ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:J Tavietoise B – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dec87f3052@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSC Petit-Waret B – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rsc-petit-waret-b/
+URL:https://goalio.be/fr/equipe/rsc-petit-waret-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

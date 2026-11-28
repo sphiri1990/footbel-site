@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.S.A. Molenbeek · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-221682e249@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:A.S.A. Molenbeek 2-1 AS Brussels City B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 8\nhttps://
+ goalio.be/fr/match/a-s-a-molenbeek-as-brussels-city-b-2026-10-31/
+URL:https://goalio.be/fr/match/a-s-a-molenbeek-as-brussels-city-b-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c570ca89d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Aca. Jeun. Molenbeek B 4-3 A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 9\nhttps://
+ goalio.be/fr/match/aca-jeun-molenbeek-b-a-s-a-molenbeek-2026-11-08/
+URL:https://goalio.be/fr/match/aca-jeun-molenbeek-b-a-s-a-molenbeek-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70fd01b5c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T140000Z
+DTEND:20261111T154500Z
+SUMMARY:F.C. Suryoyés Bruxellois 5-2 A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 10\nhttps:/
+ /goalio.be/fr/match/f-c-suryoyes-bruxellois-a-s-a-molenbeek-2026-11-11/
+URL:https://goalio.be/fr/match/f-c-suryoyes-bruxellois-a-s-a-molenbeek-2026
+ -11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15e71e0990@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:A.S.A. Molenbeek 2-6 FC Bosanci Jette
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/a-s-a-molenbeek-fc-bosanci-jette-2026-11-14/
+URL:https://goalio.be/fr/match/a-s-a-molenbeek-fc-bosanci-jette-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16efe089b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:A.S.A. Molenbeek – NSeth Berchem (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de1975b3ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:NSeth Berchem – A.S.A. Molenbeek (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c522f2710@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:A.S.A. Molenbeek – Anneessens 25 Brussels.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf9f47709c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T170000Z
+DTEND:20270117T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64a5f92ae2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:A.S.A. Molenbeek – F.C. Suryoyés Bruxellois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b4659797e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Football Club Dawm Anderlecht – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9259e037c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:A.S.A. Molenbeek – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7169ba409@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Berchem Brussels FC – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22b310cb37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:A.S.A. Molenbeek – Racing Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6f8d026a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Black Star F.C. – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3713f5e76c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T170000Z
+DTEND:20270321T184500Z
+SUMMARY:AS Brussels City B – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f51495514b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:A.S.A. Molenbeek – Aca. Jeun. Molenbeek B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4d9f57d03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Bosanci Jette – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/a-s-a-molenbeek/
+URL:https://goalio.be/fr/equipe/a-s-a-molenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

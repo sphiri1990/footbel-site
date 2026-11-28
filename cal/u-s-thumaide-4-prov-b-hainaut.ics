@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U.S. Thumaide · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c2794adfa4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:U.S. Thumaide 1-2 F.C. Houtaing
+DESCRIPTION:4e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/u-s-thumaide-4-prov-b-hainaut-f-c-houtaing-2026-11-01/
+URL:https://goalio.be/fr/match/u-s-thumaide-4-prov-b-hainaut-f-c-houtaing-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41a74005e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:A.C. Anvaing 1-2 U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/a-c-anvaing-u-s-thumaide-4-prov-b-hainaut-2026-11-08/
+URL:https://goalio.be/fr/match/a-c-anvaing-u-s-thumaide-4-prov-b-hainaut-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e716efe2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:U.S. Thumaide 5-2 A.S. Vaudignies
+DESCRIPTION:4e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/u-s-thumaide-4-prov-b-hainaut-a-s-vaudignies-2026-11-15/
+URL:https://goalio.be/fr/match/u-s-thumaide-4-prov-b-hainaut-a-s-vaudignies
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4dbda52d17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Wodecq – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/fc-wodecq-u-s-thumaide-4-prov-b-hainaut-2026-11-22/
+URL:https://goalio.be/fr/match/fc-wodecq-u-s-thumaide-4-prov-b-hainaut-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe44847b93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:U.S. Thumaide – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/u-s-thumaide-4-prov-b-hainaut-r-c-s-lensois-2026-11-29/
+URL:https://goalio.be/fr/match/u-s-thumaide-4-prov-b-hainaut-r-c-s-lensois-
+ 2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31d57fc185@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Borina Quaregnon – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-580bfce515@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:U.S. Thumaide – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-655db96a6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.E.S.C. Horrues – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddde008999@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:U.S. Thumaide – R.U.S. Beloeil
+DESCRIPTION:4e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe30928524@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.L.C. Hornu B – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e510adf600@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:U.S. Thumaide – J.S. Isièroise
+DESCRIPTION:4e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f5efdc126@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Ellezelles B – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b18cf0aa21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:U.S. Thumaide – R.F.C. Vacresse
+DESCRIPTION:4e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-666e69f51c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R.U.S. Flobecquoise – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f977de314@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:U.S. Thumaide – Baudour A.S.C.
+DESCRIPTION:4e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72237027e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Houtaing – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ecf0b802c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U.S. Thumaide – A.C. Anvaing
+DESCRIPTION:4e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af121dd263@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:A.S. Vaudignies – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29d6bfd42c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U.S. Thumaide – FC Wodecq
+DESCRIPTION:4e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d67daf7892@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Lensois – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/u-s-thumaide-4-prov-b-hainaut/
+URL:https://goalio.be/fr/equipe/u-s-thumaide-4-prov-b-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

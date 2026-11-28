@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Ster-Francorchamps · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-267d02a1a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Ster-Francorchamps 10-0 F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/fc-ster-francorchamps-f-c-e-stembertoise-2026-10-31/
+URL:https://goalio.be/fr/match/fc-ster-francorchamps-f-c-e-stembertoise-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38f7a9d219@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten 1-0 FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-1912-raeren-eynatten-fc-ster-francorchamps-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-1912-raeren-eynatten-fc-ster-francorcham
+ ps-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d52b7c83bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Ster-Francorchamps 3-2 Alliance Des Hautes Fagnes
+DESCRIPTION:4e provinciale Liège G\nJournée 13\nhttps://goalio.be/fr/matc
+ h/fc-ster-francorchamps-alliance-des-hautes-fagnes-2026-11-14/
+URL:https://goalio.be/fr/match/fc-ster-francorchamps-alliance-des-hautes-fa
+ gnes-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d192060791@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.C.S. Jalhaytois – FC Ster-Francorchamps (remis)
+DESCRIPTION:4e provinciale Liège G\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-c-s-jalhaytois-4-prov-g-liege-fc-ster-francorchamps-2026-11-22/
+URL:https://goalio.be/fr/match/r-c-s-jalhaytois-4-prov-g-liege-fc-ster-fran
+ corchamps-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e66feb588@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Ster-Francorchamps – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 15\nhttps://goalio.be/fr/matc
+ h/fc-ster-francorchamps-r-ent-lambermont-rechain-b-2026-11-28/
+URL:https://goalio.be/fr/match/fc-ster-francorchamps-r-ent-lambermont-recha
+ in-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43ad52375f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Ster-Francorchamps – R.F.C. De Goe
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89887169b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R. Spa F.C. – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b03f84f8c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Baelen F.C. – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb08ed29fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Ster-Francorchamps – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09a9ad6db3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3c53491d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:FC Ster-Francorchamps – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9b71166f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:S.R. UN Verviers B – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67beed555e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:FC Ster-Francorchamps – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4795009ed1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C.E. Stembertoise – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9871b6717@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FC Ster-Francorchamps – F.C. 1912 Raeren-Eynatten
+DESCRIPTION:4e provinciale Liège G\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be19b22fd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Alliance Des Hautes Fagnes – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef2b38931b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Ster-Francorchamps – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9236662ccc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/fc-ster-francorchamps/
+URL:https://goalio.be/fr/equipe/fc-ster-francorchamps/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

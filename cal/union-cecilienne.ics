@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Union Cecilienne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/union-cecilienne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ec82792199@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.R.C. Longlier 1-0 Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 11\nhttps://goalio.be/fr/
+ match/r-r-c-longlier-3-prov-b-luxembourg-union-cecilienne-2026-11-01/
+URL:https://goalio.be/fr/match/r-r-c-longlier-3-prov-b-luxembourg-union-cec
+ ilienne-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b47a7e4f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Union Cecilienne 2-2 SC Villers-Dt-Orval
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 12\nhttps://goalio.be/fr/
+ match/union-cecilienne-sc-villers-dt-orval-2026-11-08/
+URL:https://goalio.be/fr/match/union-cecilienne-sc-villers-dt-orval-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1851b4f548@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:EC Jamoigne-Chiny 0-2 Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 13\nhttps://goalio.be/fr/
+ match/ec-jamoigne-chiny-union-cecilienne-2026-11-14/
+URL:https://goalio.be/fr/match/ec-jamoigne-chiny-union-cecilienne-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcc5e20554@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Union Cecilienne – U.S. Assenois (remis)
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 14\nhttps://goalio.be/fr/
+ match/union-cecilienne-u-s-assenois-2026-11-22/
+URL:https://goalio.be/fr/match/union-cecilienne-u-s-assenois-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5279d7bc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RSC Muno – Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 15\nhttps://goalio.be/fr/
+ match/rsc-muno-union-cecilienne-2026-11-29/
+URL:https://goalio.be/fr/match/rsc-muno-union-cecilienne-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-376e4d8cec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RUS Ste Marie-Semois – Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 16\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0275fdde69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Union Cecilienne – FC Namoussart
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 17\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5aed16fd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RUS Marbehan – Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 18\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-850ec48252@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Union Cecilienne – R. Standard F.C. Bouillon
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 19\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5e1a74c63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Union Cecilienne – CS Corbion
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 20\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d152123ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RUS Les Bulles – Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 21\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb0cdbcbb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Union Cecilienne – FC Tintifontaine
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 22\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2eb910f62b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Union Cecilienne – R.R.C. Longlier
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 24\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6690466394@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SC Villers-Dt-Orval – Union Cecilienne
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 25\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d2516bb74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Cecilienne – EC Jamoigne-Chiny
+DESCRIPTION:3e provinciale Luxembourg B\nJournée 26\nhttps://goalio.be/fr/
+ equipe/union-cecilienne/
+URL:https://goalio.be/fr/equipe/union-cecilienne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

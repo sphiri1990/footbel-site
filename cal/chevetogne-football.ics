@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chevetogne Football · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/chevetogne-football/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1c01f27949@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RFC Natoye 0-5 Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 12\nhttps://goalio.be/fr/match
+ /rfc-natoye-chevetogne-football-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-natoye-chevetogne-football-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f316e56d56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Chevetogne Football – RCS Schaltin (remis)
+DESCRIPTION:4e provinciale Namur E\nJournée 13\nhttps://goalio.be/fr/match
+ /chevetogne-football-rcs-schaltin-2026-11-22/
+URL:https://goalio.be/fr/match/chevetogne-football-rcs-schaltin-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11f92a562b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Entente Sommenoise – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 14\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d1c6f0272@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Chevetogne Football – Bonneville SP A
+DESCRIPTION:4e provinciale Namur E\nJournée 15\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3395b7771@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RCS Faulx-les-Tombes B – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 16\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bae3eaff3e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Chevetogne Football – RJS Leignon B
+DESCRIPTION:4e provinciale Namur E\nJournée 17\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fd5942b60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R Anhée FC B – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 18\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a214a8a480@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Chevetogne Football – RRC Havelange B
+DESCRIPTION:4e provinciale Namur E\nJournée 19\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-460b9e8ffa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:US St Hadelin-Haversin B – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 20\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c2a56f16e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Chevetogne Football – FC Achêne B
+DESCRIPTION:4e provinciale Namur E\nJournée 21\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-675622c2f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:CSE Han-Sur-Lesse B – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 22\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1591a29f4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Chevetogne Football – RFC Miécret
+DESCRIPTION:4e provinciale Namur E\nJournée 23\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6869878fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Méan B – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 24\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2e5626167@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Schaltin – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 25\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6508315c4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Chevetogne Football – RFC Natoye
+DESCRIPTION:4e provinciale Namur E\nJournée 26\nhttps://goalio.be/fr/equip
+ e/chevetogne-football/
+URL:https://goalio.be/fr/equipe/chevetogne-football/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

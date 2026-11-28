@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.A.E.C. Mons A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-dec036fdde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:R. Union St-Gilloise 4-3 R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 11\nhttps://goalio.be/fr/match/r-union-st-gill
+ oise-r-a-e-c-mons-a-2026-10-31/
+URL:https://goalio.be/fr/match/r-union-st-gilloise-r-a-e-c-mons-a-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11e122dfac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.A.E.C. Mons A 3-0 R. Standard de Liège B
+DESCRIPTION:D1 FFA\nJournée 12\nhttps://goalio.be/fr/match/r-a-e-c-mons-a-
+ r-standard-de-liege-b-2026-11-07/
+URL:https://goalio.be/fr/match/r-a-e-c-mons-a-r-standard-de-liege-b-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6c05b0ec1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:F.C. Flénu 0-2 R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 13\nhttps://goalio.be/fr/match/f-c-flenu-r-a-e
+ -c-mons-a-2026-11-14/
+URL:https://goalio.be/fr/match/f-c-flenu-r-a-e-c-mons-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-371f281137@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.A.E.C. Mons A 1-1 Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 14\nhttps://goalio.be/fr/match/r-a-e-c-mons-a-
+ sporting-du-pays-de-charleroi-2026-11-21/
+URL:https://goalio.be/fr/match/r-a-e-c-mons-a-sporting-du-pays-de-charleroi
+ -2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e67732404@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RFC Meux A – R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 15\nhttps://goalio.be/fr/match/rfc-meux-a-r-a-
+ e-c-mons-a-2026-11-28/
+URL:https://goalio.be/fr/match/rfc-meux-a-r-a-e-c-mons-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32635ac035@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R.A.E.C. Mons A – R.W.D.M. Brussels
+DESCRIPTION:D1 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/r-a-e-c-mons-a
+ /
+URL:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba07d0aded@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.A.E.C. Mons A – C.S. Onhaye
+DESCRIPTION:D1 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/r-a-e-c-mons-a
+ /
+URL:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f05dc71b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Ren. Un. Tubize-Braine-Le-Comte – R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/r-a-e-c-mons-a
+ /
+URL:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15d1677cc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.A.E.C. Mons A – R.S.C. Habay La Neuve
+DESCRIPTION:D1 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/r-a-e-c-mons-a
+ /
+URL:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-275fd8623b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:R. Olympic Club Charleroi – R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/r-a-e-c-mons-a
+ /
+URL:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-776802f5d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:R.A.E.C. Mons A – R. Union St-Gilloise
+DESCRIPTION:D1 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/r-a-e-c-mons-a
+ /
+URL:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20fb109405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Union Rochefortoise – R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/r-a-e-c-mons-a
+ /
+URL:https://goalio.be/fr/equipe/r-a-e-c-mons-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

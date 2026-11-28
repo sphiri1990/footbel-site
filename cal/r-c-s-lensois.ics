@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. Lensois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-lensois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ad33db83d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.C.S. Lensois 4-2 A.S. Vaudignies
+DESCRIPTION:4e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-c-s-lensois-a-s-vaudignies-2026-11-01/
+URL:https://goalio.be/fr/match/r-c-s-lensois-a-s-vaudignies-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb45faa4bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:J.S. Isièroise 3-1 R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/j-s-isieroise-r-c-s-lensois-2026-11-08/
+URL:https://goalio.be/fr/match/j-s-isieroise-r-c-s-lensois-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3955833cda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.C.S. Lensois 4-1 FC Wodecq
+DESCRIPTION:4e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-c-s-lensois-fc-wodecq-2026-11-15/
+URL:https://goalio.be/fr/match/r-c-s-lensois-fc-wodecq-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d4d20fe31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.C.S. Lensois – R.F.C. Ellezelles B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-c-s-lensois-r-f-c-ellezelles-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-c-s-lensois-r-f-c-ellezelles-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe44847b93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:U.S. Thumaide – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/u-s-thumaide-4-prov-b-hainaut-r-c-s-lensois-2026-11-29/
+URL:https://goalio.be/fr/match/u-s-thumaide-4-prov-b-hainaut-r-c-s-lensois-
+ 2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-519500e1fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.F.C. Vacresse – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-506d085081@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.C.S. Lensois – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87fb7047cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R.U.S. Flobecquoise – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83f6bfac73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.C.S. Lensois – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54221ffa56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Baudour A.S.C. – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3353473c8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.C.S. Lensois – R.E.S.C. Horrues
+DESCRIPTION:4e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96fd2b091e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Houtaing – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5eb07c89dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.C.S. Lensois – R.U.S. Beloeil
+DESCRIPTION:4e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f365942847@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:A.C. Anvaing – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c32c68c564@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.C.S. Lensois – R.L.C. Hornu B
+DESCRIPTION:4e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63cdcf49a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:A.S. Vaudignies – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d9b9c4598@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.C.S. Lensois – J.S. Isièroise
+DESCRIPTION:4e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e73f8ce62@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Wodecq – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11668de5bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. Ellezelles B – R.C.S. Lensois
+DESCRIPTION:4e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d67daf7892@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. Lensois – U.S. Thumaide
+DESCRIPTION:4e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-c-s-lensois/
+URL:https://goalio.be/fr/equipe/r-c-s-lensois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

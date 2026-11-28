@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUS Loyers A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rus-loyers-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-122552a36f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:JS Taminoise A 1-3 RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 11\nhttps://goalio.be/fr/match/
+ js-taminoise-a-rus-loyers-a-2026-11-01/
+URL:https://goalio.be/fr/match/js-taminoise-a-rus-loyers-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-368ec28b53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:RUS Loyers A 5-1 RFC Spy A
+DESCRIPTION:1re provinciale Namur\nJournée 12\nhttps://goalio.be/fr/match/
+ rus-loyers-a-rfc-spy-a-2026-11-07/
+URL:https://goalio.be/fr/match/rus-loyers-a-rfc-spy-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffbb507ca5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:US Beauraing 61 A 0-2 RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 13\nhttps://goalio.be/fr/match/
+ us-beauraing-61-a-rus-loyers-a-2026-11-14/
+URL:https://goalio.be/fr/match/us-beauraing-61-a-rus-loyers-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-022d947bb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RUS Loyers A – AC Lustin A (remis)
+DESCRIPTION:1re provinciale Namur\nJournée 14\nhttps://goalio.be/fr/match/
+ rus-loyers-a-ac-lustin-a-2026-11-21/
+URL:https://goalio.be/fr/match/rus-loyers-a-ac-lustin-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f07e82920f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:OC Nismes A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 15\nhttps://goalio.be/fr/match/
+ oc-nismes-a-rus-loyers-a-2026-11-29/
+URL:https://goalio.be/fr/match/oc-nismes-a-rus-loyers-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-458e59c1be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R St Gedinnois A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 16\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ccbb80a25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RUS Loyers A – RFC Meux B
+DESCRIPTION:1re provinciale Namur\nJournée 17\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-861c11e565@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RJ Aischoise A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 18\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a1d8bc067@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:RUS Loyers A – RCS Condruzien A
+DESCRIPTION:1re provinciale Namur\nJournée 19\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c52450e9b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RUS Loyers A – Chevetogne Foot A
+DESCRIPTION:1re provinciale Namur\nJournée 20\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7ada357f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Ligny A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 21\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b70a1cb83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RUS Loyers A – RFC Grand-Leez A
+DESCRIPTION:1re provinciale Namur\nJournée 22\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f96b40b5e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:FC Naninnois A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 23\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9e4f5ef7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RUS Loyers A – Union Bossière Gembloux A
+DESCRIPTION:1re provinciale Namur\nJournée 24\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-960c8a9dfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.U.S. Dinantaise A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 25\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f74309b71d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Loyers A – JS Taminoise A
+DESCRIPTION:1re provinciale Namur\nJournée 26\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97f04995de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RFC Spy A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 27\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-254b8afde6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RUS Loyers A – US Beauraing 61 A
+DESCRIPTION:1re provinciale Namur\nJournée 28\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a448862655@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:AC Lustin A – RUS Loyers A
+DESCRIPTION:1re provinciale Namur\nJournée 29\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e13bb22864@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUS Loyers A – OC Nismes A
+DESCRIPTION:1re provinciale Namur\nJournée 30\nhttps://goalio.be/fr/equipe
+ /rus-loyers-a/
+URL:https://goalio.be/fr/equipe/rus-loyers-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

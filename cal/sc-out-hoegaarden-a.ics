@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SC Out-Hoegaarden A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4fe0aab7a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KSC Grimbergen A 3-0 SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 10\nhttps://goalio.be
+ /fr/match/ksc-grimbergen-a-sc-out-hoegaarden-a-2026-11-01/
+URL:https://goalio.be/fr/match/ksc-grimbergen-a-sc-out-hoegaarden-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d34d56978@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:SC Out-Hoegaarden A 3-4 SK Pepingen-Halle A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 11\nhttps://goalio.be
+ /fr/match/sc-out-hoegaarden-a-sk-pepingen-halle-a-2026-11-08/
+URL:https://goalio.be/fr/match/sc-out-hoegaarden-a-sk-pepingen-halle-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d647f95824@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:KFC Herent A 2-2 SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 12\nhttps://goalio.be
+ /fr/match/kfc-herent-a-sc-out-hoegaarden-a-2026-11-14/
+URL:https://goalio.be/fr/match/kfc-herent-a-sc-out-hoegaarden-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a179259ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:ERC Hoeilaart A 1-0 SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 13\nhttps://goalio.be
+ /fr/match/erc-hoeilaart-a-sc-out-hoegaarden-a-2026-11-22/
+URL:https://goalio.be/fr/match/erc-hoeilaart-a-sc-out-hoegaarden-a-2026-11-
+ 22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22483b38d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:SC Out-Hoegaarden A – Eendr. Mazenzele Opwijk A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 14\nhttps://goalio.be
+ /fr/match/sc-out-hoegaarden-a-eendr-mazenzele-opwijk-a-2026-11-29/
+URL:https://goalio.be/fr/match/sc-out-hoegaarden-a-eendr-mazenzele-opwijk-a
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd04a9db96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:HO Bierbeek A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 15\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47b8f8521b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:SC Out-Hoegaarden A – KSC Grimbergen A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 16\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4885ca141@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:SK Pepingen-Halle A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 17\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0642991e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:SC Out-Hoegaarden A – HO Wolvertem Merchtem
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 18\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34b7d2a25a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:KVK Wemmel A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 19\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c3083d60f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SC Out-Hoegaarden A – BOKA United A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 20\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d20e1dbef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:SC Out-Hoegaarden A – KVV Kester-Gooik A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 21\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a28b378fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:VK Holsbeek A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 22\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3144f36161@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:SC Out-Hoegaarden A – KV Tervuren-Duisburg A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 23\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92c14263e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T133000Z
+DTEND:20270307T151500Z
+SUMMARY:Fenixx Beigem Humbeek A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 24\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8d703c414@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:SC Out-Hoegaarden A – KFC Herent A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 25\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6db5d5b78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KHO Huizingen A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 26\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca4066a5e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:SC Out-Hoegaarden A – HO Bierbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 27\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3be183321c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T153000Z
+DTEND:20270410T171500Z
+SUMMARY:Eendr. Mazenzele Opwijk A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 28\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1223d31dd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:SC Out-Hoegaarden A – ERC Hoeilaart A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 29\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6560ff4dc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sporting Kampenhout A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 30\nhttps://goalio.be
+ /fr/equipe/sc-out-hoegaarden-a/
+URL:https://goalio.be/fr/equipe/sc-out-hoegaarden-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

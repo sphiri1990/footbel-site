@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Vliermaal · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-vliermaal/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-19281099e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:KMR Biesen A 6-1 FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/kmr-biesen-a-fc-vliermaal-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kmr-biesen-a-fc-vliermaal-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e8636067a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Vliermaal 2-3 Juve Hasselt A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-vliermaal-juve-hasselt-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-vliermaal-juve-hasselt-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f945ebcdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:SK Moelingen 5-0 FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/sk-moelingen-fc-vliermaal-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/sk-moelingen-fc-vliermaal-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6521ad8ee4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Vliermaal 0-7 HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-vliermaal-ho-heide-hasselt-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-vliermaal-ho-heide-hasselt-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf6dee55d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. Zw. FC Wiemismeer Zutend A – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-zw-fc-wiemismeer-zutend-a-fc-vliermaal-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-zw-fc-wiemismeer-zutend-a-fc-vliermaal
+ -2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62cf9c1a39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Vliermaal – Sp. Kolmont
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d296018b14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:V. 's Herenelderen A – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bb11c0bc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:FC Diepenbeek A – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-233290a0df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Vliermaal – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e025363dab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:HO Heide Hasselt – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bebd018fb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Vliermaal – WS Linkhout A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6149f6d5c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Vliermaal – SK Moelingen
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2eafdab36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:UNICO Tongeren A – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6523fb9be3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Vliermaal – K. Zw. FC Wiemismeer Zutend A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca2d03935c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:E. Mech Bovelingen Opheers – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df7ad351e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Vliermaal – KMR Biesen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a44c111823@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Juve Hasselt A – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7be37328b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Sp. Kolmont – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-583ff3f366@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Vliermaal – HIH Hoepertingen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6953e18fee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:VV Lummen A – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7c207a126@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Vliermaal – Lanaken VV A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/fc-vliermaal/
+URL:https://goalio.be/nl/ploeg/fc-vliermaal/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

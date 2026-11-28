@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U. Africa F.C. Bruxelles · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-73d50e227b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Black Star F.C. 3-4 U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 8\nhttps://
+ goalio.be/fr/match/black-star-f-c-u-africa-f-c-bruxelles-2026-11-01/
+URL:https://goalio.be/fr/match/black-star-f-c-u-africa-f-c-bruxelles-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd2d71b590@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T170000Z
+DTEND:20261108T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – F.C. Suryoyés Bruxellois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 9\nhttps://
+ goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb623f0c00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Football Club Dawm Anderlecht 2-1 U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/football-club-dawm-anderlecht-u-africa-f-c-bruxelles-2
+ 026-11-15/
+URL:https://goalio.be/fr/match/football-club-dawm-anderlecht-u-africa-f-c-b
+ ruxelles-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04295efa12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T170000Z
+DTEND:20261122T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – F.C. Anderlecht Sport Milan
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 12\nhttps:/
+ /goalio.be/fr/match/u-africa-f-c-bruxelles-f-c-anderlecht-sport-milan-2026
+ -11-22/
+URL:https://goalio.be/fr/match/u-africa-f-c-bruxelles-f-c-anderlecht-sport-
+ milan-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f7ed4a5fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Berchem Brussels FC – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/berchem-brussels-fc-u-africa-f-c-bruxelles-2026-11-28/
+URL:https://goalio.be/fr/match/berchem-brussels-fc-u-africa-f-c-bruxelles-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46ff51826a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:F.C. Anderlecht Sport Milan – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94ad49fe24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – Berchem Brussels FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3c9a45c23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Racing Club Forestois – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf9f47709c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T170000Z
+DTEND:20270117T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – A.S.A. Molenbeek
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54a3510273@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T170000Z
+DTEND:20270124T184500Z
+SUMMARY:AS Brussels City B – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71534cd76c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T170000Z
+DTEND:20270131T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – Aca. Jeun. Molenbeek B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bfae46338@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:FC Bosanci Jette – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6c4223e20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:NSeth Berchem – U. Africa F.C. Bruxelles (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36e620b0ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T170000Z
+DTEND:20270314T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – Anneessens 25 Brussels.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5863a5696c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T170000Z
+DTEND:20270321T184500Z
+SUMMARY:U. Africa F.C. Bruxelles – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-44f05ed2a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Suryoyés Bruxellois – U. Africa F.C. Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd373f497a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:U. Africa F.C. Bruxelles – Football Club Dawm Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+URL:https://goalio.be/fr/equipe/u-africa-f-c-bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

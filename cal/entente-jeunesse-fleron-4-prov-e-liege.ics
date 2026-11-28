@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entente Jeunesse Fleron · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-l
+ iege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e19167714c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Entente Jeunesse Fleron 1-0 R.F.C. Barchon
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/entente-jeunesse-fleron-4-prov-e-liege-r-f-c-barchon-2026-11-08/
+URL:https://goalio.be/fr/match/entente-jeunesse-fleron-4-prov-e-liege-r-f-c
+ -barchon-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63350b7aee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T144500Z
+SUMMARY:R.J.S. Olnoise 0-2 Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-j-s-olnoise-4-prov-e-liege-entente-jeunesse-fleron-4-prov-e-liege-2026
+ -11-15/
+URL:https://goalio.be/fr/match/r-j-s-olnoise-4-prov-e-liege-entente-jeuness
+ e-fleron-4-prov-e-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d23be197e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Entente Jeunesse Fleron – F.C. Jupille (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/entente-jeunesse-fleron-4-prov-e-liege-f-c-jupille-4-prov-e-liege-2026-1
+ 1-22/
+URL:https://goalio.be/fr/match/entente-jeunesse-fleron-4-prov-e-liege-f-c-j
+ upille-4-prov-e-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4619c32d70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.A.C. Hombourg – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-a-c-hombourg-4-prov-e-liege-entente-jeunesse-fleron-4-prov-e-liege-202
+ 6-11-29/
+URL:https://goalio.be/fr/match/r-a-c-hombourg-4-prov-e-liege-entente-jeunes
+ se-fleron-4-prov-e-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6efc5a109@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e663647537@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Entente Jeunesse Fleron – U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-298dbe10c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Jeunesse Houssoise – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5edc78a5fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Entente Jeunesse Fleron – R.J. Magnétoise
+DESCRIPTION:4e provinciale Liège E\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8245d6729@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Entente Jeunesse Fleron – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-880467f4ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:R.F.C. Soumagne – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecdc07fd91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Entente Jeunesse Fleron – Union Aubeloise B
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0535d44704@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Trois-Frontières – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd6c7a5de3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Entente Jeunesse Fleron – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61605a0f97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Barchon – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e19b311113@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Entente Jeunesse Fleron – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47de4073df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Jupille – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a99841872@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Entente Jeunesse Fleron – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/entente-jeunesse-fleron-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/entente-jeunesse-fleron-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

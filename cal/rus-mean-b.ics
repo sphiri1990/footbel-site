@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUS Méan B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rus-mean-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bb6cca56f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:Bonneville SP A 1-1 RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 12\nhttps://goalio.be/fr/match
+ /bonneville-sp-a-rus-mean-b-2026-11-14/
+URL:https://goalio.be/fr/match/bonneville-sp-a-rus-mean-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b854f690af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RUS Méan B – RFC Natoye (remis)
+DESCRIPTION:4e provinciale Namur E\nJournée 13\nhttps://goalio.be/fr/match
+ /rus-mean-b-rfc-natoye-2026-11-21/
+URL:https://goalio.be/fr/match/rus-mean-b-rfc-natoye-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8ec4e1632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RJS Leignon B – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9e51baadc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RUS Méan B – RRC Havelange B
+DESCRIPTION:4e provinciale Namur E\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f5bcd9f97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:FC Achêne B – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fafe92ea5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:RUS Méan B – RFC Miécret
+DESCRIPTION:4e provinciale Namur E\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d926cca79a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RCS Schaltin – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15ed43f5d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:RUS Méan B – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3714ea45b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RCS Faulx-les-Tombes B – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85d5fa1155@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:RUS Méan B – R Anhée FC B
+DESCRIPTION:4e provinciale Namur E\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce6a902147@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:US St Hadelin-Haversin B – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-356ba0c239@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RUS Méan B – CSE Han-Sur-Lesse B
+DESCRIPTION:4e provinciale Namur E\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6869878fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RUS Méan B – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c021973f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Natoye – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd9b203090@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUS Méan B – Bonneville SP A
+DESCRIPTION:4e provinciale Namur E\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rus-mean-b/
+URL:https://goalio.be/fr/equipe/rus-mean-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

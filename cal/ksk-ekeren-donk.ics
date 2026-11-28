@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK Ekeren Donk · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1ad34447ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KSOC Maria Ter Heide 1-3 KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/ksoc-maria-ter-heide-ksk-ekeren-donk-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/ksoc-maria-ter-heide-ksk-ekeren-donk-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f06e55c32d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:KSK Ekeren Donk 4-0 SV Noorse
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksk-ekeren-donk-sv-noorse-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/ksk-ekeren-donk-sv-noorse-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54bf53e0d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T160000Z
+DTEND:20261114T174500Z
+SUMMARY:K. Gooreind VV B 1-1 KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-gooreind-vv-b-ksk-ekeren-donk-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-gooreind-vv-b-ksk-ekeren-donk-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0568498f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:KSK Ekeren Donk 5-1 KFC Brasschaat B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksk-ekeren-donk-kfc-brasschaat-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksk-ekeren-donk-kfc-brasschaat-b-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76180f70f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
+SUMMARY:K. Nieuwmoer FC B – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/k-nieuwmoer-fc-b-ksk-ekeren-donk-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-nieuwmoer-fc-b-ksk-ekeren-donk-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b366522d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:KSK Ekeren Donk – K. Kalmthout SK B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0110afffc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KSV Wildert – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2815b55b6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
+SUMMARY:R. Cappellen FC B – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf1e14072b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:KSK Ekeren Donk – K. Heibos SV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b5359e753@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Excelsior Mariaburg B – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-736357253e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KSK Ekeren Donk – K. Nieuwmoer FC B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f109404c2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KSK Ekeren Donk – Putte SK
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-123e8ff821@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Exc. FC Essen – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d88b90da79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KSK Ekeren Donk – Zandvliet Sport B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dea31af526@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:Ekeren FC B – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5da6c1cc15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KSK Ekeren Donk – K. Gooreind VV B
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8df6ef65f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:SV Noorse – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4aaec0fc30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:KFC Brasschaat B – KSK Ekeren Donk
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c5a4039bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSK Ekeren Donk – KSOC Maria Ter Heide
+DESCRIPTION:4e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/ksk-ekeren-donk/
+URL:https://goalio.be/nl/ploeg/ksk-ekeren-donk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

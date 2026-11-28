@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC KO Begijnendijk · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2bfc496c49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T184500Z
+DTEND:20261031T203000Z
+SUMMARY:KFC KO Begijnendijk 5-1 Sp. Molenbeek
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 10\nhttps://goalio.b
+ e/fr/match/kfc-ko-begijnendijk-sp-molenbeek-2026-10-31/
+URL:https://goalio.be/fr/match/kfc-ko-begijnendijk-sp-molenbeek-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cf8c8fc36@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T113000Z
+DTEND:20261108T131500Z
+SUMMARY:SC Aarschot B 2-3 KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 11\nhttps://goalio.b
+ e/fr/match/sc-aarschot-b-kfc-ko-begijnendijk-2026-11-08/
+URL:https://goalio.be/fr/match/sc-aarschot-b-kfc-ko-begijnendijk-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e88c829f9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T184500Z
+DTEND:20261114T203000Z
+SUMMARY:KFC KO Begijnendijk 1-1 KAC Betekom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 12\nhttps://goalio.b
+ e/fr/match/kfc-ko-begijnendijk-kac-betekom-b-2026-11-14/
+URL:https://goalio.be/fr/match/kfc-ko-begijnendijk-kac-betekom-b-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9f597111c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T184500Z
+DTEND:20261121T203000Z
+SUMMARY:KFC KO Begijnendijk 2-0 RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 13\nhttps://goalio.b
+ e/fr/match/kfc-ko-begijnendijk-rc-butsel-2026-11-21/
+URL:https://goalio.be/fr/match/kfc-ko-begijnendijk-rc-butsel-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1831d801d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Binkom B – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-binkom-b-kfc-ko-begijnendijk-2026-11-28/
+URL:https://goalio.be/fr/match/fc-binkom-b-kfc-ko-begijnendijk-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fed0378b43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T184500Z
+DTEND:20261205T203000Z
+SUMMARY:KFC KO Begijnendijk – Boutersem United B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0029a3ccbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:SMS Lubbeek B – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0de2882143@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFC Werchter B – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b61b6fc06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T184500Z
+DTEND:20270123T203000Z
+SUMMARY:KFC KO Begijnendijk – Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f15e08849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Tielt-Winge 3000 – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e87c58464f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T184500Z
+DTEND:20270213T203000Z
+SUMMARY:KFC KO Begijnendijk – FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54891e423f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Deurne – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7fb744ae0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T184500Z
+DTEND:20270227T203000Z
+SUMMARY:KFC KO Begijnendijk – SC Aarschot B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9a217e855@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T170000Z
+DTEND:20270306T184500Z
+SUMMARY:KAC Betekom B – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca4547171c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T184500Z
+DTEND:20270313T203000Z
+SUMMARY:KFC KO Begijnendijk – KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74b5228ad7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RC Butsel – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afba707984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Boutersem United B – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a3670de70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T174500Z
+DTEND:20270417T193000Z
+SUMMARY:KFC KO Begijnendijk – RWL Sport B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-472adfe92b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp. Molenbeek – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kfc-ko-begijnendijk/
+URL:https://goalio.be/fr/equipe/kfc-ko-begijnendijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

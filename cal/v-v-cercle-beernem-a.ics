@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:V.V. Cercle Beernem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d7755d04ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:V.V. Cercle Beernem A 1-1 KV Koksijde Oostduinkerke A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-cercle-beernem-a-kv-koksijde-oostduinkerke-a-2026-10-31
+ /
+URL:https://goalio.be/nl/wedstrijd/v-v-cercle-beernem-a-kv-koksijde-oostdui
+ nkerke-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b539fcd67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:K. VV Aartrijke 3-0 V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-vv-aartrijke-v-v-cercle-beernem-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-vv-aartrijke-v-v-cercle-beernem-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ce5ed2548@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:V.V. Cercle Beernem A 1-1 Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-cercle-beernem-a-sp-keiem-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/v-v-cercle-beernem-a-sp-keiem-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7bc870561@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:VV Westkapelle A 4-2 V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vv-westkapelle-a-v-v-cercle-beernem-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/vv-westkapelle-a-v-v-cercle-beernem-a-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a25c4d3077@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:V.V. Cercle Beernem A – FA Nieuwpoort A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-cercle-beernem-a-fa-nieuwpoort-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/v-v-cercle-beernem-a-fa-nieuwpoort-a-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42002956ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:K.S.V. Oostkamp B – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65aa5d814b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:SV Loppem – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c450f5540@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:V.V. Cercle Beernem A – K. VV Aartrijke
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-803758558a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:V.V. Cercle Beernem A – S.K. Eernegem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4cabf080d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Veldegem – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b592a10bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:V.V. Cercle Beernem A – K. EG Gistel
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ca00ba2b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:K. Sp. Club Blankenberge B – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa1f7df3a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:V.V. Cercle Beernem A – K. SV Jabbeke B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2343e389e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. SK Wenduine – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-969579d543@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:V.V. Cercle Beernem A – K.S.K. Snaaskerke
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7649ea10cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KV Koksijde Oostduinkerke A – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14987ac83e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:V.V. Cercle Beernem A – VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21db2adebd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FA Nieuwpoort A – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f12053d38a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:V.V. Cercle Beernem A – K.S.V. Oostkamp B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcc7466b09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:V.V. Cercle Beernem A – K. FC Lichtervelde
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2732ea05d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp. Keiem – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/v-v-cercle-beernem-a/
+URL:https://goalio.be/nl/ploeg/v-v-cercle-beernem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

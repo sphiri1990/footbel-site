@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSCW Hofstade A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-39314e04b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KSCW Hofstade A 8-1 SK Denderhoutem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kscw-hofstade-a-sk-denderhoutem-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kscw-hofstade-a-sk-denderhoutem-b-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-646f1b2850@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KVCE Nieuwerkerken 2-2 KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kvce-nieuwerkerken-kscw-hofstade-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kvce-nieuwerkerken-kscw-hofstade-a-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eed72e5d3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KSCW Hofstade A 4-0 VKJ Neigem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/kscw-hofstade-a-vkj-neigem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kscw-hofstade-a-vkj-neigem-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14bf6f9c5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KSCW Hofstade A 3-1 KSCDS Moorsel
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kscw-hofstade-a-kscds-moorsel-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kscw-hofstade-a-kscds-moorsel-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a511e1640@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KVE Winnik B – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/kve-winnik-b-kscw-hofstade-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kve-winnik-b-kscw-hofstade-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-535c960c2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KSCW Hofstade A – K.S.K. Oudegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1338d2f51a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:VC Olympic Burst 2026 – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27a45eae7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KSCW Hofstade A – FCW Gijzegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9f4029ef0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:VC Herzele-Ressegem B – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7d2e77219@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KSCW Hofstade A – E Buggenhout B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-195cd1276f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KSCDS Moorsel – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ae5fdb161@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VKJ Neigem – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddcaa1d999@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KSCW Hofstade A – KVCE Nieuwerkerken
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-126a06fc66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:SK Denderhoutem B – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1b5803a7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KSCW Hofstade A – SK Herdersem
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75126ceecb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Jong SG Dendermonde – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-024fe45a18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KSCW Hofstade A – KVE Winnik B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37f682f193@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SK Aaigem – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c5414d481@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K.S.K. Oudegem B – KSCW Hofstade A
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c47ae17089@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSCW Hofstade A – VCO Meerbeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen E\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kscw-hofstade-a/
+URL:https://goalio.be/nl/ploeg/kscw-hofstade-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

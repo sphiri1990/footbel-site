@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alberta FC Schilde · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-46b5e22f22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Alberta FC Schilde 1-2 Minderhout VV B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/alberta-fc-schilde-minderhout-vv-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/alberta-fc-schilde-minderhout-vv-b-2026-
+ 11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-798b0646a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Bucovina Loenhout 1-3 Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/fc-bucovina-loenhout-alberta-fc-schilde-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-bucovina-loenhout-alberta-fc-schilde-
+ 2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8060032b6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Alberta FC Schilde 5-3 K. Sint Job FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/alberta-fc-schilde-k-sint-job-fc-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/alberta-fc-schilde-k-sint-job-fc-b-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9696a987ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K. Wuustwezel FC B 1-1 Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-wuustwezel-fc-b-alberta-fc-schilde-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-wuustwezel-fc-b-alberta-fc-schilde-202
+ 6-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3286e875dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Alberta FC Schilde – KFC Zwarte Leeuw B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/alberta-fc-schilde-kfc-zwarte-leeuw-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/alberta-fc-schilde-kfc-zwarte-leeuw-b-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc23bb3f82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFC Antonia B – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e03091524f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:St. Jozef – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-035b4de67d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Alberta FC Schilde – FC Bucovina Loenhout
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7595da5db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Meerle FC – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f887e69d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Alberta FC Schilde – KFC Wechelderzande
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f60043b1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. Eendr. Zoersel B – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b986f68cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Alberta FC Schilde – KFC St. Mart. Halle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-541db53309@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:Loenhout SK B – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54ae027ba4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Alberta FC Schilde – KVK Westmalle
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-399949dee4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Minderhout VV B – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72236d1682@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Alberta FC Schilde – K. Wuustwezel FC B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70fcfbe4d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Zwarte Leeuw B – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c391167fda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Alberta FC Schilde – KFC Antonia B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d40e903d4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Alberta FC Schilde – St. Lenaarts B
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79b092ca09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Sint Job FC B – Alberta FC Schilde
+DESCRIPTION:4e provinciale Antwerpen E\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/alberta-fc-schilde/
+URL:https://goalio.be/nl/ploeg/alberta-fc-schilde/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

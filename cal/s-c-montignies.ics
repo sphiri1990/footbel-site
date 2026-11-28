@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:S.C. Montignies · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/s-c-montignies/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-eda6f9aa60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R. Jumet S.C. A 3-6 S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-jumet-s-c-a-s-c-montignies-2026-10-31/
+URL:https://goalio.be/fr/match/r-jumet-s-c-a-s-c-montignies-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18664554f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:S.C. Montignies 4-1 E.S. Mominoise A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/s-c-montignies-e-s-mominoise-a-2026-11-07/
+URL:https://goalio.be/fr/match/s-c-montignies-e-s-mominoise-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aee2a5fd66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.F.C. Nalinnois A 5-0 S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-f-c-nalinnois-a-s-c-montignies-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-nalinnois-a-s-c-montignies-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19a25a0a12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:S.C. Montignies – R.S.A. Forchies A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/s-c-montignies-r-s-a-forchies-a-2026-11-21/
+URL:https://goalio.be/fr/match/s-c-montignies-r-s-a-forchies-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c81dd16f98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.C. Marcinelle A – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-c-marcinelle-a-s-c-montignies-2026-11-29/
+URL:https://goalio.be/fr/match/r-c-marcinelle-a-s-c-montignies-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08e8191fca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.U.S. Courcelloise A – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b470c47897@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:S.C. Montignies – R.F.C. de Gilly A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85816cea34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:S.C. Montignies – R.U.S.C. Anderlues A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d82c4bc45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R. Gosselies Sports B – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7aaa20e83a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:S.C. Montignies – F.C. Bouffioulx A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-709b3c8e38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:A.S. Fontainoise A – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85081aa59a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:S.C. Montignies – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64c96637b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SC Farciennes A – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf448364ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:S.C. Montignies – S.R.J.S. Thudinienne A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d51a285e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Erpion-LL Eau d'Heure B – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb0f48294e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:S.C. Montignies – R. Jumet S.C. A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bbe34c1fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:E.S. Mominoise A – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82a656db0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:S.C. Montignies – R.F.C. Nalinnois A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa36a92610@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.S.A. Forchies A – S.C. Montignies
+DESCRIPTION:2e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d29c7e17fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:S.C. Montignies – R.C. Marcinelle A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/s-c-montignies/
+URL:https://goalio.be/fr/equipe/s-c-montignies/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

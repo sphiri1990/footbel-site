@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US St Hadelin-Haversin B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5dfb9accc6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Bonneville SP A 4-1 US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 11\nhttps://goalio.be/fr/match
+ /bonneville-sp-a-us-st-hadelin-haversin-b-2026-10-31/
+URL:https://goalio.be/fr/match/bonneville-sp-a-us-st-hadelin-haversin-b-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f02575376@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:RRC Havelange B 2-5 US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 12\nhttps://goalio.be/fr/match
+ /rrc-havelange-b-us-st-hadelin-haversin-b-2026-11-15/
+URL:https://goalio.be/fr/match/rrc-havelange-b-us-st-hadelin-haversin-b-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37a4d8112f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:US St Hadelin-Haversin B – RJS Leignon B (remis)
+DESCRIPTION:4e provinciale Namur E\nJournée 13\nhttps://goalio.be/fr/match
+ /us-st-hadelin-haversin-b-rjs-leignon-b-2026-11-21/
+URL:https://goalio.be/fr/match/us-st-hadelin-haversin-b-rjs-leignon-b-2026-
+ 11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8569d340e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:FC Achêne B – US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 14\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30fbc256ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:US St Hadelin-Haversin B – RFC Miécret
+DESCRIPTION:4e provinciale Namur E\nJournée 15\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3b1e6cd9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:RCS Schaltin – US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 16\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b55484095@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:US St Hadelin-Haversin B – Entente Sommenoise
+DESCRIPTION:4e provinciale Namur E\nJournée 17\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e855e2f2cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:RCS Faulx-les-Tombes B – US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 18\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39bc6ac59f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:US St Hadelin-Haversin B – R Anhée FC B
+DESCRIPTION:4e provinciale Namur E\nJournée 19\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-460b9e8ffa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:US St Hadelin-Haversin B – Chevetogne Football
+DESCRIPTION:4e provinciale Namur E\nJournée 20\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a141e9c3ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:CSE Han-Sur-Lesse B – US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 21\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce6a902147@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:US St Hadelin-Haversin B – RUS Méan B
+DESCRIPTION:4e provinciale Namur E\nJournée 22\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49851412f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Natoye – US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 23\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a823dcc1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:US St Hadelin-Haversin B – Bonneville SP A
+DESCRIPTION:4e provinciale Namur E\nJournée 24\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62bcdd6d91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RJS Leignon B – US St Hadelin-Haversin B
+DESCRIPTION:4e provinciale Namur E\nJournée 25\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e49e0a3fc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US St Hadelin-Haversin B – RRC Havelange B
+DESCRIPTION:4e provinciale Namur E\nJournée 26\nhttps://goalio.be/fr/equip
+ e/us-st-hadelin-haversin-b/
+URL:https://goalio.be/fr/equipe/us-st-hadelin-haversin-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

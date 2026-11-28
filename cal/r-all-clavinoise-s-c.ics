@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. All. Clavinoise S.C. · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-02ed06c506@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Huccorgne Sports 2-2 R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/huccorgne-sports-r-all-clavinoise-s-c-2026-11-01/
+URL:https://goalio.be/fr/match/huccorgne-sports-r-all-clavinoise-s-c-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37a4077e02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. All. Clavinoise S.C. 1-3 Royal Stockay Saint-Georges S/M
+DESCRIPTION:3e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-all-clavinoise-s-c-royal-stockay-saint-georges-s-m-3-prov-a-liege-2026
+ -11-08/
+URL:https://goalio.be/fr/match/r-all-clavinoise-s-c-royal-stockay-saint-geo
+ rges-s-m-3-prov-a-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-860c2cd329@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:E.S.F.C. Du Geer 3-4 R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/e-s-f-c-du-geer-3-prov-a-liege-r-all-clavinoise-s-c-2026-11-15/
+URL:https://goalio.be/fr/match/e-s-f-c-du-geer-3-prov-a-liege-r-all-clavino
+ ise-s-c-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf931d62c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. All. Clavinoise S.C. – R. Fraiture SP A (remis)
+DESCRIPTION:3e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-all-clavinoise-s-c-r-fraiture-sp-a-2026-11-22/
+URL:https://goalio.be/fr/match/r-all-clavinoise-s-c-r-fraiture-sp-a-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d41a9ac918@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Entente Sportive Donceel – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/entente-sportive-donceel-r-all-clavinoise-s-c-2026-11-29/
+URL:https://goalio.be/fr/match/entente-sportive-donceel-r-all-clavinoise-s-
+ c-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-131d24ff08@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:F.C. Entité Wasseiges – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68cefe4f93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. All. Clavinoise S.C. – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a767ec530e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. All. Clavinoise S.C. – J.S. Racour-Lincent
+DESCRIPTION:3e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef3eec1104@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R.S.C. Anthisnois – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fad0a1b8da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. All. Clavinoise S.C. – R. Marchin Sport A
+DESCRIPTION:3e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d32b6a399a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Union Momalloise – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cc0800680@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. All. Clavinoise S.C. – R.U.S. Stree
+DESCRIPTION:3e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a086e7eb06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Etoile De Faimes – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa417468eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. All. Clavinoise S.C. – Entente Amay A
+DESCRIPTION:3e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b7121171e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. Ouffet Warzée – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9c27f2d66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. All. Clavinoise S.C. – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d9fc418f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e22f1a19e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. All. Clavinoise S.C. – E.S.F.C. Du Geer
+DESCRIPTION:3e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84f3afe60c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Fraiture SP A – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ec34995e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. All. Clavinoise S.C. – Entente Sportive Donceel
+DESCRIPTION:3e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-all-clavinoise-s-c/
+URL:https://goalio.be/fr/equipe/r-all-clavinoise-s-c/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

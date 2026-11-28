@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. SV Moorsele B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1b6cd1e9d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:K. SV Moorsele B 2-4 F.C. Passendale
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-moorsele-b-f-c-passendale-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-sv-moorsele-b-f-c-passendale-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d588024c22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T174500Z
+DTEND:20261107T193000Z
+SUMMARY:K.S.K Vlamertinge B 1-5 K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-vlamertinge-b-k-sv-moorsele-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-vlamertinge-b-k-sv-moorsele-b-2026
+ -11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f75309f5ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:K. SV Moorsele B 7-1 K. Eendr. Wervik B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-moorsele-b-k-eendr-wervik-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-sv-moorsele-b-k-eendr-wervik-b-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07e779353f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:SK Zillebeke – K. SV Moorsele B (afgelast)
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sk-zillebeke-k-sv-moorsele-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/sk-zillebeke-k-sv-moorsele-b-2026-11-21/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1bf3796ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:K. SV Moorsele B – FC Dadizele Sport B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-moorsele-b-fc-dadizele-sport-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-sv-moorsele-b-fc-dadizele-sport-b-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54ddcdb887@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:US Ploegsteert – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4916e5ce3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:K. SV Moorsele B – RW Hollebeke
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-024d317dbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:K. SV De Ruiter Roes. B – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d275cefbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:K. SV Moorsele B – K.S.K Vlamertinge B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53d08920a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:K. SV Moorsele B – SK Zillebeke (afgelast)
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fc0a14473@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:K. SV Moorsele B – R.J.H. Comines B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca5f96d21b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T173000Z
+DTEND:20270220T191500Z
+SUMMARY:K. Eendr. Wervik B – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e05ecb9a21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:K. SV Moorsele B – S.V. Wevelgem City B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b2cc46677@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T181500Z
+DTEND:20270306T200000Z
+SUMMARY:SC Zonnebeke B – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f663a004f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:K. SV Moorsele B – SK Reningelst
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad42714344@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:FC Dadizele Sport B – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4707964c79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:K. SV Moorsele B – US Ploegsteert
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00349cc859@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:GS Voormezele – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a107a508ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:K. SV Moorsele B – FC Westouter
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a8c28cdb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Passendale – K. SV Moorsele B
+DESCRIPTION:4e provinciale West-Vlaanderen D\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-sv-moorsele-b/
+URL:https://goalio.be/nl/ploeg/k-sv-moorsele-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

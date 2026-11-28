@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E. Houthalen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/e-houthalen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-93e75cf373@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:E. Houthalen 2-2 Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/e-houthalen-achel-vv-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/e-houthalen-achel-vv-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-251d959047@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. Sp. Wijchmaal 9-0 E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-sp-wijchmaal-e-houthalen-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-sp-wijchmaal-e-houthalen-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04718a6893@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:E. Houthalen 1-1 Stal Sport
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/e-houthalen-stal-sport-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/e-houthalen-stal-sport-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea1b9d6ce1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:E. Houthalen 2-3 Hechtel FC A
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/e-houthalen-hechtel-fc-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/e-houthalen-hechtel-fc-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea9694af85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:W. Koersel B – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/w-koersel-b-e-houthalen-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/w-koersel-b-e-houthalen-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42fd857267@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:E. Houthalen – Kadijk SK B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fdda1564d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:K. FC Hamont 99 B – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0f120e2eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:E. Houthalen – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0b8a4695f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. ESK Leopoldsburg A – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a4c5f67f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:E. Houthalen – SK Heusden 06
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b76cde5f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Hechtel FC A – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ecb230d89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Stal Sport – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a956281cca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E. Houthalen – K. Sp. Wijchmaal
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bacc532d3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:Achel VV B – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c210550b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:E. Houthalen – Kattenbos Sport
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76cc7adf4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KVV Heusden-Zolder A – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ac4f56780@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:E. Houthalen – W. Koersel B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b4207235e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Sp. Grote Heide – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95770b3315@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:E. Houthalen – Bocholter V.V. B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc9bc98670@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:Kadijk SK B – E. Houthalen
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10d10c2242@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:E. Houthalen – GT Lommel Kol.
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/e-houthalen/
+URL:https://goalio.be/nl/ploeg/e-houthalen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

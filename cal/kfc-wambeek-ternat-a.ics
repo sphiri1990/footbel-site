@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Wambeek Ternat A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-19f5ace632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:SC City Pirates Antwerpen A 9-0 KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/sc-city-pi
+ rates-antwerpen-a-kfc-wambeek-ternat-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/sc-city-pirates-antwerpen-a-kfc-wambeek-
+ ternat-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9dd969aef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Wambeek Ternat A 0-4 F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/kfc-wambee
+ k-ternat-a-f-c-gullegem-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/kfc-wambeek-ternat-a-f-c-gullegem-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ddc049d6af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Eendr Elene-Grotenberge A 4-1 KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/eendr-elen
+ e-grotenberge-a-kfc-wambeek-ternat-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/eendr-elene-grotenberge-a-kfc-wambeek-te
+ rnat-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f523592b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Olsa Brakel A 3-0 KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/olsa-brake
+ l-a-kfc-wambeek-ternat-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/olsa-brakel-a-kfc-wambeek-ternat-a-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfedc3555f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Wambeek Ternat A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/kfc-wambee
+ k-ternat-a-k-sv-rumbeke-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-wambeek-ternat-a-k-sv-rumbeke-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e0dd14a84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Erpe-Mere United – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-139a99c495@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KFC Wambeek Ternat A – Zwevegem Sport
+DESCRIPTION:D3 VV A\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4bade461d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFC Wambeek Ternat A – SC City Pirates Antwerpen A
+DESCRIPTION:D3 VV A\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d706a2f26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Gullegem – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18357b562e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KCVV Elewijt A – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9126e7ce92@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KFC Wambeek Ternat A – Olsa Brakel A
+DESCRIPTION:D3 VV A\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0526de6056@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KVE Drongen A – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68dd01091c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:KFC Wambeek Ternat A – K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5a49f632f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. SV Rumbeke – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b793ce129@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KFC Wambeek Ternat A – Eendr Elene-Grotenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17c3a82859@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K.W.S. Club Lauwe A – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a87bdc98aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KFC Wambeek Ternat A – Avanti Stekene
+DESCRIPTION:D3 VV A\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8136fcb7d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K.V.K. Ieper – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e36064c12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFC Wambeek Ternat A – K. Berchem Sp. 2004 A
+DESCRIPTION:D3 VV A\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3f95d9067@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KVV St-Denijs Sp A – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41ad5cff3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Wambeek Ternat A – Erpe-Mere United
+DESCRIPTION:D3 VV A\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/kfc-wambeek-te
+ rnat-a/
+URL:https://goalio.be/nl/ploeg/kfc-wambeek-ternat-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

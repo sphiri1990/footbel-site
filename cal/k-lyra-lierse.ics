@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Lyra-Lierse · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-lyra-lierse/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9bdcee3092@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K. Lyra-Lierse 1-2 K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/k-lyra-liers
+ e-k-v-v-zelzate-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-lyra-lierse-k-v-v-zelzate-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84c31b2fc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T191500Z
+DTEND:20261107T210000Z
+SUMMARY:Belisia Bilzen SV 4-0 K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/belisia-bilz
+ en-sv-k-lyra-lierse-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/belisia-bilzen-sv-k-lyra-lierse-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b88310cb66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K. Lyra-Lierse 1-2 K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-lyra-liers
+ e-k-f-c-dessel-sport-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-lyra-lierse-k-f-c-dessel-sport-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d76ac5f4d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K.F.C. Merelbeke 0-1 K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-f-c-merelb
+ eke-k-lyra-lierse-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-f-c-merelbeke-k-lyra-lierse-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba24c26d17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:K. Lyra-Lierse – Kvk Tienen
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-lyra-liers
+ e-kvk-tienen-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-lyra-lierse-kvk-tienen-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbac6dc87d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Knokke F.C. – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fbbf621b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. Lyra-Lierse – Hoogstraten V.V.
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2529d231aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:Sportkring Roeselare – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc01b235b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:K. Lyra-Lierse – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-008f142c1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:K. Sk. Heist – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-602506146b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:K. Lyra-Lierse – Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b37dc948fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:K. Lyra-Lierse – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dcb51add0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Kvk Tienen – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-010708d91e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K.F.C. Dessel Sport – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f52ed0989f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:K. Lyra-Lierse – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26fe876929@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K.V.V. Thes Sport Tessenderlo – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe1a5a0578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. Lyra-Lierse – Racing Club Harelbeke
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc74d79227@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K.V.V. Zelzate – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6573a15710@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. Lyra-Lierse – R. Knokke F.C.
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-557a78c40d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:K.F.C. Houtvenne – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72348dd146@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Lyra-Lierse – F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-lyra-lierse/
+URL:https://goalio.be/nl/ploeg/k-lyra-lierse/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

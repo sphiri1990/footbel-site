@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Dadizele Sport A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8e33434401@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:VV Alveringem 2-2 FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/vv-alveringem-fc-dadizele-sport-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/vv-alveringem-fc-dadizele-sport-a-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6b5720173@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K. VP Gits 2-2 FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-vp-gits-fc-dadizele-sport-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-vp-gits-fc-dadizele-sport-a-2026-11-08
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4344781a4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T133000Z
+DTEND:20261111T151500Z
+SUMMARY:FC Dadizele Sport A 1-0 K. Sint-Eloois-Winkel Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 9\nhttps://goalio.be
+ /nl/wedstrijd/fc-dadizele-sport-a-k-sint-eloois-winkel-sp-2026-11-11/
+URL:https://goalio.be/nl/wedstrijd/fc-dadizele-sport-a-k-sint-eloois-winkel
+ -sp-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-122659b5b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:FC Dadizele Sport A 2-0 BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/fc-dadizele-sport-a-bs-geluveld-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/fc-dadizele-sport-a-bs-geluveld-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7397462b5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Ol. Ledegem 0-0 FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/ol-ledegem-fc-dadizele-sport-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ol-ledegem-fc-dadizele-sport-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c170a2582a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FC Dadizele Sport A – S.C.T. Menen
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/fc-dadizele-sport-a-s-c-t-menen-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fc-dadizele-sport-a-s-c-t-menen-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70ec03669f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Sp. Dikkebus – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b87e9f24b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Sp. Kruiseke – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a29598e35a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:FC Dadizele Sport A – VKW Vleteren
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7b1dc5689@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K. Sassp. Boezinge B – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f4dd2b674@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:FC Dadizele Sport A – R.T.S.C. Proven
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bebebd409b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:BS Geluveld – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53c002e5ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:FC Dadizele Sport A – SK Staden
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d2f8604cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:VK Langemark-Poelkapelle – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ac0f0d4e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:FC Dadizele Sport A – K.W.S. Club Lauwe B
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-966ca4f729@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. SV De Ruiter Roes. A – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c75988a82b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:FC Dadizele Sport A – Sp. Dikkebus
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4adf19b38d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:S.C.T. Menen – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-140367ac1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:FC Dadizele Sport A – Ol. Ledegem
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43415de865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:FC Dadizele Sport A – K. VP Gits
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5b1c538d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:K. Sint-Eloois-Winkel Sp. – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eee87d2ac7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Dadizele Sport A – VV Alveringem
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/fc-dadizele-sport-a/
+URL:https://goalio.be/nl/ploeg/fc-dadizele-sport-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.S.K. Oostnieuwkerke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8b74b82fdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. RC De Panne 1-3 K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-rc-de-panne-k-s-k-oostnieuwkerke-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-rc-de-panne-k-s-k-oostnieuwkerke-2026-
+ 10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58a51fa54d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KV Koksijde Oostduinkerke B 0-6 K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/kv-koksijde-oostduinkerke-b-k-s-k-oostnieuwkerke-2026-11-07
+ /
+URL:https://goalio.be/nl/wedstrijd/kv-koksijde-oostduinkerke-b-k-s-k-oostni
+ euwkerke-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b647bf7b4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:K.S.K. Oostnieuwkerke 2-3 J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-oostnieuwkerke-j-v-lo-reninge-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-oostnieuwkerke-j-v-lo-reninge-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfefd4b3cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:K.S.K. Oostnieuwkerke – E. Jonkershove
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-oostnieuwkerke-e-jonkershove-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-oostnieuwkerke-e-jonkershove-2026-
+ 11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c76a3c1dc8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:SK Westrozebeke – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30f6f8547f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. Brielen Sport – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29fd0132e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T160000Z
+DTEND:20270116T174500Z
+SUMMARY:FC Beaufort Middelkerke B – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-117111f604@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:E. Jonkershove – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-348163bb0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:K.S.K. Oostnieuwkerke – SK Nieuwkapelle
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6720b7eb71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:K. SV Veurne B – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4d988d56e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:K.S.K. Oostnieuwkerke – K. RC De Panne
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e360d93d31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K.S.K. Oostnieuwkerke – K. WS Houthulst B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4708173e81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:Merkem Sp. – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-876997b834@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:K.S.K. Oostnieuwkerke – KV Koksijde Oostduinkerke B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1fb9f3700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:J.V. Lo-Reninge – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e2f43bf68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:K.S.K. Oostnieuwkerke – SK Westrozebeke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-080ae40ab1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Elverdinge – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90b1493267@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.S.K. Oostnieuwkerke – WS Bulskamp
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-s-k-oostnieuwkerke/
+URL:https://goalio.be/nl/ploeg/k-s-k-oostnieuwkerke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AC Bormstraat Kapelle · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-15e1300236@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KFC Eppegem B 3-0 AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/kfc-eppegem-b-ac-bormstraat-kapelle-2026-10-31/
+URL:https://goalio.be/fr/match/kfc-eppegem-b-ac-bormstraat-kapelle-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d13deabb10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:AC Bormstraat Kapelle 5-0 KCVV Elewijt B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/ac-bormstraat-kapelle-kcvv-elewijt-b-2026-11-08/
+URL:https://goalio.be/fr/match/ac-bormstraat-kapelle-kcvv-elewijt-b-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6efed12f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T160000Z
+DTEND:20261115T174500Z
+SUMMARY:Fenixx Beigem Humbeek B 1-1 AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/fenixx-beigem-humbeek-b-ac-bormstraat-kapelle-2026-11-15/
+URL:https://goalio.be/fr/match/fenixx-beigem-humbeek-b-ac-bormstraat-kapell
+ e-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2060a7d5c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:AC Bormstraat Kapelle 3-2 K. Sp. Amicii Tange
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/ac-bormstraat-kapelle-k-sp-amicii-tange-2026-11-22/
+URL:https://goalio.be/fr/match/ac-bormstraat-kapelle-k-sp-amicii-tange-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7335a1a387@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:FC Inkad Diegem B – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-inkad-diegem-b-ac-bormstraat-kapelle-2026-11-28/
+URL:https://goalio.be/fr/match/fc-inkad-diegem-b-ac-bormstraat-kapelle-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f24dc3c308@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:AC Bormstraat Kapelle – KV Woluwe-Zaventem B (annulé)
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab783acb07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:VV Groot Kapelle B – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-636743bb0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Zemst Sp. B – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ad5d22e80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:AC Bormstraat Kapelle – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38bc8e752f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T160000Z
+DTEND:20270131T174500Z
+SUMMARY:KCS Machelen B – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd579e0d18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:AC Bormstraat Kapelle – FC Inkad Diegem B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-669bf6c41a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Laar – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b33b43a67f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:AC Bormstraat Kapelle – Infinity FC Vilvoorde
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b168e6db8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Peutie FC – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39b3f62d02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:AC Bormstraat Kapelle – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db1b007adf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:KCVV Elewijt B – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48762f219d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K. Sp. Amicii Tange – AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9558e35b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:AC Bormstraat Kapelle – KFC Eppegem B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/ac-bormstraat-kapelle/
+URL:https://goalio.be/fr/equipe/ac-bormstraat-kapelle/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

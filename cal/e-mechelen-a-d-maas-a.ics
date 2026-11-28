@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E. Mechelen a/d Maas A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b9e696ae93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K. FC Hamont 99 A 5-2 E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/k-fc-hamont-99-a-e-mechelen-a-d-maas-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-fc-hamont-99-a-e-mechelen-a-d-maas-a-2
+ 026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b51c43a9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:E. Mechelen a/d Maas A 4-0 Turkse FC A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/e-mechelen-a-d-maas-a-turkse-fc-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/e-mechelen-a-d-maas-a-turkse-fc-a-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a74ac58a67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Kaulille FC 3-4 E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/kaulille-fc-e-mechelen-a-d-maas-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kaulille-fc-e-mechelen-a-d-maas-a-2026-1
+ 1-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56470b5859@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:FC Maasland NO A 1-1 E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-maasland-no-a-e-mechelen-a-d-maas-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-maasland-no-a-e-mechelen-a-d-maas-a-2
+ 026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0605476683@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:E. Mechelen a/d Maas A – KRC Peer A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/e-mechelen-a-d-maas-a-krc-peer-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/e-mechelen-a-d-maas-a-krc-peer-a-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b35de0ee19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Lutlommel VV A – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de191333d6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:E. Mechelen a/d Maas A – Kab. Opglabbeek
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-564e02571d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:E. Mechelen a/d Maas A – K. FC Hamont 99 A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f607f1294@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Turkse FC A – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ca4719a55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Boorsem Sport A – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0ccc049f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:E. Mechelen a/d Maas A – FC Maasland NO A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f199137f7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Houthalen VV – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e241c6e27c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E. Mechelen a/d Maas A – KSK Meeuwen A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eea41abd4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:KRC Peer A – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a47ad3f551@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:E. Mechelen a/d Maas A – Kaulille FC
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de5f2d6133@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T191500Z
+DTEND:20270313T210000Z
+SUMMARY:FC Paal-Tervant A – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6d48570ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:E. Mechelen a/d Maas A – FC Eksel A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6beb6e529@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:GS Bree-Beek B – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6ecc5a4c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:E. Mechelen a/d Maas A – N. Gruitrode A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-274e778105@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T153000Z
+DTEND:20270417T171500Z
+SUMMARY:Thes Sport Tessenderlo B – E. Mechelen a/d Maas A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3e2cc1053@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:E. Mechelen a/d Maas A – Lutlommel VV A
+DESCRIPTION:2e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/e-mechelen-a-d-maas-a/
+URL:https://goalio.be/nl/ploeg/e-mechelen-a-d-maas-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RU Tubize Braine-le-Comte B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-54be655f2c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RE Stéphanois A 2-3 RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/re-stephanois-a-ru-tubize-braine-le-comte-b-2026-11-01
+ /
+URL:https://goalio.be/fr/match/re-stephanois-a-ru-tubize-braine-le-comte-b-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72645a3aab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RU Tubize Braine-le-Comte B 1-1 R. Léopold FC. B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/ru-tubize-braine-le-comte-b-r-leopold-fc-b-2026-11-08/
+URL:https://goalio.be/fr/match/ru-tubize-braine-le-comte-b-r-leopold-fc-b-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcfd978c30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:ROS Ottignies-LLN A 2-3 RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/ros-ottignies-lln-a-ru-tubize-braine-le-comte-b-2026-1
+ 1-15/
+URL:https://goalio.be/fr/match/ros-ottignies-lln-a-ru-tubize-braine-le-comt
+ e-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-737ce23468@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RU Tubize Braine-le-Comte B 6-1 CS Biergeois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/match/ru-tubize-braine-le-comte-b-cs-biergeois-a-2026-11-22/
+URL:https://goalio.be/fr/match/ru-tubize-braine-le-comte-b-cs-biergeois-a-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88ab6cfa25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RFC Orp-Noduwez B – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/match/rfc-orp-noduwez-b-ru-tubize-braine-le-comte-b-2026-11-
+ 28/
+URL:https://goalio.be/fr/match/rfc-orp-noduwez-b-ru-tubize-braine-le-comte-
+ b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af3b4f3038@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Ol. Clabecq A – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7cbb16cae3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RU Tubize Braine-le-Comte B – R.R.C. De Boitsfort
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abe4f31660@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Union Rixensartoise A – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0335d2aeaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:RU Tubize Braine-le-Comte B – RC Villers la Ville A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd4d1d0863@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:SC Beauvechain A – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d6ad5fce6d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:RU Tubize Braine-le-Comte B – R. Union Lasne Ohain
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8ef8060bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RU Tubize Braine-le-Comte B – RFC Grez-Doiceau A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1d6e2824e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T133000Z
+DTEND:20270221T151500Z
+SUMMARY:ES. Brainoise A – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e13a1cae34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RU Tubize Braine-le-Comte B – FC. Walhain A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20434f06d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Genappe B – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8ce1b3ece@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RU Tubize Braine-le-Comte B – RE Stéphanois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13ae90b8b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Léopold FC. B – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b49809643a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:RU Tubize Braine-le-Comte B – ROS Ottignies-LLN A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c2eea42b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:CS Biergeois A – RU Tubize Braine-le-Comte B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1736d187d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RU Tubize Braine-le-Comte B – RFC Orp-Noduwez B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles B\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+URL:https://goalio.be/fr/equipe/ru-tubize-braine-le-comte-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Verbr. Lommel · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/verbr-lommel/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-85e484832f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Verbr. Lommel 3-0 SK Heusden 06
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/verbr-lommel-sk-heusden-06-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/verbr-lommel-sk-heusden-06-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c01a666e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:K. FC Hamont 99 B 2-5 Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-fc-hamont-99-b-verbr-lommel-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-fc-hamont-99-b-verbr-lommel-2026-11-07
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf04c21e6f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Verbr. Lommel 2-0 GT Lommel Kol.
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/verbr-lommel-gt-lommel-kol-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/verbr-lommel-gt-lommel-kol-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46a92791e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KVV Heusden-Zolder A 0-3 Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/kvv-heusden-zolder-a-verbr-lommel-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kvv-heusden-zolder-a-verbr-lommel-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-882d21f5d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Verbr. Lommel – Sp. Grote Heide
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/verbr-lommel-sp-grote-heide-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/verbr-lommel-sp-grote-heide-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb6c5a4141@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:Kattenbos Sport – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf279e893a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Verbr. Lommel – Stal Sport
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0f120e2eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:E. Houthalen – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5724f312c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Verbr. Lommel – Kadijk SK B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd07540423@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Verbr. Lommel – K. FC Hamont 99 B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4ce4b2030@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. ESK Leopoldsburg A – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2a7fff965@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sp. Grote Heide – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-775366e7df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Verbr. Lommel – Kattenbos Sport
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ec2638413@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:W. Koersel B – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9c2e4a93e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Verbr. Lommel – Bocholter V.V. B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b92ae2088a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:GT Lommel Kol. – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfd739bbe3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Verbr. Lommel – KVV Heusden-Zolder A
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-baae186241@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Verbr. Lommel – Hechtel FC A
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-602b7c1aa1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SK Heusden 06 – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e640f391b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Verbr. Lommel – Achel VV B
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c38b8512e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. Sp. Wijchmaal – Verbr. Lommel
+DESCRIPTION:3e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/verbr-lommel/
+URL:https://goalio.be/nl/ploeg/verbr-lommel/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

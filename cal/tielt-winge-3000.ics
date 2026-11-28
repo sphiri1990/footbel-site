@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tielt-Winge 3000 · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/tielt-winge-3000/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f1771e7826@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Tielt-Winge 3000 4-2 Sparta Schaffen
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 10\nhttps://goalio.b
+ e/fr/match/tielt-winge-3000-sparta-schaffen-2026-10-31/
+URL:https://goalio.be/fr/match/tielt-winge-3000-sparta-schaffen-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e68482af1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Tielt-Winge 3000 1-1 KVC Langdorp
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 11\nhttps://goalio.b
+ e/fr/match/tielt-winge-3000-kvc-langdorp-2026-11-07/
+URL:https://goalio.be/fr/match/tielt-winge-3000-kvc-langdorp-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dba5524bf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T160000Z
+DTEND:20261114T174500Z
+SUMMARY:SMS Lubbeek B 6-2 Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 12\nhttps://goalio.b
+ e/fr/match/sms-lubbeek-b-tielt-winge-3000-2026-11-14/
+URL:https://goalio.be/fr/match/sms-lubbeek-b-tielt-winge-3000-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5ea7b2152@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Tielt-Winge 3000 0-2 FC Binkom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 13\nhttps://goalio.b
+ e/fr/match/tielt-winge-3000-fc-binkom-b-2026-11-21/
+URL:https://goalio.be/fr/match/tielt-winge-3000-fc-binkom-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11137f395b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RC Butsel – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 14\nhttps://goalio.b
+ e/fr/match/rc-butsel-tielt-winge-3000-2026-11-29/
+URL:https://goalio.be/fr/match/rc-butsel-tielt-winge-3000-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07ce0d0b51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Tielt-Winge 3000 – KAC Betekom B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a845f6313@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Sparta Schaffen – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d7616968c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Tielt-Winge 3000 – Boutersem United B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec2ae61e7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Tielt-Winge 3000 – SC Aarschot B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80d5e9984c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVC Langdorp – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f15e08849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Tielt-Winge 3000 – KFC KO Begijnendijk
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-862012dc4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sp. Molenbeek – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f389ab4272@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Tielt-Winge 3000 – SMS Lubbeek B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2532e0387d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Deurne – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e85dee7db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:FC Binkom B – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16a5b93e87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Tielt-Winge 3000 – RC Butsel
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d47a105066@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RWL Sport B – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a1b405186@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Tielt-Winge 3000 – KFC Werchter B
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a6f1c7d5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KAC Betekom B – Tielt-Winge 3000
+DESCRIPTION:4e provinciale Brabant flamand E\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/tielt-winge-3000/
+URL:https://goalio.be/fr/equipe/tielt-winge-3000/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

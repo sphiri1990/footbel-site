@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hechtel FC B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/hechtel-fc-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-599398baf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:Esperanza Pelt B 3-2 Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/esperanza-pelt-b-hechtel-fc-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/esperanza-pelt-b-hechtel-fc-b-2026-10-31
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84fc957e51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T163000Z
+DTEND:20261107T181500Z
+SUMMARY:Hechtel FC B 0-2 Sp. Lille
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/hechtel-fc-b-sp-lille-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/hechtel-fc-b-sp-lille-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-807a19af42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:Sp. Grote Brogel 5-0 Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/sp-grote-brogel-hechtel-fc-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/sp-grote-brogel-hechtel-fc-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e6942f8c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T163000Z
+DTEND:20261121T181500Z
+SUMMARY:FC Maasland NO B 3-1 Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-maasland-no-b-hechtel-fc-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-maasland-no-b-hechtel-fc-b-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c2fabbbd5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T163000Z
+DTEND:20261128T181500Z
+SUMMARY:Hechtel FC B – KRC Peer B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/hechtel-fc-b-krc-peer-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/hechtel-fc-b-krc-peer-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac737f1666@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Lutlommel VV B – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa9f0d4609@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T181500Z
+SUMMARY:Hechtel FC B – HO Molenbeersel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b676ce6c76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:Hechtel FC B – Esperanza Pelt B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6c8053fcf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Sp. Lille – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32b35f86ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:Hechtel FC B – FC Maasland NO B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-238ecb347a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:K. Lindelhoeven VV B – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1fda385a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T163000Z
+DTEND:20270220T181500Z
+SUMMARY:Hechtel FC B – KSK Meeuwen B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14a1697318@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:KRC Peer B – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d197e12d21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T163000Z
+DTEND:20270306T181500Z
+SUMMARY:Hechtel FC B – Sp. Grote Brogel
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7447202e51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:H. Wijshagen – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a0e34fa8a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:Hechtel FC B – FC Eksel B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-329df959dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:K. Breugel-Herkol SV – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4aa4e4a9c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T153000Z
+DTEND:20270410T171500Z
+SUMMARY:Hechtel FC B – N. Gruitrode B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f87e9773a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K Peer SV – Hechtel FC B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-597987f291@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Hechtel FC B – Lutlommel VV B
+DESCRIPTION:4e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/hechtel-fc-b/
+URL:https://goalio.be/nl/ploeg/hechtel-fc-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

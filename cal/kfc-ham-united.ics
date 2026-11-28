@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Ham United · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-ham-united/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-920500a480@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T163000Z
+DTEND:20261031T181500Z
+SUMMARY:KFC Helson Helchteren B 2-4 KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/kfc-helson-helchteren-b-kfc-ham-united-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kfc-helson-helchteren-b-kfc-ham-united-2
+ 026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a87b05c858@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:K. ESK Leopoldsburg B 1-4 KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-esk-leopoldsburg-b-kfc-ham-united-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-esk-leopoldsburg-b-kfc-ham-united-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3962322ed3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:KFC Ham United 6-0 FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/kfc-ham-united-fc-paal-tervant-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-ham-united-fc-paal-tervant-b-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd0b28c578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Bolderberg FC 1-5 KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/bolderberg-fc-kfc-ham-united-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/bolderberg-fc-kfc-ham-united-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f942768400@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KFC Ham United – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/kfc-ham-united-k-s-k-meldert-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-ham-united-k-s-k-meldert-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca136ef0a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Turkse FC B – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ea154ddcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T130000Z
+DTEND:20261213T144500Z
+SUMMARY:KVV Heusden-Zolder B – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89802a2ec1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC Ham United – HSC Beringen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92a3a3cbb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. FC Anadol B – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1137d476a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KFC Ham United – VV Lummen B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e396596b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:FC Paal-Tervant B – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c50e408dbb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KFC Ham United – Verbroedering Loksbergen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d72724118c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:WS Linkhout B – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bffc1cb9dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KFC Ham United – Beringen F.C.
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c602dcc5e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:MD Halen – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3059ee49c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KFC Ham United – Turkse FC B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bcce7905d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K.S.K. Meldert – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4724803bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Ham United – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f59b29e82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Ham United – K. ESK Leopoldsburg B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2de130ca5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Ham United – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/kfc-ham-united/
+URL:https://goalio.be/nl/ploeg/kfc-ham-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

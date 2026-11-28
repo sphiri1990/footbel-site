@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVV OG Vorselaar B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3ececb238d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:KVV OG Vorselaar B 1-1 KFC Herenthout
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kvv-og-vorselaar-b-kfc-herenthout-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kvv-og-vorselaar-b-kfc-herenthout-2026-1
+ 0-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51420c79dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:VV-NEXT Laakdal B 0-4 KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/vv-next-laakdal-b-kvv-og-vorselaar-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/vv-next-laakdal-b-kvv-og-vorselaar-b-202
+ 6-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8580854f13@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:KVV OG Vorselaar B 3-0 KFC Berlaar-Heikant B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kvv-og-vorselaar-b-kfc-berlaar-heikant-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kvv-og-vorselaar-b-kfc-berlaar-heikant-b
+ -2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-faa10691a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KSK Heist B 0-9 KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksk-heist-b-kvv-og-vorselaar-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksk-heist-b-kvv-og-vorselaar-b-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29f828b4ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:KVV OG Vorselaar B – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kvv-og-vorselaar-b-kfc-nijlen-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvv-og-vorselaar-b-kfc-nijlen-b-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8472cecf53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KSK Oelegem – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eb0d0d876@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:KVV OG Vorselaar B – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0028c75181@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VC Herentals – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70504a982b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:KVV OG Vorselaar B – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3cb44037c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:KVV OG Vorselaar B – VV-NEXT Laakdal B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01eb1989a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:SK sGravenwezel-Schilde B – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9123417987@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:KFC Nijlen B – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-810b7939b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:KVV OG Vorselaar B – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4682ea7a07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VC Immer Oost-Oosterwijk – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-87cfa5b7bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T153000Z
+DTEND:20270314T171500Z
+SUMMARY:KFC Berlaar-Heikant B – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4c5d9bf42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:KVV OG Vorselaar B – KSK Heist B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c45d31d39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:KVV OG Vorselaar B – Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c29e31eca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC Herenthout – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c35aca805e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:KVV OG Vorselaar B – FCM Hallaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ac5bec052@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Ranst B – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kvv-og-vorselaar-b/
+URL:https://goalio.be/nl/ploeg/kvv-og-vorselaar-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

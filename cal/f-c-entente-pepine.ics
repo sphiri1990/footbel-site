@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Entente Pepine · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-entente-pepine/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5fec6e450a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.A.F. Franchimontois 8-1 F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-a-f-franchimontois-4-prov-f-liege-f-c-entente-pepine-2026-11-01/
+URL:https://goalio.be/fr/match/r-a-f-franchimontois-4-prov-f-liege-f-c-ente
+ nte-pepine-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38b22728d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Entente Pepine 2-5 F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège F\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-entente-pepine-f-c-trois-frontieres-4-prov-f-liege-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-entente-pepine-f-c-trois-frontieres-4-pr
+ ov-f-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4f3f16ec8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.F.C. Queue du Bois 8-2 F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-f-c-queue-du-bois-f-c-entente-pepine-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-queue-du-bois-f-c-entente-pepine-2026-
+ 11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2650a2a848@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Entente Pepine – A.C. Soiron (remis)
+DESCRIPTION:4e provinciale Liège F\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-entente-pepine-a-c-soiron-2026-11-22/
+URL:https://goalio.be/fr/match/f-c-entente-pepine-a-c-soiron-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e680a50945@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:R.F.C. Charneux – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-f-c-charneux-4-prov-f-liege-f-c-entente-pepine-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-charneux-4-prov-f-liege-f-c-entente-pe
+ pine-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c63a97236d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.C.S. Bollandois – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-440b358e04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Entente Pepine – R. Cornesse F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-440516155f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Union Aubeloise – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b1792f562@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Entente Pepine – Skill Racing Union Verviers
+DESCRIPTION:4e provinciale Liège F\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2858453c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R. ST F.C. Andrimont B – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-360c97247b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Entente Pepine – R. Battice F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0714c7b02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Entente Pepine – R. Herve F.C.
+DESCRIPTION:4e provinciale Liège F\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b4cf6233a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Alliance Melen-Micheroux – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ead240084@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Entente Pepine – R.A.F. Franchimontois
+DESCRIPTION:4e provinciale Liège F\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6a3716fa2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Trois-Frontières – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51a2e487e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:F.C. Entente Pepine – R.F.C. Queue du Bois
+DESCRIPTION:4e provinciale Liège F\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40ce206364@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.C. Soiron – F.C. Entente Pepine
+DESCRIPTION:4e provinciale Liège F\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-527d3351d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Entente Pepine – R.F.C. Charneux
+DESCRIPTION:4e provinciale Liège F\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-entente-pepine/
+URL:https://goalio.be/fr/equipe/f-c-entente-pepine/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

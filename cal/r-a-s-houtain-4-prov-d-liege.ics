@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.A.S. Houtain · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-87325bca59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.A.S. Houtain 1-2 R.U.S. Glontoise
+DESCRIPTION:4e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-a-s-houtain-4-prov-d-liege-r-u-s-glontoise-2026-10-31/
+URL:https://goalio.be/fr/match/r-a-s-houtain-4-prov-d-liege-r-u-s-glontoise
+ -2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d67a750487@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261112T190000Z
+DTEND:20261112T204500Z
+SUMMARY:R. Oupeye FC 3-2 R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-oupeye-fc-4-prov-d-liege-r-a-s-houtain-4-prov-d-liege-2026-11-12/
+URL:https://goalio.be/fr/match/r-oupeye-fc-4-prov-d-liege-r-a-s-houtain-4-p
+ rov-d-liege-2026-11-12/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbc43f995e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R.A.S. Houtain 3-0 A.S. Hermalienne
+DESCRIPTION:4e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-a-s-houtain-4-prov-d-liege-a-s-hermalienne-4-prov-d-liege-2026-11-14/
+URL:https://goalio.be/fr/match/r-a-s-houtain-4-prov-d-liege-a-s-hermalienne
+ -4-prov-d-liege-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edc6cc6fd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.A.S. Houtain – All. Fexhe Et Slins - Fragnee
+DESCRIPTION:4e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-a-s-houtain-4-prov-d-liege-all-fexhe-et-slins-fragnee-4-prov-d-liege-2
+ 026-11-28/
+URL:https://goalio.be/fr/match/r-a-s-houtain-4-prov-d-liege-all-fexhe-et-sl
+ ins-fragnee-4-prov-d-liege-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dc539da96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R.A.S. Houtain – R.F.C. Croatia Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48bc7d1984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Tilleur – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a59984cea1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Elan Dalhem – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2df5ec2ad5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.A.S. Houtain – Royal Sporting Club De Wandre
+DESCRIPTION:4e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2871adf632@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Union Roclenge-Wonck – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b86f894ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.A.S. Houtain – Football Club Othee
+DESCRIPTION:4e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-432cee728a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:J.S. du Thier-à-Liège – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1bfdfe853@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Avenir Fouron F.C. – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-873b7dd7b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.A.S. Houtain – Ms Herstal Milmort
+DESCRIPTION:4e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4289d987fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.U.S. Glontoise – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1225dff3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.A.S. Houtain – R. Oupeye FC
+DESCRIPTION:4e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-714502c9b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:A.S. Hermalienne – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0fa6d8fa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:All. Fexhe Et Slins - Fragnee – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-a-s-houtain-4-prov-d-liege/
+URL:https://goalio.be/fr/equipe/r-a-s-houtain-4-prov-d-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

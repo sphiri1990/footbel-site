@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Snef A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-snef-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e11c5d96e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Snef A 2-0 U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/f-c-snef-a-u-st-ghisl-tertre-hautr-b-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-snef-a-u-st-ghisl-tertre-hautr-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0347a43e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S.C. Paturageois A 2-1 F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-s-c-paturageois-a-f-c-snef-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-paturageois-a-f-c-snef-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a72a2fb33e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:F.C. Snef A 0-3 Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-snef-a-bracquegnies-sp-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-snef-a-bracquegnies-sp-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36bb6a105a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.A.F.C. Cuesmes A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-a-f-c-cuesmes-a-f-c-snef-a-2026-11-22/
+URL:https://goalio.be/fr/match/r-a-f-c-cuesmes-a-f-c-snef-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76f0f8b818@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:F.C. Snef A – Renaissance FC Carnières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-snef-a-renaissance-fc-carnieres-a-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-snef-a-renaissance-fc-carnieres-a-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a7b69a232@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:F.C. Snef A – R.A.E.C. Mons B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-242bbba37c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:C. Ol. Trivières A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56363bf5e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C. Snef A – F.C. Casteau A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81050b4a51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. AEDEC-Hyon – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da66755123@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Snef A – R.L.C. Mesvinois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-704afef0f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:U.S. Neufvilles A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6334857cfe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Snef A – R. SP B. Frameries A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8eb9103028@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Athènes Haine-Saint-Pierre – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac8e000286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:U.E. Estinnoise A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52d42a8b0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Snef A – FC Quévy Genly A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b434b658f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dbc5825de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Snef A – R.S.C. Paturageois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5690b5f063@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Bracquegnies Sp A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3deaed684@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Snef A – R.A.F.C. Cuesmes A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-163189ddce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Renaissance FC Carnières A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/f-c-snef-a/
+URL:https://goalio.be/fr/equipe/f-c-snef-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

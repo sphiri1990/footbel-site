@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. La Buissière A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d86f941863@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.U.S.C. Anderlues A 0-2 R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-u-s-c-anderlues-a-r-f-c-la-buissiere-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-u-s-c-anderlues-a-r-f-c-la-buissiere-a-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3717c2d3fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. La Buissière A 2-2 SC Farciennes A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-la-buissiere-a-sc-farciennes-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-la-buissiere-a-sc-farciennes-a-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8dc3931960@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:S.R.J.S. Thudinienne A 1-2 R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/s-r-j-s-thudinienne-a-r-f-c-la-buissiere-a-2026-11-15/
+URL:https://goalio.be/fr/match/s-r-j-s-thudinienne-a-r-f-c-la-buissiere-a-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65b96c1bf3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. La Buissière A – Erpion-LL Eau d'Heure B
+DESCRIPTION:2e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-f-c-la-buissiere-a-erpion-ll-eau-d-heure-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-la-buissiere-a-erpion-ll-eau-d-heure-b
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdb73eaafe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R. Jumet S.C. A – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-jumet-s-c-a-r-f-c-la-buissiere-a-2026-11-28/
+URL:https://goalio.be/fr/match/r-jumet-s-c-a-r-f-c-la-buissiere-a-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ebf6ae676@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:E.S. Mominoise A – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb28e24556@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. La Buissière A – R.F.C. Nalinnois A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8de1cc2eed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.S.A. Forchies A – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c5b62b1b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C. La Buissière A – R.C. Marcinelle A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdc4fd3243@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.U.S. Courcelloise A – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55fe00d6b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. La Buissière A – R.F.C. de Gilly A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-85081aa59a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:S.C. Montignies – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83ed36febb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. La Buissière A – R. Gosselies Sports B
+DESCRIPTION:2e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82593ff9e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. Bouffioulx A – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-882caecf40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. La Buissière A – A.S. Fontainoise A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34e6f72fb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. La Buissière A – R.U.S.C. Anderlues A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d64f4f093@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SC Farciennes A – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dd461493c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. La Buissière A – S.R.J.S. Thudinienne A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9812177e73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Erpion-LL Eau d'Heure B – R.F.C. La Buissière A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0019cb0e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. La Buissière A – R. Jumet S.C. A
+DESCRIPTION:2e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-la-buissiere-a/
+URL:https://goalio.be/fr/equipe/r-f-c-la-buissiere-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

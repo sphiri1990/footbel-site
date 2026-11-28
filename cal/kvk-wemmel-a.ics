@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVK Wemmel A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kvk-wemmel-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e2ff77696f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:KVK Wemmel A 2-1 HO Wolvertem Merchtem
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 10\nhttps://goalio.be
+ /fr/match/kvk-wemmel-a-ho-wolvertem-merchtem-2026-10-31/
+URL:https://goalio.be/fr/match/kvk-wemmel-a-ho-wolvertem-merchtem-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7613de1ff5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:VK Holsbeek A 0-3 KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 11\nhttps://goalio.be
+ /fr/match/vk-holsbeek-a-kvk-wemmel-a-2026-11-07/
+URL:https://goalio.be/fr/match/vk-holsbeek-a-kvk-wemmel-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f21c98211@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:KVK Wemmel A 3-2 KVV Kester-Gooik A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 12\nhttps://goalio.be
+ /fr/match/kvk-wemmel-a-kvv-kester-gooik-a-2026-11-14/
+URL:https://goalio.be/fr/match/kvk-wemmel-a-kvv-kester-gooik-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9efca3307@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:KVK Wemmel A 3-0 SK Pepingen-Halle A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 13\nhttps://goalio.be
+ /fr/match/kvk-wemmel-a-sk-pepingen-halle-a-2026-11-21/
+URL:https://goalio.be/fr/match/kvk-wemmel-a-sk-pepingen-halle-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0c4f0fc41e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:KFC Herent A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 14\nhttps://goalio.be
+ /fr/match/kfc-herent-a-kvk-wemmel-a-2026-11-28/
+URL:https://goalio.be/fr/match/kfc-herent-a-kvk-wemmel-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4dd5855134@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:KVK Wemmel A – Fenixx Beigem Humbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 15\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74cf8fe069@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:BOKA United A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 16\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1b54f41c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T163000Z
+DTEND:20270109T181500Z
+SUMMARY:Eendr. Mazenzele Opwijk A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 17\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71a40f77a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:KVK Wemmel A – ERC Hoeilaart A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 18\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34b7d2a25a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:KVK Wemmel A – SC Out-Hoegaarden A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 19\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b68098657@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KSC Grimbergen A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 20\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b55b09b868@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:KVK Wemmel A – KFC Herent A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 21\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de3f12507e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T130000Z
+DTEND:20270221T144500Z
+SUMMARY:KV Tervuren-Duisburg A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 22\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-816c7a0adf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:KVK Wemmel A – VK Holsbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 23\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b165961ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T193000Z
+DTEND:20270306T211500Z
+SUMMARY:KVV Kester-Gooik A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 24\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82e117fcac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:KVK Wemmel A – KHO Huizingen A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 25\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e3dc2f623@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Pepingen-Halle A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 26\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2215c3693a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:KVK Wemmel A – Sporting Kampenhout A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 27\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2fa2f428e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T123000Z
+DTEND:20270411T141500Z
+SUMMARY:Fenixx Beigem Humbeek A – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 28\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eb129f8177@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:KVK Wemmel A – HO Bierbeek A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 29\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c650a004f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HO Wolvertem Merchtem – KVK Wemmel A
+DESCRIPTION:1re provinciale Brabant flamand\nJournée 30\nhttps://goalio.be
+ /fr/equipe/kvk-wemmel-a/
+URL:https://goalio.be/fr/equipe/kvk-wemmel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

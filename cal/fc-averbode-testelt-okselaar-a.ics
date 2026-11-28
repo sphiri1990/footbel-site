@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Averbode Testelt Okselaar A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8cc2565f4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:St. Lenaarts A 2-0 FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/st-lenaart
+ s-a-fc-averbode-testelt-okselaar-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/st-lenaarts-a-fc-averbode-testelt-oksela
+ ar-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00e69101dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Averbode Testelt Okselaar A 1-2 ASV Geel
+DESCRIPTION:D3 VV B\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/fc-averbod
+ e-testelt-okselaar-a-asv-geel-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-averbode-testelt-okselaar-a-asv-geel-
+ 2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3fdee13b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T184500Z
+SUMMARY:Lommel SK B 1-3 FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/lommel-sk-
+ b-fc-averbode-testelt-okselaar-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/lommel-sk-b-fc-averbode-testelt-okselaar
+ -a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d86247675@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Averbode Testelt Okselaar A 2-0 K. Nieuwmoer FC A
+DESCRIPTION:D3 VV B\nSpeeldag 15\nhttps://goalio.be/nl/wedstrijd/fc-averbod
+ e-testelt-okselaar-a-k-nieuwmoer-fc-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-averbode-testelt-okselaar-a-k-nieuwmo
+ er-fc-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8c52957ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:KAC Betekom A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 16\nhttps://goalio.be/nl/wedstrijd/kac-beteko
+ m-a-fc-averbode-testelt-okselaar-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kac-betekom-a-fc-averbode-testelt-oksela
+ ar-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a018d86a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Averbode Testelt Okselaar A – GS Bree-Beek A
+DESCRIPTION:D3 VV B\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c54f8ad782@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:VK Linden A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-901095851b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:KVC Lille United A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b900ad8711@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Averbode Testelt Okselaar A – WS Schoonbeek-Bilzen A
+DESCRIPTION:D3 VV B\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a11f7a377@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:FC Wezel Sport A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f2008e103@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Averbode Testelt Okselaar A – KVV Zepperen-Brustem A
+DESCRIPTION:D3 VV B\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e10147f2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T190000Z
+DTEND:20270206T204500Z
+SUMMARY:OHR Huldenberg A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2da4203850@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Averbode Testelt Okselaar A – K. Berg en Dal VV
+DESCRIPTION:D3 VV B\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9ea9f9fe3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:K. Nieuwmoer FC A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b67162ab95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Averbode Testelt Okselaar A – KAC Betekom A
+DESCRIPTION:D3 VV B\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fcd1e2d35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KFC Turnhout – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-590e1a1501@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:ASV Geel – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11947a01fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Averbode Testelt Okselaar A – Achel VV A
+DESCRIPTION:D3 VV B\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-109e3869c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Esperanza Pelt A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 31\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50421852d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Averbode Testelt Okselaar A – St. Lenaarts A
+DESCRIPTION:D3 VV B\nSpeeldag 32\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5663c5944@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:GS Bree-Beek A – FC Averbode Testelt Okselaar A
+DESCRIPTION:D3 VV B\nSpeeldag 33\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b64189a8b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Averbode Testelt Okselaar A – Lommel SK B
+DESCRIPTION:D3 VV B\nSpeeldag 34\nhttps://goalio.be/nl/ploeg/fc-averbode-te
+ stelt-okselaar-a/
+URL:https://goalio.be/nl/ploeg/fc-averbode-testelt-okselaar-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

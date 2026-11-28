@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Vlezenbeek · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sk-vlezenbeek/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9ad745e1f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SK Vlezenbeek 0-1 FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-vlezenbeek-fc-negenmanneke-2026-11-01/
+URL:https://goalio.be/fr/match/sk-vlezenbeek-fc-negenmanneke-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4ad39c4af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:KFC Av. Lembeek B 0-3 SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kfc-av-lembeek-b-sk-vlezenbeek-2026-11-07/
+URL:https://goalio.be/fr/match/kfc-av-lembeek-b-sk-vlezenbeek-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a3dc9a0aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:SK Vlezenbeek 2-3 KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/sk-vlezenbeek-kho-huizingen-b-2026-11-15/
+URL:https://goalio.be/fr/match/sk-vlezenbeek-kho-huizingen-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-039abf9377@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:SK Vlezenbeek 7-0 FC Galmaarden B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/sk-vlezenbeek-fc-galmaarden-b-2026-11-22/
+URL:https://goalio.be/fr/match/sk-vlezenbeek-fc-galmaarden-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc68d738b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KFC MZ Tollembeek – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/kfc-mz-tollembeek-sk-vlezenbeek-2026-11-28/
+URL:https://goalio.be/fr/match/kfc-mz-tollembeek-sk-vlezenbeek-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5613932fea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:FC Herne B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8a18c153a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:SK Vlezenbeek – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f079e80429@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:SK Oetingen VC B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7aa3ac74c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:SK Vlezenbeek – KVC Linkebeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f9d8f795e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:FC Galmaarden B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b45faf5999@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KHO Huizingen B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d23e07c566@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Vlezenbeek – KFC Av. Lembeek B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ed774bfca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Negenmanneke – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12e04faaaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Vlezenbeek – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-004efb4a1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:S.K. Beersel – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8ca675f04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Vlezenbeek – KFC MZ Tollembeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0926beb15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T183000Z
+DTEND:20270403T201500Z
+SUMMARY:KVV Kester-Gooik B – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51d5cf52cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Vlezenbeek – KFC Lennik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/sk-vlezenbeek/
+URL:https://goalio.be/fr/equipe/sk-vlezenbeek/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

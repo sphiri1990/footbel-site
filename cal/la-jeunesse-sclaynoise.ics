@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:La Jeunesse Sclaynoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-21ff6b803e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:La Jeunesse Sclaynoise 3-2 RUS Méan A
+DESCRIPTION:2e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /la-jeunesse-sclaynoise-rus-mean-a-2026-11-01/
+URL:https://goalio.be/fr/match/la-jeunesse-sclaynoise-rus-mean-a-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a18004700@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:S Flawinne FC A 2-1 La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /s-flawinne-fc-a-la-jeunesse-sclaynoise-2026-11-08/
+URL:https://goalio.be/fr/match/s-flawinne-fc-a-la-jeunesse-sclaynoise-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc93a3f7b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:La Jeunesse Sclaynoise 2-1 J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /la-jeunesse-sclaynoise-j-tavietoise-a-2026-11-15/
+URL:https://goalio.be/fr/match/la-jeunesse-sclaynoise-j-tavietoise-a-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6af1e4bbe7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:La Jeunesse Sclaynoise – CS Wépionnais A (remis)
+DESCRIPTION:2e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /la-jeunesse-sclaynoise-cs-wepionnais-a-2026-11-22/
+URL:https://goalio.be/fr/match/la-jeunesse-sclaynoise-cs-wepionnais-a-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d995126ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RFC Rhisnois A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /rfc-rhisnois-a-la-jeunesse-sclaynoise-2026-11-29/
+URL:https://goalio.be/fr/match/rfc-rhisnois-a-la-jeunesse-sclaynoise-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba0cbea543@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RUW Ciney B – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-269338654d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:La Jeunesse Sclaynoise – RSC Oheytois A
+DESCRIPTION:2e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72863918b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RES Gesvoise A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c01dcaaeae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:La Jeunesse Sclaynoise – US Emines A
+DESCRIPTION:2e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af79bb5d86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R Arquet FC B – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40c8dc1ea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:La Jeunesse Sclaynoise – ES Jamboise A
+DESCRIPTION:2e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e300a5063a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RRC Havelange A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4fd140ee9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:La Jeunesse Sclaynoise – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e7ae8bf58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:JS Eghezée – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b4bdd5954@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:La Jeunesse Sclaynoise – RUS Assessoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0cbdd851a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RUS Méan A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b592ed3096@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:La Jeunesse Sclaynoise – S Flawinne FC A
+DESCRIPTION:2e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebc2e14f8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J Tavietoise A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35e9cb6869@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:CS Wépionnais A – La Jeunesse Sclaynoise
+DESCRIPTION:2e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-375f18cf38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:La Jeunesse Sclaynoise – RFC Rhisnois A
+DESCRIPTION:2e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/la-jeunesse-sclaynoise/
+URL:https://goalio.be/fr/equipe/la-jeunesse-sclaynoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

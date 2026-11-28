@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeunesse Sportive Grivegnee · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov
+ -e-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-18c8edd370@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T160000Z
+DTEND:20261101T174500Z
+SUMMARY:Jeunesse Sportive Grivegnee 0-2 R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 11\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-4-prov-e-liege-r-s-c-saive-4-prov-e-liege-20
+ 26-11-01/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-4-prov-e-liege-r
+ -s-c-saive-4-prov-e-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9c8670b11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Soumagne 0-8 Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-f-c-soumagne-4-prov-e-liege-jeunesse-sportive-grivegnee-4-prov-e-liege
+ -2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-soumagne-4-prov-e-liege-jeunesse-sport
+ ive-grivegnee-4-prov-e-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce17d33ad5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T160000Z
+DTEND:20261115T174500Z
+SUMMARY:Jeunesse Sportive Grivegnee 0-4 Union Aubeloise B
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-4-prov-e-liege-union-aubeloise-b-2026-11-15/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-4-prov-e-liege-u
+ nion-aubeloise-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d185637ad0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:F.C. Trois-Frontières – Jeunesse Sportive Grivegnee (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-trois-frontieres-jeunesse-sportive-grivegnee-4-prov-e-liege-2026-11-
+ 22/
+URL:https://goalio.be/fr/match/f-c-trois-frontieres-jeunesse-sportive-grive
+ gnee-4-prov-e-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e374ccc093@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 15\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-4-prov-e-liege-jeunesse-sportive-queue-du-bo
+ is-2026-11-29/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-4-prov-e-liege-j
+ eunesse-sportive-queue-du-bois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6efc5a109@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – Entente Jeunesse Fleron
+DESCRIPTION:4e provinciale Liège E\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05a39893a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Barchon – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d24003b88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b10e15473a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:F.C. Jupille – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ee605d192@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.A.C. Hombourg
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca62987855@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:U.C.E. de Liège – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3545e10c8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jeunesse Sportive Grivegnee – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f49bbf270@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.J. Magnétoise – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e089da8c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T160000Z
+DTEND:20270321T174500Z
+SUMMARY:R.S.C. Saive – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a8685c8ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Jeunesse Sportive Grivegnee – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97f79a559f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T171500Z
+DTEND:20270410T190000Z
+SUMMARY:Union Aubeloise B – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cee5330e98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Jeunesse Sportive Grivegnee – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ab7242eab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-grivegnee-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

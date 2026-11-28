@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Meux A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-meux-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-04ab2a44a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RFC Meux A 3-2 Sporting Du Pays De Charleroi
+DESCRIPTION:D1 FFA\nJournée 11\nhttps://goalio.be/fr/match/rfc-meux-a-spor
+ ting-du-pays-de-charleroi-2026-10-31/
+URL:https://goalio.be/fr/match/rfc-meux-a-sporting-du-pays-de-charleroi-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f21e1a70d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.W.D.M. Brussels 0-1 RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 12\nhttps://goalio.be/fr/match/r-w-d-m-brussel
+ s-rfc-meux-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-w-d-m-brussels-rfc-meux-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57d78af3d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RFC Meux A 0-3 R. Olympic Club Charleroi
+DESCRIPTION:D1 FFA\nJournée 13\nhttps://goalio.be/fr/match/rfc-meux-a-r-ol
+ ympic-club-charleroi-2026-11-14/
+URL:https://goalio.be/fr/match/rfc-meux-a-r-olympic-club-charleroi-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3d05030c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:R. Union St-Gilloise 1-1 RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 14\nhttps://goalio.be/fr/match/r-union-st-gill
+ oise-rfc-meux-a-2026-11-21/
+URL:https://goalio.be/fr/match/r-union-st-gilloise-rfc-meux-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e67732404@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RFC Meux A – R.A.E.C. Mons A
+DESCRIPTION:D1 FFA\nJournée 15\nhttps://goalio.be/fr/match/rfc-meux-a-r-a-
+ e-c-mons-a-2026-11-28/
+URL:https://goalio.be/fr/match/rfc-meux-a-r-a-e-c-mons-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8c593fa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:C.S. Onhaye – RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/rfc-meux-a/
+URL:https://goalio.be/fr/equipe/rfc-meux-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f739430219@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RFC Meux A – Ren. Un. Tubize-Braine-Le-Comte
+DESCRIPTION:D1 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/rfc-meux-a/
+URL:https://goalio.be/fr/equipe/rfc-meux-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4274613503@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Union Rochefortoise – RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/rfc-meux-a/
+URL:https://goalio.be/fr/equipe/rfc-meux-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0bbe8f14e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:RFC Meux A – F.C. Flénu
+DESCRIPTION:D1 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/rfc-meux-a/
+URL:https://goalio.be/fr/equipe/rfc-meux-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5d67a4dea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:RFC Meux A – R. Standard de Liège B
+DESCRIPTION:D1 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/rfc-meux-a/
+URL:https://goalio.be/fr/equipe/rfc-meux-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c5ff04f81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:Sporting Du Pays De Charleroi – RFC Meux A
+DESCRIPTION:D1 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/rfc-meux-a/
+URL:https://goalio.be/fr/equipe/rfc-meux-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9668885550@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Meux A – R.S.C. Habay La Neuve
+DESCRIPTION:D1 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/rfc-meux-a/
+URL:https://goalio.be/fr/equipe/rfc-meux-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fenixx Beigem Humbeek B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e4623bacf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:SK Laar 1-2 Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-laar-fenixx-beigem-humbeek-b-2026-11-01/
+URL:https://goalio.be/fr/match/sk-laar-fenixx-beigem-humbeek-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a514e3e53d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T160000Z
+DTEND:20261108T174500Z
+SUMMARY:KCS Machelen B 1-1 Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 11\nhttps://goalio.b
+ e/fr/match/kcs-machelen-b-fenixx-beigem-humbeek-b-2026-11-08/
+URL:https://goalio.be/fr/match/kcs-machelen-b-fenixx-beigem-humbeek-b-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6efed12f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T160000Z
+DTEND:20261115T174500Z
+SUMMARY:Fenixx Beigem Humbeek B 1-1 AC Bormstraat Kapelle
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 12\nhttps://goalio.b
+ e/fr/match/fenixx-beigem-humbeek-b-ac-bormstraat-kapelle-2026-11-15/
+URL:https://goalio.be/fr/match/fenixx-beigem-humbeek-b-ac-bormstraat-kapell
+ e-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee62ce9a18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KV Woluwe-Zaventem B – Fenixx Beigem Humbeek B (annulé)
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 13\nhttps://goalio.b
+ e/fr/match/kv-woluwe-zaventem-b-fenixx-beigem-humbeek-b-2026-11-22/
+URL:https://goalio.be/fr/match/kv-woluwe-zaventem-b-fenixx-beigem-humbeek-b
+ -2026-11-22/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eddf0dd145@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T160000Z
+DTEND:20261129T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – VV Groot Kapelle B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 14\nhttps://goalio.b
+ e/fr/match/fenixx-beigem-humbeek-b-vv-groot-kapelle-b-2026-11-29/
+URL:https://goalio.be/fr/match/fenixx-beigem-humbeek-b-vv-groot-kapelle-b-2
+ 026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce0682a9c2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:Zemst Sp. B – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfd8c8e474@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T160000Z
+DTEND:20261213T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – KCVV Elewijt B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b9a02cc06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Infinity FC Vilvoorde – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3192b3b4b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T160000Z
+DTEND:20270124T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – KV Woluwe-Zaventem B (annulé)
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89bfc19aee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T163000Z
+DTEND:20270130T181500Z
+SUMMARY:VV Groot Kapelle B – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f00f56f8ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T160000Z
+DTEND:20270214T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – Perk Steenokkerzeel V. 1820 B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3250e6503d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Peutie FC – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6224d9954@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T160000Z
+DTEND:20270228T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – SK Laar
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de5df5140f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T160000Z
+DTEND:20270307T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – K. Sp. Amicii Tange
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9802052f9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KFC Eppegem B – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-148cd6d3c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T160000Z
+DTEND:20270321T174500Z
+SUMMARY:Fenixx Beigem Humbeek B – KCS Machelen B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39b3f62d02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:AC Bormstraat Kapelle – Fenixx Beigem Humbeek B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cfb121e10@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T150000Z
+DTEND:20270411T164500Z
+SUMMARY:Fenixx Beigem Humbeek B – Zemst Sp. B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5e27e7aa7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Fenixx Beigem Humbeek B – FC Inkad Diegem B
+DESCRIPTION:4e provinciale Brabant flamand C\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fenixx-beigem-humbeek-b/
+URL:https://goalio.be/fr/equipe/fenixx-beigem-humbeek-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

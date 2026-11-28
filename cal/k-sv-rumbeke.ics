@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. SV Rumbeke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0677050bd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KVV St-Denijs Sp A 0-2 K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/kvv-st-den
+ ijs-sp-a-k-sv-rumbeke-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kvv-st-denijs-sp-a-k-sv-rumbeke-2026-11-
+ 01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e2410eef8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. SV Rumbeke 2-0 K. Sp. Club Blankenberge A
+DESCRIPTION:D3 VV A\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/k-sv-rumbe
+ ke-k-sp-club-blankenberge-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-sv-rumbeke-k-sp-club-blankenberge-a-20
+ 26-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dedcee388e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Olsa Brakel A 2-0 K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/olsa-brake
+ l-a-k-sv-rumbeke-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/olsa-brakel-a-k-sv-rumbeke-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97c8b4feb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:K. SV Rumbeke 3-1 F.C. Gullegem
+DESCRIPTION:D3 VV A\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/k-sv-rumbe
+ ke-f-c-gullegem-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-sv-rumbeke-f-c-gullegem-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfedc3555f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:KFC Wambeek Ternat A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/kfc-wambee
+ k-ternat-a-k-sv-rumbeke-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/kfc-wambeek-ternat-a-k-sv-rumbeke-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da742873a2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K. SV Rumbeke – KVE Drongen A
+DESCRIPTION:D3 VV A\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81769de182@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K.V.K. Ieper – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b7823e928@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KCVV Elewijt A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bee3cac623@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K. SV Rumbeke – K.W.S. Club Lauwe A
+DESCRIPTION:D3 VV A\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d430eae4d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Gullegem – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e66186e0e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:K. SV Rumbeke – Avanti Stekene
+DESCRIPTION:D3 VV A\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcf8708222@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K. SV Rumbeke – Olsa Brakel A
+DESCRIPTION:D3 VV A\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c070d7738f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:K. Berchem Sp. 2004 A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5a49f632f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. SV Rumbeke – KFC Wambeek Ternat A
+DESCRIPTION:D3 VV A\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1936f4ce69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T190000Z
+DTEND:20270306T204500Z
+SUMMARY:Zwevegem Sport – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed56b963b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K. SV Rumbeke – KVV St-Denijs Sp A
+DESCRIPTION:D3 VV A\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c36cfed7f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Sp. Club Blankenberge A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0930c5f7f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KVE Drongen A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8dd58d0713@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K. SV Rumbeke – Erpe-Mere United
+DESCRIPTION:D3 VV A\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5234cba1ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Eendr Elene-Grotenberge A – K. SV Rumbeke
+DESCRIPTION:D3 VV A\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d142025d3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. SV Rumbeke – SC City Pirates Antwerpen A
+DESCRIPTION:D3 VV A\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-sv-rumbeke/
+URL:https://goalio.be/nl/ploeg/k-sv-rumbeke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

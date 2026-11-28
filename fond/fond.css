@@ -1,0 +1,55 @@
+/* Fond Goalio (20/11/2026) : activé par config/site.json › fond_goalio ("off" par défaut, "halo").
+   Halo de soirée : éclairage de stade dans la nuit. Statique : ni image, ni script, ni animation ; couche fixe qui ne capte aucun clic.
+   data-goalio-bg est posé sur <body> à la génération. Retour arrière : "fond_goalio": "off", reconstruire, republier.
+   Paliers intermédiaires dans les dégradés : évitent les bandes visibles (jamais de bruit pour les masquer, ce serait du grain). */
+:root {
+  --goalio-warm-1: rgb(255 170 60 / .085);   /* ambre : le jaune pur sur le bleu nuit virait au kaki */
+  --goalio-warm-2: rgb(255 170 60 / .03);
+  --goalio-cool-1: rgb(30 72 120 / .55);
+  --goalio-cool-2: rgb(30 72 120 / .18);
+  --goalio-base-1: #0a1520;
+  --goalio-base-2: #09121c;
+  --goalio-base-3: #060c13;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --goalio-warm-1: rgb(255 236 170 / .45);
+    --goalio-warm-2: rgb(255 236 170 / .16);
+    --goalio-cool-1: rgb(150 180 215 / .30);
+    --goalio-cool-2: rgb(150 180 215 / .10);
+    --goalio-base-1: #eef2f6;
+    --goalio-base-2: #eaeff4;
+    --goalio-base-3: #e6ebf1;
+  }
+}
+:root[data-theme="light"] {
+  --goalio-warm-1: rgb(255 236 170 / .45);
+  --goalio-warm-2: rgb(255 236 170 / .16);
+  --goalio-cool-1: rgb(150 180 215 / .30);
+  --goalio-cool-2: rgb(150 180 215 / .10);
+  --goalio-base-1: #eef2f6;
+  --goalio-base-2: #eaeff4;
+  --goalio-base-3: #e6ebf1;
+}
+
+body[data-goalio-bg="halo"] { isolation: isolate; }
+body[data-goalio-bg="halo"]::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(60vmax 50vmax at 104% 46%, var(--goalio-warm-1), var(--goalio-warm-2) 34%, transparent 66%),
+    radial-gradient(80vmax 60vmax at -6% 120%, var(--goalio-cool-1), var(--goalio-cool-2) 45%, transparent 72%),
+    linear-gradient(180deg, var(--goalio-base-1) 0%, var(--goalio-base-2) 45%, var(--goalio-base-3) 100%);
+}
+/* Mobile : la lueur dorée remonte vers le titre. */
+@media (max-width: 600px) {
+  body[data-goalio-bg="halo"]::before {
+    background:
+      radial-gradient(90vmax 60vmax at 104% 34%, var(--goalio-warm-1), var(--goalio-warm-2) 36%, transparent 68%),
+      radial-gradient(90vmax 60vmax at -10% 120%, var(--goalio-cool-1), var(--goalio-cool-2) 45%, transparent 72%),
+      linear-gradient(180deg, var(--goalio-base-1) 0%, var(--goalio-base-2) 45%, var(--goalio-base-3) 100%);
+  }
+}

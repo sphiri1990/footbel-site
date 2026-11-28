@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.R.C. Trois-Ponts · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bf69548ef4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.R.C. Trois-Ponts 1-1 R.F.C. 1924 St-Vith
+DESCRIPTION:2e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-r-c-trois-ponts-r-f-c-1924-st-vith-2026-11-01/
+URL:https://goalio.be/fr/match/r-r-c-trois-ponts-r-f-c-1924-st-vith-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1124a17072@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. St. F.C. Andrimont 0-1 R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-st-f-c-andrimont-r-r-c-trois-ponts-2026-11-08/
+URL:https://goalio.be/fr/match/r-st-f-c-andrimont-r-r-c-trois-ponts-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-596499ab06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.R.C. Trois-Ponts 1-5 Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-r-c-trois-ponts-stade-vervietois-2-prov-c-liege-2026-11-15/
+URL:https://goalio.be/fr/match/r-r-c-trois-ponts-stade-vervietois-2-prov-c-
+ liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0eac1deaec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Xhoffraix – R.R.C. Trois-Ponts (remis)
+DESCRIPTION:2e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-xhoffraix-r-r-c-trois-ponts-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-xhoffraix-r-r-c-trois-ponts-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ac4318ccb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.R.C. Trois-Ponts – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-r-c-trois-ponts-k-f-c-ol-recht-2026-11-29/
+URL:https://goalio.be/fr/match/r-r-c-trois-ponts-k-f-c-ol-recht-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d44ac72f4b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:K.F.C. Grün-Weiss Amel – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e4b80ac9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.R.C. Trois-Ponts – R.A.F. Franchimontois
+DESCRIPTION:2e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5693e8e610@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261217T190000Z
+DTEND:20261217T204500Z
+SUMMARY:S.G. Rapid Oudler – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6bea487ea5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R.R.C. Trois-Ponts – Königlicher Honsfelder S.V.
+DESCRIPTION:2e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10b6544b72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Battice F.C. A – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9fada2f52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R.R.C. Trois-Ponts – R.F.C. Sart-Lez-Spa
+DESCRIPTION:2e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4007295de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:ET. Elsautoise B – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fcafe3b33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.R.C. Trois-Ponts – R.C.S. Stavelotain A
+DESCRIPTION:2e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-800d8f575c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R. FC Rocherath – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1f6d36a6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.R.C. Trois-Ponts – Royale Entente Lambermont-Rechain
+DESCRIPTION:2e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4824b5b3d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R.F.C. 1924 St-Vith – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd23b36297@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.R.C. Trois-Ponts – R. St. F.C. Andrimont
+DESCRIPTION:2e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55467acb64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Stade Vervietois – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ee7d7de7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.R.C. Trois-Ponts – R.F.C. Xhoffraix
+DESCRIPTION:2e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c211f6dcce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.F.C. OL. Recht – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-r-c-trois-ponts/
+URL:https://goalio.be/fr/equipe/r-r-c-trois-ponts/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

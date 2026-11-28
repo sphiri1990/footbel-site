@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. Merksplas SK · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-merksplas-sk/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d894925fa9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Merksplas SK 5-1 K. Vlimmeren Sp.
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/k-merksplas-sk-k-vlimmeren-sp-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-merksplas-sk-k-vlimmeren-sp-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6837d2a0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:K. Merksplas SK 3-1 KFC De Kempen TL B
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/k-merksplas-sk-kfc-de-kempen-tl-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-merksplas-sk-kfc-de-kempen-tl-b-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b900b15be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:K. FC Poppel 0-2 K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/k-fc-poppel-k-merksplas-sk-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-fc-poppel-k-merksplas-sk-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a843d23aa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K. Merksplas SK 8-0 KSK Kasterlee
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/k-merksplas-sk-ksk-kasterlee-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-merksplas-sk-ksk-kasterlee-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be6f9bc727@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:RFC Zwaneven – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/rfc-zwaneven-k-merksplas-sk-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/rfc-zwaneven-k-merksplas-sk-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8b581ea15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. Merksplas SK – K. Zwal. Olmen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ad4cb528e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. Merksplas SK – KFC Exc. Bouwel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d3e79f599@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. Vlimmeren Sp. – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46855f98f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:K. Merksplas SK – K. FC Pulle
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92eef764e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC De Kempen TL B – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ee5ead841@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:K. Merksplas SK – K. FC Poppel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57eaf259d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K.F.C. Houtvenne B – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-710efe6342@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. Merksplas SK – Verbr. Balen
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0248e7b728@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:K. SAV St. Dimpna – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-911d5437bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. Merksplas SK – K. Ramsel FC
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b17ea70151@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Waterheide Schorvoort Zevendonk – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a8eac307e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Merksplas SK – RFC Zwaneven
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ed0a2ba64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KSK Kasterlee – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e487a62f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:K. Zwal. Olmen – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d353e7645@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Merksplas SK – K.F.C. Zammel
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1e380ea2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Heidebl. Pulderbos – K. Merksplas SK
+DESCRIPTION:3e provinciale Antwerpen C\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/k-merksplas-sk/
+URL:https://goalio.be/nl/ploeg/k-merksplas-sk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

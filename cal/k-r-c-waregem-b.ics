@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.R.C. Waregem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-77af2ee8b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K.R.C. Waregem B 1-1 K.S.K Vlamertinge A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-r-c-waregem-b-k-s-k-vlamertinge-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-r-c-waregem-b-k-s-k-vlamertinge-a-2026
+ -10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c7b1b091e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K.R.C. Waregem B 2-1 SC Zonnebeke A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-r-c-waregem-b-sc-zonnebeke-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-r-c-waregem-b-sc-zonnebeke-a-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9acf9766e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:SK Nieuwkerke 5-0 K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/sk-nieuwkerke-k-r-c-waregem-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sk-nieuwkerke-k-r-c-waregem-b-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0641bf7c3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K.R.C. Waregem B 3-1 K. VK Avelgem A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-r-c-waregem-b-k-vk-avelgem-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-r-c-waregem-b-k-vk-avelgem-a-2026-11-2
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5cedf094c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.J.H. Comines A – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/r-j-h-comines-a-k-r-c-waregem-b-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/r-j-h-comines-a-k-r-c-waregem-b-2026-11-
+ 29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7142d659d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K.R.C. Waregem B – SV Moorslede
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dff3861f2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:K.R.C. Waregem B – KFC Poperinge
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-654320ab3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:K.S.K Vlamertinge A – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63109139d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:K.R.C. Waregem B – K. FC Lendelede Sport
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-534b39cfc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:SC Zonnebeke A – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d97443014@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K.R.C. Waregem B – SK Nieuwkerke
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35313d2716@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:GD Ingooigem – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b9ccef073@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:K.R.C. Waregem B – K.S.V. Pittem
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-051ff81b7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:V.V. Emelgem-Kachtem – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6826f74432@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K.R.C. Waregem B – K. Dosko Beveren
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f56f56db0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:K. FC. Meulebeke – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-405e77385f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K.R.C. Waregem B – R.J.H. Comines A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5a56b70e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:K. VK Avelgem A – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-301c281219@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SV Moorslede – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bcbcdba41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K.R.C. Waregem B – K. SV Moorsele A
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67edd59e19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. SK Geluwe – K.R.C. Waregem B
+DESCRIPTION:2e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-r-c-waregem-b/
+URL:https://goalio.be/nl/ploeg/k-r-c-waregem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.R.C. De Boitsfort · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-braban
+ t-wallon-bruxelles/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1f706f6d1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R. Ol. F.C. Stockel 6-1 R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 9\nhttps://
+ goalio.be/fr/match/r-ol-f-c-stockel-r-r-c-de-boitsfort-3-prov-b-brabant-wa
+ llon-bruxelles-2026-10-31/
+URL:https://goalio.be/fr/match/r-ol-f-c-stockel-r-r-c-de-boitsfort-3-prov-b
+ -brabant-wallon-bruxelles-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d55d8d99d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Black Star F.C. 2-5 R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 10\nhttps:/
+ /goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxelles-r-r-c
+ -de-boitsfort-3-prov-b-brabant-wallon-bruxelles-2026-11-07/
+URL:https://goalio.be/fr/match/black-star-f-c-3-prov-b-brabant-wallon-bruxe
+ lles-r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-032bc04e20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R.R.C. De Boitsfort 3-6 Bx Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 11\nhttps:/
+ /goalio.be/fr/match/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles-b
+ x-brussels-2026-11-15/
+URL:https://goalio.be/fr/match/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-b
+ ruxelles-bx-brussels-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a73f38bc90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Racing Anderlecht 2-3 R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 12\nhttps:/
+ /goalio.be/fr/match/racing-anderlecht-r-r-c-de-boitsfort-3-prov-b-brabant-
+ wallon-bruxelles-2026-11-22/
+URL:https://goalio.be/fr/match/racing-anderlecht-r-r-c-de-boitsfort-3-prov-
+ b-brabant-wallon-bruxelles-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1c9ad59f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R.R.C. De Boitsfort – Olympic Wolves Brussels
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 13\nhttps:/
+ /goalio.be/fr/match/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles-o
+ lympic-wolves-brussels-2026-11-29/
+URL:https://goalio.be/fr/match/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-b
+ ruxelles-olympic-wolves-brussels-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7885de8e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.R.C. De Boitsfort – Racing Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 14\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e966ddd78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Olympic Wolves Brussels – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 15\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d6c7b7dce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R.R.C. De Boitsfort – F.E.F. Anderlecht
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3342b140cc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T173000Z
+DTEND:20270116T191500Z
+SUMMARY:F.C. Moreda Uccle – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2a7d4273b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Olympic Anderlecht – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b36a8ad7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.R.C. De Boitsfort – Olympique Club Forestois
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f483ce9110@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:F.C. Anderlecht Sport Milan – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b24649a363@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.R.C. De Boitsfort – FC Polonia Bruxelles
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24f0de93d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Un. Auderghem – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac9b096ce4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.R.C. De Boitsfort – R. Ol. F.C. Stockel
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-647366d219@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.R.C. De Boitsfort – Black Star F.C.
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54943b9c11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Bx Brussels – R.R.C. De Boitsfort
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles B\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-bruxelles/
+URL:https://goalio.be/fr/equipe/r-r-c-de-boitsfort-3-prov-b-brabant-wallon-
+ bruxelles/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

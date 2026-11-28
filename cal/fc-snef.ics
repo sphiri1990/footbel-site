@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Snef · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-snef/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c61617375c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.S.C. Naastois 0-0 FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-s-c-naastois-fc-snef-2026-11-01/
+URL:https://goalio.be/fr/match/r-s-c-naastois-fc-snef-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb99aa6c4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC Snef 4-0 R.F.C.E. Maurage
+DESCRIPTION:4e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/fc-snef-r-f-c-e-maurage-4-prov-d-hainaut-2026-11-08/
+URL:https://goalio.be/fr/match/fc-snef-r-f-c-e-maurage-4-prov-d-hainaut-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90b3a5a184@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.A.S. Ghlinoise 2-3 FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-a-s-ghlinoise-4-prov-d-hainaut-fc-snef-2026-11-15/
+URL:https://goalio.be/fr/match/r-a-s-ghlinoise-4-prov-d-hainaut-fc-snef-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-002191a830@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC Snef – A.S. Morlanwelz
+DESCRIPTION:4e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/fc-snef-a-s-morlanwelz-4-prov-d-hainaut-2026-11-22/
+URL:https://goalio.be/fr/match/fc-snef-a-s-morlanwelz-4-prov-d-hainaut-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b08cac73fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R. Soignies Sports – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-soignies-sports-4-prov-d-hainaut-fc-snef-2026-11-28/
+URL:https://goalio.be/fr/match/r-soignies-sports-4-prov-d-hainaut-fc-snef-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10f1e7f851@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Lindbergh Club Givry – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09dac61d17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:FC Snef – Athl. Club Le Roeulx
+DESCRIPTION:4e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-623de13f3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Club Olympic Trivières – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c28464a872@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:FC Snef – US Centre Haine-Saint-Pierre
+DESCRIPTION:4e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41b568dc6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Peronnes – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d774acf159@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Snef – R.F.C. Ecaussinnois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f33c54811@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Trazegnies Sports – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37a973d865@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Snef – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a3c9a2b5ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Union Entité Estinnoise – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77c498f949@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Snef – R.S.C. Naastois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f8c9764f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C.E. Maurage – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6b6f49f63a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Snef – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-949d7a3164@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:A.S. Morlanwelz – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2aa73c0341@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Snef – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/fc-snef/
+URL:https://goalio.be/fr/equipe/fc-snef/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RCS Nivellois A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rcs-nivellois-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-090d22f654@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:JS. Ittroise 1-1 RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 11\nhttps:/
+ /goalio.be/fr/match/js-ittroise-rcs-nivellois-a-2026-11-01/
+URL:https://goalio.be/fr/match/js-ittroise-rcs-nivellois-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45c76f46a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261105T193000Z
+DTEND:20261105T211500Z
+SUMMARY:RCS Nivellois A 13-2 RAS Jodoigne B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 12\nhttps:/
+ /goalio.be/fr/match/rcs-nivellois-a-ras-jodoigne-b-2026-11-05/
+URL:https://goalio.be/fr/match/rcs-nivellois-a-ras-jodoigne-b-2026-11-05/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fb4ac897f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Romania 2025 Limelette – RCS Nivellois A (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 13\nhttps:/
+ /goalio.be/fr/match/fc-romania-2025-limelette-rcs-nivellois-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-romania-2025-limelette-rcs-nivellois-a-20
+ 26-11-15/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ad68a95b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:RCS Nivellois A 4-0 ASE Chastre A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 14\nhttps:/
+ /goalio.be/fr/match/rcs-nivellois-a-ase-chastre-a-2026-11-21/
+URL:https://goalio.be/fr/match/rcs-nivellois-a-ase-chastre-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b4beb866f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:U.S. Rebecquoise – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 15\nhttps:/
+ /goalio.be/fr/match/u-s-rebecquoise-rcs-nivellois-a-2026-11-28/
+URL:https://goalio.be/fr/match/u-s-rebecquoise-rcs-nivellois-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-565f168057@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:ES. Brainoise B – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efa5170c85@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T193000Z
+DTEND:20261212T211500Z
+SUMMARY:RCS Nivellois A – R. US Ophain B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19ea0dc85d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RAS Saintoise B – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-956e69ed3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:RCS Nivellois A – R. Union Rixensartoise B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35a8246bea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:RC Villers la Ville B – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8917c999b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T193000Z
+DTEND:20270130T211500Z
+SUMMARY:RCS Nivellois A – Ottignies-Limelette FC
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24b5758e2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RCS Brainois B – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e725bfd045@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T193000Z
+DTEND:20270220T211500Z
+SUMMARY:RCS Nivellois A – CS. Mt-St-Guibert
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a2e47df04@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T193000Z
+DTEND:20270227T211500Z
+SUMMARY:RCS Nivellois A – RRC Waterloo B
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fe38899a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Olympic Clabecq – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cb78f70d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T193000Z
+DTEND:20270320T211500Z
+SUMMARY:RCS Nivellois A – JS. Ittroise
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a12102fb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RAS Jodoigne B – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51c533439f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T183000Z
+DTEND:20270410T201500Z
+SUMMARY:RCS Nivellois A – FC Romania 2025 Limelette (annulé)
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e16e6552e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:ASE Chastre A – RCS Nivellois A
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51c8b81739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RCS Nivellois A – U.S. Rebecquoise
+DESCRIPTION:3e provinciale Brabant wallon-Bruxelles C\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/rcs-nivellois-a/
+URL:https://goalio.be/fr/equipe/rcs-nivellois-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

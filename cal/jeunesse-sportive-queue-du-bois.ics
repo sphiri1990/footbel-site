@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeunesse Sportive Queue Du Bois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-da8a0db7c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.F.C. Barchon 5-0 Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-f-c-barchon-jeunesse-sportive-queue-du-bois-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-barchon-jeunesse-sportive-queue-du-boi
+ s-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c68f0d39a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois 0-1 R.J.S. Olnoise
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-queue-du-bois-r-j-s-olnoise-4-prov-e-liege-2026-11-08/
+URL:https://goalio.be/fr/match/jeunesse-sportive-queue-du-bois-r-j-s-olnois
+ e-4-prov-e-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21da01ff8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Jupille 1-1 Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/f-c-jupille-4-prov-e-liege-jeunesse-sportive-queue-du-bois-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-jupille-4-prov-e-liege-jeunesse-sportive
+ -queue-du-bois-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dc3593d98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – R.A.C. Hombourg (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-queue-du-bois-r-a-c-hombourg-4-prov-e-liege-2026-11-22
+ /
+URL:https://goalio.be/fr/match/jeunesse-sportive-queue-du-bois-r-a-c-hombou
+ rg-4-prov-e-liege-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e374ccc093@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Jeunesse Sportive Grivegnee – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 15\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-4-prov-e-liege-jeunesse-sportive-queue-du-bo
+ is-2026-11-29/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-4-prov-e-liege-j
+ eunesse-sportive-queue-du-bois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-603c5bcee2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:U.C.E. de Liège – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed231a30f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-947af82c54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.J. Magnétoise – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46cb33aece@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T160000Z
+DTEND:20270124T174500Z
+SUMMARY:R.S.C. Saive – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb114ab339@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – R.F.C. Soumagne
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-203131b778@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T181500Z
+DTEND:20270213T200000Z
+SUMMARY:Union Aubeloise B – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afe23aea6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – F.C. Trois-Frontières
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd6c7a5de3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Entente Jeunesse Fleron – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d20ca15e2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – R.F.C. Barchon
+DESCRIPTION:4e provinciale Liège E\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9abb9fea39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T133000Z
+DTEND:20270404T151500Z
+SUMMARY:R.J.S. Olnoise – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4638363e09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – F.C. Jupille
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f647a5e86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.A.C. Hombourg – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ab7242eab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Jeunesse Sportive Queue Du Bois – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/jeunesse-sportive-queue-du-bois/
+URL:https://goalio.be/fr/equipe/jeunesse-sportive-queue-du-bois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RUS Pondrome B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rus-pondrome-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9700c0fadf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Rienne Sp 2-4 RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /rienne-sp-rus-pondrome-b-2026-11-01/
+URL:https://goalio.be/fr/match/rienne-sp-rus-pondrome-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-411adb44a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Ent. Dionaise 2-1 RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /ent-dionaise-rus-pondrome-b-2026-11-15/
+URL:https://goalio.be/fr/match/ent-dionaise-rus-pondrome-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a1c13cca9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RUS Pondrome B – E Sp Viroin-Olloy (remis)
+DESCRIPTION:4e provinciale Namur C\nJournée 13\nhttps://goalio.be/fr/match
+ /rus-pondrome-b-e-sp-viroin-olloy-2026-11-22/
+URL:https://goalio.be/fr/match/rus-pondrome-b-e-sp-viroin-olloy-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31c07dfd9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire B – RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29acfba2e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RUS Pondrome B – Sporting Club Graide
+DESCRIPTION:4e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e07d3a203d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.U.S Pesche B – RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d4a6e7986@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RUS Pondrome B – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6369a77caa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:US Viroin-Treignes – RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c04ed0a870@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RUS Pondrome B – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29b2a54349@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:ES Des Frontières – RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6977ab430f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RUS Pondrome B – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71577c7995@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RUS Pondrome B – R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ccf19570d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RUS Pondrome B – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e643648ef1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:E Sp Viroin-Olloy – RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6682a5b33c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RUS Pondrome B – Ent. Dionaise
+DESCRIPTION:4e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rus-pondrome-b/
+URL:https://goalio.be/fr/equipe/rus-pondrome-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

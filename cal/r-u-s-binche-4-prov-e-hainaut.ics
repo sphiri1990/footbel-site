@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.U.S. Binche · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-19702652f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Trazegnies Sports 4-1 R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/trazegnies-sports-4-prov-e-hainaut-r-u-s-binche-4-prov-e-hainaut-2026-1
+ 0-31/
+URL:https://goalio.be/fr/match/trazegnies-sports-4-prov-e-hainaut-r-u-s-bin
+ che-4-prov-e-hainaut-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b250a9578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.U.S. Binche 1-1 Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-u-s-binche-4-prov-e-hainaut-renaissance-fc-carnieres-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-binche-4-prov-e-hainaut-renaissance-fc
+ -carnieres-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0538edc9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:A.S. Fontainoise 1-10 R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/a-s-fontainoise-r-u-s-binche-4-prov-e-hainaut-2026-11-14/
+URL:https://goalio.be/fr/match/a-s-fontainoise-r-u-s-binche-4-prov-e-hainau
+ t-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a201aee17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.U.S. Binche – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-u-s-binche-4-prov-e-hainaut-f-c-mont-s-march-college-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-u-s-binche-4-prov-e-hainaut-f-c-mont-s-mar
+ ch-college-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3294cc27b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Jeunesse Trazegnies – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/jeunesse-trazegnies-r-u-s-binche-4-prov-e-hainaut-2026-11-28/
+URL:https://goalio.be/fr/match/jeunesse-trazegnies-r-u-s-binche-4-prov-e-ha
+ inaut-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2e28cf05e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.U.S. Club Anderlues – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f83ff8e286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.U.S. Binche – Société Royale J.S. Thudinienne
+DESCRIPTION:4e provinciale Hainaut E\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4296cbd29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.U.S. Binche – R.U.S. Courcelloise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad93f4d18e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:AS Montigny – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-257aaa979f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.U.S. Binche – R.C. Gouy
+DESCRIPTION:4e provinciale Hainaut E\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cca4df542c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. Nalinnois – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1cdc1ac11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T140000Z
+DTEND:20270220T154500Z
+SUMMARY:Sporting Club Farciennes – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba248e175c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.U.S. Binche – R. Goutroux Sports B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a5e5af18b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:AJS Buvrinnes – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21b57a5923@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.U.S. Binche – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-daec3c8c5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Renaissance FC Carnières – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27d4ffc9f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.U.S. Binche – A.S. Fontainoise
+DESCRIPTION:4e provinciale Hainaut E\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4af8f9070@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Mont-S-March-Collège B – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc889c8102@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.U.S. Binche – Jeunesse Trazegnies
+DESCRIPTION:4e provinciale Hainaut E\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-u-s-binche-4-prov-e-hainaut/
+URL:https://goalio.be/fr/equipe/r-u-s-binche-4-prov-e-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

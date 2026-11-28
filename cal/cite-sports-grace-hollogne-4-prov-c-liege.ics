@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cité Sports Grâce-Hollogne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-
+ c-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8d1c58edad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:J.S. Pierreuse 1-8 Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/j-s-pierreuse-4-prov-c-liege-cite-sports-grace-hollogne-4-prov-c-liege-2
+ 026-11-01/
+URL:https://goalio.be/fr/match/j-s-pierreuse-4-prov-c-liege-cite-sports-gra
+ ce-hollogne-4-prov-c-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-840d1a6fc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Cité Sports Grâce-Hollogne 6-2 J.S. du Thier-à-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/cite-sports-grace-hollogne-4-prov-c-liege-j-s-du-thier-a-liege-2026-11-0
+ 8/
+URL:https://goalio.be/fr/match/cite-sports-grace-hollogne-4-prov-c-liege-j-
+ s-du-thier-a-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0fb502b30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Illyrian Blegny B 0-5 Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/illyrian-blegny-b-cite-sports-grace-hollogne-4-prov-c-liege-2026-11-15/
+URL:https://goalio.be/fr/match/illyrian-blegny-b-cite-sports-grace-hollogne
+ -4-prov-c-liege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-315319c741@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Cité Sports Grâce-Hollogne – MS Herstal Milmort B (remis)
+DESCRIPTION:4e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/cite-sports-grace-hollogne-4-prov-c-liege-ms-herstal-milmort-b-2026-11-2
+ 2/
+URL:https://goalio.be/fr/match/cite-sports-grace-hollogne-4-prov-c-liege-ms
+ -herstal-milmort-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a09a41eda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Herstal – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-herstal-4-prov-c-liege-cite-sports-grace-hollogne-4-prov-c-liege-202
+ 6-11-29/
+URL:https://goalio.be/fr/match/f-c-herstal-4-prov-c-liege-cite-sports-grace
+ -hollogne-4-prov-c-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39518f343d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Les Oranges de Liège – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0550c77f56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd56f07ee7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Cfc Pontisse Herstal – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5514b1dd78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – FC Rapide Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bad9035a31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – R.U.S. Montagnarde
+DESCRIPTION:4e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d773f5bb87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Entente Sportive Tilleur – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2bb3a89534@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c7abd133f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T150000Z
+DTEND:20270228T164500Z
+SUMMARY:Engis Football Club – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b89f304b6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0127ffad93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Cité Sports Grâce-Hollogne – J.S. Pierreuse
+DESCRIPTION:4e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43e2fb6817@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:J.S. du Thier-à-Liège – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22cc418011@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Cité Sports Grâce-Hollogne – Illyrian Blegny B
+DESCRIPTION:4e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15f68e4862@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:MS Herstal Milmort B – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a55ec73fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Cité Sports Grâce-Hollogne – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/cite-sports-grace-hollogne-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/cite-sports-grace-hollogne-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

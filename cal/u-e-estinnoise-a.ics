@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U.E. Estinnoise A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f09937a385@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:U.E. Estinnoise A 3-1 FC Quévy Genly A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/u-e-estinnoise-a-fc-quevy-genly-a-2026-11-01/
+URL:https://goalio.be/fr/match/u-e-estinnoise-a-fc-quevy-genly-a-2026-11-01
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d556266df8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B 3-3 U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/u-st-ghisl-tertre-hautr-b-u-e-estinnoise-a-2026-11-08/
+URL:https://goalio.be/fr/match/u-st-ghisl-tertre-hautr-b-u-e-estinnoise-a-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fee58b5b6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:U.E. Estinnoise A 1-0 R.S.C. Paturageois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/u-e-estinnoise-a-r-s-c-paturageois-a-2026-11-15/
+URL:https://goalio.be/fr/match/u-e-estinnoise-a-r-s-c-paturageois-a-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfb1470bdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Bracquegnies Sp A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/bracquegnies-sp-a-u-e-estinnoise-a-2026-11-22/
+URL:https://goalio.be/fr/match/bracquegnies-sp-a-u-e-estinnoise-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d30dec66a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:U.E. Estinnoise A – R.A.F.C. Cuesmes A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/u-e-estinnoise-a-r-a-f-c-cuesmes-a-2026-11-29/
+URL:https://goalio.be/fr/match/u-e-estinnoise-a-r-a-f-c-cuesmes-a-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d735c936e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:U.E. Estinnoise A – Renaissance FC Carnières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03dc40a1af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.A.E.C. Mons B – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b519ac58f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:U.E. Estinnoise A – C. Ol. Trivières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03680aae73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Casteau A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3569261b3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:U.E. Estinnoise A – F.C. AEDEC-Hyon
+DESCRIPTION:2e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a486aafb6a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.L.C. Mesvinois A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b55096bb49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:U.E. Estinnoise A – U.S. Neufvilles A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8c05653e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:R. SP B. Frameries A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac8e000286@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:U.E. Estinnoise A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cdcb9ab3f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Athènes Haine-Saint-Pierre – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e186fe6644@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Quévy Genly A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f585fb729@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U.E. Estinnoise A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c832646e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.S.C. Paturageois A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd85a73a0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U.E. Estinnoise A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5434b7be1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.A.F.C. Cuesmes A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/u-e-estinnoise-a/
+URL:https://goalio.be/fr/equipe/u-e-estinnoise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

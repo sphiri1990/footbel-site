@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Paal-Tervant B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-62d032a009@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:MD Halen 3-0 FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/md-halen-fc-paal-tervant-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/md-halen-fc-paal-tervant-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6879fd0277@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:FC Paal-Tervant B 0-2 K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-paal-tervant-b-k-s-k-meldert-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/fc-paal-tervant-b-k-s-k-meldert-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3962322ed3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:KFC Ham United 6-0 FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/kfc-ham-united-fc-paal-tervant-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/kfc-ham-united-fc-paal-tervant-b-2026-11
+ -14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8035a39168@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:FC Paal-Tervant B 1-4 KVV Heusden-Zolder B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-paal-tervant-b-kvv-heusden-zolder-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-paal-tervant-b-kvv-heusden-zolder-b-2
+ 026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2face57f9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. FC Anadol B – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-fc-anadol-b-fc-paal-tervant-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-fc-anadol-b-fc-paal-tervant-b-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e4b88d4d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. ESK Leopoldsburg B – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8610378ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:FC Paal-Tervant B – KFC Helson Helchteren B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9cff7c7d3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:HSC Beringen – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3c7273532@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T130000Z
+DTEND:20270124T144500Z
+SUMMARY:KVV Heusden-Zolder B – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e396596b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:FC Paal-Tervant B – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9deb00450e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T170000Z
+DTEND:20270213T184500Z
+SUMMARY:FC Paal-Tervant B – Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fefae154d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.S.K. Meldert – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0aec9a536e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:FC Paal-Tervant B – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8356774cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:WS Linkhout B – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7fd9492099@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:FC Paal-Tervant B – VV Lummen B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0968df0d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Turkse FC B – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e64bb4ee21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:FC Paal-Tervant B – K. FC Anadol B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f84b0dff35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Verbroedering Loksbergen – FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5ba74cc5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Paal-Tervant B – Beringen F.C.
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/fc-paal-tervant-b/
+URL:https://goalio.be/nl/ploeg/fc-paal-tervant-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

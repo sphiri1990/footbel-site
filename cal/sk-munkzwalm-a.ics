@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Munkzwalm A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e16fbf34b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:SK Munkzwalm A 2-2 KSVK Maldegem
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 10\nhttps://goalio.be/
+ nl/wedstrijd/sk-munkzwalm-a-ksvk-maldegem-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/sk-munkzwalm-a-ksvk-maldegem-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88bef02a33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Evergem 2020 0-6 SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 11\nhttps://goalio.be/
+ nl/wedstrijd/evergem-2020-sk-munkzwalm-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/evergem-2020-sk-munkzwalm-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00a3618e72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:SK Munkzwalm A 0-0 HRS Haasdonk A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 12\nhttps://goalio.be/
+ nl/wedstrijd/sk-munkzwalm-a-hrs-haasdonk-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/sk-munkzwalm-a-hrs-haasdonk-a-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-700b686575@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:KVE Aalter A 3-0 SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 13\nhttps://goalio.be/
+ nl/wedstrijd/kve-aalter-a-sk-munkzwalm-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kve-aalter-a-sk-munkzwalm-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8fd8207e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:SK Munkzwalm A – K.F.C. Eeklo
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 14\nhttps://goalio.be/
+ nl/wedstrijd/sk-munkzwalm-a-k-f-c-eeklo-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/sk-munkzwalm-a-k-f-c-eeklo-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25ae38d5b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:SK Vlaamse Ardennen A – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 15\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa0cb4fe38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:VK Ninove B – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 16\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-208948e0df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:SK Munkzwalm A – Evergem 2020
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 17\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c4b0ff9dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SK Munkzwalm A – SK Berlare
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 18\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f19abf008f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:VC Nokere-Kruishoutem A – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 19\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-652f83d66b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:SK Munkzwalm A – KVVS Sersk-Schellebelle A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 20\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f91c9235bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SK Denderhoutem A – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 21\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c423a418d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:SK Munkzwalm A – FCSM Latem A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 22\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b581e86a49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:K.S.K. Beveren – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 23\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e769e255b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Munkzwalm A – KSK Grembergen A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 24\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cc1d0b93d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:KSVK Maldegem – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 25\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-310ca0e56e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SK Munkzwalm A – KVE Aalter A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 26\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-592999aff5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K.F.C. Eeklo – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 27\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74c814ba83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:SK Munkzwalm A – SK Vlaamse Ardennen A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 28\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8899426ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Munkzwalm A – KVCDT Borsbeke
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 29\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aca574b9b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HRS Haasdonk A – SK Munkzwalm A
+DESCRIPTION:1e provinciale Oost-Vlaanderen\nSpeeldag 30\nhttps://goalio.be/
+ nl/ploeg/sk-munkzwalm-a/
+URL:https://goalio.be/nl/ploeg/sk-munkzwalm-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

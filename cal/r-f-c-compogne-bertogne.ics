@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Compogne Bertogne · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c64b438935@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R.F.C. Compogne Bertogne 4-0 R.E.S. Witry-Menufontaine
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 11\nhttps://goalio.be/fr/
+ match/r-f-c-compogne-bertogne-r-e-s-witry-menufontaine-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-compogne-bertogne-r-e-s-witry-menufont
+ aine-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25a444ff5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.F.C. Compogne Bertogne 1-1 RAFC Cobreville
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 12\nhttps://goalio.be/fr/
+ match/r-f-c-compogne-bertogne-rafc-cobreville-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-compogne-bertogne-rafc-cobreville-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-830927748c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.U.S. Ste Ode 0-6 R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 13\nhttps://goalio.be/fr/
+ match/r-u-s-ste-ode-r-f-c-compogne-bertogne-2026-11-15/
+URL:https://goalio.be/fr/match/r-u-s-ste-ode-r-f-c-compogne-bertogne-2026-1
+ 1-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b51126faf6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.F.C. Compogne Bertogne – R. Wallonia Club Sibret (remis)
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 14\nhttps://goalio.be/fr/
+ match/r-f-c-compogne-bertogne-r-wallonia-club-sibret-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-compogne-bertogne-r-wallonia-club-sibr
+ et-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b95da1bd9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T193000Z
+DTEND:20261127T211500Z
+SUMMARY:F.C. Petit-Han – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 15\nhttps://goalio.be/fr/
+ match/f-c-petit-han-r-f-c-compogne-bertogne-2026-11-27/
+URL:https://goalio.be/fr/match/f-c-petit-han-r-f-c-compogne-bertogne-2026-1
+ 1-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a983278bff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T193000Z
+DTEND:20261205T211500Z
+SUMMARY:RLC Bastogne B – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 16\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60abf50e81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.F.C. Compogne Bertogne – Royal Tenneville Sports
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 17\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac1db0dba4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R.U.S. Givry – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 18\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6435ee7804@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.E.S. Vaux – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 20\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58fe5bf360@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. Compogne Bertogne – Jeun. Sp. De Tavigny
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 21\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7dbc88b1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R.F.C. St-Hubert – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 22\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a84f0e6c96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Compogne Bertogne – R.E.S. Chaumont
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 23\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3ff772e8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.E.S. Witry-Menufontaine – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 24\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-725849efc4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RAFC Cobreville – R.F.C. Compogne Bertogne
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 25\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-def429b5a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Compogne Bertogne – R.U.S. Ste Ode
+DESCRIPTION:3e provinciale Luxembourg D\nJournée 26\nhttps://goalio.be/fr/
+ equipe/r-f-c-compogne-bertogne/
+URL:https://goalio.be/fr/equipe/r-f-c-compogne-bertogne/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

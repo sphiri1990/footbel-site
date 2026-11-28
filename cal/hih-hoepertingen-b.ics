@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HIH Hoepertingen B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4c0a03c18a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Herk Sport B 0-5 HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/herk-sport-b-hih-hoepertingen-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/herk-sport-b-hih-hoepertingen-b-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b86e0eb2fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:JB Eigenbilzen B 0-2 HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/jb-eigenbilzen-b-hih-hoepertingen-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/jb-eigenbilzen-b-hih-hoepertingen-b-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d42893e681@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:HIH Hoepertingen B 0-0 K. Velm VV B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/hih-hoepertingen-b-k-velm-vv-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/hih-hoepertingen-b-k-velm-vv-b-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b2f6e62e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:HIH Hoepertingen B – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/hih-hoepertingen-b-f-c-habo-borgloon-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/hih-hoepertingen-b-f-c-habo-borgloon-b-2
+ 026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01f0fb43bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:F.C. Alken United – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09ef1559f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:HIH Hoepertingen B – Fl. Termolen
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de7807433c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:Juve Hasselt B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e488504ecf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:FC Diepenbeek B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62e1f9daea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:F.C. Habo-Borgloon B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40bcfb029b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:HIH Hoepertingen B – KVV Zepperen-Brustem B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9e3a9ba27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Daring Huvo Jeuk B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f418bb7ab8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:HIH Hoepertingen B – Herk Sport B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1113526492@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:HIH Hoepertingen B – FC Alken
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cccc07c6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Heers VV – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5e0b73651@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:HIH Hoepertingen B – JB Eigenbilzen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f70538659@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:K. Velm VV B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75b96465e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:HIH Hoepertingen B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3863f2d3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Landen B – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84331a54e9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HIH Hoepertingen B – Sp. Aalst
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/hih-hoepertingen-b/
+URL:https://goalio.be/nl/ploeg/hih-hoepertingen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

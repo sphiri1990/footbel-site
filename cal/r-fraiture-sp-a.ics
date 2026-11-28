@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Fraiture SP A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-184b8a2592@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Fraiture SP A 3-0 Entente Sportive Donceel
+DESCRIPTION:3e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-fraiture-sp-a-entente-sportive-donceel-2026-11-01/
+URL:https://goalio.be/fr/match/r-fraiture-sp-a-entente-sportive-donceel-202
+ 6-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee6ad043c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:F.C. Entité Wasseiges 3-1 R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-entite-wasseiges-r-fraiture-sp-a-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-entite-wasseiges-r-fraiture-sp-a-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beab01d3b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Fraiture SP A 2-3 R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-fraiture-sp-a-r-e-s-templiers-nandrin-2026-11-15/
+URL:https://goalio.be/fr/match/r-fraiture-sp-a-r-e-s-templiers-nandrin-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf931d62c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. All. Clavinoise S.C. – R. Fraiture SP A (remis)
+DESCRIPTION:3e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-all-clavinoise-s-c-r-fraiture-sp-a-2026-11-22/
+URL:https://goalio.be/fr/match/r-all-clavinoise-s-c-r-fraiture-sp-a-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a34d7b3ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Fraiture SP A – R.S.C. Anthisnois
+DESCRIPTION:3e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-fraiture-sp-a-r-s-c-anthisnois-2026-11-29/
+URL:https://goalio.be/fr/match/r-fraiture-sp-a-r-s-c-anthisnois-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97c45f707c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Fraiture SP A – R. Marchin Sport A
+DESCRIPTION:3e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d0d797102@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Union Momalloise – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25e05626f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Fraiture SP A – R.U.S. Stree
+DESCRIPTION:3e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c3a1bb9ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:Etoile De Faimes – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-235fdd0a60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R. Fraiture SP A – Entente Amay A
+DESCRIPTION:3e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-486e8f6df7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. Ouffet Warzée – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9fea8accce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Fraiture SP A – Huccorgne Sports
+DESCRIPTION:3e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93afe933ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ba7d54f60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Fraiture SP A – E.S.F.C. Du Geer
+DESCRIPTION:3e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b0ee368e1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:J.S. Racour-Lincent – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-851bda44fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Entente Sportive Donceel – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a42aa496de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Fraiture SP A – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14344ca734@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.E.S. Templiers-Nandrin – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-84f3afe60c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Fraiture SP A – R. All. Clavinoise S.C.
+DESCRIPTION:3e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3cc36f728a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Anthisnois – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-fraiture-sp-a/
+URL:https://goalio.be/fr/equipe/r-fraiture-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

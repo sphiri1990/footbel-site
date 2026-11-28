@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.C.S. Stavelotain B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1621c6b90e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.C.S. Stavelotain B 1-3 R.F.C. De Goe
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-c-s-stavelotain-b-r-f-c-de-goe-2026-10-31/
+URL:https://goalio.be/fr/match/r-c-s-stavelotain-b-r-f-c-de-goe-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-134efb68db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R. Spa F.C. 1-0 R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-spa-f-c-r-c-s-stavelotain-b-2026-11-07/
+URL:https://goalio.be/fr/match/r-spa-f-c-r-c-s-stavelotain-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ef44f96c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Baelen F.C. – R.C.S. Stavelotain B (remis)
+DESCRIPTION:4e provinciale Liège G\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-baelen-f-c-r-c-s-stavelotain-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-baelen-f-c-r-c-s-stavelotain-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fc2267a94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b945695b09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.C.S. Stavelotain B – T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9e859c3e89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:S.R. UN Verviers B – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57f7eca821@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.C.S. Stavelotain B – K. Honsfelder S.V. B
+DESCRIPTION:4e provinciale Liège G\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb08ed29fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Ster-Francorchamps – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5e393979a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.C.S. Stavelotain B – F.C.E. Stembertoise
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c000673953@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fda65792f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T124500Z
+DTEND:20270221T143000Z
+SUMMARY:R.C.S. Stavelotain B – Alliance Des Hautes Fagnes
+DESCRIPTION:4e provinciale Liège G\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0286bf8652@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.C.S. Jalhaytois – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af6a8af801@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.C.S. Stavelotain B – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-986c6248ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.F.C. De Goe – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f988d3ec4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.C.S. Stavelotain B – R. Spa F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2977953538@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.C.S. Stavelotain B – R. Baelen F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-c-s-stavelotain-b/
+URL:https://goalio.be/fr/equipe/r-c-s-stavelotain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

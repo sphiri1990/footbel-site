@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EC Oudenhove A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7ebfa14c5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T170000Z
+DTEND:20261031T184500Z
+SUMMARY:Kluisbergen Sp A 2-1 EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/kluisbergen-sp-a-ec-oudenhove-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/kluisbergen-sp-a-ec-oudenhove-a-2026-10-
+ 31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1de9ac5f5a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:EC Oudenhove A 4-3 RR Breivelde-Zottegem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/ec-oudenhove-a-rr-breivelde-zottegem-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/ec-oudenhove-a-rr-breivelde-zottegem-a-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab08eb2f22@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:St Michelbeke A 2-0 EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/st-michelbeke-a-ec-oudenhove-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/st-michelbeke-a-ec-oudenhove-a-2026-11-1
+ 4/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-009bbd4bec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:VVSM Horebeke 1-0 EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/vvsm-horebeke-ec-oudenhove-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/vvsm-horebeke-ec-oudenhove-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4628cf90a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:EC Oudenhove A – KSK Zingem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/ec-oudenhove-a-ksk-zingem-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/ec-oudenhove-a-ksk-zingem-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d34bb18f43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:TK Meldert A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb3db84099@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:EC Oudenhove A – Kluisbergen Sp A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6eddedc91a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T153000Z
+DTEND:20270109T171500Z
+SUMMARY:RR Breivelde-Zottegem A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f673ea9bd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:EC Oudenhove A – VK Nederhasselt A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-40876a9ff9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:SV Sottegem A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6727bfd39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:EC Oudenhove A – VCE Houtem A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-317834ca0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:EC Oudenhove A – KSSV Denderleeuw
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39aec928ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Sp Wortegem – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc85307aeb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:EC Oudenhove A – KVE Winnik A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa8abfc9a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:SV Sint-Antelinks A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47548e5a66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:EC Oudenhove A – St Michelbeke A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9427f7469c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:VV Volkegem A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7554bce981@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:EC Oudenhove A – TK Meldert A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8104da357c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:KSK Zingem A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7106a2dfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:EC Oudenhove A – VVSM Horebeke
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-891c611c1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VCO Meerbeke A – EC Oudenhove A
+DESCRIPTION:2e provinciale Oost-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/ec-oudenhove-a/
+URL:https://goalio.be/nl/ploeg/ec-oudenhove-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

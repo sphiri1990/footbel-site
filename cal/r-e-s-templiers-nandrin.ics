@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.E.S. Templiers-Nandrin · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-7a0840f9d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:Royal Stockay Saint-Georges S/M 1-1 R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/royal-stockay-saint-georges-s-m-3-prov-a-liege-r-e-s-templiers-nandrin-2
+ 026-10-31/
+URL:https://goalio.be/fr/match/royal-stockay-saint-georges-s-m-3-prov-a-lie
+ ge-r-e-s-templiers-nandrin-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7856187a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.E.S. Templiers-Nandrin 6-3 E.S.F.C. Du Geer
+DESCRIPTION:3e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-e-s-templiers-nandrin-e-s-f-c-du-geer-3-prov-a-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-e-s-templiers-nandrin-e-s-f-c-du-geer-3-pr
+ ov-a-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beab01d3b9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Fraiture SP A 2-3 R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-fraiture-sp-a-r-e-s-templiers-nandrin-2026-11-15/
+URL:https://goalio.be/fr/match/r-fraiture-sp-a-r-e-s-templiers-nandrin-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3adc662b0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.E.S. Templiers-Nandrin – Entente Sportive Donceel (remis)
+DESCRIPTION:3e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-e-s-templiers-nandrin-entente-sportive-donceel-2026-11-22/
+URL:https://goalio.be/fr/match/r-e-s-templiers-nandrin-entente-sportive-don
+ ceel-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1864469c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:F.C. Entité Wasseiges – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-entite-wasseiges-r-e-s-templiers-nandrin-2026-11-28/
+URL:https://goalio.be/fr/match/f-c-entite-wasseiges-r-e-s-templiers-nandrin
+ -2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d268519915@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R.E.S. Templiers-Nandrin – J.S. Racour-Lincent
+DESCRIPTION:3e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68cefe4f93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. All. Clavinoise S.C. – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3b814557b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R.E.S. Templiers-Nandrin – R.S.C. Anthisnois
+DESCRIPTION:3e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e4012d45b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R. Marchin Sport A – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-beb13abc86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.E.S. Templiers-Nandrin – R. Union Momalloise
+DESCRIPTION:3e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9018e92ad1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R.U.S. Stree – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42a7aba3c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.E.S. Templiers-Nandrin – Etoile De Faimes
+DESCRIPTION:3e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8382ec3b1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Entente Amay A – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d87948eb0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.E.S. Templiers-Nandrin – R.F.C. Ouffet Warzée
+DESCRIPTION:3e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f14d7d720c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Huccorgne Sports – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a0c25d30d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.E.S. Templiers-Nandrin – Royal Stockay Saint-Georges S/M
+DESCRIPTION:3e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67a6a17717@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:E.S.F.C. Du Geer – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14344ca734@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.E.S. Templiers-Nandrin – R. Fraiture SP A
+DESCRIPTION:3e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8b535f4fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Sportive Donceel – R.E.S. Templiers-Nandrin
+DESCRIPTION:3e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69c992b4af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.E.S. Templiers-Nandrin – F.C. Entité Wasseiges
+DESCRIPTION:3e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

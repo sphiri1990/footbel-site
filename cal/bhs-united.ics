@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BHS United · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/bhs-united/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3efcea9014@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T191500Z
+DTEND:20261031T210000Z
+SUMMARY:Merchtem United A 3-2 BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/merchtem-united-a-bhs-united-2026-10-31/
+URL:https://goalio.be/fr/match/merchtem-united-a-bhs-united-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b352417e07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:BHS United 0-3 VC Den Boskant Peizegem A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/bhs-united-vc-den-boskant-peizegem-a-2026-11-08/
+URL:https://goalio.be/fr/match/bhs-united-vc-den-boskant-peizegem-a-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a79e9cbaf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Zemst Sp. A 2-0 BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/zemst-sp-a-bhs-united-2026-11-15/
+URL:https://goalio.be/fr/match/zemst-sp-a-bhs-united-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74c13149fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:SK Steenhuffel A 3-0 BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/sk-steenhuffel-a-bhs-united-2026-11-21/
+URL:https://goalio.be/fr/match/sk-steenhuffel-a-bhs-united-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-844e397fae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:BHS United – V. Hofstade
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/bhs-united-v-hofstade-2026-11-29/
+URL:https://goalio.be/fr/match/bhs-united-v-hofstade-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd5343480c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:K. Del. Londerzeel B – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a23c2ed54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:BHS United – VV Groot Kapelle A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-980991b852@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:BHS United – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9a25d0950@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T130000Z
+DTEND:20270117T144500Z
+SUMMARY:VC Den Boskant Peizegem A – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9c066ed041@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Vilvoorde City – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5dd51d4d32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:BHS United – SK Steenhuffel A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eed044a69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:SK Nossegem B – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e11122a79e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:BHS United – KSC Grimbergen B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bf995cb0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:V. Hofstade – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-436f475a0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:BHS United – Zemst Sp. A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3f7cdaa2ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T191500Z
+DTEND:20270313T210000Z
+SUMMARY:Eendr. Mazenzele Opwijk B – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74227953b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:BHS United – Londerzeel United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-878c9adc1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:Sparta Melsbroek – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db67275e34@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:BHS United – FC Inkad Diegem A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64cffe0645@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Koninklijke FFF Haren – BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ca39a7e45c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:BHS United – K. Del. Londerzeel B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/bhs-united/
+URL:https://goalio.be/fr/equipe/bhs-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

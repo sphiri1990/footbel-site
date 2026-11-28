@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.E.S. Templiers Nandrin A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3fa5282dfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A 3-0 Jeunesses Oleyennes Reunies
+DESCRIPTION:2e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-e-s-templiers-nandrin-a-jeunesses-oleyennes-reunies-2026-10-31/
+URL:https://goalio.be/fr/match/r-e-s-templiers-nandrin-a-jeunesses-oleyenne
+ s-reunies-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a04f18bf37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.D.C. de Cointe Liège A 1-5 R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-d-c-de-cointe-liege-a-r-e-s-templiers-nandrin-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-d-c-de-cointe-liege-a-r-e-s-templiers-nand
+ rin-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66395063d5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A 2-2 C.S. Juprelle
+DESCRIPTION:2e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-e-s-templiers-nandrin-a-c-s-juprelle-2026-11-14/
+URL:https://goalio.be/fr/match/r-e-s-templiers-nandrin-a-c-s-juprelle-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2349f7a38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R.F.C. Vyle-Tharoul – R.E.S. Templiers Nandrin A (remis)
+DESCRIPTION:2e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-f-c-vyle-tharoul-r-e-s-templiers-nandrin-a-2026-11-22/
+URL:https://goalio.be/fr/match/r-f-c-vyle-tharoul-r-e-s-templiers-nandrin-a
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9bb41eff9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A – Royale Union Hutoise B
+DESCRIPTION:2e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-e-s-templiers-nandrin-a-royale-union-hutoise-b-2026-11-28/
+URL:https://goalio.be/fr/match/r-e-s-templiers-nandrin-a-royale-union-hutoi
+ se-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e83e77b5d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Patro Lensois A – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-927f603cdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A – E.H. Braives
+DESCRIPTION:2e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d132cde51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:E.S. Wanze/Bas-Oha – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-190fcfd1de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A – RFC. Jehaytois A
+DESCRIPTION:2e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2f6602e2f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:J.S. Kemexhe Crisnee – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27a50f8322@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A – R.R.C. Hamoir
+DESCRIPTION:2e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a0324a980@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:C.S. Burdinnois – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3bddbc913@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A – R.S. Waremmien FC. B
+DESCRIPTION:2e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d2a5c8a00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:R.C.S. Verlaine – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1a48f2981@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.E.S. Templiers Nandrin A – Seraing Athl R. FC A
+DESCRIPTION:2e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1430bd6385@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Jeunesses Oleyennes Reunies – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b77ded132d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.E.S. Templiers Nandrin A – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71d9859888@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:C.S. Juprelle – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fb7cca98b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.E.S. Templiers Nandrin A – R.F.C. Vyle-Tharoul
+DESCRIPTION:2e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7d409e4e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Royale Union Hutoise B – R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-e-s-templiers-nandrin-a/
+URL:https://goalio.be/fr/equipe/r-e-s-templiers-nandrin-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

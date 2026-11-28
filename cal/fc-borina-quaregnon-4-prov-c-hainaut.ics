@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Borina Quaregnon · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-haina
+ ut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8d2d517ab8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Olympique Club Ghlin 2-1 FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/olympique-club-ghlin-fc-borina-quaregnon-4-prov-c-hainaut-2026-11-01/
+URL:https://goalio.be/fr/match/olympique-club-ghlin-fc-borina-quaregnon-4-p
+ rov-c-hainaut-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57c6356fff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC Borina Quaregnon 5-6 R.C.S. Aulnoisien
+DESCRIPTION:4e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/fc-borina-quaregnon-4-prov-c-hainaut-r-c-s-aulnoisien-2026-11-08/
+URL:https://goalio.be/fr/match/fc-borina-quaregnon-4-prov-c-hainaut-r-c-s-a
+ ulnoisien-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db0ecba930@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Sainte-Odile Elouges 7-0 FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/fc-sainte-odile-elouges-fc-borina-quaregnon-4-prov-c-hainaut-2026-11-15
+ /
+URL:https://goalio.be/fr/match/fc-sainte-odile-elouges-fc-borina-quaregnon-
+ 4-prov-c-hainaut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbec3e1886@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC Borina Quaregnon – F.C. Casteau
+DESCRIPTION:4e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/fc-borina-quaregnon-4-prov-c-hainaut-f-c-casteau-2026-11-22/
+URL:https://goalio.be/fr/match/fc-borina-quaregnon-4-prov-c-hainaut-f-c-cas
+ teau-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e72d92ddb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Entente Mons Nord – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-entente-mons-nord-4-prov-c-hainaut-fc-borina-quaregnon-4-prov-c-haina
+ ut-2026-11-29/
+URL:https://goalio.be/fr/match/r-entente-mons-nord-4-prov-c-hainaut-fc-bori
+ na-quaregnon-4-prov-c-hainaut-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-864e6d9021@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Borina Quaregnon – Union Sporting Club Jemappes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-583dddbc71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.A.S. Ghlinoise – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a71591c70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:FC Borina Quaregnon – R.S.C. Wasmes
+DESCRIPTION:4e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-406177ac7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:A.S. Quiévrain-Wasmuel – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cd1800903f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Borina Quaregnon – Entente Sportive Elouges Dour
+DESCRIPTION:4e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7dc3951a47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.L.C. Hornu – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0be3370f76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Borina Quaregnon – FC Quévy Genly
+DESCRIPTION:4e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a729b9ed4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.S.C. Paturageois – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0505fe8ae1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Borina Quaregnon – R. Léopold Club Mesvinois
+DESCRIPTION:4e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e853f69f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. All. F.C. Cuesmes – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b38477117@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Borina Quaregnon – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be1a9759c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.C.S. Aulnoisien – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e60ddb5a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Borina Quaregnon – FC Sainte-Odile Elouges
+DESCRIPTION:4e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b4e16dde3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Casteau – FC Borina Quaregnon
+DESCRIPTION:4e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b26682b2f4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Borina Quaregnon – R. Entente Mons Nord
+DESCRIPTION:4e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/fc-borina-quaregnon-4-prov-c-hainaut/
+URL:https://goalio.be/fr/equipe/fc-borina-quaregnon-4-prov-c-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

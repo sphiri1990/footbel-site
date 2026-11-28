@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVC Kessel-Lo 2000 A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d682e247a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T191500Z
+DTEND:20261031T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A 2-5 HO Veltem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/kvc-kessel-lo-2000-a-ho-veltem-a-2026-10-31/
+URL:https://goalio.be/fr/match/kvc-kessel-lo-2000-a-ho-veltem-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a06f713ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:St. Meerbeek 2-1 KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/st-meerbeek-kvc-kessel-lo-2000-a-2026-11-08/
+URL:https://goalio.be/fr/match/st-meerbeek-kvc-kessel-lo-2000-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3c3442cdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T191500Z
+DTEND:20261114T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A 1-2 K. St. Drieslinter A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/kvc-kessel-lo-2000-a-k-st-drieslinter-a-2026-11-14/
+URL:https://goalio.be/fr/match/kvc-kessel-lo-2000-a-k-st-drieslinter-a-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2114367902@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T191500Z
+DTEND:20261121T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A 2-2 K. St. Haasrode A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/kvc-kessel-lo-2000-a-k-st-haasrode-a-2026-11-21/
+URL:https://goalio.be/fr/match/kvc-kessel-lo-2000-a-k-st-haasrode-a-2026-11
+ -21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b75614c09a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T153000Z
+DTEND:20261128T171500Z
+SUMMARY:KV Woluwe-Zaventem A – KVC Kessel-Lo 2000 A (annulé)
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9305e946f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T191500Z
+DTEND:20261205T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A – K. Eur. 90 Kraainem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c01b66780@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Football Club Kortenberg United A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80169eb25d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Binkom A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d823ee160f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T191500Z
+DTEND:20270116T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A – KVC Sterrebeek A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fc426a287@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T191500Z
+DTEND:20270123T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A – SK Nossegem A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd1e999b76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Koninklijke Haacht United A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e0d6f89b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T191500Z
+DTEND:20270213T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A – KV Woluwe-Zaventem A (annulé)
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bba83566a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. Ol. Wijgmaal A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de72ec38d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T191500Z
+DTEND:20270227T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A – St. Meerbeek
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c7a5a86f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:K. St. Drieslinter A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3356bcbc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T191500Z
+DTEND:20270313T210000Z
+SUMMARY:KVC Kessel-Lo 2000 A – HO Bierbeek B
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c13788a8ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:K. St. Haasrode A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-253241394e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T181500Z
+DTEND:20270403T200000Z
+SUMMARY:KVC Kessel-Lo 2000 A – FC Moorsel A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-204dd51bcb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. Eur. 90 Kraainem A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e68b71217@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T181500Z
+DTEND:20270417T200000Z
+SUMMARY:KVC Kessel-Lo 2000 A – VC Bertem-Leefdaal A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8cbd8b9dc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:HO Veltem A – KVC Kessel-Lo 2000 A
+DESCRIPTION:2e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kvc-kessel-lo-2000-a/
+URL:https://goalio.be/fr/equipe/kvc-kessel-lo-2000-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

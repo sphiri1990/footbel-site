@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RR Breivelde-Zottegem B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-212821a444@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Zegelsem 3-0 RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-zegelsem-rr-breivelde-zottegem-b-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-zegelsem-rr-breivelde-zottegem-b-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68f7c6a52b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:RR Breivelde-Zottegem B 4-2 KFCB Lierde-Everbeek B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/rr-breivelde-zottegem-b-kfcb-lierde-everbeek-b-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/rr-breivelde-zottegem-b-kfcb-lierde-ever
+ beek-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d9129336f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:VCE Deftinge B 2-1 RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vce-deftinge-b-rr-breivelde-zottegem-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/vce-deftinge-b-rr-breivelde-zottegem-b-2
+ 026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34692b4b55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RR Breivelde-Zottegem B 1-3 Olsa Nederbrakel
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/rr-breivelde-zottegem-b-olsa-nederbrakel-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/rr-breivelde-zottegem-b-olsa-nederbrakel
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f26fde7f48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K.S.K. United Geraardsbergen – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-s-k-united-geraardsbergen-rr-breivelde-zottegem-b-2026-11
+ -29/
+URL:https://goalio.be/nl/wedstrijd/k-s-k-united-geraardsbergen-rr-breivelde
+ -zottegem-b-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8aaa0ef9a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RR Breivelde-Zottegem B – Racing Strijpen
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86cd39d95b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RR Breivelde-Zottegem B – St Michelbeke B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75198b7641@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:FC Velzeke – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03a93aab4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:RR Breivelde-Zottegem B – KFC Voorde-Appelterre B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e02233bff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:SK Opbrakel – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a04e5f73da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RR Breivelde-Zottegem B – K.S.K. United Geraardsbergen
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b1c352cb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Racing Strijpen – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f9b92f3fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RR Breivelde-Zottegem B – WK St-Goriks
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e73f86752@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:EC Oudenhove B – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b92f7cbdf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RR Breivelde-Zottegem B – W Idegem
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-196eb6f974@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:SV Sottegem B – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1754d0a226@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RR Breivelde-Zottegem B – VCE Deftinge B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb02f21547@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:KFCB Lierde-Everbeek B – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c38c4a147@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:Olsa Nederbrakel – RR Breivelde-Zottegem B
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-177a542deb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RR Breivelde-Zottegem B – FC Zegelsem
+DESCRIPTION:4e provinciale Oost-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/rr-breivelde-zottegem-b/
+URL:https://goalio.be/nl/ploeg/rr-breivelde-zottegem-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

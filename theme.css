@@ -1,0 +1,5 @@
+/* Goalio — saisons et événements. Chargée après style.css par toutes les pages (lien posé à la construction : footbel/themes.py).
+   Les saisons et les événements changent les IMAGES d'en-tête du site : les fichiers assets/bg-*.webp de public/ sont remplacés à la
+   construction, aucune page n'est modifiée et il n'y a AUCUNE bannière. Pendant un événement qui définit une couleur d'accent, un petit
+   bloc est ajouté à la fin de ce fichier (titres de rubrique, bouton principal, soulignement du menu) ; il disparaît tout seul à la fin.
+   Hors événement, cette feuille ne contient aucune règle : le site est celui de tous les jours. Calendrier : config/themes.json. */

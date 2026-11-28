@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Merchtem United A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/merchtem-united-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3efcea9014@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T191500Z
+DTEND:20261031T210000Z
+SUMMARY:Merchtem United A 3-2 BHS United
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/merchtem-united-a-bhs-united-2026-10-31/
+URL:https://goalio.be/fr/match/merchtem-united-a-bhs-united-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62ad81ba5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T191500Z
+DTEND:20261107T210000Z
+SUMMARY:Merchtem United A 2-1 Sparta Melsbroek
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/merchtem-united-a-sparta-melsbroek-2026-11-07/
+URL:https://goalio.be/fr/match/merchtem-united-a-sparta-melsbroek-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57800b048e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Inkad Diegem A 0-3 Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-inkad-diegem-a-merchtem-united-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-inkad-diegem-a-merchtem-united-a-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22b9010420@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T191500Z
+DTEND:20261121T210000Z
+SUMMARY:Merchtem United A 2-1 Vilvoorde City
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/merchtem-united-a-vilvoorde-city-2026-11-21/
+URL:https://goalio.be/fr/match/merchtem-united-a-vilvoorde-city-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6e8b2e40b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T130000Z
+DTEND:20261129T144500Z
+SUMMARY:VC Den Boskant Peizegem A – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 14\nhttps://goalio.b
+ e/fr/match/vc-den-boskant-peizegem-a-merchtem-united-a-2026-11-29/
+URL:https://goalio.be/fr/match/vc-den-boskant-peizegem-a-merchtem-united-a-
+ 2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0eb9068e9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T191500Z
+DTEND:20261205T210000Z
+SUMMARY:Merchtem United A – Koninklijke FFF Haren
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23ea3c4b40@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T191500Z
+DTEND:20261212T210000Z
+SUMMARY:Merchtem United A – SK Steenhuffel A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-980991b852@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:BHS United – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0be230c043@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T191500Z
+DTEND:20270116T210000Z
+SUMMARY:Merchtem United A – KSC Grimbergen B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16432b4ea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:Sparta Melsbroek – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e2fbde22c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T191500Z
+DTEND:20270130T210000Z
+SUMMARY:Merchtem United A – FC Inkad Diegem A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed96382400@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T191500Z
+DTEND:20270213T210000Z
+SUMMARY:Eendr. Mazenzele Opwijk B – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49ade04ba0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T191500Z
+DTEND:20270220T210000Z
+SUMMARY:Merchtem United A – Zemst Sp. A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09883f8226@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:SK Nossegem B – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3bdfd7b20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T191500Z
+DTEND:20270306T210000Z
+SUMMARY:Merchtem United A – K. Del. Londerzeel B
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56c7077239@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Londerzeel United – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07f342c866@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T191500Z
+DTEND:20270320T210000Z
+SUMMARY:Merchtem United A – VC Den Boskant Peizegem A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49731fd8ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Vilvoorde City – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-737f5c56f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Koninklijke FFF Haren – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-220451de6c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T181500Z
+DTEND:20270417T200000Z
+SUMMARY:Merchtem United A – VV Groot Kapelle A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aba44af1b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:V. Hofstade – Merchtem United A
+DESCRIPTION:3e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/merchtem-united-a/
+URL:https://goalio.be/fr/equipe/merchtem-united-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

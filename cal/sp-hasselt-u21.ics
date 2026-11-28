@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Hasselt U21 · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sp-hasselt-u21/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2b913ac5d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261106T193000Z
+DTEND:20261106T211500Z
+SUMMARY:Francs Borains U21 5-3 Sporting Hasselt U21
+DESCRIPTION:Reserve Pro League\nJournée 9\nhttps://goalio.be/fr/match/fran
+ cs-borains-u21-sp-hasselt-u21-2026-11-06/
+URL:https://goalio.be/fr/match/francs-borains-u21-sp-hasselt-u21-2026-11-06
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-888252978e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261113T193000Z
+DTEND:20261113T211500Z
+SUMMARY:Sporting Hasselt U21 6-1 RFC Liège U21
+DESCRIPTION:Reserve Pro League\nJournée 6\nhttps://goalio.be/fr/match/sp-h
+ asselt-u21-rfc-de-liege-u21-2026-11-13/
+URL:https://goalio.be/fr/match/sp-hasselt-u21-rfc-de-liege-u21-2026-11-13/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56296cd8a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T190000Z
+DTEND:20261127T204500Z
+SUMMARY:Waasland-Beveren U21 5-0 Sporting Hasselt U21
+DESCRIPTION:Reserve Pro League\nJournée 11\nhttps://goalio.be/fr/match/waa
+ sland-beveren-u21-sp-hasselt-u21-2026-11-27/
+URL:https://goalio.be/fr/match/waasland-beveren-u21-sp-hasselt-u21-2026-11-
+ 27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-412853450c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270122T193000Z
+DTEND:20270122T211500Z
+SUMMARY:Sporting Hasselt U21 – RWDM U21
+DESCRIPTION:Reserve Pro League\nJournée 13\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ea24dffe5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270129T190000Z
+DTEND:20270129T204500Z
+SUMMARY:RFC Seraing U21 – Sporting Hasselt U21
+DESCRIPTION:Reserve Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d8c60be0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270205T193000Z
+DTEND:20270205T211500Z
+SUMMARY:Kortrijk U21 – Sporting Hasselt U21
+DESCRIPTION:Reserve Pro League\nJournée 12\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c7ca90e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270219T193000Z
+DTEND:20270219T211500Z
+SUMMARY:Sporting Hasselt U21 – RAAL La Louvière U21
+DESCRIPTION:Reserve Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70b0b8ad15@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270226T193000Z
+DTEND:20270226T211500Z
+SUMMARY:Sporting Hasselt U21 – Beerschot VA U21
+DESCRIPTION:Reserve Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5527972aac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270305T190000Z
+DTEND:20270305T204500Z
+SUMMARY:RFC Liège U21 – Sporting Hasselt U21
+DESCRIPTION:Reserve Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-066118cab4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270312T190000Z
+DTEND:20270312T204500Z
+SUMMARY:Lierse SK U21 – Sporting Hasselt U21
+DESCRIPTION:Reserve Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d403721a61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270409T183000Z
+DTEND:20270409T201500Z
+SUMMARY:Sporting Hasselt U21 – Francs Borains U21
+DESCRIPTION:Reserve Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b1e26bbd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270423T183000Z
+DTEND:20270423T201500Z
+SUMMARY:Westerlo U21 – Sporting Hasselt U21
+DESCRIPTION:Reserve Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9e3f438cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270507T183000Z
+DTEND:20270507T201500Z
+SUMMARY:Sporting Hasselt U21 – Waasland-Beveren U21
+DESCRIPTION:Reserve Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/sp
+ -hasselt-u21/
+URL:https://goalio.be/fr/equipe/sp-hasselt-u21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

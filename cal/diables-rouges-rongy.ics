@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Diables Rouges Rongy · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/diables-rouges-rongy/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0e09e3aae9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.U.S. Herseautoise 1-2 Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-u-s-herseautoise-diables-rouges-rongy-2026-11-01/
+URL:https://goalio.be/fr/match/r-u-s-herseautoise-diables-rouges-rongy-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc4c10cf52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:Diables Rouges Rongy 10-2 Ass. Montkainoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/diables-rouges-rongy-ass-montkainoise-2026-11-07/
+URL:https://goalio.be/fr/match/diables-rouges-rongy-ass-montkainoise-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3e486627c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Renaissance Sporting Club Bruyelle 1-2 Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/renaissance-sporting-club-bruyelle-diables-rouges-rongy-2026-11-15/
+URL:https://goalio.be/fr/match/renaissance-sporting-club-bruyelle-diables-r
+ ouges-rongy-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f827ca3e4f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Diables Rouges Rongy – Entente Velaines Enclusienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/diables-rouges-rongy-entente-velaines-enclusienne-2026-11-21/
+URL:https://goalio.be/fr/match/diables-rouges-rongy-entente-velaines-enclus
+ ienne-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b110d95124@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Royale J.S. Wez-Guignies – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/royale-j-s-wez-guignies-diables-rouges-rongy-2026-11-29/
+URL:https://goalio.be/fr/match/royale-j-s-wez-guignies-diables-rouges-rongy
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e0b35420c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:Diables Rouges Rongy – Football Club Etoiles D'Ere
+DESCRIPTION:4e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a38b16c9d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:AC Barry-Carrieres – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e79d99443c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Diables Rouges Rongy – Ass. Sp. Club Havinnes
+DESCRIPTION:4e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d933372269@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.A.S. Risquons-Tout Mouscron – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a393980a31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Diables Rouges Rongy – Ren. US Tournaisienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-833eec2dd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. Brunehaut – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89554cd448@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Diables Rouges Rongy – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3810220bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:C.S. Taintignies – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c363fa0fd2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Diables Rouges Rongy – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e648c2a84e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Diables Rouges Rongy – R.U.S. Herseautoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b17387b6d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Ass. Montkainoise – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7942af5e8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Diables Rouges Rongy – Renaissance Sporting Club Bruyelle
+DESCRIPTION:4e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f771615df1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Entente Velaines Enclusienne – Diables Rouges Rongy
+DESCRIPTION:4e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b71c585cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Diables Rouges Rongy – Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/diables-rouges-rongy/
+URL:https://goalio.be/fr/equipe/diables-rouges-rongy/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

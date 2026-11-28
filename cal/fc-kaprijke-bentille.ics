@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Kaprijke-Bentille · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9854c179fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:FC Kaprijke-Bentille 2-0 KFC Evergem Center
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-kaprijke-bentille-kfc-evergem-center-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fc-kaprijke-bentille-kfc-evergem-center-
+ 2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf2bd52a97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Kaprijke-Bentille 1-2 VV Sp Ursel
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/fc-kaprijke-bentille-vv-sp-ursel-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-kaprijke-bentille-vv-sp-ursel-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a8a56a5ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:St Muide Gent 2-0 FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/st-muide-gent-fc-kaprijke-bentille-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/st-muide-gent-fc-kaprijke-bentille-2026-
+ 11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-483e26441f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Kaprijke-Bentille 1-1 R.F.C. Goalgetters Sint-Laureins A
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/fc-kaprijke-bentille-r-f-c-goalgetters-sint-laureins-a-2026
+ -11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-kaprijke-bentille-r-f-c-goalgetters-s
+ int-laureins-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f4138351d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:E Vinkt – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/e-vinkt-fc-kaprijke-bentille-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/e-vinkt-fc-kaprijke-bentille-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d715294106@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Kaprijke-Bentille – Daring Maria-Aalter
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b409f4bd00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Kaprijke-Bentille – VVE Hansbeke A
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4be8314cd7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC Evergem Center – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3f2503efc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Kaprijke-Bentille – KFC St-Kruis-W
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-294c46075c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:VV Sp Ursel – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-270908dd05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:FC Kaprijke-Bentille – St Muide Gent
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d8d8b9637@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:VK Knesselare – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3174a24b09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Kaprijke-Bentille – KVE Aalter B
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-367376859a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KFCE Belzele Evergem – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01d49d9e18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Kaprijke-Bentille – SK Wachtebeke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05bbea9e9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVV Zomergem – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70523ec77d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Kaprijke-Bentille – E Vinkt
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccbc824428@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. Goalgetters Sint-Laureins A – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e11dcb9c53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Daring Maria-Aalter – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f13746bba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Kaprijke-Bentille – KSCE Mariakerke
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df42d837ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SK Bellem – FC Kaprijke-Bentille
+DESCRIPTION:3e provinciale Oost-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/fc-kaprijke-bentille/
+URL:https://goalio.be/nl/ploeg/fc-kaprijke-bentille/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

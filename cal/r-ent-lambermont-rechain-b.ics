@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Ent. Lambermont-Rechain B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f20f4faef9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:K. FC Grün-Weib Amel B 8-2 R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/k-fc-grun-weib-amel-b-r-ent-lambermont-rechain-b-2026-10-31/
+URL:https://goalio.be/fr/match/k-fc-grun-weib-amel-b-r-ent-lambermont-recha
+ in-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf24f5bda6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Ent. Lambermont-Rechain B 2-5 T.W. Waimes Faymonville
+DESCRIPTION:4e provinciale Liège G\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-ent-lambermont-rechain-b-t-w-waimes-faymonville-2026-11-08/
+URL:https://goalio.be/fr/match/r-ent-lambermont-rechain-b-t-w-waimes-faymon
+ ville-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfa67ba27a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:S.R. UN Verviers B 1-2 R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 13\nhttps://goalio.be/fr/matc
+ h/s-r-un-verviers-b-r-ent-lambermont-rechain-b-2026-11-15/
+URL:https://goalio.be/fr/match/s-r-un-verviers-b-r-ent-lambermont-rechain-b
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71c6b237cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – K. Honsfelder S.V. B (remis)
+DESCRIPTION:4e provinciale Liège G\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-ent-lambermont-rechain-b-k-honsfelder-s-v-b-2026-11-22/
+URL:https://goalio.be/fr/match/r-ent-lambermont-rechain-b-k-honsfelder-s-v-
+ b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e66feb588@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:FC Ster-Francorchamps – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 15\nhttps://goalio.be/fr/matc
+ h/fc-ster-francorchamps-r-ent-lambermont-rechain-b-2026-11-28/
+URL:https://goalio.be/fr/match/fc-ster-francorchamps-r-ent-lambermont-recha
+ in-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3dbc192405@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:F.C.E. Stembertoise – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d1a658945@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – F.C. 1912 Raeren-Eynatten
+DESCRIPTION:4e provinciale Liège G\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d2bcc8f80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T124500Z
+DTEND:20261220T143000Z
+SUMMARY:Alliance Des Hautes Fagnes – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0d704fa1a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f6b8fecd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. De Goe – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2f1a872a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – R. Spa F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbdb57aadf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – R. Baelen F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af6a8af801@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:R.C.S. Stavelotain B – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bcf3b0ce72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4601ffbe6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:T.W. Waimes Faymonville – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9733f9c42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – S.R. UN Verviers B
+DESCRIPTION:4e provinciale Liège G\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90c681a3e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. Honsfelder S.V. B – R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9236662ccc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-ent-lambermont-rechain-b/
+URL:https://goalio.be/fr/equipe/r-ent-lambermont-rechain-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. FC Sart-Lez-Spa B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-98e13746ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A 7-1 R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/f-c-1912-raeren-eynatten-a-r-fc-sart-lez-spa-b-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-1912-raeren-eynatten-a-r-fc-sart-lez-spa
+ -b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d08558e9ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. FC Sart-Lez-Spa B 0-2 UN. Walhorn
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-fc-sart-lez-spa-b-un-walhorn-2026-11-08/
+URL:https://goalio.be/fr/match/r-fc-sart-lez-spa-b-un-walhorn-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-718bf3294b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:R. FC Sart-Lez-Spa B 1-2 FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-fc-sart-lez-spa-b-fc-bullingen-2026-11-14/
+URL:https://goalio.be/fr/match/r-fc-sart-lez-spa-b-fc-bullingen-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83698c9104@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:All. Hautes Fagnes A – R. FC Sart-Lez-Spa B (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/all-hautes-fagnes-a-r-fc-sart-lez-spa-b-2026-11-22/
+URL:https://goalio.be/fr/match/all-hautes-fagnes-a-r-fc-sart-lez-spa-b-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a5870a7abe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. FC Sart-Lez-Spa B – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-fc-sart-lez-spa-b-f-c-entente-pepine-a-2026-11-29/
+URL:https://goalio.be/fr/match/r-fc-sart-lez-spa-b-f-c-entente-pepine-a-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51c878982e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. FC Sart-Lez-Spa B – R.U.S. 1947 Emmels
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-311cb592a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:F.C. Welkenraedt B – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f1d73101f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. FC Sart-Lez-Spa B – R.F.C. Malmundaria 1904 B
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-081ab92ad0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Sporting Club Lontzen – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa4959556c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. FC Eupen 1963 B – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a113c92e83@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:U.S.F.C. Elsenborn – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18c13ddabe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. FC Sart-Lez-Spa B – R.C.S. Jalhaytois
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea1ca1d5fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.U. Limbourg – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ac260aed5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. FC Sart-Lez-Spa B – R.C.S. Bellevaux-Ligneuville
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45e59c9c1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. FC Bütgenbach – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da9746a24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. FC Sart-Lez-Spa B – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdc37a3b46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:UN. Walhorn – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5977badd69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Büllingen – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a1ce296699@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. FC Sart-Lez-Spa B – All. Hautes Fagnes A
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c5cb2d323@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C. Entente Pepine A – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-fc-sart-lez-spa-b/
+URL:https://goalio.be/fr/equipe/r-fc-sart-lez-spa-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

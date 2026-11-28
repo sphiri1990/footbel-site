@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VK Liedekerke B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/vk-liedekerke-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-0574d5f801@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T153000Z
+DTEND:20261101T171500Z
+SUMMARY:VC Den Boskant Peizegem B 1-1 VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 10\nhttps://goalio.b
+ e/fr/match/vc-den-boskant-peizegem-b-vk-liedekerke-b-2026-11-01/
+URL:https://goalio.be/fr/match/vc-den-boskant-peizegem-b-vk-liedekerke-b-20
+ 26-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-465b4dd2a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T184500Z
+SUMMARY:VK Liedekerke B 0-0 Emi. Essene B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 11\nhttps://goalio.b
+ e/fr/match/vk-liedekerke-b-emi-essene-b-2026-11-07/
+URL:https://goalio.be/fr/match/vk-liedekerke-b-emi-essene-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29dd3ebb37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:VC Groot-Dilbeek B 4-4 VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 12\nhttps://goalio.b
+ e/fr/match/vc-groot-dilbeek-b-vk-liedekerke-b-2026-11-15/
+URL:https://goalio.be/fr/match/vc-groot-dilbeek-b-vk-liedekerke-b-2026-11-1
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9d77ea43a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T184500Z
+SUMMARY:VK Liedekerke B 5-0 SK Steenhuffel B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 13\nhttps://goalio.b
+ e/fr/match/vk-liedekerke-b-sk-steenhuffel-b-2026-11-21/
+URL:https://goalio.be/fr/match/vk-liedekerke-b-sk-steenhuffel-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbac38e31a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T184500Z
+SUMMARY:VK Liedekerke B – Jong FC Opwijk
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5461a32431@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T184500Z
+SUMMARY:VK Liedekerke B – Eendr. Hekelgem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ff490774e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Sp. Eizeringen – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbcaef5511@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T130000Z
+DTEND:20270117T144500Z
+SUMMARY:KFC Meise B – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f977f6c9d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T170000Z
+DTEND:20270123T184500Z
+SUMMARY:VK Liedekerke B – VK Borchtlombeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c96d266cf8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KVC Asse-Terheide B – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30488ea111@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Jong FC Opwijk – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66d88507ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:VK Liedekerke B – Anderlecht Sporting Club Brother
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1244211b2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:FC Schepdaal B – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c8920f5e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T170000Z
+DTEND:20270313T184500Z
+SUMMARY:VK Liedekerke B – Merchtem United B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8dec2a0f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T184500Z
+SUMMARY:Ritterklub Jette B – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45244e5a41@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:VK Liedekerke B – VC Groot-Dilbeek B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-973e42e9ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:Emi. Essene B – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4daed13bfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:SK Steenhuffel B – VK Liedekerke B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-985881d953@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Liedekerke B – VC Den Boskant Peizegem B
+DESCRIPTION:4e provinciale Brabant flamand B\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/vk-liedekerke-b/
+URL:https://goalio.be/fr/equipe/vk-liedekerke-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

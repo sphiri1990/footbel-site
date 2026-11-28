@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. De Gilly · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-5153b54a02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.F.C. De Gilly 5-2 Mellet Sports
+DESCRIPTION:4e provinciale Hainaut F\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-f-c-de-gilly-mellet-sports-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-de-gilly-mellet-sports-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-049f566d00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:R.E.S. Frasnoise B 6-3 R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-e-s-frasnoise-b-r-f-c-de-gilly-2026-11-08/
+URL:https://goalio.be/fr/match/r-e-s-frasnoise-b-r-f-c-de-gilly-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fa782261f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.F.C. De Gilly 12-0 J.S. Aiseau-Presles
+DESCRIPTION:4e provinciale Hainaut F\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-f-c-de-gilly-j-s-aiseau-presles-2026-11-15/
+URL:https://goalio.be/fr/match/r-f-c-de-gilly-j-s-aiseau-presles-2026-11-15
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a80a03356@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Racing Club Marcinelle – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/racing-club-marcinelle-r-f-c-de-gilly-2026-11-22/
+URL:https://goalio.be/fr/match/racing-club-marcinelle-r-f-c-de-gilly-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2112ccec6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.F.C. De Gilly – Racing A.C.S. Couillet
+DESCRIPTION:4e provinciale Hainaut F\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-f-c-de-gilly-racing-a-c-s-couillet-2026-11-29/
+URL:https://goalio.be/fr/match/r-f-c-de-gilly-racing-a-c-s-couillet-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcd77801e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RFC Baulet – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18d0bffc0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. De Gilly – R.E.S. Roux
+DESCRIPTION:4e provinciale Hainaut F\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21bd492a2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:F.C. Bouffioulx – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fff5f4711@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C. De Gilly – A.F. US St Amand-Brye (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed22384105@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Football Club Fleurus – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f623a5408d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. De Gilly – Black Country Charleroi
+DESCRIPTION:4e provinciale Hainaut F\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1dcac4b408@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Carolo Football Charleroi – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f7d7f4c663@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.F.C. De Gilly – FC Châtelineau (annulé)
+DESCRIPTION:4e provinciale Hainaut F\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-57f406f357@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Entente Chatelet – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-401338dbc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.F.C. De Gilly – R. Jumet S.C. B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b7b705477@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:Mellet Sports – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d6e52486@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.F.C. De Gilly – R.E.S. Frasnoise B
+DESCRIPTION:4e provinciale Hainaut F\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac9f373f54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:J.S. Aiseau-Presles – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c82316fa6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.F.C. De Gilly – Racing Club Marcinelle
+DESCRIPTION:4e provinciale Hainaut F\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb0093dc80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Racing A.C.S. Couillet – R.F.C. De Gilly
+DESCRIPTION:4e provinciale Hainaut F\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-f-c-de-gilly/
+URL:https://goalio.be/fr/equipe/r-f-c-de-gilly/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

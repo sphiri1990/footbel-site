@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.F.C. Molenbaix · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b27495af69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:R.F.C. Molenbaix 3-1 Stade Everois Racing Club
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/r-f-c-molenba
+ ix-stade-everois-racing-club-2026-10-31/
+URL:https://goalio.be/fr/match/r-f-c-molenbaix-stade-everois-racing-club-20
+ 26-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db741ff333@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Union Sporting Club Jemappes 1-1 R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/union-sportin
+ g-club-jemappes-r-f-c-molenbaix-2026-11-08/
+URL:https://goalio.be/fr/match/union-sporting-club-jemappes-r-f-c-molenbaix
+ -2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ee7036387@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:R.F.C. Molenbaix 1-2 R.U.S. Biesme
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/r-f-c-molenba
+ ix-r-u-s-biesme-2026-11-14/
+URL:https://goalio.be/fr/match/r-f-c-molenbaix-r-u-s-biesme-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90b0d59438@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.F.C. Molenbaix 1-1 S.C. De Nechin
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/r-f-c-molenba
+ ix-s-c-de-nechin-2026-11-21/
+URL:https://goalio.be/fr/match/r-f-c-molenbaix-s-c-de-nechin-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06d0afa0aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:R.U. Wallonne Ciney – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/r-u-wallonne-
+ ciney-r-f-c-molenbaix-2026-11-28/
+URL:https://goalio.be/fr/match/r-u-wallonne-ciney-r-f-c-molenbaix-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c171f71f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:Sporting Bruxelles – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d08f51718@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:R.F.C. Molenbaix – Pont-A-Celles-Buzet
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02352395a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Léopold F.C. – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d253018a84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:Pont-A-Celles-Buzet – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/r-f-c-molenba
+ ix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d86b6e9758@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:R.F.C. Molenbaix – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a52503cef9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Union Rochefortoise – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b3fb4ad9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:R.F.C. Molenbaix – F.C. Kosova Schaerbeek
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e3f7c33b57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Soignies Sports – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ae94680b56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.F.C. Molenbaix – R.A.S. Monceau
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c0616cff24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Andenne Evelette Sports Football – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-866f49dd0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:R.F.C. Molenbaix – R.F.C. Saint-Michel
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e45a52e61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Stade Everois Racing Club – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c0ce9923c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.F.C. Molenbaix – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-551dc34879@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.U.S. Biesme – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6948e98178@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:S.C. De Nechin – R.F.C. Molenbaix
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88779def1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Molenbaix – R.U. Wallonne Ciney
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/r-f-c-molenb
+ aix/
+URL:https://goalio.be/fr/equipe/r-f-c-molenbaix/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Eupen 1963 B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-58ea6e2805@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K. FC Eupen 1963 B 1-2 R.F.C. Malmundaria 1904 B
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/k-fc-eupen-1963-b-r-f-c-malmundaria-1904-b-2026-10-31/
+URL:https://goalio.be/fr/match/k-fc-eupen-1963-b-r-f-c-malmundaria-1904-b-2
+ 026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc0fc02013@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Sporting Club Lontzen 2-2 K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-sporting-club-lontzen-k-fc-eupen-1963-b-2026-11-08/
+URL:https://goalio.be/fr/match/r-sporting-club-lontzen-k-fc-eupen-1963-b-20
+ 26-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0bb6ff4545@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:UN. Walhorn 1-1 K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/un-walhorn-k-fc-eupen-1963-b-2026-11-14/
+URL:https://goalio.be/fr/match/un-walhorn-k-fc-eupen-1963-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edc3ec574a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:K. FC Eupen 1963 B – U.S.F.C. Elsenborn (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/k-fc-eupen-1963-b-u-s-f-c-elsenborn-2026-11-21/
+URL:https://goalio.be/fr/match/k-fc-eupen-1963-b-u-s-f-c-elsenborn-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6054ca6df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.C.S. Jalhaytois – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-c-s-jalhaytois-k-fc-eupen-1963-b-2026-11-29/
+URL:https://goalio.be/fr/match/r-c-s-jalhaytois-k-fc-eupen-1963-b-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a533f719d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:R.U. Limbourg – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42d8f5a225@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:K. FC Eupen 1963 B – R.C.S. Bellevaux-Ligneuville
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-244a68b114@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. FC Bütgenbach – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0eb7c9fbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:K. FC Eupen 1963 B – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa4959556c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:K. FC Eupen 1963 B – R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1e23dfa4c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:K. FC Eupen 1963 B – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f590e30dc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:All. Hautes Fagnes A – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a06ef994b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:K. FC Eupen 1963 B – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e88a98be49@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R.U.S. 1947 Emmels – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfff5801d4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K. FC Eupen 1963 B – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a6c1fabc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:R.F.C. Malmundaria 1904 B – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abf8ab2db9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K. FC Eupen 1963 B – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79c714a7ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. FC Eupen 1963 B – UN. Walhorn
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2960561b0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U.S.F.C. Elsenborn – K. FC Eupen 1963 B
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aaa85d3355@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. FC Eupen 1963 B – R.C.S. Jalhaytois
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/k-fc-eupen-1963-b/
+URL:https://goalio.be/fr/equipe/k-fc-eupen-1963-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

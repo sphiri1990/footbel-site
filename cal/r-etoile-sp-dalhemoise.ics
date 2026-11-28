@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Etoile Sp. Dalhemoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-bb8cf1e18a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K.F.C. Weywertz 2-0 R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 11\nhttps://goalio.be/fr/match
+ /k-f-c-weywertz-r-etoile-sp-dalhemoise-2026-11-01/
+URL:https://goalio.be/fr/match/k-f-c-weywertz-r-etoile-sp-dalhemoise-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1ffef693d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise 1-2 E.S. Wanze/Bas-Oha A
+DESCRIPTION:1re provinciale Liège\nJournée 12\nhttps://goalio.be/fr/match
+ /r-etoile-sp-dalhemoise-e-s-wanze-bas-oha-a-2026-11-08/
+URL:https://goalio.be/fr/match/r-etoile-sp-dalhemoise-e-s-wanze-bas-oha-a-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66e7831936@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Union Flémalloise A 0-5 R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 13\nhttps://goalio.be/fr/match
+ /r-union-flemalloise-a-r-etoile-sp-dalhemoise-2026-11-15/
+URL:https://goalio.be/fr/match/r-union-flemalloise-a-r-etoile-sp-dalhemoise
+ -2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f874401b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Espoir Minerois (remis)
+DESCRIPTION:1re provinciale Liège\nJournée 14\nhttps://goalio.be/fr/match
+ /r-etoile-sp-dalhemoise-r-espoir-minerois-2026-11-22/
+URL:https://goalio.be/fr/match/r-etoile-sp-dalhemoise-r-espoir-minerois-202
+ 6-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbcbbb67de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K.F.C. Eupen 1963 – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 15\nhttps://goalio.be/fr/match
+ /k-f-c-eupen-1963-r-etoile-sp-dalhemoise-2026-11-29/
+URL:https://goalio.be/fr/match/k-f-c-eupen-1963-r-etoile-sp-dalhemoise-2026
+ -11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc133ee8b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.F.C. Warsage – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 16\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e7d2d2179@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R.F.C. Croatia Wandre A
+DESCRIPTION:1re provinciale Liège\nJournée 17\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8200ebc285@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – JS Fizoise
+DESCRIPTION:1re provinciale Liège\nJournée 18\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf04210d70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Royal Football Club Wallonia Hannut – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 19\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ae1eee370@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – F.C. Welkenraedt
+DESCRIPTION:1re provinciale Liège\nJournée 20\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f943af3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.S.C. Beaufays A – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 21\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b93ba46b3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – FC. Ster Francorchamps A
+DESCRIPTION:1re provinciale Liège\nJournée 22\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88af44e945@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Etoile De Faimes – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 23\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9d4b88983@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Herve F.C.
+DESCRIPTION:1re provinciale Liège\nJournée 24\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cdc732023@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RCS Xhorisien – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 25\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30e6ee37e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – K.F.C. Weywertz
+DESCRIPTION:1re provinciale Liège\nJournée 26\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9ef47064a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:E.S. Wanze/Bas-Oha A – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 27\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22907ac58e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Union Flémalloise A
+DESCRIPTION:1re provinciale Liège\nJournée 28\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2e0ceb051@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Espoir Minerois – R. Etoile Sp. Dalhemoise
+DESCRIPTION:1re provinciale Liège\nJournée 29\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-542a569949@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – K.F.C. Eupen 1963
+DESCRIPTION:1re provinciale Liège\nJournée 30\nhttps://goalio.be/fr/equip
+ e/r-etoile-sp-dalhemoise/
+URL:https://goalio.be/fr/equipe/r-etoile-sp-dalhemoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

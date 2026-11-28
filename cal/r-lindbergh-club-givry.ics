@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Lindbergh Club Givry · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-361db77cd1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Lindbergh Club Givry 0-1 R. Entente Mons Nord
+DESCRIPTION:3e provinciale Hainaut C\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-lindbergh-club-givry-r-entente-mons-nord-2026-11-01/
+URL:https://goalio.be/fr/match/r-lindbergh-club-givry-r-entente-mons-nord-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8b0b7b401@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C.E. Maurage 3-1 R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-f-c-e-maurage-r-lindbergh-club-givry-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-e-maurage-r-lindbergh-club-givry-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9616f6b714@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Lindbergh Club Givry 2-3 Pont-A-Celles-Buzet
+DESCRIPTION:3e provinciale Hainaut C\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-lindbergh-club-givry-pont-a-celles-buzet-3-prov-c-hainaut-2026-11-15/
+URL:https://goalio.be/fr/match/r-lindbergh-club-givry-pont-a-celles-buzet-3
+ -prov-c-hainaut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-19d6ef4ec9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:U.S. Neufvilles – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/u-s-neufvilles-r-lindbergh-club-givry-2026-11-22/
+URL:https://goalio.be/fr/match/u-s-neufvilles-r-lindbergh-club-givry-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7eb6f5b0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Lindbergh Club Givry – A.S. Morlanwelz
+DESCRIPTION:3e provinciale Hainaut C\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-lindbergh-club-givry-a-s-morlanwelz-2026-11-29/
+URL:https://goalio.be/fr/match/r-lindbergh-club-givry-a-s-morlanwelz-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63bfd19cb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Lindbergh Club Givry – R.F.C. Rapid Symphorinois
+DESCRIPTION:3e provinciale Hainaut C\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d4815f2194@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.S.A. Forchies – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-295d08378a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Lindbergh Club Givry – R.F.C. Ronquieres-Hy 86
+DESCRIPTION:3e provinciale Hainaut C\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a8833abe5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:R.F.C. Houdinois B – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61a500c2b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Lindbergh Club Givry – Bracquegnies Sp B
+DESCRIPTION:3e provinciale Hainaut C\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60c8c78c90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.F.C. Ecaussinnois – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7721ebf9d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Lindbergh Club Givry – Union Entité Chapelloise
+DESCRIPTION:3e provinciale Hainaut C\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89d0419dab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Havré – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-51ebf88871@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T140000Z
+DTEND:20270227T154500Z
+SUMMARY:F.C. Flénu – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4580d9d4a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Lindbergh Club Givry – R. Exc. Bievene
+DESCRIPTION:3e provinciale Hainaut C\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9c03d0412@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Entente Mons Nord – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad25ff2fb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Lindbergh Club Givry – R.F.C.E. Maurage
+DESCRIPTION:3e provinciale Hainaut C\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5028c396e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Pont-A-Celles-Buzet – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b0d3365eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Lindbergh Club Givry – U.S. Neufvilles
+DESCRIPTION:3e provinciale Hainaut C\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8fa20be3b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:A.S. Morlanwelz – R. Lindbergh Club Givry
+DESCRIPTION:3e provinciale Hainaut C\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

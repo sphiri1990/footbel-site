@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAAL La Louvière W · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/raal-la-louviere-w/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2d14b1a5fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:Gent W 0-2 RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 8\nhttps://goalio.be/fr/match/
+ gent-w-raal-la-louviere-w-2026-11-07/
+URL:https://goalio.be/fr/match/gent-w-raal-la-louviere-w-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e20c97c70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T164500Z
+SUMMARY:RAAL La Louvière W 4-0 Standard Liège W
+DESCRIPTION:Super League féminine\nJournée 9\nhttps://goalio.be/fr/match/
+ raal-la-louviere-w-standard-liege-w-2026-11-14/
+URL:https://goalio.be/fr/match/raal-la-louviere-w-standard-liege-w-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc38b46f52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T123000Z
+DTEND:20261121T141500Z
+SUMMARY:RAAL La Louvière W 1-1 OH Leuven W
+DESCRIPTION:Super League féminine\nJournée 10\nhttps://goalio.be/fr/match
+ /raal-la-louviere-w-oh-leuven-w-2026-11-21/
+URL:https://goalio.be/fr/match/raal-la-louviere-w-oh-leuven-w-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5043423540@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T150000Z
+DTEND:20261212T164500Z
+SUMMARY:Club Brugge W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 11\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea422bc3af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T170000Z
+DTEND:20261219T184500Z
+SUMMARY:RAAL La Louvière W – Anderlecht W
+DESCRIPTION:Super League féminine\nJournée 12\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-252577418e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T184500Z
+SUMMARY:RAAL La Louvière W – Genk W
+DESCRIPTION:Super League féminine\nJournée 13\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72676cbbfd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T150000Z
+DTEND:20270116T164500Z
+SUMMARY:Zulte Waregem W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 14\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fca0ab7034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:RAAL La Louvière W – Gent W
+DESCRIPTION:Super League féminine\nJournée 15\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-390f1bd314@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:OH Leuven W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 16\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-690ce2f662@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:RAAL La Louvière W – Genk W
+DESCRIPTION:Super League féminine\nJournée 17\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e18eab8888@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T150000Z
+DTEND:20270213T164500Z
+SUMMARY:Zulte Waregem W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 18\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30f79ad183@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:Standard Liège W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 19\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-801e5b19ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:RAAL La Louvière W – Club Brugge W
+DESCRIPTION:Super League féminine\nJournée 20\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6e661bee4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:Anderlecht W – RAAL La Louvière W
+DESCRIPTION:Super League féminine\nJournée 21\nhttps://goalio.be/fr/equip
+ e/raal-la-louviere-w/
+URL:https://goalio.be/fr/equipe/raal-la-louviere-w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

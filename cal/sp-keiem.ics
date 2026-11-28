@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sp. Keiem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/sp-keiem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c85e176f7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:K. EG Gistel 0-1 Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-eg-gistel-sp-keiem-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-eg-gistel-sp-keiem-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2c3c9f822@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:Sp. Keiem 3-2 VV Westkapelle A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/sp-keiem-vv-westkapelle-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/sp-keiem-vv-westkapelle-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ce5ed2548@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:V.V. Cercle Beernem A 1-1 Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/v-v-cercle-beernem-a-sp-keiem-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/v-v-cercle-beernem-a-sp-keiem-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccaa39c6d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Sp. Keiem – SV Loppem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/sp-keiem-sv-loppem-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/sp-keiem-sv-loppem-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-683b522811@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. Sp. Club Blankenberge B – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sp-club-blankenberge-b-sp-keiem-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-sp-club-blankenberge-b-sp-keiem-2026-1
+ 1-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b351aaccf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:Sp. Keiem – K. SV Jabbeke B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-439824542b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:K. FC Lichtervelde – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4579b824c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:Sp. Keiem – FC Veldegem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50292dd800@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:FA Nieuwpoort A – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38a8df1893@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T193000Z
+DTEND:20270123T211500Z
+SUMMARY:S.K. Eernegem A – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc940888ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:Sp. Keiem – K. Sp. Club Blankenberge B
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f32b62ff8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:K. SK Wenduine – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eeeee4b4b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:Sp. Keiem – K. VV Aartrijke
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6218b5c7e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:VV Westkapelle A – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e738a632a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:Sp. Keiem – KV Koksijde Oostduinkerke A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53b83f8959@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. SV Jabbeke B – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6f565a4d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:Sp. Keiem – K.S.K. Snaaskerke
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef35cd513d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SV Loppem – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a2f850dbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:Sp. Keiem – K. EG Gistel
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-076b1e264e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T160000Z
+DTEND:20270417T174500Z
+SUMMARY:K.S.V. Oostkamp B – Sp. Keiem
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2732ea05d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Sp. Keiem – V.V. Cercle Beernem A
+DESCRIPTION:3e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/sp-keiem/
+URL:https://goalio.be/nl/ploeg/sp-keiem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

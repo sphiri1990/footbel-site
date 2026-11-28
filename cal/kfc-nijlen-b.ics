@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KFC Nijlen B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1da0b236cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFC Nijlen B 2-1 VC Immer Oost-Oosterwijk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 10\nhttps://goalio.be/nl/w
+ edstrijd/kfc-nijlen-b-vc-immer-oost-oosterwijk-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-nijlen-b-vc-immer-oost-oosterwijk-20
+ 26-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f1b297c2b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC Herenthout 1-1 KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/kfc-herenthout-kfc-nijlen-b-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-herenthout-kfc-nijlen-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b867714984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:KFC Nijlen B 1-2 Wiekevorst Sp.
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/kfc-nijlen-b-wiekevorst-sp-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/kfc-nijlen-b-wiekevorst-sp-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f9c8f54bd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KFC Nijlen B 1-4 SK sGravenwezel-Schilde B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/kfc-nijlen-b-sk-sgravenwezel-schilde-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kfc-nijlen-b-sk-sgravenwezel-schilde-b-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29f828b4ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T170000Z
+DTEND:20261128T184500Z
+SUMMARY:KVV OG Vorselaar B – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kvv-og-vorselaar-b-kfc-nijlen-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvv-og-vorselaar-b-kfc-nijlen-b-2026-11-
+ 28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a832cc1035@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFC Nijlen B – FCM Hallaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3eea819e99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KFC Ranst B – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d988bdefdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Nijlen B – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4fc4cf2e73@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KFC Nijlen B – KFC Berlaar-Heikant B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-071a3a0004@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:KSK Heist B – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9123417987@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T133000Z
+DTEND:20270214T151500Z
+SUMMARY:KFC Nijlen B – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10a2b2e30e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:VV-NEXT Laakdal B – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-485a208543@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:KFC Nijlen B – KFC Herenthout
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8c4f7ebab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Wiekevorst Sp. – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-036287e762@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:KFC Nijlen B – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b2cbf6c67@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T163000Z
+DTEND:20270320T181500Z
+SUMMARY:SK sGravenwezel-Schilde B – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-107304aa9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:KFC Nijlen B – VC Herentals
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6991ac5798@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FCM Hallaar B – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e95785255d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T123000Z
+DTEND:20270418T141500Z
+SUMMARY:KFC Nijlen B – K. Zandhoven SK B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f98b20edc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VC Immer Oost-Oosterwijk – KFC Nijlen B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 30\nhttps://goalio.be/nl/p
+ loeg/kfc-nijlen-b/
+URL:https://goalio.be/nl/ploeg/kfc-nijlen-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

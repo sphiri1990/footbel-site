@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Koninklijke Haacht United B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-29010fa519@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:FC Moorsel B 4-0 Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-moorsel-b-koninklijke-haacht-united-b-2026-10-31/
+URL:https://goalio.be/fr/match/fc-moorsel-b-koninklijke-haacht-united-b-202
+ 6-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb73b800ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:DC Wezembeek-Oppem – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 11\nhttps://goalio.b
+ e/fr/match/dc-wezembeek-oppem-koninklijke-haacht-united-b-2026-11-07/
+URL:https://goalio.be/fr/match/dc-wezembeek-oppem-koninklijke-haacht-united
+ -b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26f20dd5d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Koninklijke Haacht United B 3-7 ERC Hoeilaart B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 12\nhttps://goalio.b
+ e/fr/match/koninklijke-haacht-united-b-erc-hoeilaart-b-2026-11-15/
+URL:https://goalio.be/fr/match/koninklijke-haacht-united-b-erc-hoeilaart-b-
+ 2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6ed09bd53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KFC Werchter A 4-2 Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 13\nhttps://goalio.b
+ e/fr/match/kfc-werchter-a-koninklijke-haacht-united-b-2026-11-22/
+URL:https://goalio.be/fr/match/kfc-werchter-a-koninklijke-haacht-united-b-2
+ 026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ea76bb748@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Koninklijke Haacht United B – VK Holsbeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 14\nhttps://goalio.b
+ e/fr/match/koninklijke-haacht-united-b-vk-holsbeek-b-2026-11-29/
+URL:https://goalio.be/fr/match/koninklijke-haacht-united-b-vk-holsbeek-b-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8198b0e91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Koninklijke Haacht United B – KSC Keerbergen
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0c60ebfb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:K. Eur. 90 Kraainem B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da8aa9f3e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:HO Veltem B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5bf9f0407@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Koninklijke Haacht United B – KFC Werchter A
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6dcb0143e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T161500Z
+DTEND:20270130T180000Z
+SUMMARY:VK Holsbeek B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3504b29d11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Koninklijke Haacht United B – KVC Sterrebeek B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bc6abc5f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Koninklijke Haacht United B – FC Moorsel B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5a7f6de27@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Koninklijke Haacht United B – VK Linden B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d9f8e6217@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:Football Club Kortenberg United B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-801dce1189@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Koninklijke Haacht United B – DC Wezembeek-Oppem
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60a8eb70dc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T150000Z
+DTEND:20270404T164500Z
+SUMMARY:ERC Hoeilaart B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1925a1e026@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T104500Z
+DTEND:20270418T123000Z
+SUMMARY:KFC Baal B – Koninklijke Haacht United B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81204eba8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Koninklijke Haacht United B – Gr. Vossem B
+DESCRIPTION:4e provinciale Brabant flamand D\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/koninklijke-haacht-united-b/
+URL:https://goalio.be/fr/equipe/koninklijke-haacht-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

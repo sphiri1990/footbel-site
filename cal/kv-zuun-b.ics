@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KV Zuun B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kv-zuun-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2ae420ed96@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KV Zuun B 0-4 KVC Linkebeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/kv-zuun-b-kvc-linkebeek-2026-10-31/
+URL:https://goalio.be/fr/match/kv-zuun-b-kvc-linkebeek-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe96a9ef5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:FC Herne B 4-2 KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/fc-herne-b-kv-zuun-b-2026-11-07/
+URL:https://goalio.be/fr/match/fc-herne-b-kv-zuun-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e547704a95@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KV Zuun B 1-2 KFC Lennik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/kv-zuun-b-kfc-lennik-b-2026-11-14/
+URL:https://goalio.be/fr/match/kv-zuun-b-kfc-lennik-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5085be74a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:S.K. Beersel 4-2 KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/s-k-beersel-kv-zuun-b-2026-11-22/
+URL:https://goalio.be/fr/match/s-k-beersel-kv-zuun-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f66b17189@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KV Zuun B – KVV Kester-Gooik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/kv-zuun-b-kvv-kester-gooik-b-2026-11-28/
+URL:https://goalio.be/fr/match/kv-zuun-b-kvv-kester-gooik-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dceade0de2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:SK Pepingen-Halle B – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb116c4d1b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:KV Zuun B – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8a18c153a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:SK Vlezenbeek – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77999f17cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KV Zuun B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79e3a24bd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:SK Oetingen VC B – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-601fdd274c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T193000Z
+DTEND:20270213T211500Z
+SUMMARY:KVV Kester-Gooik B – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e4315d2b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KV Zuun B – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f11aad727@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KFC MZ Tollembeek – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2e65cc21b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T173000Z
+DTEND:20270313T191500Z
+SUMMARY:KFC Lennik B – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29154b4a45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KV Zuun B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-765488db1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KV Zuun B – FC Galmaarden B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe68e47016@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:KVC Linkebeek – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-913dbaa3c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KV Zuun B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15b2ddcf74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KFC Av. Lembeek B – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/kv-zuun-b/
+URL:https://goalio.be/fr/equipe/kv-zuun-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

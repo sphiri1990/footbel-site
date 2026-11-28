@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HO Heide Hasselt · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-65115a77d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:HO Heide Hasselt 3-6 WS Linkhout A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/ho-heide-hasselt-ws-linkhout-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ho-heide-hasselt-ws-linkhout-a-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dcae73814d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:K. Zw. FC Wiemismeer Zutend A 0-2 HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-zw-fc-wiemismeer-zutend-a-ho-heide-hasselt-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-zw-fc-wiemismeer-zutend-a-ho-heide-has
+ selt-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d01306377b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:HO Heide Hasselt 3-1 HIH Hoepertingen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/ho-heide-hasselt-hih-hoepertingen-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/ho-heide-hasselt-hih-hoepertingen-a-2026
+ -11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6521ad8ee4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:FC Vliermaal 0-7 HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-vliermaal-ho-heide-hasselt-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/fc-vliermaal-ho-heide-hasselt-2026-11-22
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93a122298a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:HO Heide Hasselt – Lanaken VV A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/ho-heide-hasselt-lanaken-vv-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/ho-heide-hasselt-lanaken-vv-a-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ccf4513beb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RDK Gravelo – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-137a46ef77@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:HO Heide Hasselt – VV Lummen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c109cc7323@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:UNICO Tongeren A – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-343b42fe0d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:HO Heide Hasselt – K. Zw. FC Wiemismeer Zutend A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e025363dab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:HO Heide Hasselt – FC Vliermaal
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b0bf207f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Sp. Kolmont – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-43d804fb07@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:HO Heide Hasselt – E. Mech Bovelingen Opheers
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92b4893a21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:HIH Hoepertingen A – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50fd89fbea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:HO Heide Hasselt – KMR Biesen A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64cd6145e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:V. 's Herenelderen A – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96eb5d484b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:HO Heide Hasselt – Juve Hasselt A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1930ee8e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Lanaken VV A – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01dea499e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:HO Heide Hasselt – RDK Gravelo
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c3904bbd53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:SK Moelingen – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-240e499327@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:HO Heide Hasselt – FC Diepenbeek A
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37775315f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:WS Linkhout A – HO Heide Hasselt
+DESCRIPTION:2e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/ho-heide-hasselt/
+URL:https://goalio.be/nl/ploeg/ho-heide-hasselt/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

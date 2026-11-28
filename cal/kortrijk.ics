@@ -1,0 +1,323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kortrijk · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/kortrijk/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fe94700b38@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T171500Z
+DTEND:20261031T190000Z
+SUMMARY:Standard Liège 1-1 Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/sta
+ ndard-liege-kortrijk-2026-10-31/
+URL:https://goalio.be/fr/match/standard-liege-kortrijk-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e54c086034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261104T193000Z
+DTEND:20261104T211500Z
+SUMMARY:Kortrijk 1-3 KV Mechelen
+DESCRIPTION:Jupiler Pro League\nJournée 9\nhttps://goalio.be/fr/match/kort
+ rijk-kv-mechelen-2026-11-04/
+URL:https://goalio.be/fr/match/kortrijk-kv-mechelen-2026-11-04/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-822173f9a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T150000Z
+DTEND:20261108T164500Z
+SUMMARY:Gent 1-0 Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/gen
+ t-kortrijk-2026-11-08/
+URL:https://goalio.be/fr/match/gent-kortrijk-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b39fced9ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T150000Z
+DTEND:20261122T164500Z
+SUMMARY:Kortrijk 0-1 Union Saint-Gilloise
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/kor
+ trijk-union-st-gilloise-2026-11-22/
+URL:https://goalio.be/fr/match/kortrijk-union-st-gilloise-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c9f61c4aa0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261127T194500Z
+DTEND:20261127T213000Z
+SUMMARY:OH Leuven 2-2 Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/oh-
+ leuven-kortrijk-2026-11-27/
+URL:https://goalio.be/fr/match/oh-leuven-kortrijk-2026-11-27/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66bb6f6eb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T150000Z
+DTEND:20261212T164500Z
+SUMMARY:Kortrijk – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c27398ab3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T150000Z
+DTEND:20261220T164500Z
+SUMMARY:Sint-Truiden – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7d31624ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164500Z
+SUMMARY:Kortrijk – Cercle Brugge
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cc5b55926f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T194500Z
+DTEND:20270116T213000Z
+SUMMARY:KVC Westerlo – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cbbb6a7071@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Kortrijk – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d418d52d93@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:SK Beveren – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03326adbcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Kortrijk – RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-166505fbaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Antwerp – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba38a18d21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Kortrijk – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb1f1b05f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:Lommel United – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba98f89a99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:KV Mechelen – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37af9cbf56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Kortrijk – OH Leuven
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cda278a735@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:Zulte Waregem – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac769aaf33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Kortrijk – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-049b6ed318@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Kortrijk – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4c53a52df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Cercle Brugge – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-141657fb2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Kortrijk – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6203cd7945@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Union Saint-Gilloise – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc836778e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:Kortrijk – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-121ce79c4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Charleroi – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a85a56fd64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:Kortrijk – Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/ko
+ rtrijk/
+URL:https://goalio.be/fr/equipe/kortrijk/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

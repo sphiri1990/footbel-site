@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Grün-Weib Amel B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f20f4faef9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:K. FC Grün-Weib Amel B 8-2 R. Ent. Lambermont-Rechain B
+DESCRIPTION:4e provinciale Liège G\nJournée 11\nhttps://goalio.be/fr/matc
+ h/k-fc-grun-weib-amel-b-r-ent-lambermont-rechain-b-2026-10-31/
+URL:https://goalio.be/fr/match/k-fc-grun-weib-amel-b-r-ent-lambermont-recha
+ in-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b69115746@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261105T190000Z
+DTEND:20261105T204500Z
+SUMMARY:R.F.C. De Goe 1-2 K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-f-c-de-goe-k-fc-grun-weib-amel-b-2026-11-05/
+URL:https://goalio.be/fr/match/r-f-c-de-goe-k-fc-grun-weib-amel-b-2026-11-0
+ 5/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3550e5f4b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:K. FC Grün-Weib Amel B 2-2 R. Spa F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 13\nhttps://goalio.be/fr/matc
+ h/k-fc-grun-weib-amel-b-r-spa-f-c-2026-11-14/
+URL:https://goalio.be/fr/match/k-fc-grun-weib-amel-b-r-spa-f-c-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdc7a0f116@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – R. Baelen F.C.
+DESCRIPTION:4e provinciale Liège G\nJournée 15\nhttps://goalio.be/fr/matc
+ h/k-fc-grun-weib-amel-b-r-baelen-f-c-2026-11-28/
+URL:https://goalio.be/fr/match/k-fc-grun-weib-amel-b-r-baelen-f-c-2026-11-2
+ 8/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6fc2267a94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – R.C.S. Stavelotain B
+DESCRIPTION:4e provinciale Liège G\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1e8b6bb730@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:T.W. Waimes Faymonville – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2a5a77653@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – S.R. UN Verviers B
+DESCRIPTION:4e provinciale Liège G\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-056a9da3ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Honsfelder S.V. B – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-09a9ad6db3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – FC Ster-Francorchamps
+DESCRIPTION:4e provinciale Liège G\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa20a4f81c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C.E. Stembertoise – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-100e76e8c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – F.C. 1912 Raeren-Eynatten
+DESCRIPTION:4e provinciale Liège G\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d5d0fc75f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T131500Z
+DTEND:20270228T150000Z
+SUMMARY:Alliance Des Hautes Fagnes – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aea90b134e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:K. FC Grün-Weib Amel B – R.C.S. Jalhaytois
+DESCRIPTION:4e provinciale Liège G\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bcf3b0ce72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Ent. Lambermont-Rechain B – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5539e31f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:K. FC Grün-Weib Amel B – R.F.C. De Goe
+DESCRIPTION:4e provinciale Liège G\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b528fa08e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R. Spa F.C. – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b121846b64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R. Baelen F.C. – K. FC Grün-Weib Amel B
+DESCRIPTION:4e provinciale Liège G\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/k-fc-grun-weib-amel-b/
+URL:https://goalio.be/fr/equipe/k-fc-grun-weib-amel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Lindbergh Club Givry · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-ha
+ inaut/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-10689c382f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Lindbergh Club Givry 1-3 US Centre Haine-Saint-Pierre
+DESCRIPTION:4e provinciale Hainaut D\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-lindbergh-club-givry-4-prov-d-hainaut-us-centre-haine-saint-pierre-20
+ 26-11-01/
+URL:https://goalio.be/fr/match/r-lindbergh-club-givry-4-prov-d-hainaut-us-c
+ entre-haine-saint-pierre-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2271d9267@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Peronnes 3-0 R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/f-c-peronnes-r-lindbergh-club-givry-4-prov-d-hainaut-2026-11-08/
+URL:https://goalio.be/fr/match/f-c-peronnes-r-lindbergh-club-givry-4-prov-d
+ -hainaut-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c5166ec21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Lindbergh Club Givry 1-3 R.F.C. Ecaussinnois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-lindbergh-club-givry-4-prov-d-hainaut-r-f-c-ecaussinnois-4-prov-d-hai
+ naut-2026-11-15/
+URL:https://goalio.be/fr/match/r-lindbergh-club-givry-4-prov-d-hainaut-r-f-
+ c-ecaussinnois-4-prov-d-hainaut-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0df119006b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Trazegnies Sports – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/trazegnies-sports-r-lindbergh-club-givry-4-prov-d-hainaut-2026-11-22/
+URL:https://goalio.be/fr/match/trazegnies-sports-r-lindbergh-club-givry-4-p
+ rov-d-hainaut-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1659f46a42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Lindbergh Club Givry – Olympique Club Ghlin
+DESCRIPTION:4e provinciale Hainaut D\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/r-lindbergh-club-givry-4-prov-d-hainaut-olympique-club-ghlin-4-prov-d-h
+ ainaut-2026-11-29/
+URL:https://goalio.be/fr/match/r-lindbergh-club-givry-4-prov-d-hainaut-olym
+ pique-club-ghlin-4-prov-d-hainaut-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10f1e7f851@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Lindbergh Club Givry – FC Snef
+DESCRIPTION:4e provinciale Hainaut D\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a4630ad72@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Union Entité Estinnoise – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fcb5a02d3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Lindbergh Club Givry – R.S.C. Naastois
+DESCRIPTION:4e provinciale Hainaut D\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db2697e96c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.F.C.E. Maurage – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5c7261411@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Lindbergh Club Givry – R.A.S. Ghlinoise
+DESCRIPTION:4e provinciale Hainaut D\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6eb91be24b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:A.S. Morlanwelz – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17a034ea84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Lindbergh Club Givry – R. Soignies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e8555f4e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T140000Z
+DTEND:20270227T154500Z
+SUMMARY:Athl. Club Le Roeulx – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1ec662a7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Lindbergh Club Givry – Club Olympic Trivières
+DESCRIPTION:4e provinciale Hainaut D\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7762bf0dde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:US Centre Haine-Saint-Pierre – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-374391f4a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Lindbergh Club Givry – F.C. Peronnes
+DESCRIPTION:4e provinciale Hainaut D\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-daf66d068f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Ecaussinnois – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e607bb77f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Lindbergh Club Givry – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut D\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-febbc2bade@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Olympique Club Ghlin – R. Lindbergh Club Givry
+DESCRIPTION:4e provinciale Hainaut D\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+URL:https://goalio.be/fr/equipe/r-lindbergh-club-givry-4-prov-d-hainaut/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

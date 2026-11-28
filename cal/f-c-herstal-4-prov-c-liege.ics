@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Herstal · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d0e3e5f0af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Herstal 4-0 Entente Sportive Tilleur
+DESCRIPTION:4e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/f-c-herstal-4-prov-c-liege-entente-sportive-tilleur-4-prov-c-liege-2026-
+ 11-01/
+URL:https://goalio.be/fr/match/f-c-herstal-4-prov-c-liege-entente-sportive-
+ tilleur-4-prov-c-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fa901b495f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:F.C. Ans B 2-3 F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/f-c-ans-b-f-c-herstal-4-prov-c-liege-2026-11-07/
+URL:https://goalio.be/fr/match/f-c-ans-b-f-c-herstal-4-prov-c-liege-2026-11
+ -07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fe6a7e8099@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. Herstal 4-2 Engis Football Club
+DESCRIPTION:4e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/f-c-herstal-4-prov-c-liege-engis-football-club-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-herstal-4-prov-c-liege-engis-football-cl
+ ub-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7394246222@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Jsn Alleur – F.C. Herstal (remis)
+DESCRIPTION:4e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/jsn-alleur-f-c-herstal-4-prov-c-liege-2026-11-22/
+URL:https://goalio.be/fr/match/jsn-alleur-f-c-herstal-4-prov-c-liege-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6a09a41eda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Herstal – Cité Sports Grâce-Hollogne
+DESCRIPTION:4e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-herstal-4-prov-c-liege-cite-sports-grace-hollogne-4-prov-c-liege-202
+ 6-11-29/
+URL:https://goalio.be/fr/match/f-c-herstal-4-prov-c-liege-cite-sports-grace
+ -hollogne-4-prov-c-liege-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cee176a03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:F.C. Herstal – J.S. du Thier-à-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e8e53fc048@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Illyrian Blegny B – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86d4b5b6b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:F.C. Herstal – MS Herstal Milmort B
+DESCRIPTION:4e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bc4999c9c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:J.S. Pierreuse – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5206e0f5a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Les Oranges de Liège – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8cf53eaed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Herstal – R. Daring Club de Cointe-Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-181f7837ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Cfc Pontisse Herstal – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1bbd1ed6ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Herstal – FC Rapide Liège
+DESCRIPTION:4e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49c81daed3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Herstal – R.U.S. Montagnarde
+DESCRIPTION:4e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a586a5f8c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Entente Sportive Tilleur – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec2c7e30fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. Herstal – F.C. Ans B
+DESCRIPTION:4e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-65351c3a01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T140000Z
+DTEND:20270411T154500Z
+SUMMARY:Engis Football Club – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b991aeb26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Herstal – Jsn Alleur
+DESCRIPTION:4e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a55ec73fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Cité Sports Grâce-Hollogne – F.C. Herstal
+DESCRIPTION:4e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-herstal-4-prov-c-liege/
+URL:https://goalio.be/fr/equipe/f-c-herstal-4-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

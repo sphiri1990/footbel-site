@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ES Couvin-Mariemb Fraire A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-14532c7cd6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RFC Bioul 81 B 9-0 ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 11\nhttps://goalio.be/fr/match
+ /rfc-bioul-81-b-es-couvin-mariemb-fraire-a-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-bioul-81-b-es-couvin-mariemb-fraire-a-20
+ 26-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ea98a614f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Mesnilois 4-1 ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 12\nhttps://goalio.be/fr/match
+ /fc-mesnilois-es-couvin-mariemb-fraire-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-mesnilois-es-couvin-mariemb-fraire-a-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fee571d2a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – JS Falisolle-Aisemont B (remis)
+DESCRIPTION:4e provinciale Namur A\nJournée 13\nhttps://goalio.be/fr/match
+ /es-couvin-mariemb-fraire-a-js-falisolle-aisemont-b-2026-11-21/
+URL:https://goalio.be/fr/match/es-couvin-mariemb-fraire-a-js-falisolle-aise
+ mont-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18e6b7253a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RFC Somzée B – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 14\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7815b2fe64@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – R Ham FC B
+DESCRIPTION:4e provinciale Namur A\nJournée 15\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf41cc9f1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Espoir Sportif Fraire B – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 16\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5f9134392@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – R.C.S. Florennois
+DESCRIPTION:4e provinciale Namur A\nJournée 17\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-502cbe7059@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:Celtic Denée Foot – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 18\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ddbc7489e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – A.S. Clermont
+DESCRIPTION:4e provinciale Namur A\nJournée 19\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8c80b3b76a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:U St-Gérard B – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 21\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d2f90e4f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – FCE Tarciennois B
+DESCRIPTION:4e provinciale Namur A\nJournée 22\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2194219b0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:US Auvelais A – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 23\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f13de80098@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – RFC Bioul 81 B
+DESCRIPTION:4e provinciale Namur A\nJournée 24\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cb7b4d847@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:JS Falisolle-Aisemont B – ES Couvin-Mariemb Fraire A
+DESCRIPTION:4e provinciale Namur A\nJournée 25\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5b2794539@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:ES Couvin-Mariemb Fraire A – FC Mesnilois
+DESCRIPTION:4e provinciale Namur A\nJournée 26\nhttps://goalio.be/fr/equip
+ e/es-couvin-mariemb-fraire-a/
+URL:https://goalio.be/fr/equipe/es-couvin-mariemb-fraire-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

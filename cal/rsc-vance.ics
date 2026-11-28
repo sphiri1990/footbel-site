@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSC Vance · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rsc-vance/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3c7f41530b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RSC Vance 2-1 RES Aubange
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/rsc-vance-res-aubange-2026-11-01/
+URL:https://goalio.be/fr/match/rsc-vance-res-aubange-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56738fe1e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RSC Vance 6-0 RCS Halanzy
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/rsc-vance-rcs-halanzy-2026-11-08/
+URL:https://goalio.be/fr/match/rsc-vance-rcs-halanzy-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a8dd06438@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Excelsior Virton B 3-0 RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/r-excelsior-virton-b-rsc-vance-2026-11-15/
+URL:https://goalio.be/fr/match/r-excelsior-virton-b-rsc-vance-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3afcfd4768@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:RSC Vance – RAC Saint-Mard A (remis)
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/rsc-vance-rac-saint-mard-a-2026-11-22/
+URL:https://goalio.be/fr/match/rsc-vance-rac-saint-mard-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebe2f66b7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Exc. Fouches – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/r-exc-fouches-rsc-vance-2026-11-29/
+URL:https://goalio.be/fr/match/r-exc-fouches-rsc-vance-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9916a3bb5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R. Jeunesse Autelbas – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-897911fd79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RSC Vance – ROC Meix-Dt-Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b625db3b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Esp. Rossignol – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75c8e9daba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RSC Vance – AS Gérouville
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26c48c313d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:US Martelangeoise – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4ffe14427@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RSC Vance – Ass. Sp. Nothomb-Post B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-067d6f9413@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RJS Habaysienne – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6e307d8d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RSC Vance – RFC Messancy B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0b2c281e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RES Aubange – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ecbbade4dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Halanzy – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-416c9f1076@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RSC Vance – R. Excelsior Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/rsc-vance/
+URL:https://goalio.be/fr/equipe/rsc-vance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RFC Saint-Michel B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-63e064a565@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:RFC Saint-Michel B 0-2 AS Brussels City A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 10\nhttps:/
+ /goalio.be/fr/match/rfc-saint-michel-b-as-brussels-city-a-2026-11-01/
+URL:https://goalio.be/fr/match/rfc-saint-michel-b-as-brussels-city-a-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d7ef15fc3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Crossing Schaerbeek B 2-1 RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 11\nhttps:/
+ /goalio.be/fr/match/crossing-schaerbeek-b-rfc-saint-michel-b-2026-11-08/
+URL:https://goalio.be/fr/match/crossing-schaerbeek-b-rfc-saint-michel-b-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1235240d8e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T140000Z
+DTEND:20261111T154500Z
+SUMMARY:Aca. Jeun. Molenbeek A 0-0 RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 12\nhttps:/
+ /goalio.be/fr/match/aca-jeun-molenbeek-a-rfc-saint-michel-b-2026-11-11/
+URL:https://goalio.be/fr/match/aca-jeun-molenbeek-a-rfc-saint-michel-b-2026
+ -11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b642858ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:RFC Saint-Michel B 3-3 Sporting Bruxelles B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 13\nhttps:/
+ /goalio.be/fr/match/rfc-saint-michel-b-sporting-bruxelles-b-2026-11-15/
+URL:https://goalio.be/fr/match/rfc-saint-michel-b-sporting-bruxelles-b-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2231d0f6d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Olympique Club Forestois A 0-2 RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 14\nhttps:/
+ /goalio.be/fr/match/olympique-club-forestois-a-rfc-saint-michel-b-2026-11-
+ 22/
+URL:https://goalio.be/fr/match/olympique-club-forestois-a-rfc-saint-michel-
+ b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cf15447655@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:RFC Saint-Michel B – Ren. Sp. Forestoise
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 15\nhttps:/
+ /goalio.be/fr/match/rfc-saint-michel-b-ren-sp-forestoise-2026-11-29/
+URL:https://goalio.be/fr/match/rfc-saint-michel-b-ren-sp-forestoise-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd8b140a7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RFC Saint-Michel B – Racing White Woluwe
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 16\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2ffdfee7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:FC M. Uccle A – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 17\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7497a89554@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:RFC Saint-Michel B – A.S.A. Molenbeek A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 18\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-318e59d91e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:RSC Ixelles – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 19\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bdaa2cc2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RFC Saint-Michel B – Aca. Jeun. Molenbeek A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 20\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6209461650@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RRC Etterbeek B – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 21\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18916b9bf5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:RFC Saint-Michel B – FC. Forest
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 22\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e9e39042e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Berchem Brussels FC A – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 23\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6df3a3c89b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RFC Saint-Michel B – FC Amicii Bxl Jette
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 24\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a234420568@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:FC Saint-Josse – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 25\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-740ca725c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:AS Brussels City A – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 26\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db6965fd97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:RFC Saint-Michel B – Crossing Schaerbeek B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 27\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff79d53911@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Sporting Bruxelles B – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 28\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6c724b0ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RFC Saint-Michel B – Olympique Club Forestois A
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 29\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8bf848f38d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Ren. Sp. Forestoise – RFC Saint-Michel B
+DESCRIPTION:2e provinciale Brabant wallon-Bruxelles A\nJournée 30\nhttps:/
+ /goalio.be/fr/equipe/rfc-saint-michel-b/
+URL:https://goalio.be/fr/equipe/rfc-saint-michel-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

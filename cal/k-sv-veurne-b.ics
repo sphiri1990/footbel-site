@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. SV Veurne B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d0c3577b0e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T160000Z
+DTEND:20261031T174500Z
+SUMMARY:FC Beaufort Middelkerke B 5-2 K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fc-beaufort-middelkerke-b-k-sv-veurne-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/fc-beaufort-middelkerke-b-k-sv-veurne-b-
+ 2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff9fe5c4a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:K. SV Veurne B 2-3 Merkem Sp.
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-veurne-b-merkem-sp-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-sv-veurne-b-merkem-sp-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2f3cf1ba2a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:SK Westrozebeke 1-4 K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/sk-westrozebeke-k-sv-veurne-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/sk-westrozebeke-k-sv-veurne-b-2026-11-14
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0ddc7966f3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:K. RC De Panne 1-1 K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/k-rc-de-panne-k-sv-veurne-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/k-rc-de-panne-k-sv-veurne-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66d6c0b3e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:K. SV Veurne B – KV Koksijde Oostduinkerke B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-veurne-b-kv-koksijde-oostduinkerke-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-sv-veurne-b-kv-koksijde-oostduinkerke-
+ b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-763c0ab3de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K. Brielen Sport – K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac44059448@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:K. SV Veurne B – E. Jonkershove
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23a95a5791@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:K. SV Veurne B – FC Beaufort Middelkerke B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9acf30bc59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:Merkem Sp. – K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-108e81d306@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:K. SV Veurne B – K. RC De Panne
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e1d8c514@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:K. WS Houthulst B – K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6720b7eb71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T180000Z
+DTEND:20270220T194500Z
+SUMMARY:K. SV Veurne B – K.S.K. Oostnieuwkerke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-343d0ef46a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KV Koksijde Oostduinkerke B – K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04dfc69a98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:K. SV Veurne B – SK Westrozebeke
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3325f8db9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:K. SV Veurne B – J.V. Lo-Reninge
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-662ab11f9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:SK Elverdinge – K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af56a13f52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:K. SV Veurne B – WS Bulskamp
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fce64a849@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Nieuwkapelle – K. SV Veurne B
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b857c1962@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K. SV Veurne B – K. Brielen Sport
+DESCRIPTION:4e provinciale West-Vlaanderen A\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/k-sv-veurne-b/
+URL:https://goalio.be/nl/ploeg/k-sv-veurne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

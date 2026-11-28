@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.V.V. Zelzate · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9bdcee3092@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:K. Lyra-Lierse 1-2 K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/k-lyra-liers
+ e-k-v-v-zelzate-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/k-lyra-lierse-k-v-v-zelzate-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3a0eaf9935@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Racing Club Harelbeke 1-4 K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/racing-club-
+ harelbeke-k-v-v-zelzate-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/racing-club-harelbeke-k-v-v-zelzate-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f28629145@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:K.V.V. Zelzate 1-2 Belisia Bilzen SV
+DESCRIPTION:D1 VV\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/k-v-v-zelzat
+ e-belisia-bilzen-sv-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-zelzate-belisia-bilzen-sv-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a74df6d1fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Kvk Tienen 1-2 K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/kvk-tienen-k
+ -v-v-zelzate-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/kvk-tienen-k-v-v-zelzate-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8e80579f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:K.V.V. Zelzate – K.F.C. Dessel Sport
+DESCRIPTION:D1 VV\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/k-v-v-zelzat
+ e-k-f-c-dessel-sport-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-zelzate-k-f-c-dessel-sport-2026-11
+ -29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37397bb42e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:K.F.C. Merelbeke – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-deb31e526d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K.V.V. Zelzate – Cercle Brugge K.S.V.
+DESCRIPTION:D1 VV\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22659d5ae8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:Hoogstraten V.V. – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76082e7c0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:K.V.V. Zelzate – K.V.V. Thes Sport Tessenderlo
+DESCRIPTION:D1 VV\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60b6301a39@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Sportkring Roeselare – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d0cd93e25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:K.V.V. Zelzate – Kvk Tienen
+DESCRIPTION:D1 VV\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5d2a2f41c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:K.F.C. Houtvenne – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fca2b3e658@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270219T190000Z
+DTEND:20270219T204500Z
+SUMMARY:K.V.V. Zelzate – K.F.C. Merelbeke
+DESCRIPTION:D1 VV\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7bc23d3f74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. Knokke F.C. – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-378ecc12a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K.V.V. Zelzate – Oud-Heverlee Leuven
+DESCRIPTION:D1 VV\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebef8b4ec1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:K.V.V. Zelzate – F.C. Mandel United Izegem
+DESCRIPTION:D1 VV\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d874be9fc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:K.F.C. Dessel Sport – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc74d79227@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:K.V.V. Zelzate – K. Lyra-Lierse
+DESCRIPTION:D1 VV\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13906c9fbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:K. Sk. Heist – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e73a5abd51@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.V.V. Zelzate – Racing Club Harelbeke
+DESCRIPTION:D1 VV\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-30fbc14ede@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Belisia Bilzen SV – K.V.V. Zelzate
+DESCRIPTION:D1 VV\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/k-v-v-zelzate/
+URL:https://goalio.be/nl/ploeg/k-v-v-zelzate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

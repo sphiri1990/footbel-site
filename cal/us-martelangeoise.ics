@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Martelangeoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/us-martelangeoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-2983916a44@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:RAC Saint-Mard A 2-2 US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 11\nhttps://goalio.be/fr/
+ match/rac-saint-mard-a-us-martelangeoise-2026-11-01/
+URL:https://goalio.be/fr/match/rac-saint-mard-a-us-martelangeoise-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fe34a8ec2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:US Martelangeoise 5-0 ROC Meix-Dt-Virton B
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 12\nhttps://goalio.be/fr/
+ match/us-martelangeoise-roc-meix-dt-virton-b-2026-11-08/
+URL:https://goalio.be/fr/match/us-martelangeoise-roc-meix-dt-virton-b-2026-
+ 11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a0835beaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:AS Gérouville 0-8 US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 13\nhttps://goalio.be/fr/
+ match/as-gerouville-us-martelangeoise-2026-11-15/
+URL:https://goalio.be/fr/match/as-gerouville-us-martelangeoise-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6db8867902@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:US Martelangeoise – RFC Messancy B (remis)
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 14\nhttps://goalio.be/fr/
+ match/us-martelangeoise-rfc-messancy-b-2026-11-22/
+URL:https://goalio.be/fr/match/us-martelangeoise-rfc-messancy-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5f0259a19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:Ass. Sp. Nothomb-Post B – US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 15\nhttps://goalio.be/fr/
+ match/ass-sp-nothomb-post-b-us-martelangeoise-2026-11-28/
+URL:https://goalio.be/fr/match/ass-sp-nothomb-post-b-us-martelangeoise-2026
+ -11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89bcee0179@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:RCS Halanzy – US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 16\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42742f7dad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:US Martelangeoise – R. Exc. Fouches
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 17\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0135a9c2eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R. Jeunesse Autelbas – US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 18\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5fee00ec84@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:US Martelangeoise – R. Esp. Rossignol
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 19\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26c48c313d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:US Martelangeoise – RSC Vance
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 20\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-92c06157d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RJS Habaysienne – US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 21\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-53bc94387d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:US Martelangeoise – RES Aubange
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 22\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a58c1eba24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:R. Excelsior Virton B – US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 23\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b59b22c09e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:US Martelangeoise – RAC Saint-Mard A
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 24\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a391f53c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:ROC Meix-Dt-Virton B – US Martelangeoise
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 25\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66fc8d4570@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US Martelangeoise – AS Gérouville
+DESCRIPTION:2e provinciale Luxembourg A\nJournée 26\nhttps://goalio.be/fr/
+ equipe/us-martelangeoise/
+URL:https://goalio.be/fr/equipe/us-martelangeoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bracquegnies Sp A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-8ce5c58820@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:U.S. Neufvilles A 0-5 Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/u-s-neufvilles-a-bracquegnies-sp-a-2026-10-31/
+URL:https://goalio.be/fr/match/u-s-neufvilles-a-bracquegnies-sp-a-2026-10-3
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0b30b433ca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:Bracquegnies Sp A 7-0 R. SP B. Frameries A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/bracquegnies-sp-a-r-sp-b-frameries-a-2026-11-08/
+URL:https://goalio.be/fr/match/bracquegnies-sp-a-r-sp-b-frameries-a-2026-11
+ -08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a72a2fb33e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:F.C. Snef A 0-3 Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/f-c-snef-a-bracquegnies-sp-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-snef-a-bracquegnies-sp-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dfb1470bdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Bracquegnies Sp A – U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/bracquegnies-sp-a-u-e-estinnoise-a-2026-11-22/
+URL:https://goalio.be/fr/match/bracquegnies-sp-a-u-e-estinnoise-a-2026-11-2
+ 2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-83c564cba1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Quévy Genly A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/fc-quevy-genly-a-bracquegnies-sp-a-2026-11-29/
+URL:https://goalio.be/fr/match/fc-quevy-genly-a-bracquegnies-sp-a-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15620a6bec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8765bcf29d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Bracquegnies Sp A – R.S.C. Paturageois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b1bf99a1f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Bracquegnies Sp A – Athènes Haine-Saint-Pierre
+DESCRIPTION:2e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc4667b1f2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.A.F.C. Cuesmes A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a45d982ab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Bracquegnies Sp A – Renaissance FC Carnières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fa78f6f70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.A.E.C. Mons B – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d543e1ee9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Bracquegnies Sp A – C. Ol. Trivières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-729aa33612@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Casteau A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-124eebf3cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T140000Z
+DTEND:20270227T154500Z
+SUMMARY:Bracquegnies Sp A – F.C. AEDEC-Hyon
+DESCRIPTION:2e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fbf3794996@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.L.C. Mesvinois A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e502b01ecf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Bracquegnies Sp A – U.S. Neufvilles A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b55f0cfdbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T170000Z
+DTEND:20270403T184500Z
+SUMMARY:R. SP B. Frameries A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5690b5f063@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Bracquegnies Sp A – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd85a73a0b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U.E. Estinnoise A – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d675fa61ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Bracquegnies Sp A – FC Quévy Genly A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/bracquegnies-sp-a/
+URL:https://goalio.be/fr/equipe/bracquegnies-sp-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

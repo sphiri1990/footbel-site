@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U. St-Ghisl. Tertre-Hautr. A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ddfb5e1987@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A 1-1 Union Namur A
+DESCRIPTION:D2 FFA\nJournée 11\nhttps://goalio.be/fr/match/u-st-ghisl-tert
+ re-hautr-a-union-namur-a-2026-11-01/
+URL:https://goalio.be/fr/match/u-st-ghisl-tertre-hautr-a-union-namur-a-2026
+ -11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0047e33a00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:RSD Jette A 2-2 U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 12\nhttps://goalio.be/fr/match/rsd-jette-a-u-s
+ t-ghisl-tertre-hautr-a-2026-11-08/
+URL:https://goalio.be/fr/match/rsd-jette-a-u-st-ghisl-tertre-hautr-a-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-992b9506f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A 4-4 CS Pays Vert Ostiches-Ath A
+DESCRIPTION:D2 FFA\nJournée 13\nhttps://goalio.be/fr/match/u-st-ghisl-tert
+ re-hautr-a-cs-pays-vert-ostiches-ath-a-2026-11-15/
+URL:https://goalio.be/fr/match/u-st-ghisl-tertre-hautr-a-cs-pays-vert-ostic
+ hes-ath-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76fa2fbb4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Crossing Schaerbeek 4-2 U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 14\nhttps://goalio.be/fr/match/crossing-schaer
+ beek-d2-ffa-u-st-ghisl-tertre-hautr-a-2026-11-22/
+URL:https://goalio.be/fr/match/crossing-schaerbeek-d2-ffa-u-st-ghisl-tertre
+ -hautr-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c537fed541@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Entente Acren Lessines – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 15\nhttps://goalio.be/fr/match/entente-acren-l
+ essines-u-st-ghisl-tertre-hautr-a-2026-11-29/
+URL:https://goalio.be/fr/match/entente-acren-lessines-u-st-ghisl-tertre-hau
+ tr-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c365045a98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – K.A.S. Eupen B
+DESCRIPTION:D2 FFA\nJournée 16\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2ef82944de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:R.U.S. Binche – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 17\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8531f7eac4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:SB Stade Mouscronnois A – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 18\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-373796416a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – RFC Un. La Calamine
+DESCRIPTION:D2 FFA\nJournée 19\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1656c12e2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Aywaille F.C. A – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 20\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad46604cf6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – C.S. Entité Manageoise
+DESCRIPTION:D2 FFA\nJournée 21\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1cbceb9f1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Ganshoren – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 22\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34de54980f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – F.C. UN Richelle A
+DESCRIPTION:D2 FFA\nJournée 23\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6fbd00013@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:Royale Union Hutoise – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 24\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7b5559b54b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – Stade Vervietois
+DESCRIPTION:D2 FFA\nJournée 25\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b42310166@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Royal Stockay Saint-Georges S/M – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 26\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15ae8b6149@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – RCS Brainois A
+DESCRIPTION:D2 FFA\nJournée 27\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02876e8acd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T133000Z
+DTEND:20270314T151500Z
+SUMMARY:Union Namur A – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 28\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75783caa32@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – RSD Jette A
+DESCRIPTION:D2 FFA\nJournée 29\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c58041e683@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270327T190000Z
+DTEND:20270327T204500Z
+SUMMARY:CS Pays Vert Ostiches-Ath A – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 30\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b36468212@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – Crossing Schaerbeek
+DESCRIPTION:D2 FFA\nJournée 31\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-800be6d26b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – Entente Acren Lessines
+DESCRIPTION:D2 FFA\nJournée 32\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61bd241a3b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K.A.S. Eupen B – U. St-Ghisl. Tertre-Hautr. A
+DESCRIPTION:D2 FFA\nJournée 33\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5bda69c9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. A – R.U.S. Binche
+DESCRIPTION:D2 FFA\nJournée 34\nhttps://goalio.be/fr/equipe/u-st-ghisl-ter
+ tre-hautr-a/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

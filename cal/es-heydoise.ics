@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ES Heydoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/es-heydoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-511db28c55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:UF Waha-Marche 1-5 ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 12\nhttps://goalio.be/fr/
+ match/uf-waha-marche-es-heydoise-2026-11-07/
+URL:https://goalio.be/fr/match/uf-waha-marche-es-heydoise-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8eb87a61c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:ES Heydoise 2-2 R.C.S. De La Salm
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 13\nhttps://goalio.be/fr/
+ match/es-heydoise-r-c-s-de-la-salm-2026-11-14/
+URL:https://goalio.be/fr/match/es-heydoise-r-c-s-de-la-salm-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a523a8ca7b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RES Melreux-Hotton B – ES Heydoise (remis)
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 14\nhttps://goalio.be/fr/
+ match/res-melreux-hotton-b-es-heydoise-2026-11-21/
+URL:https://goalio.be/fr/match/res-melreux-hotton-b-es-heydoise-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8624485bb5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:ES Heydoise – ES Harre-Manhay B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 15\nhttps://goalio.be/fr/
+ match/es-heydoise-es-harre-manhay-b-2026-11-28/
+URL:https://goalio.be/fr/match/es-heydoise-es-harre-manhay-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdbe5aaf4a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:ES Heydoise – CS Odeigne
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 16\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f37ba5b00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:FC Montleban – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 17\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5392ddbec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:ES Heydoise – FC Petit-Han A
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 18\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e9982c601@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:US Halthier B – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 19\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ad85a3faae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:ES Heydoise – RJR Aye FC B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 20\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a774fa0c17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:RFC Houmartois – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 21\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-28e12f2992@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:ES Heydoise – RSC Rendeux
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 22\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ddd625c58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T163000Z
+DTEND:20270403T181500Z
+SUMMARY:RE Roy-Lignières-Grimbiemont B – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 23\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77495499b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:ES Heydoise – UF Waha-Marche
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 25\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a94ab63b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.C.S. De La Salm – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 26\nhttps://goalio.be/fr/
+ equipe/es-heydoise/
+URL:https://goalio.be/fr/equipe/es-heydoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

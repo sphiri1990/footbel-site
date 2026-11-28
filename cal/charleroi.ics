@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Charleroi · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/charleroi/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-15f3cae2e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T181500Z
+DTEND:20261101T200000Z
+SUMMARY:Charleroi 5-2 RAAL La Louvière
+DESCRIPTION:Jupiler Pro League\nJournée 10\nhttps://goalio.be/fr/match/cha
+ rleroi-raal-la-louviere-2026-11-01/
+URL:https://goalio.be/fr/match/charleroi-raal-la-louviere-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-52f2a95389@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T150000Z
+DTEND:20261107T164500Z
+SUMMARY:KVC Westerlo 1-5 Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 11\nhttps://goalio.be/fr/match/kvc
+ -westerlo-charleroi-2026-11-07/
+URL:https://goalio.be/fr/match/kvc-westerlo-charleroi-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-73b83590f1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T164500Z
+SUMMARY:Charleroi 2-2 Sint-Truiden
+DESCRIPTION:Jupiler Pro League\nJournée 12\nhttps://goalio.be/fr/match/cha
+ rleroi-st-truiden-2026-11-21/
+URL:https://goalio.be/fr/match/charleroi-st-truiden-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-105f5ca97e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T194500Z
+DTEND:20261128T213000Z
+SUMMARY:Charleroi – SK Beveren
+DESCRIPTION:Jupiler Pro League\nJournée 13\nhttps://goalio.be/fr/match/cha
+ rleroi-sk-beveren-2026-11-28/
+URL:https://goalio.be/fr/match/charleroi-sk-beveren-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-628dfd4526@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T123000Z
+DTEND:20261213T141500Z
+SUMMARY:Anderlecht – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 14\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5370c06b97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T194500Z
+DTEND:20261219T213000Z
+SUMMARY:Charleroi – Genk
+DESCRIPTION:Jupiler Pro League\nJournée 15\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acc84a0973@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261226T123000Z
+DTEND:20261226T141500Z
+SUMMARY:Club Brugge KV – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 16\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-978bbc3b99@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T173000Z
+DTEND:20270117T191500Z
+SUMMARY:Charleroi – Gent
+DESCRIPTION:Jupiler Pro League\nJournée 17\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-740d9d6a88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T174500Z
+SUMMARY:Charleroi – Antwerp
+DESCRIPTION:Jupiler Pro League\nJournée 18\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4b2a86c722@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T160000Z
+DTEND:20270130T174500Z
+SUMMARY:RAAL La Louvière – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 19\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e9bd89b05@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T174500Z
+SUMMARY:Charleroi – KVC Westerlo
+DESCRIPTION:Jupiler Pro League\nJournée 20\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b1a95b8785@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T160000Z
+DTEND:20270213T174500Z
+SUMMARY:Cercle Brugge – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 21\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bb5455096@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T160000Z
+DTEND:20270220T174500Z
+SUMMARY:Charleroi – Standard Liège
+DESCRIPTION:Jupiler Pro League\nJournée 22\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e95cab3b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T160000Z
+DTEND:20270227T174500Z
+SUMMARY:SK Beveren – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 23\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d3ba2f4cd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T160000Z
+DTEND:20270306T174500Z
+SUMMARY:Gent – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 24\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-06bb51a1af@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T174500Z
+SUMMARY:Charleroi – Club Brugge KV
+DESCRIPTION:Jupiler Pro League\nJournée 25\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9dc878a7c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T160000Z
+DTEND:20270320T174500Z
+SUMMARY:KV Mechelen – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 26\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbaf87da7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T150000Z
+DTEND:20270403T164500Z
+SUMMARY:Charleroi – Lommel United
+DESCRIPTION:Jupiler Pro League\nJournée 27\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d95c8f239a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T150000Z
+DTEND:20270410T164500Z
+SUMMARY:Sint-Truiden – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 28\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-37787bd45d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T150000Z
+DTEND:20270417T164500Z
+SUMMARY:Charleroi – Anderlecht
+DESCRIPTION:Jupiler Pro League\nJournée 29\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c615e9189e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270424T150000Z
+DTEND:20270424T164500Z
+SUMMARY:Genk – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 30\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26d3b55de5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270501T150000Z
+DTEND:20270501T164500Z
+SUMMARY:Charleroi – Zulte Waregem
+DESCRIPTION:Jupiler Pro League\nJournée 31\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2d70f9d53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270508T150000Z
+DTEND:20270508T164500Z
+SUMMARY:OH Leuven – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 32\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-121ce79c4d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270515T150000Z
+DTEND:20270515T164500Z
+SUMMARY:Charleroi – Kortrijk
+DESCRIPTION:Jupiler Pro League\nJournée 33\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ad09cf6e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270522T150000Z
+DTEND:20270522T164500Z
+SUMMARY:Union Saint-Gilloise – Charleroi
+DESCRIPTION:Jupiler Pro League\nJournée 34\nhttps://goalio.be/fr/equipe/ch
+ arleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8689d36b6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T163000Z
+DTEND:20261205T181500Z
+SUMMARY:Charleroi – Sint-Truiden
+DESCRIPTION:Coupe de Belgique\nhttps://goalio.be/fr/equipe/charleroi/
+URL:https://goalio.be/fr/equipe/charleroi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

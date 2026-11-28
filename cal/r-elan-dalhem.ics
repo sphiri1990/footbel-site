@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Elan Dalhem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-elan-dalhem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fa99fc81ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Elan Dalhem 3-2 Ms Herstal Milmort
+DESCRIPTION:4e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-elan-dalhem-ms-herstal-milmort-2026-11-01/
+URL:https://goalio.be/fr/match/r-elan-dalhem-ms-herstal-milmort-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ae82ab22a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.U.S. Glontoise 3-1 R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-u-s-glontoise-r-elan-dalhem-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-glontoise-r-elan-dalhem-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e24b1b8db@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Elan Dalhem 4-3 R. Oupeye FC
+DESCRIPTION:4e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-elan-dalhem-r-oupeye-fc-4-prov-d-liege-2026-11-15/
+URL:https://goalio.be/fr/match/r-elan-dalhem-r-oupeye-fc-4-prov-d-liege-202
+ 6-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9aa0e3886@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:A.S. Hermalienne – R. Elan Dalhem (remis)
+DESCRIPTION:4e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/a-s-hermalienne-4-prov-d-liege-r-elan-dalhem-2026-11-22/
+URL:https://goalio.be/fr/match/a-s-hermalienne-4-prov-d-liege-r-elan-dalhem
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a58fe26377@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R. Elan Dalhem – All. Fexhe Et Slins - Fragnee
+DESCRIPTION:4e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-36dc1b020c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Croatia Wandre – R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a59984cea1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R. Elan Dalhem – R.A.S. Houtain
+DESCRIPTION:4e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0850ab0fde@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:FC Tilleur – R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a67073c9a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Royal Sporting Club De Wandre – R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-99b35c5ff5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R. Elan Dalhem – Union Roclenge-Wonck
+DESCRIPTION:4e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f3627e97e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Football Club Othee – R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5c6c00237@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Elan Dalhem – J.S. du Thier-à-Liège
+DESCRIPTION:4e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbc14d13da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Elan Dalhem – R. Avenir Fouron F.C.
+DESCRIPTION:4e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3efd37f799@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Ms Herstal Milmort – R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d32e627e3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Elan Dalhem – R.U.S. Glontoise
+DESCRIPTION:4e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9afeae49ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Oupeye FC – R. Elan Dalhem
+DESCRIPTION:4e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-eaef2140be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Elan Dalhem – A.S. Hermalienne
+DESCRIPTION:4e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-elan-dalhem/
+URL:https://goalio.be/fr/equipe/r-elan-dalhem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

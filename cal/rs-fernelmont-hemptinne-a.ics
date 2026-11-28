@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RS Fernelmont-Hemptinne A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-eb04027a4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A 3-2 CS Wépionnais A
+DESCRIPTION:2e provinciale Namur B\nJournée 11\nhttps://goalio.be/fr/match
+ /rs-fernelmont-hemptinne-a-cs-wepionnais-a-2026-10-31/
+URL:https://goalio.be/fr/match/rs-fernelmont-hemptinne-a-cs-wepionnais-a-20
+ 26-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be497437c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:RUW Ciney B 1-1 RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 12\nhttps://goalio.be/fr/match
+ /ruw-ciney-b-rs-fernelmont-hemptinne-a-2026-11-07/
+URL:https://goalio.be/fr/match/ruw-ciney-b-rs-fernelmont-hemptinne-a-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-865ca87d18@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A 1-1 RES Gesvoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 13\nhttps://goalio.be/fr/match
+ /rs-fernelmont-hemptinne-a-res-gesvoise-a-2026-11-14/
+URL:https://goalio.be/fr/match/rs-fernelmont-hemptinne-a-res-gesvoise-a-202
+ 6-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-62ed48936b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R Arquet FC B – RS Fernelmont-Hemptinne A (remis)
+DESCRIPTION:2e provinciale Namur B\nJournée 14\nhttps://goalio.be/fr/match
+ /r-arquet-fc-b-rs-fernelmont-hemptinne-a-2026-11-22/
+URL:https://goalio.be/fr/match/r-arquet-fc-b-rs-fernelmont-hemptinne-a-2026
+ -11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41bcd96fc9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A – RRC Havelange A
+DESCRIPTION:2e provinciale Namur B\nJournée 15\nhttps://goalio.be/fr/match
+ /rs-fernelmont-hemptinne-a-rrc-havelange-a-2026-11-28/
+URL:https://goalio.be/fr/match/rs-fernelmont-hemptinne-a-rrc-havelange-a-20
+ 26-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-181599d8e2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A – JS Eghezée
+DESCRIPTION:2e provinciale Namur B\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e15c7c88c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:RUS Méan A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-efe2d585d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A – J Tavietoise A
+DESCRIPTION:2e provinciale Namur B\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-295509aacb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RFC Rhisnois A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea1fa27dfb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:RS Fernelmont-Hemptinne A – RSC Oheytois A
+DESCRIPTION:2e provinciale Namur B\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-58faff8f7a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:US Emines A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af049f9ef6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A – ES Jamboise A
+DESCRIPTION:2e provinciale Namur B\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4fd140ee9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:La Jeunesse Sclaynoise – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d325880b1d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RUS Assessoise A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a63495b848@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RS Fernelmont-Hemptinne A – S Flawinne FC A
+DESCRIPTION:2e provinciale Namur B\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa85ba9aff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:CS Wépionnais A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4beff492ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:RS Fernelmont-Hemptinne A – RUW Ciney B
+DESCRIPTION:2e provinciale Namur B\nJournée 27\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-acee780ef2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RES Gesvoise A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 28\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a19ca19323@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RS Fernelmont-Hemptinne A – R Arquet FC B
+DESCRIPTION:2e provinciale Namur B\nJournée 29\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b55b51883f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RRC Havelange A – RS Fernelmont-Hemptinne A
+DESCRIPTION:2e provinciale Namur B\nJournée 30\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-a/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MD Halen · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/md-halen/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-62d032a009@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:MD Halen 3-0 FC Paal-Tervant B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/md-halen-fc-paal-tervant-b-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/md-halen-fc-paal-tervant-b-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f081821a54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Verbroedering Loksbergen 2-3 MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/verbroedering-loksbergen-md-halen-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/verbroedering-loksbergen-md-halen-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd564c412c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:MD Halen 0-1 Bolderberg FC
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/md-halen-bolderberg-fc-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/md-halen-bolderberg-fc-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59b3516fac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:Turkse FC B 0-6 MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/turkse-fc-b-md-halen-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/turkse-fc-b-md-halen-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69abf15100@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:MD Halen – K. ESK Leopoldsburg B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/md-halen-k-esk-leopoldsburg-b-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/md-halen-k-esk-leopoldsburg-b-2026-11-28
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11a11425ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:K.S.K. Meldert – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4e46cf3773@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:MD Halen – WS Linkhout B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d6f2e9148@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:Beringen F.C. – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8e4597ffef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:MD Halen – Verbroedering Loksbergen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11b382410b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:Bolderberg FC – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-614ffe2891@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:K. ESK Leopoldsburg B – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d276f5ccbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:MD Halen – HSC Beringen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0aec9a536e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T170000Z
+DTEND:20270227T184500Z
+SUMMARY:FC Paal-Tervant B – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c602dcc5e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:MD Halen – KFC Ham United
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3752566499@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T163000Z
+DTEND:20270313T181500Z
+SUMMARY:KFC Helson Helchteren B – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c843e9bdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:MD Halen – K. FC Anadol B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ddbcf6393@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:MD Halen – Turkse FC B
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0c10f9ee9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:VV Lummen B – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac8ddbf3e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:MD Halen – K.S.K. Meldert
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22c277cf61@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVV Heusden-Zolder B – MD Halen
+DESCRIPTION:4e provinciale Limburg B\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/md-halen/
+URL:https://goalio.be/nl/ploeg/md-halen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

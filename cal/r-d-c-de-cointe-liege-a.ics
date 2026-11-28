@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.D.C. de Cointe Liège A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-3a1408f154@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.F.C. Vyle-Tharoul 4-1 R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-f-c-vyle-tharoul-r-d-c-de-cointe-liege-a-2026-11-01/
+URL:https://goalio.be/fr/match/r-f-c-vyle-tharoul-r-d-c-de-cointe-liege-a-2
+ 026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a04f18bf37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.D.C. de Cointe Liège A 1-5 R.E.S. Templiers Nandrin A
+DESCRIPTION:2e provinciale Liège A\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-d-c-de-cointe-liege-a-r-e-s-templiers-nandrin-a-2026-11-07/
+URL:https://goalio.be/fr/match/r-d-c-de-cointe-liege-a-r-e-s-templiers-nand
+ rin-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20e8b5ea46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Patro Lensois A 2-2 R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 13\nhttps://goalio.be/fr/matc
+ h/patro-lensois-a-r-d-c-de-cointe-liege-a-2026-11-15/
+URL:https://goalio.be/fr/match/patro-lensois-a-r-d-c-de-cointe-liege-a-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95aff4c0b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.D.C. de Cointe Liège A – E.H. Braives (remis)
+DESCRIPTION:2e provinciale Liège A\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-d-c-de-cointe-liege-a-e-h-braives-2026-11-21/
+URL:https://goalio.be/fr/match/r-d-c-de-cointe-liege-a-e-h-braives-2026-11-
+ 21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55227f5704@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:E.S. Wanze/Bas-Oha – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 15\nhttps://goalio.be/fr/matc
+ h/e-s-wanze-bas-oha-r-d-c-de-cointe-liege-a-2026-11-29/
+URL:https://goalio.be/fr/match/e-s-wanze-bas-oha-r-d-c-de-cointe-liege-a-20
+ 26-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35a1a0141d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RFC. Jehaytois A – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fdf336900c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.D.C. de Cointe Liège A – J.S. Kemexhe Crisnee
+DESCRIPTION:2e provinciale Liège A\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20ceabcbd3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.R.C. Hamoir – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2193365d90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.D.C. de Cointe Liège A – C.S. Burdinnois
+DESCRIPTION:2e provinciale Liège A\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-54b7840e09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R.S. Waremmien FC. B – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abf22266b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.D.C. de Cointe Liège A – R.C.S. Verlaine
+DESCRIPTION:2e provinciale Liège A\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2c85c10015@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:Seraing Athl R. FC A – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8b923551cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.D.C. de Cointe Liège A – Jeunesses Oleyennes Reunies
+DESCRIPTION:2e provinciale Liège A\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79c0a82d9e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:R.D.C. de Cointe Liège A – Royale Union Hutoise B
+DESCRIPTION:2e provinciale Liège A\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-902562d2e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:C.S. Juprelle – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa90ef2678@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:R.D.C. de Cointe Liège A – R.F.C. Vyle-Tharoul
+DESCRIPTION:2e provinciale Liège A\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b77ded132d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:R.E.S. Templiers Nandrin A – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-678c27c34f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:R.D.C. de Cointe Liège A – Patro Lensois A
+DESCRIPTION:2e provinciale Liège A\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6eb84d175b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:E.H. Braives – R.D.C. de Cointe Liège A
+DESCRIPTION:2e provinciale Liège A\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab8a228217@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.D.C. de Cointe Liège A – E.S. Wanze/Bas-Oha
+DESCRIPTION:2e provinciale Liège A\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-d-c-de-cointe-liege-a/
+URL:https://goalio.be/fr/equipe/r-d-c-de-cointe-liege-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

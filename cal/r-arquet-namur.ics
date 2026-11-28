@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Arquet Namur · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-arquet-namur/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-4ea3e98443@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:R. Arquet Namur 2-2 R. Léopold F.C.
+DESCRIPTION:D3 FFA A\nJournée 11\nhttps://goalio.be/fr/match/r-arquet-namu
+ r-r-leopold-f-c-2026-11-01/
+URL:https://goalio.be/fr/match/r-arquet-namur-r-leopold-f-c-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2025c8d10d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:Union Rochefortoise 2-3 R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 12\nhttps://goalio.be/fr/match/union-rochefo
+ rtoise-d3-ffa-serie-a-r-arquet-namur-2026-11-07/
+URL:https://goalio.be/fr/match/union-rochefortoise-d3-ffa-serie-a-r-arquet-
+ namur-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50dce450b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261111T180000Z
+DTEND:20261111T194500Z
+SUMMARY:R.U.S. Biesme 1-2 R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 1\nhttps://goalio.be/fr/match/r-u-s-biesme-r
+ -arquet-namur-2026-11-11/
+URL:https://goalio.be/fr/match/r-u-s-biesme-r-arquet-namur-2026-11-11/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72327b1312@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:R. Arquet Namur 1-3 R. Soignies Sports
+DESCRIPTION:D3 FFA A\nJournée 13\nhttps://goalio.be/fr/match/r-arquet-namu
+ r-r-soignies-sports-2026-11-15/
+URL:https://goalio.be/fr/match/r-arquet-namur-r-soignies-sports-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b6fe5bbb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Andenne Evelette Sports Football 4-4 R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 14\nhttps://goalio.be/fr/match/andenne-evele
+ tte-sports-football-r-arquet-namur-2026-11-21/
+URL:https://goalio.be/fr/match/andenne-evelette-sports-football-r-arquet-na
+ mur-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2b8773b80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:R. Arquet Namur – Stade Everois Racing Club
+DESCRIPTION:D3 FFA A\nJournée 15\nhttps://goalio.be/fr/match/r-arquet-namu
+ r-stade-everois-racing-club-2026-11-29/
+URL:https://goalio.be/fr/match/r-arquet-namur-stade-everois-racing-club-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2a2236f65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Arquet Namur – R.U.S. Biesme
+DESCRIPTION:D3 FFA A\nJournée 16\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f8eae129d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.U. Wallonne Ciney – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 17\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f655f94bf2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Arquet Namur – Pont-A-Celles-Buzet
+DESCRIPTION:D3 FFA A\nJournée 18\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f02de4adf9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:R. Arquet Namur – R.U. Wallonne Ciney
+DESCRIPTION:D3 FFA A\nJournée 2\nhttps://goalio.be/fr/equipe/r-arquet-namu
+ r/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d86b6e9758@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T194500Z
+SUMMARY:R.F.C. Molenbaix – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 19\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9edcc0e458@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Kosova Schaerbeek – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 20\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a83dd09a0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Arquet Namur – R.A.S. Monceau
+DESCRIPTION:D3 FFA A\nJournée 21\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-202c7fd0ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.F.C. Saint-Michel – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 22\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3621f1f150@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Arquet Namur – Union Sporting Club Jemappes
+DESCRIPTION:D3 FFA A\nJournée 23\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10d1df108b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:S.C. De Nechin – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 24\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-824e54809a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Arquet Namur – Sporting Bruxelles
+DESCRIPTION:D3 FFA A\nJournée 25\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a92b52887@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. Léopold F.C. – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 26\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d65c63488@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Arquet Namur – Union Rochefortoise
+DESCRIPTION:D3 FFA A\nJournée 27\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5031242103@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Soignies Sports – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 28\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a0fc04ad35@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Arquet Namur – Andenne Evelette Sports Football
+DESCRIPTION:D3 FFA A\nJournée 29\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e009f9ab82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Stade Everois Racing Club – R. Arquet Namur
+DESCRIPTION:D3 FFA A\nJournée 30\nhttps://goalio.be/fr/equipe/r-arquet-nam
+ ur/
+URL:https://goalio.be/fr/equipe/r-arquet-namur/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

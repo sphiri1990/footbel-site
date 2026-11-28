@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Union Sportive Mouscronnoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c66dfab7fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Entente Velaines Enclusienne 0-2 Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/entente-velaines-enclusienne-union-sportive-mouscronnoise-2026-11-01/
+URL:https://goalio.be/fr/match/entente-velaines-enclusienne-union-sportive-
+ mouscronnoise-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f06770874@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Union Sportive Mouscronnoise 4-3 Royale J.S. Wez-Guignies
+DESCRIPTION:4e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/union-sportive-mouscronnoise-royale-j-s-wez-guignies-2026-11-08/
+URL:https://goalio.be/fr/match/union-sportive-mouscronnoise-royale-j-s-wez-
+ guignies-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b645cb6882@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Union Sportive Mouscronnoise – Football Club Etoiles D'Ere
+DESCRIPTION:4e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/union-sportive-mouscronnoise-football-club-etoiles-d-ere-2026-11-22/
+URL:https://goalio.be/fr/match/union-sportive-mouscronnoise-football-club-e
+ toiles-d-ere-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cafcd389ad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:AC Barry-Carrieres – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/ac-barry-carrieres-union-sportive-mouscronnoise-2026-11-29/
+URL:https://goalio.be/fr/match/ac-barry-carrieres-union-sportive-mouscronno
+ ise-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b48a54234c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:Ass. Sp. Club Havinnes – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68920f2ed7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Union Sportive Mouscronnoise – R.A.S. Risquons-Tout Mouscron
+DESCRIPTION:4e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2fca116821@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:Ren. US Tournaisienne – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4c4449da65@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Union Sportive Mouscronnoise – F.C. Brunehaut
+DESCRIPTION:4e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a26e25c36f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Union Sportive Mouscronnoise – R.U.S. Herseautoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c268857100@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:C.S. Taintignies – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-271d491ea8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Union Sportive Mouscronnoise – R.S.C. Templeuvois
+DESCRIPTION:4e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-89554cd448@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:Diables Rouges Rongy – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bb955e6ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:Union Sportive Mouscronnoise – Ass. Montkainoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-addb4fcba7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Renaissance Sporting Club Bruyelle – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df07ffb32d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Union Sportive Mouscronnoise – Entente Velaines Enclusienne
+DESCRIPTION:4e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d1f29645b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Royale J.S. Wez-Guignies – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0923561777@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Football Club Etoiles D'Ere – Union Sportive Mouscronnoise
+DESCRIPTION:4e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f155227b20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Sportive Mouscronnoise – AC Barry-Carrieres
+DESCRIPTION:4e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/union-sportive-mouscronnoise/
+URL:https://goalio.be/fr/equipe/union-sportive-mouscronnoise/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

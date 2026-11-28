@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marloie Sport B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/marloie-sport-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c87ec676a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T193000Z
+DTEND:20261031T211500Z
+SUMMARY:Marloie Sport B 3-1 US Vecmont
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 11\nhttps://goalio.be/fr/
+ match/marloie-sport-b-us-vecmont-2026-10-31/
+URL:https://goalio.be/fr/match/marloie-sport-b-us-vecmont-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-478a88b0dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:RRC Mormont B 0-4 Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 12\nhttps://goalio.be/fr/
+ match/rrc-mormont-b-marloie-sport-b-2026-11-07/
+URL:https://goalio.be/fr/match/rrc-mormont-b-marloie-sport-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a02bbb6fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T193000Z
+DTEND:20261114T211500Z
+SUMMARY:Marloie Sport B 4-2 US Halthier A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 13\nhttps://goalio.be/fr/
+ match/marloie-sport-b-us-halthier-a-2026-11-14/
+URL:https://goalio.be/fr/match/marloie-sport-b-us-halthier-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4135a498b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T193000Z
+DTEND:20261121T211500Z
+SUMMARY:Marloie Sport B – FC Bomal (remis)
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 14\nhttps://goalio.be/fr/
+ match/marloie-sport-b-fc-bomal-2026-11-21/
+URL:https://goalio.be/fr/match/marloie-sport-b-fc-bomal-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fb7be6d06e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:ROC Rochois – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 15\nhttps://goalio.be/fr/
+ match/roc-rochois-marloie-sport-b-2026-11-28/
+URL:https://goalio.be/fr/match/roc-rochois-marloie-sport-b-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e9737738a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RES Vaux A – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 16\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b6b9de8ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Marloie Sport B – RUS Sartoise
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 17\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a2b560260e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R. Lierneux FC – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 18\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0473230e42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T193000Z
+DTEND:20270220T211500Z
+SUMMARY:Marloie Sport B – RES Izier
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 19\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e96c41efb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RC Erezée-Amonines – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 20\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-77612cc2a9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T193000Z
+DTEND:20270313T211500Z
+SUMMARY:Marloie Sport B – RESC Houffaloise B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 21\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ded204c82f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RES Champlonaise – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 22\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9f6866de00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T183000Z
+DTEND:20270403T201500Z
+SUMMARY:Marloie Sport B – RES Melreux-Hotton A
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 23\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-95402ca8c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:US Vecmont – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 24\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2b8d6e9f0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Marloie Sport B – RRC Mormont B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 25\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c341d71f82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:US Halthier A – Marloie Sport B
+DESCRIPTION:2e provinciale Luxembourg C\nJournée 26\nhttps://goalio.be/fr/
+ equipe/marloie-sport-b/
+URL:https://goalio.be/fr/equipe/marloie-sport-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

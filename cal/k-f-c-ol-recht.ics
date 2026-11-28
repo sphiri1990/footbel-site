@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.F.C. OL. Recht · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b69b508ce5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K.F.C. OL. Recht 1-1 Stade Vervietois
+DESCRIPTION:2e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/k-f-c-ol-recht-stade-vervietois-2-prov-c-liege-2026-11-01/
+URL:https://goalio.be/fr/match/k-f-c-ol-recht-stade-vervietois-2-prov-c-lie
+ ge-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76703a4a6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:R.F.C. Sart-Lez-Spa 0-4 K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-f-c-sart-lez-spa-k-f-c-ol-recht-2026-11-07/
+URL:https://goalio.be/fr/match/r-f-c-sart-lez-spa-k-f-c-ol-recht-2026-11-07
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-107fdd384e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K.F.C. OL. Recht 2-1 R.F.C. Xhoffraix
+DESCRIPTION:2e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/k-f-c-ol-recht-r-f-c-xhoffraix-2026-11-14/
+URL:https://goalio.be/fr/match/k-f-c-ol-recht-r-f-c-xhoffraix-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9e86b8ae2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:K.F.C. OL. Recht – ET. Elsautoise B (remis)
+DESCRIPTION:2e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/k-f-c-ol-recht-et-elsautoise-b-2026-11-22/
+URL:https://goalio.be/fr/match/k-f-c-ol-recht-et-elsautoise-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ac4318ccb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.R.C. Trois-Ponts – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-r-c-trois-ponts-k-f-c-ol-recht-2026-11-29/
+URL:https://goalio.be/fr/match/r-r-c-trois-ponts-k-f-c-ol-recht-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bee375c4bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.C.S. Stavelotain A – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f817b50e0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K.F.C. OL. Recht – K.F.C. Grün-Weiss Amel
+DESCRIPTION:2e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3878d14dcc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:R. FC Rocherath – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1562df2b5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:K.F.C. OL. Recht – R.A.F. Franchimontois
+DESCRIPTION:2e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afd6008efe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:Royale Entente Lambermont-Rechain – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5e39de5bf3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270129T190000Z
+DTEND:20270129T204500Z
+SUMMARY:K.F.C. OL. Recht – S.G. Rapid Oudler
+DESCRIPTION:2e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-71863640b5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:R.F.C. 1924 St-Vith – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35c2f83d06@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K.F.C. OL. Recht – Königlicher Honsfelder S.V.
+DESCRIPTION:2e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bdecbae234@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R. St. F.C. Andrimont – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-47c3415f43@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K.F.C. OL. Recht – R. Battice F.C. A
+DESCRIPTION:2e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-66075bb612@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Stade Vervietois – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a7ec6b2f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K.F.C. OL. Recht – R.F.C. Sart-Lez-Spa
+DESCRIPTION:2e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94b3d29f7f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.F.C. Xhoffraix – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8e6e4077@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:ET. Elsautoise B – K.F.C. OL. Recht
+DESCRIPTION:2e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c211f6dcce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:K.F.C. OL. Recht – R.R.C. Trois-Ponts
+DESCRIPTION:2e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/k-f-c-ol-recht/
+URL:https://goalio.be/fr/equipe/k-f-c-ol-recht/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

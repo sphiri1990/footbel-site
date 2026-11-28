@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:E. Louwel A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/e-louwel-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-fbb4289a89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:As-Niel Utd. A 1-4 E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/as-niel-utd-a-e-louwel-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/as-niel-utd-a-e-louwel-a-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02e5bed1e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T191500Z
+DTEND:20261114T210000Z
+SUMMARY:E. Louwel A 2-0 Boorsem Sport B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/e-louwel-a-boorsem-sport-b-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/e-louwel-a-boorsem-sport-b-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6595d95a70@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Umitspor Maasmechelen A 3-2 E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/umitspor-maasmechelen-a-e-louwel-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/umitspor-maasmechelen-a-e-louwel-a-2026-
+ 11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9f172586b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T191500Z
+DTEND:20261128T210000Z
+SUMMARY:E. Louwel A – Sp. Ellikom
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/e-louwel-a-sp-ellikom-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/e-louwel-a-sp-ellikom-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b929bd0d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:SLW Maaseik A – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90cf57c41a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T191500Z
+DTEND:20261212T210000Z
+SUMMARY:E. Louwel A – K. Waterloos-Voorshoven VV
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b4b77b8dd7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T191500Z
+DTEND:20270109T210000Z
+SUMMARY:E. Louwel A – Neeroeteren FC A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-074947ec7c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:FC Veldwezelt – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f24355d059@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T191500Z
+DTEND:20270123T210000Z
+SUMMARY:E. Louwel A – As-Niel Utd. A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5afdeca98d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Boorsem Sport B – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1192c9cd5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Sp. Ellikom – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25ea624112@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T191500Z
+DTEND:20270220T210000Z
+SUMMARY:E. Louwel A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e80b3ad4c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:VC Kesselt – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2eb88396dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T191500Z
+DTEND:20270306T210000Z
+SUMMARY:E. Louwel A – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-209cddcdaf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:E. Mechelen a/d Maas B – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35a7d3b7c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T191500Z
+DTEND:20270320T210000Z
+SUMMARY:E. Louwel A – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c19a6ddfad@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T181500Z
+DTEND:20270403T200000Z
+SUMMARY:E. Louwel A – Umitspor Maasmechelen A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5ca2ebad90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:Genk VV A – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ad6e7498c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T181500Z
+DTEND:20270417T200000Z
+SUMMARY:E. Louwel A – SLW Maaseik A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5c4b2bf761@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Opitter FC – E. Louwel A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/e-louwel-a/
+URL:https://goalio.be/nl/ploeg/e-louwel-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

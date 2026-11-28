@@ -1,0 +1,27 @@
+{
+ "updated_at": "2026-11-28T13:00:02.089936+00:00",
+ "last_successful_collection": {
+  "started": "2026-11-28T00:52:28.240789+00:00",
+  "source": "footscrap"
+ },
+ "last_failure": {
+  "started": "2026-11-22T20:25:13.636226+00:00",
+  "source": "api_football_be",
+  "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+ },
+ "enabled_sources": [
+  "footscrap",
+  "api_football_be"
+ ],
+ "last_cycle": {
+  "slot": "export-2026-11-28T00:51:23Z+cf4f60c51e9",
+  "sources": [
+   {
+    "source": "footscrap",
+    "slot": "export-2026-11-28T00:51:23Z+cf4f60c51e9",
+    "status": "already_done"
+   }
+  ]
+ },
+ "next_slots": "mer 21:30 ; sam-dim 16:30, 19:00, 22:00 ; chaque jour 23:00 (Europe/Brussels)"
+}

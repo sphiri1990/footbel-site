@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BS Geluveld · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/bs-geluveld/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-616d9e3f63@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:K. SV De Ruiter Roes. A 2-0 BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-de-ruiter-roes-a-bs-geluveld-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-sv-de-ruiter-roes-a-bs-geluveld-2026-1
+ 1-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-192cb1c9d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:BS Geluveld 2-3 S.C.T. Menen
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/bs-geluveld-s-c-t-menen-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/bs-geluveld-s-c-t-menen-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-122659b5b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:FC Dadizele Sport A 2-0 BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/fc-dadizele-sport-a-bs-geluveld-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/fc-dadizele-sport-a-bs-geluveld-2026-11-
+ 14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bae0f26e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:BS Geluveld 5-3 Sp. Kruiseke
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/bs-geluveld-sp-kruiseke-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/bs-geluveld-sp-kruiseke-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-56b2b3a06a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:K. Sassp. Boezinge B – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sassp-boezinge-b-bs-geluveld-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-sassp-boezinge-b-bs-geluveld-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26ac3f706e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:BS Geluveld – K. Sint-Eloois-Winkel Sp.
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e8ee1b39f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. VP Gits – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aa81d6a28b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:BS Geluveld – VV Alveringem
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-96d507741a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:VKW Vleteren – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a746070ee0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Sp. Kruiseke – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bebebd409b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:BS Geluveld – FC Dadizele Sport A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2588d9e8ed@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:BS Geluveld – Ol. Ledegem
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4f669a30e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:S.C.T. Menen – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7e7a0af58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:BS Geluveld – K. SV De Ruiter Roes. A
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9c441ef09@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:VK Langemark-Poelkapelle – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a20b76ee03@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:BS Geluveld – R.T.S.C. Proven
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-176c924cbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Sp. Dikkebus – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-116f7dc8a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T160000Z
+DTEND:20270403T174500Z
+SUMMARY:K. Sint-Eloois-Winkel Sp. – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a985ae4237@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:BS Geluveld – K. Sassp. Boezinge B
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff5d778e86@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:SK Staden – BS Geluveld
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8a74421b5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:BS Geluveld – K.W.S. Club Lauwe B
+DESCRIPTION:3e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/bs-geluveld/
+URL:https://goalio.be/nl/ploeg/bs-geluveld/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

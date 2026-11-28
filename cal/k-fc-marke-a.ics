@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K. FC Marke A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-fc-marke-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ba0e8cf0ec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:K. FC Marke A 3-1 KFC Aalbeke Sport A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 10\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-marke-a-kfc-aalbeke-sport-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-fc-marke-a-kfc-aalbeke-sport-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0f4b4e12ef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:K.R.C. Waregem A 2-4 K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 11\nhttps://goalio.be/
+ nl/wedstrijd/k-r-c-waregem-a-k-fc-marke-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/k-r-c-waregem-a-k-fc-marke-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60de6fd156@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:K. FC Marke A 3-1 K. FC Heist A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 12\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-marke-a-k-fc-heist-a-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/k-fc-marke-a-k-fc-heist-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1d12c03081@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:K. SK Beveren-Leie A 0-2 K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 13\nhttps://goalio.be/
+ nl/wedstrijd/k-sk-beveren-leie-a-k-fc-marke-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/k-sk-beveren-leie-a-k-fc-marke-a-2026-11
+ -22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f0d74c97@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:K. FC Marke A – K. SV Veurne A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 14\nhttps://goalio.be/
+ nl/wedstrijd/k-fc-marke-a-k-sv-veurne-a-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-fc-marke-a-k-sv-veurne-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-63bb8fbcf1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:S.V. Wevelgem City A – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 15\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2008d3e46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:K. FC Marke A – FC Sp. Heestert A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 16\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-18effebd8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T173000Z
+DTEND:20270109T191500Z
+SUMMARY:K. Sassp. Boezinge A – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 17\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cb24b9b85b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:K. FC Marke A – K.S.C. Wielsbeke
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 18\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9b8e0c2e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:K. FC Marke A – K.R.C. Waregem A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 19\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f8678a3707@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:K. RC Bissegem – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 20\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0113992e3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:K. SV Veurne A – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 21\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49169210d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:K. FC Marke A – S.V. Wevelgem City A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 22\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bef1107555@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:K. VC Ardooie A – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 23\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49f2a35246@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:K. FC Marke A – K. FC Varsenare A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 24\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8154ca4bab@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:K. FC Heist A – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 25\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbb10fe924@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. FC Marke A – K. SK Beveren-Leie A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 26\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4391f3713d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. FC Marke A – SV Ingelmunster A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 27\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d642e3373d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T163000Z
+DTEND:20270410T181500Z
+SUMMARY:KFC Aalbeke Sport A – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 28\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10e30218cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:K. FC Marke A – K. Eendr. Wervik A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 29\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff36e34b71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Club Roeselare – K. FC Marke A
+DESCRIPTION:1e provinciale West-Vlaanderen\nSpeeldag 30\nhttps://goalio.be/
+ nl/ploeg/k-fc-marke-a/
+URL:https://goalio.be/nl/ploeg/k-fc-marke-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

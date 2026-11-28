@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U. St-Ghisl. Tertre-Hautr. B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-e11c5d96e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. Snef A 2-0 U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/f-c-snef-a-u-st-ghisl-tertre-hautr-b-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-snef-a-u-st-ghisl-tertre-hautr-b-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d556266df8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B 3-3 U.E. Estinnoise A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/u-st-ghisl-tertre-hautr-b-u-e-estinnoise-a-2026-11-08/
+URL:https://goalio.be/fr/match/u-st-ghisl-tertre-hautr-b-u-e-estinnoise-a-2
+ 026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abc378dc25@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Quévy Genly A 3-0 U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/fc-quevy-genly-a-u-st-ghisl-tertre-hautr-b-2026-11-15/
+URL:https://goalio.be/fr/match/fc-quevy-genly-a-u-st-ghisl-tertre-hautr-b-2
+ 026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb61780a0c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Athènes Haine-Saint-Pierre – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/athenes-haine-saint-pierre-u-st-ghisl-tertre-hautr-b-2026-11-22/
+URL:https://goalio.be/fr/match/athenes-haine-saint-pierre-u-st-ghisl-tertre
+ -hautr-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c69cacf0e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – R.S.C. Paturageois A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/u-st-ghisl-tertre-hautr-b-r-s-c-paturageois-a-2026-11-29/
+URL:https://goalio.be/fr/match/u-st-ghisl-tertre-hautr-b-r-s-c-paturageois-
+ a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15620a6bec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – Bracquegnies Sp A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17526368e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.A.F.C. Cuesmes A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0ebf05127@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – Renaissance FC Carnières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-764791b1c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:R.A.E.C. Mons B – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4dd75d04c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – C. Ol. Trivières A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b6d0d699d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Casteau A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02bf663c89@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – F.C. AEDEC-Hyon
+DESCRIPTION:2e provinciale Hainaut B\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c2358dc71@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R.L.C. Mesvinois A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b3b28b2c88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – U.S. Neufvilles A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ed5d9d6ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:R. SP B. Frameries A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b434b658f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – F.C. Snef A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f585fb729@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U.E. Estinnoise A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e6541a93f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – FC Quévy Genly A
+DESCRIPTION:2e provinciale Hainaut B\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9508a6c300@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:U. St-Ghisl. Tertre-Hautr. B – Athènes Haine-Saint-Pierre
+DESCRIPTION:2e provinciale Hainaut B\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9faeb56298@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.S.C. Paturageois A – U. St-Ghisl. Tertre-Hautr. B
+DESCRIPTION:2e provinciale Hainaut B\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/u-st-ghisl-tertre-hautr-b/
+URL:https://goalio.be/fr/equipe/u-st-ghisl-tertre-hautr-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

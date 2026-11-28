@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:K.V.V. Vlug & Vrij Stokkem A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d00ae044bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A 3-0 K. Waterloos-Voorshoven VV
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/k-v-v-vlug-vrij-stokkem-a-k-waterloos-voorshoven-vv-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-vlug-vrij-stokkem-a-k-waterloos-vo
+ orshoven-vv-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2d7ec9678@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261112T190000Z
+DTEND:20261112T204500Z
+SUMMARY:As-Niel Utd. A 1-3 K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/as-niel-utd-a-k-v-v-vlug-vrij-stokkem-a-2026-11-12/
+URL:https://goalio.be/nl/wedstrijd/as-niel-utd-a-k-v-v-vlug-vrij-stokkem-a-
+ 2026-11-12/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-778d262642@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:FC Veldwezelt 2-1 K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/fc-veldwezelt-k-v-v-vlug-vrij-stokkem-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/fc-veldwezelt-k-v-v-vlug-vrij-stokkem-a-
+ 2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-91cc99d6a1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Sp. Ellikom 3-2 K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/sp-ellikom-k-v-v-vlug-vrij-stokkem-a-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/sp-ellikom-k-v-v-vlug-vrij-stokkem-a-202
+ 6-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14b15ca2c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T144500Z
+DTEND:20261129T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – VC Kesselt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/k-v-v-vlug-vrij-stokkem-a-vc-kesselt-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/k-v-v-vlug-vrij-stokkem-a-vc-kesselt-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-793f9c2f3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:FC Winterslag – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-947cbee6b2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T144500Z
+DTEND:20261213T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – As-Niel Utd. A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75005361ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:K. Waterloos-Voorshoven VV – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-829843c70e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T144500Z
+DTEND:20270117T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – AA Rekem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2485332e79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:E. Mechelen a/d Maas B – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f4e722e704@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T144500Z
+DTEND:20270131T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – Neeroeteren FC A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9f8662595@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T144500Z
+DTEND:20270214T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – Genk VV A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e86a729a45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Umitspor Maasmechelen A – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-074c6a790b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T144500Z
+DTEND:20270228T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – Boorsem Sport B
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-472a5765a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:Opitter FC – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1beb0808c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T144500Z
+DTEND:20270314T163000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – FC Veldwezelt
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-35a7d3b7c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T191500Z
+DTEND:20270320T210000Z
+SUMMARY:E. Louwel A – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-af502a2711@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T134500Z
+DTEND:20270404T153000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – FC Winterslag
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-940ff11e8b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:VC Kesselt – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a43002f262@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T134500Z
+DTEND:20270418T153000Z
+SUMMARY:K.V.V. Vlug & Vrij Stokkem A – Sp. Ellikom
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2cc0c3a120@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:SLW Maaseik A – K.V.V. Vlug & Vrij Stokkem A
+DESCRIPTION:3e provinciale Limburg C\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/k-v-v-vlug-vrij-stokkem-a/
+URL:https://goalio.be/nl/ploeg/k-v-v-vlug-vrij-stokkem-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Renaissance FC Carnières · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-927c0d79b6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:Renaissance FC Carnières 5-3 Société Royale J.S. Thudinienne
+DESCRIPTION:4e provinciale Hainaut E\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/renaissance-fc-carnieres-societe-royale-j-s-thudinienne-2026-11-01/
+URL:https://goalio.be/fr/match/renaissance-fc-carnieres-societe-royale-j-s-
+ thudinienne-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b250a9578@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.U.S. Binche 1-1 Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/r-u-s-binche-4-prov-e-hainaut-renaissance-fc-carnieres-2026-11-08/
+URL:https://goalio.be/fr/match/r-u-s-binche-4-prov-e-hainaut-renaissance-fc
+ -carnieres-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-10527d806b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Renaissance FC Carnières 2-4 AS Montigny
+DESCRIPTION:4e provinciale Hainaut E\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/renaissance-fc-carnieres-as-montigny-2026-11-15/
+URL:https://goalio.be/fr/match/renaissance-fc-carnieres-as-montigny-2026-11
+ -15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ef8faef54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.C. Gouy – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/r-c-gouy-renaissance-fc-carnieres-2026-11-21/
+URL:https://goalio.be/fr/match/r-c-gouy-renaissance-fc-carnieres-2026-11-21
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1243075a6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:Renaissance FC Carnières – R.F.C. Nalinnois
+DESCRIPTION:4e provinciale Hainaut E\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/renaissance-fc-carnieres-r-f-c-nalinnois-2026-11-29/
+URL:https://goalio.be/fr/match/renaissance-fc-carnieres-r-f-c-nalinnois-202
+ 6-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f1990cd984@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Sporting Club Farciennes – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b29a742b26@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:Renaissance FC Carnières – R. Goutroux Sports B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-70eddf7a50@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:AJS Buvrinnes – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9048bfa14@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Renaissance FC Carnières – Trazegnies Sports
+DESCRIPTION:4e provinciale Hainaut E\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e463c02b1c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.U.S. Courcelloise – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bf28e61486@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:A.S. Fontainoise – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c74615d755@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Renaissance FC Carnières – F.C. Mont-S-March-Collège B
+DESCRIPTION:4e provinciale Hainaut E\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e2482577d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Jeunesse Trazegnies – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-017b48f01f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T140000Z
+DTEND:20270313T154500Z
+SUMMARY:Renaissance FC Carnières – R.U.S. Club Anderlues
+DESCRIPTION:4e provinciale Hainaut E\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-035335af30@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Société Royale J.S. Thudinienne – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-daec3c8c5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Renaissance FC Carnières – R.U.S. Binche
+DESCRIPTION:4e provinciale Hainaut E\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8fc64b249@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:AS Montigny – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e24ffeb6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Renaissance FC Carnières – R.C. Gouy
+DESCRIPTION:4e provinciale Hainaut E\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e77178e31@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.F.C. Nalinnois – Renaissance FC Carnières
+DESCRIPTION:4e provinciale Hainaut E\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/renaissance-fc-carnieres/
+URL:https://goalio.be/fr/equipe/renaissance-fc-carnieres/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

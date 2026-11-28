@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK Oelegem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksk-oelegem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b2cbe10ab8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KSK Oelegem 3-1 VC Immer Oost-Oosterwijk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 11\nhttps://goalio.be/nl/w
+ edstrijd/ksk-oelegem-vc-immer-oost-oosterwijk-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/ksk-oelegem-vc-immer-oost-oosterwijk-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e18d1e0da7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FCM Hallaar B 2-2 KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 12\nhttps://goalio.be/nl/w
+ edstrijd/fcm-hallaar-b-ksk-oelegem-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/fcm-hallaar-b-ksk-oelegem-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f112ecb446@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:KSK Oelegem 4-1 KFC Berlaar-Heikant B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 13\nhttps://goalio.be/nl/w
+ edstrijd/ksk-oelegem-kfc-berlaar-heikant-b-2026-11-22/
+URL:https://goalio.be/nl/wedstrijd/ksk-oelegem-kfc-berlaar-heikant-b-2026-1
+ 1-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23fc11dedd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KFC Grobbendonk – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 14\nhttps://goalio.be/nl/w
+ edstrijd/kfc-grobbendonk-ksk-oelegem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-grobbendonk-ksk-oelegem-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8472cecf53@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KSK Oelegem – KVV OG Vorselaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 15\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f95fbf9f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:KSK Oelegem – KFC Ranst B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 16\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a35601c00@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KFC Herenthout – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 17\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d988bdefdb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:KFC Nijlen B – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 18\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c20aa68715@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:KSK Oelegem – SK sGravenwezel-Schilde B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 19\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e458d25aee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T170000Z
+DTEND:20270130T184500Z
+SUMMARY:K. Zandhoven SK B – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 20\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e263987b1a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:KSK Oelegem – KFC Grobbendonk
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 21\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-810b7939b4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T184500Z
+SUMMARY:KVV OG Vorselaar B – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 22\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc60a19217@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:KSK Oelegem – KSK Heist B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 23\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-674977e79e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:VC Herentals – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 24\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-821cf127b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:KSK Oelegem – VV-NEXT Laakdal B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 25\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5d1f86828@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:Wiekevorst Sp. – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 26\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e52b5939bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:KSK Oelegem – FCM Hallaar B
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 27\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cda1ae5efa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:VC Immer Oost-Oosterwijk – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 28\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6f563d8e81@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T143000Z
+DTEND:20270418T161500Z
+SUMMARY:KFC Berlaar-Heikant B – KSK Oelegem
+DESCRIPTION:4e provinciale Antwerpen F\nSpeeldag 29\nhttps://goalio.be/nl/p
+ loeg/ksk-oelegem/
+URL:https://goalio.be/nl/ploeg/ksk-oelegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

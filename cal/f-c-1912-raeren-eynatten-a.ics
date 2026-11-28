@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. 1912 Raeren-Eynatten A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-98e13746ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A 7-1 R. FC Sart-Lez-Spa B
+DESCRIPTION:3e provinciale Liège D\nJournée 11\nhttps://goalio.be/fr/matc
+ h/f-c-1912-raeren-eynatten-a-r-fc-sart-lez-spa-b-2026-11-01/
+URL:https://goalio.be/fr/match/f-c-1912-raeren-eynatten-a-r-fc-sart-lez-spa
+ -b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9717f69874@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:FC Büllingen 0-3 F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 12\nhttps://goalio.be/fr/matc
+ h/fc-bullingen-f-c-1912-raeren-eynatten-a-2026-11-08/
+URL:https://goalio.be/fr/match/fc-bullingen-f-c-1912-raeren-eynatten-a-2026
+ -11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d9afac2296@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A 3-4 All. Hautes Fagnes A
+DESCRIPTION:3e provinciale Liège D\nJournée 13\nhttps://goalio.be/fr/matc
+ h/f-c-1912-raeren-eynatten-a-all-hautes-fagnes-a-2026-11-15/
+URL:https://goalio.be/fr/match/f-c-1912-raeren-eynatten-a-all-hautes-fagnes
+ -a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7a80cc63a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:F.C. Entente Pepine A – F.C. 1912 Raeren-Eynatten A (remis)
+DESCRIPTION:3e provinciale Liège D\nJournée 14\nhttps://goalio.be/fr/matc
+ h/f-c-entente-pepine-a-f-c-1912-raeren-eynatten-a-2026-11-21/
+URL:https://goalio.be/fr/match/f-c-entente-pepine-a-f-c-1912-raeren-eynatte
+ n-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4ee6722549@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – R.U.S. 1947 Emmels
+DESCRIPTION:3e provinciale Liège D\nJournée 15\nhttps://goalio.be/fr/matc
+ h/f-c-1912-raeren-eynatten-a-r-u-s-1947-emmels-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-1912-raeren-eynatten-a-r-u-s-1947-emmels
+ -2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cf613321f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – F.C. Welkenraedt B
+DESCRIPTION:3e provinciale Liège D\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5756e4a4be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:R.F.C. Malmundaria 1904 B – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-737c5dc423@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T133000Z
+DTEND:20261219T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – R. Sporting Club Lontzen
+DESCRIPTION:3e provinciale Liège D\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0eb7c9fbf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:K. FC Eupen 1963 B – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c672990de@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – U.S.F.C. Elsenborn
+DESCRIPTION:3e provinciale Liège D\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-431ed4b999@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T151500Z
+SUMMARY:R.C.S. Jalhaytois – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9a87ab7864@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – R.U. Limbourg
+DESCRIPTION:3e provinciale Liège D\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a7f18ebff0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T190000Z
+DTEND:20270220T204500Z
+SUMMARY:R.C.S. Bellevaux-Ligneuville – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2809da8f3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – R. FC Bütgenbach
+DESCRIPTION:3e provinciale Liège D\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-15f8eb1f46@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:UN. Walhorn – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3da9746a24@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R. FC Sart-Lez-Spa B – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-516d3fca1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – FC Büllingen
+DESCRIPTION:3e provinciale Liège D\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-81ac4fc323@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:All. Hautes Fagnes A – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2bbcdb4cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. 1912 Raeren-Eynatten A – F.C. Entente Pepine A
+DESCRIPTION:3e provinciale Liège D\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6ad977bf7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.U.S. 1947 Emmels – F.C. 1912 Raeren-Eynatten A
+DESCRIPTION:3e provinciale Liège D\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/f-c-1912-raeren-eynatten-a/
+URL:https://goalio.be/fr/equipe/f-c-1912-raeren-eynatten-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

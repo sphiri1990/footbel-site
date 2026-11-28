@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RESC Houffaloise A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/resc-houffaloise-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f32d505ce2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:ES Harre-Manhay A 0-1 RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 11\nhttps://goalio.be/fr/m
+ atch/es-harre-manhay-a-resc-houffaloise-a-2026-11-01/
+URL:https://goalio.be/fr/match/es-harre-manhay-a-resc-houffaloise-a-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8f200352d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T204500Z
+SUMMARY:RESC Houffaloise A 4-1 FC Bercheux
+DESCRIPTION:1re provinciale Luxembourg\nJournée 12\nhttps://goalio.be/fr/m
+ atch/resc-houffaloise-a-fc-bercheux-2026-11-07/
+URL:https://goalio.be/fr/match/resc-houffaloise-a-fc-bercheux-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-59d7ca329c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:FC Arlon 1-1 RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 13\nhttps://goalio.be/fr/m
+ atch/fc-arlon-resc-houffaloise-a-2026-11-14/
+URL:https://goalio.be/fr/match/fc-arlon-resc-houffaloise-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e58197bd82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:RESC Houffaloise A – RUS Gouvy (remis)
+DESCRIPTION:1re provinciale Luxembourg\nJournée 14\nhttps://goalio.be/fr/m
+ atch/resc-houffaloise-a-rus-gouvy-2026-11-21/
+URL:https://goalio.be/fr/match/resc-houffaloise-a-rus-gouvy-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-98aa87535c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:UN St. André Ochamps A – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 15\nhttps://goalio.be/fr/m
+ atch/un-st-andre-ochamps-a-resc-houffaloise-a-2026-11-28/
+URL:https://goalio.be/fr/match/un-st-andre-ochamps-a-resc-houffaloise-a-202
+ 6-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff2b9fbc94@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:Marloie Sport A – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 16\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-df02fc25cb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:RESC Houffaloise A – Athl. Florenvillois A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 17\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fd993af4bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T190000Z
+DTEND:20261219T204500Z
+SUMMARY:RESC Houffaloise A – R. Wallonia Libin A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 18\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-528fb07536@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RJR Aye FC A – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 19\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8760d04530@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:RESC Houffaloise A – RES Vaux-Sur-Sûre
+DESCRIPTION:1re provinciale Luxembourg\nJournée 20\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68da70c4bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:Ass. Sp. Nothomb-Post A – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 21\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7084f0e02@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RESC Houffaloise A – US Assenois A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 22\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5a12eb3a80@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T193000Z
+DTEND:20270220T211500Z
+SUMMARY:RE Roy-Lignières-Grimbiemont A – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 23\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-970620d091@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:RESC Houffaloise A – FC Oppagne-Wéris
+DESCRIPTION:1re provinciale Luxembourg\nJournée 24\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-775abeecd4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RLC Bastogne A – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 25\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8222a5e043@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T204500Z
+SUMMARY:RESC Houffaloise A – ES Harre-Manhay A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 26\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-679bdbf80b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:FC Bercheux – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 27\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7706530db6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:RESC Houffaloise A – FC Arlon
+DESCRIPTION:1re provinciale Luxembourg\nJournée 28\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02c3a9ab12@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RUS Gouvy – RESC Houffaloise A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 29\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f21a6b068a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RESC Houffaloise A – UN St. André Ochamps A
+DESCRIPTION:1re provinciale Luxembourg\nJournée 30\nhttps://goalio.be/fr/e
+ quipe/resc-houffaloise-a/
+URL:https://goalio.be/fr/equipe/resc-houffaloise-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

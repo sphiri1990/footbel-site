@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RS Fernelmont-Hemptinne B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d567c7aa74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T204500Z
+SUMMARY:R Ent Wartet FC 3-2 RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 11\nhttps://goalio.be/fr/match
+ /r-ent-wartet-fc-rs-fernelmont-hemptinne-b-2026-10-31/
+URL:https://goalio.be/fr/match/r-ent-wartet-fc-rs-fernelmont-hemptinne-b-20
+ 26-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bd20a8cfc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:Andoy Wierde FC 2-2 RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 12\nhttps://goalio.be/fr/match
+ /andoy-wierde-fc-rs-fernelmont-hemptinne-b-2026-11-15/
+URL:https://goalio.be/fr/match/andoy-wierde-fc-rs-fernelmont-hemptinne-b-20
+ 26-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74c13981dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:RS Fernelmont-Hemptinne B – RCS Faulx-les-Tombes A (remis)
+DESCRIPTION:4e provinciale Namur D\nJournée 13\nhttps://goalio.be/fr/match
+ /rs-fernelmont-hemptinne-b-rcs-faulx-les-tombes-a-2026-11-22/
+URL:https://goalio.be/fr/match/rs-fernelmont-hemptinne-b-rcs-faulx-les-tomb
+ es-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-88114ab919@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RAC Leuze-Longchamps B – RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-afa8acccc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RS Fernelmont-Hemptinne B – Andenne Evelette Sports Football B
+DESCRIPTION:4e provinciale Namur D\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1fd3851bc7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:E.S. Boninne – RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94167ae287@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – J Tavietoise B
+DESCRIPTION:4e provinciale Namur D\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5777c01739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC St-Martin Pessoux – RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9245fd6d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – RSC Oheytois B
+DESCRIPTION:4e provinciale Namur D\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-94ab799fb3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – ES Jamboise B
+DESCRIPTION:4e provinciale Namur D\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-761aa303f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – RSC Petit-Waret B
+DESCRIPTION:4e provinciale Namur D\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32f7f82ab9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RUS Assessoise B – RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aeebd2c2fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RS Fernelmont-Hemptinne B – R Ent Wartet FC
+DESCRIPTION:4e provinciale Namur D\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aef5d8e11b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:RCS Faulx-les-Tombes A – RS Fernelmont-Hemptinne B
+DESCRIPTION:4e provinciale Namur D\nJournée 25\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a399a7cd90@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RS Fernelmont-Hemptinne B – Andoy Wierde FC
+DESCRIPTION:4e provinciale Namur D\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rs-fernelmont-hemptinne-b/
+URL:https://goalio.be/fr/equipe/rs-fernelmont-hemptinne-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

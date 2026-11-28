@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Negenmanneke · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-negenmanneke/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9ad745e1f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:SK Vlezenbeek 0-1 FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/sk-vlezenbeek-fc-negenmanneke-2026-11-01/
+URL:https://goalio.be/fr/match/sk-vlezenbeek-fc-negenmanneke-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c77c5e739a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KHO Huizingen B 3-1 FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kho-huizingen-b-fc-negenmanneke-2026-11-07/
+URL:https://goalio.be/fr/match/kho-huizingen-b-fc-negenmanneke-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61c5d18b74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Negenmanneke 1-1 SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-negenmanneke-sk-pepingen-halle-b-2026-11-15/
+URL:https://goalio.be/fr/match/fc-negenmanneke-sk-pepingen-halle-b-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7423672582@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:KFC Av. Lembeek B 5-0 FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/kfc-av-lembeek-b-fc-negenmanneke-2026-11-21/
+URL:https://goalio.be/fr/match/kfc-av-lembeek-b-fc-negenmanneke-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f48a98d272@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FC Negenmanneke – KVC Linkebeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/fc-negenmanneke-kvc-linkebeek-2026-11-29/
+URL:https://goalio.be/fr/match/fc-negenmanneke-kvc-linkebeek-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d98f4951c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T193000Z
+DTEND:20261205T211500Z
+SUMMARY:KVV Kester-Gooik B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4f0c56dcf0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:FC Negenmanneke – KFC MZ Tollembeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bbb3d6d0b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:S.K. Beersel – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c26b4e85e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:FC Herne B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7eb7352d3f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Negenmanneke – KFC Av. Lembeek B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-982f183646@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:KVC Linkebeek – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-29c4511369@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Negenmanneke – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8da18eb71d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:FC Galmaarden B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8ed774bfca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Negenmanneke – SK Vlezenbeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac32c858a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Negenmanneke – KFC Lennik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8dfbf2945f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Negenmanneke – KHO Huizingen B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1ab2bc3c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:SK Pepingen-Halle B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-13fe70075a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Negenmanneke – KVV Kester-Gooik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-913dbaa3c4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:KV Zuun B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-negenmanneke/
+URL:https://goalio.be/fr/equipe/fc-negenmanneke/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

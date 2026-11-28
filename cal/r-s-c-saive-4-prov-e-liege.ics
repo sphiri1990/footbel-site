@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Saive · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-18c8edd370@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T160000Z
+DTEND:20261101T174500Z
+SUMMARY:Jeunesse Sportive Grivegnee 0-2 R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 11\nhttps://goalio.be/fr/matc
+ h/jeunesse-sportive-grivegnee-4-prov-e-liege-r-s-c-saive-4-prov-e-liege-20
+ 26-11-01/
+URL:https://goalio.be/fr/match/jeunesse-sportive-grivegnee-4-prov-e-liege-r
+ -s-c-saive-4-prov-e-liege-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c22a732a9f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T160000Z
+DTEND:20261108T174500Z
+SUMMARY:R.S.C. Saive 2-2 U.C.E. de Liège
+DESCRIPTION:4e provinciale Liège E\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-s-c-saive-4-prov-e-liege-u-c-e-de-liege-4-prov-e-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-saive-4-prov-e-liege-u-c-e-de-liege-4-
+ prov-e-liege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-586ba10fd0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:FC Jeunesse Houssoise 4-1 R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 13\nhttps://goalio.be/fr/matc
+ h/fc-jeunesse-houssoise-r-s-c-saive-4-prov-e-liege-2026-11-15/
+URL:https://goalio.be/fr/match/fc-jeunesse-houssoise-r-s-c-saive-4-prov-e-l
+ iege-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c85891127@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T174500Z
+SUMMARY:R.S.C. Saive – R.J. Magnétoise (remis)
+DESCRIPTION:4e provinciale Liège E\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-s-c-saive-4-prov-e-liege-r-j-magnetoise-2026-11-22/
+URL:https://goalio.be/fr/match/r-s-c-saive-4-prov-e-liege-r-j-magnetoise-20
+ 26-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-151ce5529b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:R.F.C. Soumagne – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f2c0c25c52@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T160000Z
+DTEND:20261220T174500Z
+SUMMARY:R.S.C. Saive – Union Aubeloise B
+DESCRIPTION:4e provinciale Liège E\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-958b05f585@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:F.C. Trois-Frontières – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-46cb33aece@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T160000Z
+DTEND:20270124T174500Z
+SUMMARY:R.S.C. Saive – Jeunesse Sportive Queue Du Bois
+DESCRIPTION:4e provinciale Liège E\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b8245d6729@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Entente Jeunesse Fleron – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-815b85ec23@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T160000Z
+DTEND:20270214T174500Z
+SUMMARY:R.S.C. Saive – R.F.C. Barchon
+DESCRIPTION:4e provinciale Liège E\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d46afb779a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T143000Z
+DTEND:20270221T161500Z
+SUMMARY:R.J.S. Olnoise – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2edc1324b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T160000Z
+DTEND:20270228T174500Z
+SUMMARY:R.S.C. Saive – F.C. Jupille
+DESCRIPTION:4e provinciale Liège E\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bb18891dc2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R.A.C. Hombourg – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e089da8c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T160000Z
+DTEND:20270321T174500Z
+SUMMARY:R.S.C. Saive – Jeunesse Sportive Grivegnee
+DESCRIPTION:4e provinciale Liège E\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26a751181d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:U.C.E. de Liège – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7d8d497368@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T150000Z
+DTEND:20270411T164500Z
+SUMMARY:R.S.C. Saive – FC Jeunesse Houssoise
+DESCRIPTION:4e provinciale Liège E\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bfaefe959b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.J. Magnétoise – R.S.C. Saive
+DESCRIPTION:4e provinciale Liège E\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-s-c-saive-4-prov-e-liege/
+URL:https://goalio.be/fr/equipe/r-s-c-saive-4-prov-e-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

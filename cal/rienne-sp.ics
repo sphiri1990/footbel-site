@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rienne Sp · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/rienne-sp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9700c0fadf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Rienne Sp 2-4 RUS Pondrome B
+DESCRIPTION:4e provinciale Namur C\nJournée 11\nhttps://goalio.be/fr/match
+ /rienne-sp-rus-pondrome-b-2026-11-01/
+URL:https://goalio.be/fr/match/rienne-sp-rus-pondrome-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-39f6b6214e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:Rienne Sp 1-1 R St Gedinnois B
+DESCRIPTION:4e provinciale Namur C\nJournée 12\nhttps://goalio.be/fr/match
+ /rienne-sp-r-st-gedinnois-b-2026-11-15/
+URL:https://goalio.be/fr/match/rienne-sp-r-st-gedinnois-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b98163830a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:E Sp Viroin-Olloy – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 14\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-745aca4d5d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:Rienne Sp – Ent. Dionaise
+DESCRIPTION:4e provinciale Namur C\nJournée 15\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-da90bb3ab4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:ES Couvin-Mariemb Fraire B – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 16\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-db83111370@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:Rienne Sp – Sporting Club Graide
+DESCRIPTION:4e provinciale Namur C\nJournée 17\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a0d0445a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T190000Z
+DTEND:20270123T204500Z
+SUMMARY:R.U.S Pesche B – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 18\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de1a6f85cf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:Rienne Sp – RFC Surice B
+DESCRIPTION:4e provinciale Namur C\nJournée 19\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7f85967f42@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:US Viroin-Treignes – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 20\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be6562db11@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:Rienne Sp – St Cl Feschaux
+DESCRIPTION:4e provinciale Namur C\nJournée 21\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6865f89aca@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:ES Des Frontières – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 22\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d06d685f29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:Rienne Sp – RES Philippeville B
+DESCRIPTION:4e provinciale Namur C\nJournée 23\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7ccf19570d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:RUS Pondrome B – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 24\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e0af8d90df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R St Gedinnois B – Rienne Sp
+DESCRIPTION:4e provinciale Namur C\nJournée 26\nhttps://goalio.be/fr/equip
+ e/rienne-sp/
+URL:https://goalio.be/fr/equipe/rienne-sp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

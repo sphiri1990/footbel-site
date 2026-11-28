@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.S.C. Tilffois · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-s-c-tilffois/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ed6064e24d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.R.C. Mormont 6-0 R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 11\nhttps://goalio.be/fr/match/r-r-c-mormont
+ -r-s-c-tilffois-2026-11-01/
+URL:https://goalio.be/fr/match/r-r-c-mormont-r-s-c-tilffois-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-779409a8e8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.S.C. Tilffois 0-3 R. Aubel F.C.
+DESCRIPTION:D3 FFA B\nJournée 12\nhttps://goalio.be/fr/match/r-s-c-tilffoi
+ s-r-aubel-f-c-2026-11-08/
+URL:https://goalio.be/fr/match/r-s-c-tilffois-r-aubel-f-c-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5e1690a33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.C. Tilffois 2-2 Et. Elsautoise
+DESCRIPTION:D3 FFA B\nJournée 13\nhttps://goalio.be/fr/match/r-s-c-tilffoi
+ s-et-elsautoise-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-c-tilffois-et-elsautoise-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69fd265afa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:R.C.S. Verlaine 6-0 R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 14\nhttps://goalio.be/fr/match/r-c-s-verlain
+ e-r-s-c-tilffois-2026-11-22/
+URL:https://goalio.be/fr/match/r-c-s-verlaine-r-s-c-tilffois-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8112dff2ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.S.C. Tilffois – R.R.C. Longlier
+DESCRIPTION:D3 FFA B\nJournée 15\nhttps://goalio.be/fr/match/r-s-c-tilffoi
+ s-r-r-c-longlier-2026-11-29/
+URL:https://goalio.be/fr/match/r-s-c-tilffois-r-r-c-longlier-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f636857616@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.S.C. Tilffois – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 16\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-745a0badee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:R.F.C. Malmundaria 1904 – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 17\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1630b52034@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.S.C. Tilffois – Royal Sprimont Banneux
+DESCRIPTION:D3 FFA B\nJournée 18\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f9357aafbd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:R.S.C. Tilffois – R.F.C. Malmundaria 1904
+DESCRIPTION:D3 FFA B\nJournée 2\nhttps://goalio.be/fr/equipe/r-s-c-tilffoi
+ s/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-67b218e816@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.F.C. Messancy – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 19\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-322a911476@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.S.C. Tilffois – R.C.S. Libramontois
+DESCRIPTION:D3 FFA B\nJournée 20\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-842d8e06c5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R. Stade Waremmien F.C. – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 21\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-573185cced@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.S.C. Tilffois – R.S.C. Habay La Neuve
+DESCRIPTION:D3 FFA B\nJournée 22\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ef4a437b29@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:F.C. Ans – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 23\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4061d26bb9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.S.C. Tilffois – E.S.F.C. Du Geer
+DESCRIPTION:D3 FFA B\nJournée 24\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec48af4aec@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Union Momalloise – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 25\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d300f413@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.S.C. Tilffois – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 26\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a82d7c816d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Aubel F.C. – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 27\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-974fd5d8ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Et. Elsautoise – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 28\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3ba2d4c6ce@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.S.C. Tilffois – R.C.S. Verlaine
+DESCRIPTION:D3 FFA B\nJournée 29\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d144c7c012@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.R.C. Longlier – R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 30\nhttps://goalio.be/fr/equipe/r-s-c-tilffo
+ is/
+URL:https://goalio.be/fr/equipe/r-s-c-tilffois/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

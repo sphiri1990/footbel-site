@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R. Ent. Blegnytoise · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-000aa469da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. Ent. Blegnytoise 3-2 F.C. Bressoux
+DESCRIPTION:3e provinciale Liège C\nJournée 11\nhttps://goalio.be/fr/matc
+ h/r-ent-blegnytoise-3-prov-c-liege-f-c-bressoux-2026-11-01/
+URL:https://goalio.be/fr/match/r-ent-blegnytoise-3-prov-c-liege-f-c-bressou
+ x-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c38065da4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:R.F.C. Soumagne 1-0 R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 12\nhttps://goalio.be/fr/matc
+ h/r-f-c-soumagne-r-ent-blegnytoise-3-prov-c-liege-2026-11-08/
+URL:https://goalio.be/fr/match/r-f-c-soumagne-r-ent-blegnytoise-3-prov-c-li
+ ege-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-11e29e449b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R. Ent. Blegnytoise 0-2 Racing Club Vaux-Chaudfontaine
+DESCRIPTION:3e provinciale Liège C\nJournée 13\nhttps://goalio.be/fr/matc
+ h/r-ent-blegnytoise-3-prov-c-liege-racing-club-vaux-chaudfontaine-2026-11-
+ 15/
+URL:https://goalio.be/fr/match/r-ent-blegnytoise-3-prov-c-liege-racing-club
+ -vaux-chaudfontaine-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-646892d8ea@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:R. Oupeye FC – R. Ent. Blegnytoise (remis)
+DESCRIPTION:3e provinciale Liège C\nJournée 14\nhttps://goalio.be/fr/matc
+ h/r-oupeye-fc-r-ent-blegnytoise-3-prov-c-liege-2026-11-22/
+URL:https://goalio.be/fr/match/r-oupeye-fc-r-ent-blegnytoise-3-prov-c-liege
+ -2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-05b9f9d0b3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R. Ent. Blegnytoise – Union Roclenge-Wonck
+DESCRIPTION:3e provinciale Liège C\nJournée 15\nhttps://goalio.be/fr/matc
+ h/r-ent-blegnytoise-3-prov-c-liege-union-roclenge-wonck-2026-11-29/
+URL:https://goalio.be/fr/match/r-ent-blegnytoise-3-prov-c-liege-union-rocle
+ nge-wonck-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76a0c6347b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:R. Ent. Blegnytoise – R.J.S. Cheneenne
+DESCRIPTION:3e provinciale Liège C\nJournée 16\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8455919602@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:J.S. Vivegnis – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 17\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a827183763@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:R. Ent. Blegnytoise – R.J.S. Olnoise
+DESCRIPTION:3e provinciale Liège C\nJournée 18\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1f5a698c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T133000Z
+DTEND:20270117T151500Z
+SUMMARY:R. Etoile Sp. Dalhemoise – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 19\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7799f61ad5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:R. Ent. Blegnytoise – R. Jeunesse Haccourtoise
+DESCRIPTION:3e provinciale Liège C\nJournée 20\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b88f55a675@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:R.C.S. Bollandois – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 21\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6c61f29d1e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:A.S. Hermalienne – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 22\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-008bcb164e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. Ent. Blegnytoise – R. Espoir Minerois
+DESCRIPTION:3e provinciale Liège C\nJournée 23\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02f79ec125@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.F.C. Charneux – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 24\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-790f32f739@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Ent. Blegnytoise – R.F.C. Warsage
+DESCRIPTION:3e provinciale Liège C\nJournée 25\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fec7e0310@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:F.C. Bressoux – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 26\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1ee6e4944d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R. Ent. Blegnytoise – R.F.C. Soumagne
+DESCRIPTION:3e provinciale Liège C\nJournée 27\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-670051d4b1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:Racing Club Vaux-Chaudfontaine – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 28\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9debf42095@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R. Ent. Blegnytoise – R. Oupeye FC
+DESCRIPTION:3e provinciale Liège C\nJournée 29\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edc23a6e74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Union Roclenge-Wonck – R. Ent. Blegnytoise
+DESCRIPTION:3e provinciale Liège C\nJournée 30\nhttps://goalio.be/fr/equi
+ pe/r-ent-blegnytoise-3-prov-c-liege/
+URL:https://goalio.be/fr/equipe/r-ent-blegnytoise-3-prov-c-liege/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ent. Velaines Enclusienne A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-9b7f4657c0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T180000Z
+DTEND:20261031T194500Z
+SUMMARY:R.F.C. Herinnes 7-0 Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/r-f-c-herinnes-ent-velaines-enclusienne-a-2026-10-31/
+URL:https://goalio.be/fr/match/r-f-c-herinnes-ent-velaines-enclusienne-a-20
+ 26-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2e935fc1c6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T194500Z
+SUMMARY:Ent. Velaines Enclusienne A 0-3 A.C. Estaimbourg
+DESCRIPTION:3e provinciale Hainaut A\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/ent-velaines-enclusienne-a-a-c-estaimbourg-2026-11-07/
+URL:https://goalio.be/fr/match/ent-velaines-enclusienne-a-a-c-estaimbourg-2
+ 026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e9dc7fe5b8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.S.C. Templeuvois A 2-0 Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/r-s-c-templeuvois-a-ent-velaines-enclusienne-a-2026-11-15/
+URL:https://goalio.be/fr/match/r-s-c-templeuvois-a-ent-velaines-enclusienne
+ -a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69a0230f69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:Ent. Velaines Enclusienne A – F.C. Rumes-La-Glanerie
+DESCRIPTION:3e provinciale Hainaut A\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/ent-velaines-enclusienne-a-f-c-rumes-la-glanerie-2026-11-21/
+URL:https://goalio.be/fr/match/ent-velaines-enclusienne-a-f-c-rumes-la-glan
+ erie-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-41f5879d0a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:SB Stade Mouscronnois B – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/sb-stade-mouscronnois-b-ent-velaines-enclusienne-a-2026-11-29/
+URL:https://goalio.be/fr/match/sb-stade-mouscronnois-b-ent-velaines-enclusi
+ enne-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-08b8fe98df@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T204500Z
+SUMMARY:R.F.C. Molenbaix B – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 16\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-459f43d844@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:Ent. Velaines Enclusienne A – Ren. U.S. Tournaisienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-34c2f49314@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T194500Z
+SUMMARY:Ent. Velaines Enclusienne A – R.A.S. Risquons-Tout Mouscron A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c97371bfdd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:F.C. Esplechin – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97c219d277@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:Ent. Velaines Enclusienne A – Royal Tournai Football Club B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-be6423ae01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:F.C. Bleharies – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8dba5b4cb6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:Ent. Velaines Enclusienne A – FC Saint-Jean Tournai
+DESCRIPTION:3e provinciale Hainaut A\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1f7880a025@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:S.C. De Nechin – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b6c25fb01@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:Ent. Velaines Enclusienne A – A.S. Obigies B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5eb1bae512@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:F.C. Brunehaut A – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-93358f2db0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:Ent. Velaines Enclusienne A – R.F.C. Herinnes
+DESCRIPTION:3e provinciale Hainaut A\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8ae615aac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:A.C. Estaimbourg – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8691c3cf55@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:Ent. Velaines Enclusienne A – R.S.C. Templeuvois A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-27e5cb6aff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:F.C. Rumes-La-Glanerie – Ent. Velaines Enclusienne A
+DESCRIPTION:3e provinciale Hainaut A\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f33e0811fe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Ent. Velaines Enclusienne A – SB Stade Mouscronnois B
+DESCRIPTION:3e provinciale Hainaut A\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/ent-velaines-enclusienne-a/
+URL:https://goalio.be/fr/equipe/ent-velaines-enclusienne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KVC Jong Eernegem Ichtegem · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-d5aa12f547@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Fusion Oostende 1-3 KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/fusion-oostende-kvc-jong-eernegem-ichtegem-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/fusion-oostende-kvc-jong-eernegem-ichteg
+ em-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-175e3b8e8d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:VV Koekelare B 1-1 KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/vv-koekelare-b-kvc-jong-eernegem-ichtegem-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/vv-koekelare-b-kvc-jong-eernegem-ichtege
+ m-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d5304a9a3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem 3-1 NSVD Handzame
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/kvc-jong-eernegem-ichtegem-nsvd-handzame-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/kvc-jong-eernegem-ichtegem-nsvd-handzame
+ -2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a09f447dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261125T190000Z
+DTEND:20261125T204500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – S.K. Eernegem B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 9\nhttps://goalio.be
+ /nl/wedstrijd/kvc-jong-eernegem-ichtegem-s-k-eernegem-b-2026-11-25/
+URL:https://goalio.be/nl/wedstrijd/kvc-jong-eernegem-ichtegem-s-k-eernegem-
+ b-2026-11-25/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3c710c7181@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:K. SV Bredene B – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/k-sv-bredene-b-kvc-jong-eernegem-ichtegem-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/k-sv-bredene-b-kvc-jong-eernegem-ichtege
+ m-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c961baef5e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – S.V.D. Kortemark
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69ac89f22f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:VC Vamos Zandvoorde – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b7ea9164e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T163000Z
+DTEND:20270116T181500Z
+SUMMARY:VK Zerkegem B – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90dd1bcaef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – S.C. Middelkerke United
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-baabd5fa21@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T194500Z
+SUMMARY:K. Exc. Zedelgem B – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-435a4f6ef9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – K. SV Bredene B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e5e6fc20a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:S.V.D. Kortemark – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-056681ef76@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – FA Nieuwpoort B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3fb7b63e3a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:S.K. Eernegem B – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e7659a3e69@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – FC Beaufort Middelkerke A
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0941bf0106@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:K. Dar. Ruddervoorde B – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-45b8383f88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – VV Koekelare B
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7a20dc95e6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:NSVD Handzame – KVC Jong Eernegem Ichtegem
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c1373729d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KVC Jong Eernegem Ichtegem – Fusion Oostende
+DESCRIPTION:4e provinciale West-Vlaanderen B\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/kvc-jong-eernegem-ichtegem/
+URL:https://goalio.be/nl/ploeg/kvc-jong-eernegem-ichtegem/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Genappe · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-genappe/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-767ba9037c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R. US Ophain A 0-1 FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 11\nhttps://
+ goalio.be/fr/match/r-us-ophain-a-fc-genappe-2026-11-01/
+URL:https://goalio.be/fr/match/r-us-ophain-a-fc-genappe-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f048068b2e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC Genappe 0-1 RRC Waterloo A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 12\nhttps://
+ goalio.be/fr/match/fc-genappe-rrc-waterloo-a-2026-11-08/
+URL:https://goalio.be/fr/match/fc-genappe-rrc-waterloo-a-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1938fa7425@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Genappe 0-1 R. Wavre Limal A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 13\nhttps://
+ goalio.be/fr/match/fc-genappe-r-wavre-limal-a-2026-11-15/
+URL:https://goalio.be/fr/match/fc-genappe-r-wavre-limal-a-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a73574ca0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:BX Brussels A 5-2 FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 14\nhttps://
+ goalio.be/fr/match/bx-brussels-a-fc-genappe-2026-11-21/
+URL:https://goalio.be/fr/match/bx-brussels-a-fc-genappe-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-31f3fb511d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:FC Genappe – RRC Etterbeek A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 15\nhttps://
+ goalio.be/fr/match/fc-genappe-rrc-etterbeek-a-2026-11-29/
+URL:https://goalio.be/fr/match/fc-genappe-rrc-etterbeek-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-32293ef741@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Genappe – R. Union Lasne Ohain
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 16\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d8abf9af6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T154500Z
+SUMMARY:US Rebecquoise A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 17\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ebba34d932@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T154500Z
+SUMMARY:FC Genappe – RFC Orp-Noduwez A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 18\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f75173ff57@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:ROFC Stockel A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 19\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba7879423b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Genappe – RAS Saintoise A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 20\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0fd010c55c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:FC Suryoyés Bruxellois A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 21\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2d671fb6d0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:FC Genappe – RSD Jette B
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 22\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bd969b9174@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:R. La Hulpe SC. – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 23\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f6963c2f59@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:FC Genappe – Anderlecht Youth Talents
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 24\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea14a9a353@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T190000Z
+DTEND:20270313T204500Z
+SUMMARY:RU Auderghem A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 25\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ee41b587d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Genappe – R. US Ophain A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 26\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b14606c3ee@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T123000Z
+DTEND:20270404T141500Z
+SUMMARY:RRC Waterloo A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 27\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ac485108c7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R. Wavre Limal A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 28\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5479b582a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:FC Genappe – BX Brussels A
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 29\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b2eabe6ce5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:RRC Etterbeek A – FC Genappe
+DESCRIPTION:1re provinciale Brabant wallon-Bruxelles\nJournée 30\nhttps://
+ goalio.be/fr/equipe/fc-genappe/
+URL:https://goalio.be/fr/equipe/fc-genappe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

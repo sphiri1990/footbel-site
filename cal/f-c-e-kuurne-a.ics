@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C.E. Kuurne A · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-974a700e6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:K. Z. Dentergem 3-0 F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 10\nhttps://goalio.b
+ e/nl/wedstrijd/k-z-dentergem-f-c-e-kuurne-a-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/k-z-dentergem-f-c-e-kuurne-a-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-656d99b013@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:K. SKV Zwevezele 2-2 F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 11\nhttps://goalio.b
+ e/nl/wedstrijd/k-skv-zwevezele-f-c-e-kuurne-a-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/k-skv-zwevezele-f-c-e-kuurne-a-2026-11-0
+ 7/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-90df948b6b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T194500Z
+SUMMARY:F.C.E. Kuurne A 0-2 Jong Helkijn
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 12\nhttps://goalio.b
+ e/nl/wedstrijd/f-c-e-kuurne-a-jong-helkijn-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/f-c-e-kuurne-a-jong-helkijn-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ed4ce30804@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T194500Z
+SUMMARY:Jong Anzegem 1-1 F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 13\nhttps://goalio.b
+ e/nl/wedstrijd/jong-anzegem-f-c-e-kuurne-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/jong-anzegem-f-c-e-kuurne-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-68c279b4eb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T194500Z
+SUMMARY:F.C.E. Kuurne A – K. dNS Heule A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 14\nhttps://goalio.b
+ e/nl/wedstrijd/f-c-e-kuurne-a-k-dns-heule-a-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/f-c-e-kuurne-a-k-dns-heule-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edfdc38a68@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:KFC Doomkerke – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 15\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-50f87b6784@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T194500Z
+SUMMARY:F.C.E. Kuurne A – OG Stasegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 16\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5b3ca5ed3c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T180000Z
+DTEND:20270109T194500Z
+SUMMARY:Hulste Sp. – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 17\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3746410ea0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T170000Z
+DTEND:20270116T184500Z
+SUMMARY:Bl. Otegem – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 18\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d23344def7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T194500Z
+SUMMARY:F.C.E. Kuurne A – Jong Anzegem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 19\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7aceb4e19@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:K. dNS Heule A – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 20\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a12ca840fd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T194500Z
+SUMMARY:F.C.E. Kuurne A – SC Oostrozebeke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 21\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ffa9bf68f9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:WS Bellegem – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 22\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-289571b1e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T194500Z
+SUMMARY:F.C.E. Kuurne A – K. Z. Dentergem
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 23\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc9cc1c1ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T194500Z
+SUMMARY:F.C.E. Kuurne A – K. VC Deerlijk Sport
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 24\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc2f6b712e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T180000Z
+DTEND:20270313T194500Z
+SUMMARY:Dosko Kanegem – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 25\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6e8c5605d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T194500Z
+SUMMARY:F.C.E. Kuurne A – K. SKV Zwevezele
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 26\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0a835ae08f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T163000Z
+DTEND:20270403T181500Z
+SUMMARY:Jong Helkijn – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 27\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-17f87111d8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T184500Z
+SUMMARY:F.C.E. Kuurne A – KFC Doomkerke
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 28\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ff11ff6c6e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T184500Z
+SUMMARY:V.V. Tielt – F.C.E. Kuurne A
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 29\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4c09dfb5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:F.C.E. Kuurne A – KSV Kortrijk
+DESCRIPTION:3e provinciale West-Vlaanderen C\nSpeeldag 30\nhttps://goalio.b
+ e/nl/ploeg/f-c-e-kuurne-a/
+URL:https://goalio.be/nl/ploeg/f-c-e-kuurne-a/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:R.R.C. Mormont · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/r-r-c-mormont/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-ed6064e24d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:R.R.C. Mormont 6-0 R.S.C. Tilffois
+DESCRIPTION:D3 FFA B\nJournée 11\nhttps://goalio.be/fr/match/r-r-c-mormont
+ -r-s-c-tilffois-2026-11-01/
+URL:https://goalio.be/fr/match/r-r-c-mormont-r-s-c-tilffois-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-25e6759da2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:Et. Elsautoise 4-1 R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 12\nhttps://goalio.be/fr/match/et-elsautoise
+ -r-r-c-mormont-2026-11-08/
+URL:https://goalio.be/fr/match/et-elsautoise-r-r-c-mormont-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-04b1c3ec54@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:R.R.C. Mormont 1-2 R.C.S. Verlaine
+DESCRIPTION:D3 FFA B\nJournée 13\nhttps://goalio.be/fr/match/r-r-c-mormont
+ -r-c-s-verlaine-2026-11-15/
+URL:https://goalio.be/fr/match/r-r-c-mormont-r-c-s-verlaine-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-435e002393@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T204500Z
+SUMMARY:R.R.C. Longlier 1-2 R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 14\nhttps://goalio.be/fr/match/r-r-c-longlie
+ r-r-r-c-mormont-2026-11-21/
+URL:https://goalio.be/fr/match/r-r-c-longlier-r-r-c-mormont-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-019ee5effc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:R.R.C. Mormont – R.O.C. Meix Dt-Virton
+DESCRIPTION:D3 FFA B\nJournée 15\nhttps://goalio.be/fr/match/r-r-c-mormont
+ -r-o-c-meix-dt-virton-2026-11-29/
+URL:https://goalio.be/fr/match/r-r-c-mormont-r-o-c-meix-dt-virton-2026-11-2
+ 9/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec4d52c4a7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:R.R.C. Mormont – R.F.C. Malmundaria 1904
+DESCRIPTION:D3 FFA B\nJournée 16\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b0ef55844@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T204500Z
+SUMMARY:Royal Sprimont Banneux – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 17\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-74b0a0ad79@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.R.C. Mormont – R.F.C. Messancy
+DESCRIPTION:D3 FFA B\nJournée 18\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1775794a33@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:R.R.C. Mormont – Royal Sprimont Banneux
+DESCRIPTION:D3 FFA B\nJournée 2\nhttps://goalio.be/fr/equipe/r-r-c-mormont
+ /
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2a3e7241a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T190000Z
+DTEND:20270116T204500Z
+SUMMARY:R.C.S. Libramontois – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 19\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ba20488e60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:R.R.C. Mormont – R. Stade Waremmien F.C.
+DESCRIPTION:D3 FFA B\nJournée 20\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3e80316f7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:R.S.C. Habay La Neuve – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 21\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-55c2db8bac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:R.R.C. Mormont – F.C. Ans
+DESCRIPTION:D3 FFA B\nJournée 22\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-48d5b40d66@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:E.S.F.C. Du Geer – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 23\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dd407893da@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.R.C. Mormont – R. Union Momalloise
+DESCRIPTION:D3 FFA B\nJournée 24\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cba80a270a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:R. Aubel F.C. – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 25\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-00d300f413@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.S.C. Tilffois – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 26\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a6ae6d0566@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:R.R.C. Mormont – Et. Elsautoise
+DESCRIPTION:D3 FFA B\nJournée 27\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76a0ccdc4e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:R.C.S. Verlaine – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 28\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc9e8b4cc1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:R.R.C. Mormont – R.R.C. Longlier
+DESCRIPTION:D3 FFA B\nJournée 29\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7da7a8a482@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:R.O.C. Meix Dt-Virton – R.R.C. Mormont
+DESCRIPTION:D3 FFA B\nJournée 30\nhttps://goalio.be/fr/equipe/r-r-c-mormon
+ t/
+URL:https://goalio.be/fr/equipe/r-r-c-mormont/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

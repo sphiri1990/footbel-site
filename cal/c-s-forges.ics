@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:C.S. Forges · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/c-s-forges/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c0363ebfdc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:Renaissance US Grand-Reng 8-1 C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 11\nhttps://goalio.be/fr/mat
+ ch/renaissance-us-grand-reng-c-s-forges-2026-11-01/
+URL:https://goalio.be/fr/match/renaissance-us-grand-reng-c-s-forges-2026-11
+ -01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d588429d47@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:C.S. Forges 0-6 Royal Baileux Chimay Sport
+DESCRIPTION:4e provinciale Hainaut G\nJournée 12\nhttps://goalio.be/fr/mat
+ ch/c-s-forges-royal-baileux-chimay-sport-2026-11-08/
+URL:https://goalio.be/fr/match/c-s-forges-royal-baileux-chimay-sport-2026-1
+ 1-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4582b81215@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:U.S. Merbesars 10-1 C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 13\nhttps://goalio.be/fr/mat
+ ch/u-s-merbesars-c-s-forges-2026-11-15/
+URL:https://goalio.be/fr/match/u-s-merbesars-c-s-forges-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e01a46ada7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:C.S. Forges – Sivry Sports
+DESCRIPTION:4e provinciale Hainaut G\nJournée 14\nhttps://goalio.be/fr/mat
+ ch/c-s-forges-sivry-sports-2026-11-22/
+URL:https://goalio.be/fr/match/c-s-forges-sivry-sports-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7ce9f8795@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:F.C. Marbaisien – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 15\nhttps://goalio.be/fr/mat
+ ch/f-c-marbaisien-c-s-forges-2026-11-29/
+URL:https://goalio.be/fr/match/f-c-marbaisien-c-s-forges-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-26761ce265@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:C.S. Forges – R. Exc. Cl. Beaumontois
+DESCRIPTION:4e provinciale Hainaut G\nJournée 17\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3b8074b85e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261220T133000Z
+DTEND:20261220T151500Z
+SUMMARY:R.F.C. La Buissière – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 18\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c97024d505@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:C.S. Forges – J.S. Jamioulx B
+DESCRIPTION:4e provinciale Hainaut G\nJournée 19\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-72a34287a4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:F.C. Boussu-Lez-Walcourt – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 20\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c5e62c922f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:C.S. Forges – R.R.F.C. Gozee
+DESCRIPTION:4e provinciale Hainaut G\nJournée 21\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-506b2427a5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:Jeunesse Sportive Erpion – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 22\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0003dc3e3d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:C.S. Forges – J.S. Froidchapelloise B
+DESCRIPTION:4e provinciale Hainaut G\nJournée 23\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-76d04d5070@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T140000Z
+DTEND:20270228T154500Z
+SUMMARY:R.R.C. De Rance – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 24\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-aedc4c7fc0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:C.S. Forges – U.S. Solrezienne
+DESCRIPTION:4e provinciale Hainaut G\nJournée 25\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-069d47876a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:C.S. Forges – Renaissance US Grand-Reng
+DESCRIPTION:4e provinciale Hainaut G\nJournée 26\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-abb98388c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:Royal Baileux Chimay Sport – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 27\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d39eaab9a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:C.S. Forges – U.S. Merbesars
+DESCRIPTION:4e provinciale Hainaut G\nJournée 28\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ab2c836fbe@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:Sivry Sports – C.S. Forges
+DESCRIPTION:4e provinciale Hainaut G\nJournée 29\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f073c760be@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:C.S. Forges – F.C. Marbaisien
+DESCRIPTION:4e provinciale Hainaut G\nJournée 30\nhttps://goalio.be/fr/equ
+ ipe/c-s-forges/
+URL:https://goalio.be/fr/equipe/c-s-forges/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

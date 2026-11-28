@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Halthier B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/us-halthier-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-1b56c39ce1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:US Halthier B 1-3 RES Melreux-Hotton B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 11\nhttps://goalio.be/fr/
+ match/us-halthier-b-res-melreux-hotton-b-2026-11-01/
+URL:https://goalio.be/fr/match/us-halthier-b-res-melreux-hotton-b-2026-11-0
+ 1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-895589934a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:CS Odeigne 9-0 US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 12\nhttps://goalio.be/fr/
+ match/cs-odeigne-us-halthier-b-2026-11-08/
+URL:https://goalio.be/fr/match/cs-odeigne-us-halthier-b-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9ed53a26e4@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T133000Z
+DTEND:20261115T151500Z
+SUMMARY:US Halthier B 0-1 FC Montleban
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 13\nhttps://goalio.be/fr/
+ match/us-halthier-b-fc-montleban-2026-11-15/
+URL:https://goalio.be/fr/match/us-halthier-b-fc-montleban-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dbd5d05c91@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T191500Z
+SUMMARY:RE Roy-Lignières-Grimbiemont B – US Halthier B (remis)
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 14\nhttps://goalio.be/fr/
+ match/re-roy-lignieres-grimbiemont-b-us-halthier-b-2026-11-21/
+URL:https://goalio.be/fr/match/re-roy-lignieres-grimbiemont-b-us-halthier-b
+ -2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-168c7fdb45@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:US Halthier B – FC Petit-Han A
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 15\nhttps://goalio.be/fr/
+ match/us-halthier-b-fc-petit-han-a-2026-11-29/
+URL:https://goalio.be/fr/match/us-halthier-b-fc-petit-han-a-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc061e49b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:RJR Aye FC B – US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 16\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-14563cbb37@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:US Halthier B – RFC Houmartois
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 17\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f5e2dab8d1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:RSC Rendeux – US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 18\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3e9982c601@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:US Halthier B – ES Heydoise
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 19\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f3d78af92b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:US Halthier B – UF Waha-Marche
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 21\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-733c89379a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:R.C.S. De La Salm – US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 22\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24d1b79198@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:US Halthier B – ES Harre-Manhay B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 23\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-956bd1dcbc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T160000Z
+DTEND:20270410T174500Z
+SUMMARY:RES Melreux-Hotton B – US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 24\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6ef55283d7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:US Halthier B – CS Odeigne
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 25\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-80c048c4c3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Montleban – US Halthier B
+DESCRIPTION:3e provinciale Luxembourg E\nJournée 26\nhttps://goalio.be/fr/
+ equipe/us-halthier-b/
+URL:https://goalio.be/fr/equipe/us-halthier-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

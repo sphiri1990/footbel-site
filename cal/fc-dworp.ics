@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Dworp · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/fc-dworp/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-63bf7503a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T154500Z
+SUMMARY:FC Dworp 2-1 Leeuw Brucom B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/fc-dworp-leeuw-brucom-b-2026-11-01/
+URL:https://goalio.be/fr/match/fc-dworp-leeuw-brucom-b-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fc64c2ea9c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:KFC Av. Lembeek A 2-1 FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/kfc-av-lembeek-a-fc-dworp-2026-11-08/
+URL:https://goalio.be/fr/match/kfc-av-lembeek-a-fc-dworp-2026-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c8f38457fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Dworp 2-2 L. Teralfene B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-dworp-l-teralfene-b-2026-11-15/
+URL:https://goalio.be/fr/match/fc-dworp-l-teralfene-b-2026-11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d78091425c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:FC Dworp 1-2 Ritterklub Jette A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/fc-dworp-ritterklub-jette-a-2026-11-22/
+URL:https://goalio.be/fr/match/fc-dworp-ritterklub-jette-a-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-339efb7b56@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:NOVA Asse-Mollem B – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/nova-asse-mollem-b-fc-dworp-2026-11-28/
+URL:https://goalio.be/fr/match/nova-asse-mollem-b-fc-dworp-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-724dfc1c58@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T140000Z
+DTEND:20261206T154500Z
+SUMMARY:FC Dworp – KVC Asse-Terheide A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-484affc2bb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:Emi. Essene A – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea94d88164@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T154500Z
+SUMMARY:FC Dworp – KV Zuun A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7c11ff19e5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270117T140000Z
+DTEND:20270117T154500Z
+SUMMARY:SK Oetingen VC A – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-07763c5c9b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T154500Z
+SUMMARY:FC Dworp – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b5d426a463@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T191500Z
+DTEND:20270130T210000Z
+SUMMARY:Ritterklub Jette A – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-512e99453d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:L. Teralfene B – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9b1c0124d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:FC Dworp – KFC Av. Lembeek A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a44592a988@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T190000Z
+DTEND:20270227T204500Z
+SUMMARY:Leeuw Brucom B – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-60949d609d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:FC Dworp – VK Borchtlombeek A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ec952af396@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:VC Groot-Dilbeek A – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-562159b974@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:FC Dworp – NOVA Asse-Mollem B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-97af79b537@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:KFC Wambeek Ternat B – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b4a7648dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Dworp – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-3d48ca6094@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270418T130000Z
+DTEND:20270418T144500Z
+SUMMARY:KVC Asse-Terheide A – FC Dworp
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-42f89c0985@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Dworp – KVK Wemmel B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/fc-dworp/
+URL:https://goalio.be/fr/equipe/fc-dworp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

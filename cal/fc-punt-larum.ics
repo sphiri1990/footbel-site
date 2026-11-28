@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Punt-Larum · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/fc-punt-larum/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-c42f191be9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261101T133000Z
+DTEND:20261101T151500Z
+SUMMARY:KFC Ranst A 3-0 FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/kfc-ranst-a-fc-punt-larum-2026-11-01/
+URL:https://goalio.be/nl/wedstrijd/kfc-ranst-a-fc-punt-larum-2026-11-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-471dff9ac2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T154500Z
+SUMMARY:FC Punt-Larum 0-1 Football Club Duffel A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/fc-punt-larum-football-club-duffel-a-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/fc-punt-larum-football-club-duffel-a-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0235e81ae@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T204500Z
+SUMMARY:K. Kontich FC A 3-0 FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/k-kontich-fc-a-fc-punt-larum-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/k-kontich-fc-a-fc-punt-larum-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-23f812ce98@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:FC Punt-Larum 2-4 K. Sp. Tisselt A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/fc-punt-larum-k-sp-tisselt-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/fc-punt-larum-k-sp-tisselt-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-631fc76148@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T183000Z
+DTEND:20261128T201500Z
+SUMMARY:KFC Zwarte Leeuw A – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/kfc-zwarte-leeuw-a-fc-punt-larum-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kfc-zwarte-leeuw-a-fc-punt-larum-2026-11
+ -28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4cad4d7859@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:FC Punt-Larum – KFC Antonia A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ce02e0992a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:RVC Hoboken – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d29c51360@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:FC Punt-Larum – TOR Deurne Pirates
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 17\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c2e10f99c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270115T190000Z
+DTEND:20270115T204500Z
+SUMMARY:FC Wezel Sport B – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-22f465f8aa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270124T133000Z
+DTEND:20270124T151500Z
+SUMMARY:K. Bevel FC – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-edffca410c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:FC Punt-Larum – KFC Zwarte Leeuw A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c10bc4837d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T154500Z
+SUMMARY:SV Aartselaar A – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3f693aa2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:FC Punt-Larum – KFC Berlaar-Heikant A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1db4135721@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270228T133000Z
+DTEND:20270228T151500Z
+SUMMARY:Football Club Duffel A – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5994d0c9f6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:FC Punt-Larum – K. Zandhoven SK A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-64f213662d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:KFC Antonia A – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-396225d666@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FC Punt-Larum – K.B.S.K. Retie
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0ab326e82@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270404T130000Z
+DTEND:20270404T144500Z
+SUMMARY:K. Sp. Tisselt A – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-02f43ec112@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:FC Punt-Larum – KFC Ranst A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4eeacd7468@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:K Witgoor Sp Dessel A – FC Punt-Larum
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5cc923c75c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:FC Punt-Larum – K. Kontich FC A
+DESCRIPTION:1e provinciale Antwerpen\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/fc-punt-larum/
+URL:https://goalio.be/nl/ploeg/fc-punt-larum/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

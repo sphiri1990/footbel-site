@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BOKA United B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/boka-united-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-118b8ff1ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T184500Z
+DTEND:20261031T203000Z
+SUMMARY:BOKA United B 3-1 VK Borchtlombeek A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 10\nhttps://goalio.b
+ e/fr/match/boka-united-b-vk-borchtlombeek-a-2026-10-31/
+URL:https://goalio.be/fr/match/boka-united-b-vk-borchtlombeek-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-fab1adbaef@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T191500Z
+DTEND:20261107T210000Z
+SUMMARY:Ritterklub Jette A 1-0 BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/ritterklub-jette-a-boka-united-b-2026-11-07/
+URL:https://goalio.be/fr/match/ritterklub-jette-a-boka-united-b-2026-11-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1eccde3922@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T184500Z
+DTEND:20261114T203000Z
+SUMMARY:BOKA United B 3-1 VC Groot-Dilbeek A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/boka-united-b-vc-groot-dilbeek-a-2026-11-14/
+URL:https://goalio.be/fr/match/boka-united-b-vc-groot-dilbeek-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-910cfcafa3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T154500Z
+SUMMARY:L. Teralfene B – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/l-teralfene-b-boka-united-b-2026-11-22/
+URL:https://goalio.be/fr/match/l-teralfene-b-boka-united-b-2026-11-22/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e6fb2a36e3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T184500Z
+DTEND:20261128T203000Z
+SUMMARY:BOKA United B – Emi. Essene A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 14\nhttps://goalio.b
+ e/fr/match/boka-united-b-emi-essene-a-2026-11-28/
+URL:https://goalio.be/fr/match/boka-united-b-emi-essene-a-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-263faa91a6@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261206T133000Z
+DTEND:20261206T151500Z
+SUMMARY:KFC Av. Lembeek A – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c6a6519347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T184500Z
+DTEND:20261212T203000Z
+SUMMARY:BOKA United B – KFC Wambeek Ternat B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-49064f84c8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270110T133000Z
+DTEND:20270110T151500Z
+SUMMARY:KVC Asse-Terheide A – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2279765003@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T184500Z
+DTEND:20270116T203000Z
+SUMMARY:BOKA United B – Ritterklub Jette A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-347f70cdfa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T184500Z
+DTEND:20270123T203000Z
+SUMMARY:BOKA United B – L. Teralfene B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-86a4c59bb8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T154500Z
+SUMMARY:KVK Wemmel B – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4a0d6d1254@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T184500Z
+DTEND:20270213T203000Z
+SUMMARY:BOKA United B – KFC Rhodienne-De Hoek B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 21\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-79a375d068@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270221T140000Z
+DTEND:20270221T154500Z
+SUMMARY:VC Groot-Dilbeek A – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-24b462318c@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T184500Z
+DTEND:20270227T203000Z
+SUMMARY:BOKA United B – SK Oetingen VC A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5104cc53fa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:KV Zuun A – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-82b19f7d20@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T184500Z
+DTEND:20270313T203000Z
+SUMMARY:BOKA United B – Leeuw Brucom B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-823b62051e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:Emi. Essene A – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e9d8e01a8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T174500Z
+DTEND:20270403T193000Z
+SUMMARY:BOKA United B – KFC Av. Lembeek A
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-9b4a7648dd@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T144500Z
+SUMMARY:FC Dworp – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-8d3c5d3108@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T174500Z
+DTEND:20270417T193000Z
+SUMMARY:BOKA United B – NOVA Asse-Mollem B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d7bdb79e48@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:VK Borchtlombeek A – BOKA United B
+DESCRIPTION:3e provinciale Brabant flamand A\nJournée 30\nhttps://goalio.b
+ e/fr/equipe/boka-united-b/
+URL:https://goalio.be/fr/equipe/boka-united-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

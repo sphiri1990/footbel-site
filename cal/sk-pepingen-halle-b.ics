@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Pepingen-Halle B · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-b3fb5f0552@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:SK Pepingen-Halle B 2-1 KFC MZ Tollembeek
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 11\nhttps://goalio.b
+ e/fr/match/sk-pepingen-halle-b-kfc-mz-tollembeek-2026-11-07/
+URL:https://goalio.be/fr/match/sk-pepingen-halle-b-kfc-mz-tollembeek-2026-1
+ 1-07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-61c5d18b74@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:FC Negenmanneke 1-1 SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 12\nhttps://goalio.b
+ e/fr/match/fc-negenmanneke-sk-pepingen-halle-b-2026-11-15/
+URL:https://goalio.be/fr/match/fc-negenmanneke-sk-pepingen-halle-b-2026-11-
+ 15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03576a12ac@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:SK Pepingen-Halle B 3-0 KFC Lennik B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 13\nhttps://goalio.b
+ e/fr/match/sk-pepingen-halle-b-kfc-lennik-b-2026-11-21/
+URL:https://goalio.be/fr/match/sk-pepingen-halle-b-kfc-lennik-b-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dceade0de2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:SK Pepingen-Halle B – KV Zuun B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 15\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e5b257d80e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T201500Z
+SUMMARY:SK Pepingen-Halle B – KFC Av. Lembeek B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 16\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-38b10873d2@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T190000Z
+DTEND:20270109T204500Z
+SUMMARY:KVC Linkebeek – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 17\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5d1ecb0f78@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T193000Z
+DTEND:20270116T211500Z
+SUMMARY:KVV Kester-Gooik B – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 18\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b271fc7ea7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:SK Pepingen-Halle B – SK Oetingen VC B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 19\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-78df43194f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:KHO Huizingen B – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 20\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0e4315d2b7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KV Zuun B – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 22\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-f0c23f9e87@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:SK Pepingen-Halle B – S.K. Beersel
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 23\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-12e04faaaa@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:SK Vlezenbeek – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 24\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-de4030545f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:SK Pepingen-Halle B – FC Herne B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 25\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-5bdedde92b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:FC Galmaarden B – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 26\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-e1ab2bc3c1@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:SK Pepingen-Halle B – FC Negenmanneke
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 27\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d0309e09d9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KFC MZ Tollembeek – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 28\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ea2086e334@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T163000Z
+DTEND:20270417T181500Z
+SUMMARY:KFC Lennik B – SK Pepingen-Halle B
+DESCRIPTION:4e provinciale Brabant flamand A\nJournée 29\nhttps://goalio.b
+ e/fr/equipe/sk-pepingen-halle-b/
+URL:https://goalio.be/fr/equipe/sk-pepingen-halle-b/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

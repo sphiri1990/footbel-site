@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Alken United · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/f-c-alken-united/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f3b15c6129@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:F.C. Alken United 2-1 Fl. Termolen
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 10\nhttps://goalio.be/nl/wed
+ strijd/f-c-alken-united-fl-termolen-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/f-c-alken-united-fl-termolen-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1b51b77493@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T151500Z
+SUMMARY:F.C. Habo-Borgloon B 0-3 F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 11\nhttps://goalio.be/nl/wed
+ strijd/f-c-habo-borgloon-b-f-c-alken-united-2026-11-08/
+URL:https://goalio.be/nl/wedstrijd/f-c-habo-borgloon-b-f-c-alken-united-202
+ 6-11-08/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a446bc337d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T154500Z
+SUMMARY:F.C. Alken United 0-2 Daring Huvo Jeuk B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 12\nhttps://goalio.be/nl/wed
+ strijd/f-c-alken-united-daring-huvo-jeuk-b-2026-11-15/
+URL:https://goalio.be/nl/wedstrijd/f-c-alken-united-daring-huvo-jeuk-b-2026
+ -11-15/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6cc8b605b0@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:F.C. Alken United 2-0 KVV Zepperen-Brustem B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 13\nhttps://goalio.be/nl/wed
+ strijd/f-c-alken-united-kvv-zepperen-brustem-b-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/f-c-alken-united-kvv-zepperen-brustem-b-
+ 2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-039ad104bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261129T133000Z
+DTEND:20261129T151500Z
+SUMMARY:FC Landen B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 14\nhttps://goalio.be/nl/wed
+ strijd/fc-landen-b-f-c-alken-united-2026-11-29/
+URL:https://goalio.be/nl/wedstrijd/fc-landen-b-f-c-alken-united-2026-11-29/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-01f0fb43bc@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:F.C. Alken United – HIH Hoepertingen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 15\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1c9354ed17@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Heers VV – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 16\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c7ef6a57fb@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:F.C. Alken United – K. Velm VV B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 18\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-16ecda85a3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:F.C. Alken United – FC Alken
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 19\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b9f694d84a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T183000Z
+DTEND:20270130T201500Z
+SUMMARY:Juve Hasselt B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 20\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-c42ab0cd5b@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T183000Z
+DTEND:20270213T201500Z
+SUMMARY:F.C. Alken United – FC Landen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 21\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-2b882525d3@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:FC Diepenbeek B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 22\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a223ad5b5f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T183000Z
+DTEND:20270227T201500Z
+SUMMARY:F.C. Alken United – F.C. Habo-Borgloon B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 23\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-69bac181bf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270307T140000Z
+DTEND:20270307T154500Z
+SUMMARY:Daring Huvo Jeuk B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 24\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-876cf8e1ff@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T201500Z
+SUMMARY:F.C. Alken United – Sp. Aalst
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 25\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-bec485890f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T154500Z
+SUMMARY:KVV Zepperen-Brustem B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 26\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-dc4905950a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T173000Z
+DTEND:20270403T191500Z
+SUMMARY:F.C. Alken United – Herk Sport B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 27\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-75b96465e7@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:HIH Hoepertingen B – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 28\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-705119187d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T173000Z
+DTEND:20270417T191500Z
+SUMMARY:F.C. Alken United – JB Eigenbilzen B
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 29\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-1a3e3c6633@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:Fl. Termolen – F.C. Alken United
+DESCRIPTION:4e provinciale Limburg A\nSpeeldag 30\nhttps://goalio.be/nl/plo
+ eg/f-c-alken-united/
+URL:https://goalio.be/nl/ploeg/f-c-alken-united/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

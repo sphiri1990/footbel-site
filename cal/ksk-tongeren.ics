@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Goalio//Calendrier d'equipe//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KSK Tongeren · Goalio
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:https://goalio.be/nl/ploeg/ksk-tongeren/
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:m-f62fed45c9@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261031T183000Z
+DTEND:20261031T201500Z
+SUMMARY:KSK Tongeren 3-4 Sp. Rotselaar A
+DESCRIPTION:D2 VV B\nSpeeldag 10\nhttps://goalio.be/nl/wedstrijd/ksk-tonger
+ en-sp-rotselaar-a-2026-10-31/
+URL:https://goalio.be/nl/wedstrijd/ksk-tongeren-sp-rotselaar-a-2026-10-31/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-03545ead0f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T201500Z
+SUMMARY:KFC De Kempen TL A 0-2 KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 11\nhttps://goalio.be/nl/wedstrijd/kfc-de-kem
+ pen-tl-a-ksk-tongeren-2026-11-07/
+URL:https://goalio.be/nl/wedstrijd/kfc-de-kempen-tl-a-ksk-tongeren-2026-11-
+ 07/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d1d20578f5@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261114T183000Z
+DTEND:20261114T201500Z
+SUMMARY:KSK Tongeren 1-2 KVC Wilrijk A
+DESCRIPTION:D2 VV B\nSpeeldag 12\nhttps://goalio.be/nl/wedstrijd/ksk-tonger
+ en-kvc-wilrijk-a-2026-11-14/
+URL:https://goalio.be/nl/wedstrijd/ksk-tongeren-kvc-wilrijk-a-2026-11-14/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-7e86d497f8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T201500Z
+SUMMARY:KSK Tongeren 1-1 KFC Nijlen A
+DESCRIPTION:D2 VV B\nSpeeldag 13\nhttps://goalio.be/nl/wedstrijd/ksk-tonger
+ en-kfc-nijlen-a-2026-11-21/
+URL:https://goalio.be/nl/wedstrijd/ksk-tongeren-kfc-nijlen-a-2026-11-21/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a4a24cd299@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261128T190000Z
+DTEND:20261128T204500Z
+SUMMARY:KVK Wellen – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 14\nhttps://goalio.be/nl/wedstrijd/kvk-wellen
+ -ksk-tongeren-2026-11-28/
+URL:https://goalio.be/nl/wedstrijd/kvk-wellen-ksk-tongeren-2026-11-28/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-198910f078@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T201500Z
+SUMMARY:KSK Tongeren – R. Antwerp FC B
+DESCRIPTION:D2 VV B\nSpeeldag 15\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-401b6e2a88@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20261213T133000Z
+DTEND:20261213T151500Z
+SUMMARY:Rupel-Boom A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 16\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d607549108@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T201500Z
+SUMMARY:KSK Tongeren – Tempo Overijse
+DESCRIPTION:D2 VV B\nSpeeldag 17\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0dfafe694f@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T201500Z
+SUMMARY:RC Hades Kiewit A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 18\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-0667164909@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T201500Z
+SUMMARY:KSK Tongeren – K. Diegem Sport
+DESCRIPTION:D2 VV B\nSpeeldag 19\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a767b5e12a@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T204500Z
+SUMMARY:KFC Nijlen A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 20\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-ceed6673ba@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T204500Z
+SUMMARY:KVC Wilrijk A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 21\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4948bc3fdf@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T201500Z
+SUMMARY:KSK Tongeren – KFC De Kempen TL A
+DESCRIPTION:D2 VV B\nSpeeldag 22\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-523ee2ce2d@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270227T191500Z
+DTEND:20270227T210000Z
+SUMMARY:Sp. Rotselaar A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 23\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6875be2483@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270306T183000Z
+DTEND:20270306T201500Z
+SUMMARY:KSK Tongeren – K. St.-Truidense V.V. B
+DESCRIPTION:D2 VV B\nSpeeldag 24\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d2ddea6ead@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T154500Z
+SUMMARY:E. Termien – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 25\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-b0b6e67c60@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T201500Z
+SUMMARY:KSK Tongeren – KVK Wellen
+DESCRIPTION:D2 VV B\nSpeeldag 26\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-6d6269976e@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270403T181500Z
+DTEND:20270403T200000Z
+SUMMARY:R. Cappellen FC A – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 27\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-4d5dc4b347@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270410T173000Z
+DTEND:20270410T191500Z
+SUMMARY:KSK Tongeren – Bocholter V.V. A
+DESCRIPTION:D2 VV B\nSpeeldag 28\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-cfeca79fd8@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270417T163000Z
+DTEND:20270417T181500Z
+SUMMARY:R. Antwerp FC B – KSK Tongeren
+DESCRIPTION:D2 VV B\nSpeeldag 29\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:m-d3bf1c0dda@goalio.be
+DTSTAMP:20260701T000000Z
+DTSTART:20270425T130000Z
+DTEND:20270425T144500Z
+SUMMARY:KSK Tongeren – K. RC Mechelen
+DESCRIPTION:D2 VV B\nSpeeldag 30\nhttps://goalio.be/nl/ploeg/ksk-tongeren/
+URL:https://goalio.be/nl/ploeg/ksk-tongeren/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
